@@ -1,0 +1,67 @@
+{
+  "schedule": "每天 20:30（北京时间；本机 Codex 定时核验，非 GitHub 云端全量抓取）",
+  "rules": [
+    "搜索结果只是发现线索；先检查域名、标题和主题相关性，再核验原文。",
+    "公众号文章未核验发布账号、发布时间或遇验证码时，只能作为 lead；不冒充已读原文。",
+    "禁止绕过登录、验证码、付费墙；不得用转载或缓存来规避原站验证。",
+    "招聘报价不是实际收入；保留币种、周期、税前税后、补助包含关系、职级和观察时间。",
+    "未明确的日期和薪酬周期保留未知，不从职位编号或网址推断发布日期。",
+    "付费订阅不自动等于 API 授权或公开再分发许可。专业库数据不得写入公开 data/。"
+  ],
+  "groups": [
+    {
+      "id": "wechat",
+      "name": "公众号公开文章",
+      "source_id": "wechat-public",
+      "queries": [
+        "site:mp.weixin.qq.com BioArt CRISPR 蛋白 细胞",
+        "site:mp.weixin.qq.com iNature 基因编辑 合成生物",
+        "site:mp.weixin.qq.com 奇点网 细胞治疗",
+        "site:zhishifenzi.com 生物 基因 编辑",
+        "site:biodiscover.com 合成生物 蛋白"
+      ],
+      "allowed_hosts": ["mp.weixin.qq.com", "www.zhishifenzi.com", "zhishifenzi.com", "www.biodiscover.com", "biodiscover.com"],
+      "limit": 8,
+      "coverage": "关键词公开索引，不是公众号全历史或全量订阅"
+    },
+    {
+      "id": "cn-jobs",
+      "name": "国内公开岗位",
+      "queries": [
+        "site:michaelpage.com.cn/jobs 生命科学 医疗 制药",
+        "site:liepin.com/job 生物信息 蛋白 研发",
+        "site:jobmd.cn 生物 研发 薪资",
+        "site:sustech.edu.cn 生物 药物 博士后 年薪",
+        "site:westlake.edu.cn/careers 蛋白 设计 博士后"
+      ],
+      "entry_urls": [
+        "https://www.michaelpage.com.cn/jobs/%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/healthcare-pharmaceutical",
+        "https://faculty.sustech.edu.cn/?cat=11&go=2&iscss=1&snapid=1&tagid=zhangxm"
+      ],
+      "limit": 10,
+      "coverage": "公开招聘样本；不外推到应届薪资、行业均值或实际到手收入"
+    },
+    {
+      "id": "cn-salary-reports",
+      "name": "薪酬报告与原始口径",
+      "queries": [
+        "site:careerintlinc.com 生物医药 薪酬 2026",
+        "site:hays-china.cn 薪酬指南 生命科学",
+        "site:michaelpage.com.cn 薪酬指南 生命科学"
+      ],
+      "entry_urls": ["https://www.careerintlinc.com/report/3168.html"],
+      "limit": 3,
+      "coverage": "优先正式发布者；摘要没有写明周期、地区或税口径时不进行工资换算"
+    },
+    {
+      "id": "licensed",
+      "name": "专业数据库授权核查",
+      "entry_urls": [
+        "https://db.dxy.cn/v5/home/open",
+        "https://db.dxy.cn/v5/home/document",
+        "https://www.pharmcube.com/"
+      ],
+      "coverage": "仅核查官方产品和授权方式；未授权不调用专业接口，不采集付费内容"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "checked_at": "2026-11-14T23:02:53+08:00",
+  "schedule": "每天20:30 · 本机Codex核验",
+  "cn_job_count": 8,
+  "cn_salary_count": 7,
+  "report_count": 1,
+  "wechat_lead_count": 1,
+  "cards": [
+    {
+      "title": "公众号公开文章",
+      "status": "公开检索 / 原文待验证",
+      "description": "已加入定时公开检索；本次原文遇滑块，只收录1条未核验线索，不当作已读文章或全量订阅。",
+      "href": "#library?kind=lead"
+    },
+    {
+      "title": "付费专业数据库",
+      "status": "已找到官方接口 / 待授权",
+      "description": "Insight 官方文档可读，调用需平台发放凭据。订阅、API权限、额度和公开再分发许可须分别确认，当前没有调用付费接口。",
+      "href": "https://db.dxy.cn/v5/home/document"
+    },
+    {
+      "title": "国内岗位与薪酬",
+      "status": "已核验公开样本 / 定时补充",
+      "description": "新增8个国内岗位、1条报告解读；保留职级、币种、周期及补助口径。样本偏资深与高校，不代表行业平均或到手收入。",
+      "href": "#library/career?market=CN&sort=seen"
+    }
+  ],
+  "notes": [
+    "Michael Page 列表显示64个职位，核对了前12条列表信息并选择5条中国岗位；不代表逐一核验64条完整JD。",
+    "一条跨度15倍的薪酬区间待二次确认，未作为可比薪酬样本入库。",
+    "没有将 International 地区职位因人民币计价而误标为中国岗位。",
+    "Bing RSS 检索试验返回大量不相关结果，未接入生产采集。"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T22:23:44+08:00",
+  "generated_at": "2026-11-14T23:07:46+08:00",
   "semantics": "mention-only; not causal, partnership or maturity evidence",
   "nodes": [
     {
@@ -16,7 +16,7 @@
         "先导编辑"
       ],
       "note": "关注编辑精度、递送方式、脱靶及长期随访。体外结果不能直接外推到临床。",
-      "count": 42
+      "count": 43
     },
     {
       "id": "protein",
@@ -245,7 +245,7 @@
         "薪酬"
       ],
       "note": "薪资保留原币种、周期与适用地区；招聘报价不是实际收入，匿名爆料不作薪资事实。",
-      "count": 102
+      "count": 111
     }
   ],
   "edges": [
@@ -3262,6 +3262,56 @@
     {
       "source": "regulation",
       "target": "40b81efc334a1fb9",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "b98c36f03d55fb76",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "a641f741ed09b785",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "8d522e3e2f65aba5",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "861381e51525a932",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "80ed748a79896583",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "7e9a5b190df18fda",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "5bab769c749bd2d6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "217c8233ad66081c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "0a11ddeccb667703",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "0429cd859445ac29",
       "relation": "mentioned_in"
     }
   ]

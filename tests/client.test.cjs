@@ -7,7 +7,7 @@ const nodes=new Map();
 function el(){return {innerHTML:'',textContent:'',open:false,classList:{add(){},remove(){},toggle(){}},showModal(){this.open=true},setAttribute(){},querySelectorAll(){return []}}}
 const storage=new Map();
 const ctx=vm.createContext({console,URL,URLSearchParams,Blob,Set,Date,Intl,Number,String,JSON,Math,Promise,setTimeout:()=>0,clearTimeout(){},location:{hash:'#library',href:'https://example.org/#library'},localStorage:{getItem:k=>storage.get(k)||null,setItem:(k,v)=>storage.set(k,v)},window:{},document:{addEventListener(){},querySelector(s){if(!nodes.has(s))nodes.set(s,el());return nodes.get(s)},querySelectorAll(){return []}}});
-for(const f of ['app.js','views.js'])vm.runInContext(readFileSync(join(__dirname,'../assets',f),'utf8'),ctx,{filename:f});
+for(const f of ['app.js','views.js','cn.js'])vm.runInContext(readFileSync(join(__dirname,'../assets',f),'utf8'),ctx,{filename:f});
 vm.runInContext(`
 state.topics=[{id:'editing',name:'基因编辑',english:'Editing',kind:'技术',note:'Test note'},{id:'protein',name:'AI 蛋白质设计',english:'Protein design',kind:'技术',note:'Test note'}];
 state.sources=[{id:'example',name:'Example',mode:'auto',category:'research',url:'https://example.org/'}];
@@ -21,6 +21,7 @@ state.editorial={annotations:{'1':{title_zh:'中文基因编辑',summary:'中文
 `,ctx);
 const run=code=>vm.runInContext(code,ctx);
 assert.equal(run('filtered().length'),3);
+run("state.items[1].market='CN';state.filter.market='CN'");assert.equal(run('filtered().length'),1);assert.equal(run("evidence(state.items[1])"),'中国招聘报价样本');run("state.filter.market='all'");assert.equal(run("evidence({kind:'lead'})"),'检索线索 · 未核验');assert(run('cnSalaryLine(state.items[1])').includes('公开报价 · 非到手'));assert(run("cnSalaryLine({market:'CN',kind:'job',salary:''})").includes('未披露，不估算'));
 assert.equal(run("state.filter.q='基因编辑'; filtered().length"),1);
 assert.equal(run("state.filter.q='';state.filter.salary=true;filtered()[0].id"),'2');
 assert.equal(run("state.filter.salary=false;state.filter.kind='preprint';filtered().length"),1);

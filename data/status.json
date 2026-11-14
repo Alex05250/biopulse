@@ -202,5 +202,53 @@
     },
     "error": "",
     "last_success": "2026-11-14T22:23:44+08:00"
+  },
+  {
+    "source_id": "sustech-zhangxm",
+    "state": "reviewed",
+    "checked_at": "2026-11-14T23:02:53+08:00",
+    "last_success": "2026-11-14T23:02:53+08:00",
+    "count": 3,
+    "error": "",
+    "coverage": {
+      "sampled": true,
+      "note": "官方教师招聘页已核验；高校科研序列与博士后样本，不代表药企或全行业薪资。保留含补助与税前口径，发布时间未提供则留空。"
+    }
+  },
+  {
+    "source_id": "page",
+    "state": "reviewed",
+    "checked_at": "2026-11-14T23:02:53+08:00",
+    "last_success": "2026-11-14T23:02:53+08:00",
+    "count": 5,
+    "error": "",
+    "coverage": {
+      "sampled": true,
+      "note": "公开列表已核验，可读取部分中国岗位与人民币年薪；未发现页面提供 RSS。由 20:30 本机定时核验补充，不是云端全量抓取。客户未具名时不推断公司；列表仍显示不保证仍有空缺。"
+    }
+  },
+  {
+    "source_id": "careerintl",
+    "state": "reviewed",
+    "checked_at": "2026-11-14T23:02:53+08:00",
+    "last_success": "2026-11-14T23:02:53+08:00",
+    "count": 1,
+    "error": "",
+    "coverage": {
+      "sampled": true,
+      "note": "官方公开报告解读已核验。报告参考区间不等于真实工资；摘要未明确的周期、地区和税口径保留未知，不自行推算年薪。"
+    }
+  },
+  {
+    "source_id": "wechat-public",
+    "state": "attention",
+    "checked_at": "2026-11-14T23:02:53+08:00",
+    "last_success": null,
+    "count": 1,
+    "error": "微信滑块验证：未自动处理，仅检索线索。",
+    "coverage": {
+      "sampled": true,
+      "note": "按关键词定时发现公开文章链接。当前测试文章遇微信滑块，未读正文、未核验账号与发布时间，只收录 lead；不绕过验证码，不代表全量订阅。"
+    }
   }
 ]

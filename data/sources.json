@@ -182,10 +182,10 @@
     "id": "bioart",
     "name": "BioArt",
     "category": "research",
-    "url": "https://www.bioart.cn/",
+    "url": "https://mp.weixin.qq.com/",
     "mode": "manual",
     "adapter": null,
-    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+    "note": "公众号目录，不把未经核实的同名独立域名当作官方站。公开文章检索归 wechat-public，须逐篇核验账号与发布时间。"
   },
   {
     "id": "singularity",
@@ -218,10 +218,10 @@
     "id": "inature",
     "name": "iNature",
     "category": "research",
-    "url": "https://www.inature.com/",
+    "url": "https://mp.weixin.qq.com/",
     "mode": "manual",
     "adapter": null,
-    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+    "note": "公众号目录；独立站归属未核实。公开文章须逐篇核验发布账号和原始论文。"
   },
   {
     "id": "bioskill",
@@ -275,16 +275,17 @@
     "url": "https://www.pharmcube.com/",
     "mode": "paid",
     "adapter": null,
-    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+    "note": "专业数据库尚未授权连接；不能把可公开阅读的资讯与 NextPharma 结构化专业库混为一谈。需分别确认 API/Data Feed 权限与可公开字段。"
   },
   {
     "id": "insight",
     "name": "丁香园 Insight",
     "category": "industry",
-    "url": "https://db.dxy.cn/",
+    "url": "https://db.dxy.cn/v5/home/open",
     "mode": "paid",
     "adapter": null,
-    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+    "note": "官方 API 文档已读：需平台发放 App ID 与 SecretKey，并按文档签名。普通订阅是否含 API、额度和公开再分发权限须另行确认；尚未授权联调。",
+    "docs_url": "https://db.dxy.cn/v5/home/document"
   },
   {
     "id": "yaozh",
@@ -587,19 +588,19 @@
     "id": "careerintl",
     "name": "科锐国际 · 薪酬报告",
     "category": "career",
-    "url": "https://www.careerintlinc.com/",
-    "mode": "manual",
+    "url": "https://www.careerintlinc.com/report/3168.html",
+    "mode": "review",
     "adapter": null,
-    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+    "note": "官方公开报告解读已核验。报告参考区间不等于真实工资；摘要未明确的周期、地区和税口径保留未知，不自行推算年薪。"
   },
   {
     "id": "page",
-    "name": "Michael Page · 薪酬报告",
+    "name": "Michael Page · 中国公开岗位",
     "category": "career",
-    "url": "https://www.michaelpage.com.cn/",
-    "mode": "manual",
+    "url": "https://www.michaelpage.com.cn/jobs/%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/healthcare-pharmaceutical",
+    "mode": "review",
     "adapter": null,
-    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+    "note": "公开列表已核验，可读取部分中国岗位与人民币年薪；未发现页面提供 RSS。由 20:30 本机定时核验补充，不是云端全量抓取。客户未具名时不推断公司；列表仍显示不保证仍有空缺。"
   },
   {
     "id": "hays",
@@ -672,5 +673,23 @@
     "mode": "manual",
     "adapter": null,
     "note": "法规基底资料；经原文核对后人工整理，不代表每日自动采集。"
+  },
+  {
+    "id": "sustech-zhangxm",
+    "name": "南方科技大学 · 官方科研岗位",
+    "category": "career",
+    "mode": "review",
+    "adapter": null,
+    "url": "https://faculty.sustech.edu.cn/?cat=11&go=2&iscss=1&snapid=1&tagid=zhangxm",
+    "note": "官方教师招聘页已核验；高校科研序列与博士后样本，不代表药企或全行业薪资。保留含补助与税前口径，发布时间未提供则留空。"
+  },
+  {
+    "id": "wechat-public",
+    "name": "公众号 · 公开检索线索",
+    "category": "research",
+    "mode": "review",
+    "adapter": null,
+    "url": "https://mp.weixin.qq.com/",
+    "note": "按关键词定时发现公开文章链接。当前测试文章遇微信滑块，未读正文、未核验账号与发布时间，只收录 lead；不绕过验证码，不代表全量订阅。"
   }
 ]

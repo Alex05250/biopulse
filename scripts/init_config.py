@@ -62,3 +62,5 @@ if not (ROOT/'data/editorial.json').exists():
 if not (ROOT/'data/curated.json').exists():
     save('curated.json',[])
 print(len(sources),'sources;',len(topics),'topics')
+from update_cn_sources import update
+update()

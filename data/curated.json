@@ -18,5 +18,374 @@
     ],
     "summary": "法规基底记录，不是今日新闻。条例要求拟临床转化应用的新技术经国务院卫生健康部门审查批准；药品、医疗器械的临床试验仍分别适用药品和器械法规。生效日期为 2026 年 5 月 1 日。",
     "effective_date": "2026-05-01"
+  },
+  {
+    "id": "0429cd859445ac29",
+    "title": "南方科技大学张绪穆课题组 · 研究助理教授",
+    "url": "https://faculty.sustech.edu.cn/?cat=11&go=2&iscss=1&snapid=1&tagid=zhangxm",
+    "date": null,
+    "date_basis": "observed_listing",
+    "category": "career",
+    "kind": "job",
+    "source": "南方科技大学 · 官方科研岗位",
+    "source_id": "sustech-zhangxm",
+    "source_refs": [
+      "sustech-zhangxm"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "官方教师招聘页列出研究助理教授的税前年薪30万元，并提及依表现发放的奖励。高校科研序列报价样本，不是药企薪酬均值；岗位是否仍有空缺及奖励资格需向招聘方确认。",
+    "market": "CN",
+    "company": "南方科技大学 · 张绪穆课题组",
+    "location": "深圳",
+    "status": "LISTED",
+    "salary": "30万元/年（税前）",
+    "skills": [
+      "药物化学",
+      "不对称催化",
+      "科研项目"
+    ],
+    "job_level": "高校科研序列",
+    "verified_at": "2026-11-14T23:02:53+08:00",
+    "verification_scope": "已读官方教师招聘页；页面未提供这些岗位的完整发布日期，按持续列示观察而非今日新招记录。",
+    "salary_currency": "CNY",
+    "salary_period": "year",
+    "salary_tax": "税前",
+    "salary_inclusions": "另列绩效/年终奖励，取决于表现；未叠加进固定年薪",
+    "salary_basis": "公开招聘报价，不是 offer 或实际到手收入。",
+    "salary_min": 300000,
+    "salary_max": 300000,
+    "verified_url": "https://faculty.sustech.edu.cn/?cat=11&go=2&iscss=1&snapid=1&tagid=zhangxm"
+  },
+  {
+    "id": "a641f741ed09b785",
+    "title": "南方科技大学张绪穆课题组 · 研究副教授",
+    "url": "https://faculty.sustech.edu.cn/?cat=11&go=2&iscss=1&snapid=1&tagid=zhangxm",
+    "date": null,
+    "date_basis": "observed_listing",
+    "category": "career",
+    "kind": "job",
+    "source": "南方科技大学 · 官方科研岗位",
+    "source_id": "sustech-zhangxm",
+    "source_refs": [
+      "sustech-zhangxm"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "官方教师招聘页列出研究副教授的税前年薪40万元，并提及依表现发放的奖励。高校科研序列报价样本，不是药企薪酬均值；岗位是否仍有空缺及奖励资格需向招聘方确认。",
+    "market": "CN",
+    "company": "南方科技大学 · 张绪穆课题组",
+    "location": "深圳",
+    "status": "LISTED",
+    "salary": "40万元/年（税前）",
+    "skills": [
+      "药物化学",
+      "不对称催化",
+      "科研项目"
+    ],
+    "job_level": "高校科研序列",
+    "verified_at": "2026-11-14T23:02:53+08:00",
+    "verification_scope": "已读官方教师招聘页；页面未提供这些岗位的完整发布日期，按持续列示观察而非今日新招记录。",
+    "salary_currency": "CNY",
+    "salary_period": "year",
+    "salary_tax": "税前",
+    "salary_inclusions": "另列绩效/年终奖励，取决于表现；未叠加进固定年薪",
+    "salary_basis": "公开招聘报价，不是 offer 或实际到手收入。",
+    "salary_min": 400000,
+    "salary_max": 400000,
+    "verified_url": "https://faculty.sustech.edu.cn/?cat=11&go=2&iscss=1&snapid=1&tagid=zhangxm"
+  },
+  {
+    "id": "5bab769c749bd2d6",
+    "title": "南方科技大学张绪穆课题组 · 博士后",
+    "url": "https://faculty.sustech.edu.cn/?cat=11&go=2&iscss=1&snapid=1&tagid=zhangxm",
+    "date": null,
+    "date_basis": "observed_listing",
+    "category": "career",
+    "kind": "job",
+    "source": "南方科技大学 · 官方科研岗位",
+    "source_id": "sustech-zhangxm",
+    "source_refs": [
+      "sustech-zhangxm"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "官方页列示博士后综合年薪33万元起，已经包含省、市在站生活补助，不能再把这些补助重复加到总包。优秀计划另有申请条件，不当作普遍保障收入。",
+    "market": "CN",
+    "company": "南方科技大学 · 张绪穆课题组",
+    "location": "深圳",
+    "status": "LISTED",
+    "salary": "综合年薪33万元起（含省、市在站补助）",
+    "skills": [
+      "药物化学",
+      "药理",
+      "结构生物学",
+      "药物工艺"
+    ],
+    "job_level": "高校博士后",
+    "verified_at": "2026-11-14T23:02:53+08:00",
+    "verification_scope": "已读官方教师招聘页，未核查补助项目当前申领资格与细则；页面无完整发布日期。",
+    "salary_currency": "CNY",
+    "salary_period": "year",
+    "salary_tax": "综合总包未单独明确税口径；补助条款标注税前",
+    "salary_inclusions": "已包含广东省及深圳市在站补助；不能重复叠加",
+    "salary_basis": "公开招聘报价，不是 offer 或实际到手收入。",
+    "salary_min": 330000,
+    "salary_max": null,
+    "verified_url": "https://faculty.sustech.edu.cn/?cat=11&go=2&iscss=1&snapid=1&tagid=zhangxm"
+  },
+  {
+    "id": "80ed748a79896583",
+    "title": "Global Marketing VP - Life Sciences",
+    "url": "https://www.michaelpage.com.cn/en/job-detail/global-marketing-vp-life-sciences/ref/jn-042026-7003085?lang=zh-hans",
+    "date": null,
+    "date_basis": "observed_listing",
+    "category": "career",
+    "kind": "job",
+    "source": "Michael Page · 中国公开岗位",
+    "source_id": "page",
+    "source_refs": [
+      "page"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "全球营销与增长相关高级职位；不能当作普通研发或应届生薪资基准。 公开列表报价为人民币年薪区间；未写明税口径、奖金及股权，非实际到手收入。",
+    "market": "CN",
+    "company": "原站未披露（猎头平台职位）",
+    "location": "北京",
+    "status": "LISTED",
+    "salary": "100–200万元/年（人民币）",
+    "skills": [
+      "生命科学营销",
+      "全球市场"
+    ],
+    "job_level": "VP",
+    "verified_at": "2026-11-14T23:02:53+08:00",
+    "verification_scope": "已核对公开招聘列表的职位名称、地区和报价；未核对完整 JD，未确认实际录用或空缺。",
+    "salary_currency": "CNY",
+    "salary_period": "year",
+    "salary_tax": "公开列表未明确税前/税后",
+    "salary_inclusions": "公开列表未说明奖金、股权及补贴是否包含",
+    "salary_basis": "公开招聘报价，不是 offer 或实际到手收入。",
+    "salary_min": 1000000,
+    "salary_max": 2000000,
+    "verified_url": "https://www.michaelpage.com.cn/jobs/%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/healthcare-pharmaceutical"
+  },
+  {
+    "id": "0a11ddeccb667703",
+    "title": "Business Development Director, China | Pharma Licensing",
+    "url": "https://www.michaelpage.com.cn/en/job-detail/business-development-director-china-pharma-licensing/ref/jn-082026-7091305?lang=zh-hans",
+    "date": null,
+    "date_basis": "observed_listing",
+    "category": "career",
+    "kind": "job",
+    "source": "Michael Page · 中国公开岗位",
+    "source_id": "page",
+    "source_refs": [
+      "page"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "负责中国与海外市场的药品授权和合作；招聘客户未具名，不推断具体公司。 公开列表报价为人民币年薪区间；未写明税口径、奖金及股权，非实际到手收入。",
+    "market": "CN",
+    "company": "原站未披露（猎头平台职位）",
+    "location": "中国（具体城市未披露）",
+    "status": "LISTED",
+    "salary": "90–110万元/年（人民币）",
+    "skills": [
+      "药品授权",
+      "BD",
+      "跨国合作"
+    ],
+    "job_level": "Director",
+    "verified_at": "2026-11-14T23:02:53+08:00",
+    "verification_scope": "已核对公开招聘列表的职位名称、地区和报价；未核对完整 JD，未确认实际录用或空缺。",
+    "salary_currency": "CNY",
+    "salary_period": "year",
+    "salary_tax": "公开列表未明确税前/税后",
+    "salary_inclusions": "公开列表未说明奖金、股权及补贴是否包含",
+    "salary_basis": "公开招聘报价，不是 offer 或实际到手收入。",
+    "salary_min": 900000,
+    "salary_max": 1100000,
+    "verified_url": "https://www.michaelpage.com.cn/jobs/%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/healthcare-pharmaceutical"
+  },
+  {
+    "id": "217c8233ad66081c",
+    "title": "Head of Chemistry | Targeted Protein Degradation",
+    "url": "https://www.michaelpage.com.cn/en/job-detail/head-chemistry-targeted-protein-degradation/ref/jn-052026-7020988?lang=zh-hans",
+    "date": null,
+    "date_basis": "observed_listing",
+    "category": "career",
+    "kind": "job",
+    "source": "Michael Page · 中国公开岗位",
+    "source_id": "page",
+    "source_refs": [
+      "page"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "涉及靶向蛋白降解、分子胶及 AI 辅助药物发现平台，是负责人级职位报价。 公开列表报价为人民币年薪区间；未写明税口径、奖金及股权，非实际到手收入。",
+    "market": "CN",
+    "company": "原站未披露（猎头平台职位）",
+    "location": "中国（具体城市未披露）",
+    "status": "LISTED",
+    "salary": "180–220万元/年（人民币）",
+    "skills": [
+      "靶向蛋白降解",
+      "分子胶",
+      "药物化学"
+    ],
+    "job_level": "Head",
+    "verified_at": "2026-11-14T23:02:53+08:00",
+    "verification_scope": "已核对公开招聘列表的职位名称、地区和报价；未核对完整 JD，未确认实际录用或空缺。",
+    "salary_currency": "CNY",
+    "salary_period": "year",
+    "salary_tax": "公开列表未明确税前/税后",
+    "salary_inclusions": "公开列表未说明奖金、股权及补贴是否包含",
+    "salary_basis": "公开招聘报价，不是 offer 或实际到手收入。",
+    "salary_min": 1800000,
+    "salary_max": 2200000,
+    "verified_url": "https://www.michaelpage.com.cn/jobs/%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/healthcare-pharmaceutical"
+  },
+  {
+    "id": "8d522e3e2f65aba5",
+    "title": "Head of Clinical Development VP-CMO - Genetic Disease",
+    "url": "https://www.michaelpage.com.cn/en/job-detail/head-clinical-development-vp-cmo-genetic-disease/ref/jn-012026-6914781?lang=zh-hans",
+    "date": null,
+    "date_basis": "observed_listing",
+    "category": "career",
+    "kind": "job",
+    "source": "Michael Page · 中国公开岗位",
+    "source_id": "page",
+    "source_refs": [
+      "page"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "侧重中国早期临床开发策略与概念验证，属于医学/管理高阶岗位，不可与初级科研岗横比。 公开列表报价为人民币年薪区间；未写明税口径、奖金及股权，非实际到手收入。",
+    "market": "CN",
+    "company": "原站未披露（猎头平台职位）",
+    "location": "中国（具体城市未披露）",
+    "status": "LISTED",
+    "salary": "200–300万元/年（人民币）",
+    "skills": [
+      "临床开发",
+      "遗传病",
+      "FIH",
+      "PoC"
+    ],
+    "job_level": "VP / CMO",
+    "verified_at": "2026-11-14T23:02:53+08:00",
+    "verification_scope": "已核对公开招聘列表的职位名称、地区和报价；未核对完整 JD，未确认实际录用或空缺。",
+    "salary_currency": "CNY",
+    "salary_period": "year",
+    "salary_tax": "公开列表未明确税前/税后",
+    "salary_inclusions": "公开列表未说明奖金、股权及补贴是否包含",
+    "salary_basis": "公开招聘报价，不是 offer 或实际到手收入。",
+    "salary_min": 2000000,
+    "salary_max": 3000000,
+    "verified_url": "https://www.michaelpage.com.cn/jobs/%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/healthcare-pharmaceutical"
+  },
+  {
+    "id": "b98c36f03d55fb76",
+    "title": "Peptide Design Principal Scientist",
+    "url": "https://www.michaelpage.com.cn/en/job-detail/peptide-design-principal-scientist/ref/jn-092026-7104871?lang=zh-hans",
+    "date": null,
+    "date_basis": "observed_listing",
+    "category": "career",
+    "kind": "job",
+    "source": "Michael Page · 中国公开岗位",
+    "source_id": "page",
+    "source_refs": [
+      "page"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "中国地区多肽及多肽偶联药物设计首席科学家职位。列表提及治疗性多肽、PDC 与大环分子，没有公开薪资；保留未知，不用其他岗位的数字代填。",
+    "market": "CN",
+    "company": "原站未披露（猎头平台职位）",
+    "location": "中国（具体城市未披露）",
+    "status": "LISTED",
+    "salary": "",
+    "skills": [
+      "多肽设计",
+      "PDC",
+      "大环分子"
+    ],
+    "job_level": "Principal Scientist",
+    "verified_at": "2026-11-14T23:02:53+08:00",
+    "verification_scope": "已核对公开招聘列表的职位名称、地区和报价；未核对完整 JD，未确认实际录用或空缺。",
+    "salary_currency": "未披露",
+    "salary_period": "未披露",
+    "salary_tax": "公开列表未明确税前/税后",
+    "salary_inclusions": "公开列表未说明奖金、股权及补贴是否包含",
+    "salary_basis": "公开招聘报价，不是 offer 或实际到手收入。",
+    "verified_url": "https://www.michaelpage.com.cn/jobs/%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/healthcare-pharmaceutical"
+  },
+  {
+    "id": "7e9a5b190df18fda",
+    "title": "不止场景落地：AI 驱动医药产业组织深层变革",
+    "url": "https://www.careerintlinc.com/report/3168.html",
+    "date": null,
+    "date_basis": "published_partial",
+    "category": "career",
+    "kind": "report",
+    "source": "科锐国际 · 薪酬报告",
+    "source_id": "careerintl",
+    "source_refs": [
+      "careerintl"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "科锐国际的2026指南公开解读列出 AI 算法科学家/工程师50–180万元、AI负责人150–300万元等参考区间。摘要没有明确这些区间的周期及税口径，因此不直接当作可比年薪或实际收入。",
+    "date_label": "04-29 10:00（页面未单列年份）",
+    "report_year": 2026,
+    "market": "CN",
+    "verified_at": "2026-11-14T23:02:53+08:00",
+    "verification_scope": "已读发布者官网的公开解读，未下载完整薪酬报告。",
+    "salary_currency": "公开摘要未单列币种",
+    "salary_period": "公开摘要未明确周期",
+    "salary_tax": "公开摘要未明确税前/税后",
+    "salary_basis": "招聘机构报告参考区间，不是具体招聘报价或实际收入。",
+    "reference_ranges": [
+      {
+        "role": "AI 算法科学家/工程师",
+        "display": "50–180万元"
+      },
+      {
+        "role": "AI 负责人",
+        "display": "150–300万元"
+      }
+    ],
+    "access": "已读官网公开摘要；未获取完整报告"
+  },
+  {
+    "id": "861381e51525a932",
+    "title": "检索线索：BioArt百家论坛第16期 · DoPE 基因编辑报告",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzU4OTY0NzE1NQ%3D%3D&mid=2247672843&idx=2&sn=8cb8636f902e62883aa4249dacb95092",
+    "date": null,
+    "date_basis": "discovery",
+    "category": "research",
+    "kind": "lead",
+    "source": "公众号 · 公开检索线索",
+    "source_id": "wechat-public",
+    "source_refs": [
+      "wechat-public"
+    ],
+    "topics": [
+      "editing"
+    ],
+    "summary": "公开搜索命中这条标题。微信原文实测被滑块验证阻止，尚未核验发布账号、发表日期和内容。仅保留公开标题及链接，不作为新论文、突破或已读原文。",
+    "is_verified": false,
+    "verification_scope": "仅搜索题录。微信原文显示滑块验证，未读取正文，账号与发表时间未核验。"
   }
 ]

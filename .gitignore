@@ -8,3 +8,5 @@ Thumbs.db
 *.tmp
 dist/
 data/*.build.sqlite
+/.private/
+*.secret

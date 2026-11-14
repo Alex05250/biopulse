@@ -8,8 +8,17 @@ ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/'data'
 def read(n): return json.loads((DATA/(n+'.json')).read_text(encoding='utf-8'))
 def write(p,content):p.parent.mkdir(parents=True,exist_ok=True);p.write_text(content,encoding='utf-8')
+def validate_public_sources(items,sources):
+    paid={s['id'] for s in sources if s.get('mode')=='paid'}
+    known={s['id'] for s in sources}
+    for r in items:
+        refs=set(r.get('source_refs',[]))|{r['source_id']}
+        assert refs<=known,'Unknown source ID'
+        assert not refs & paid,'Licensed database records must stay outside the public build; use a separately authorized private library.'
+        assert r.get('visibility','public')=='public','Private record in public build'
 def build():
     items=read('items');sources=read('sources');topics=read('topics');history=read('history');editorial=read('editorial');meta=read('meta')
+    validate_public_sources(items,sources)
     valid={t['id'] for t in topics}; ids={r['id'] for r in items}
     assert len(ids)==len(items),'Duplicate record ID'
     assert all(set(r['topics'])<=valid for r in items),'Unknown topic'
@@ -55,6 +64,9 @@ def build():
     for r in items:
         a=annotations.get(r['id'],{})
         body='# '+(a.get('title_zh') or r['title'])+'\n\n'+(r['title']+'\n\n' if a.get('title_zh') else '')+'- 原站日期：'+str(r.get('date') or '未提供')+'（'+r['date_basis']+'）\n- 类型：'+r['kind']+'\n- 首次收录：'+r['first_seen']+'\n- 来源：['+r['source']+']('+r['url']+')\n- 记录 ID：'+r['id']+'\n\n'+(a.get('summary') or r['summary'])+'\n\n'+('边界：'+a['caution']+'\n\n' if a.get('caution') else '')+'## 关联节点（仅提及，不代表因果）\n\n'+' '.join('[['+next(t['name'] for t in topics if t['id']==id)+']]' for id in r['topics'])+'\n'
+        fields=[('来源范围',r.get('market')),('职级/类型',r.get('job_level')),('公开报价',r.get('salary')),('币种',r.get('salary_currency')),('周期',r.get('salary_period')),('税口径',r.get('salary_tax')),('薪酬包含项',r.get('salary_inclusions')),('核验时间',r.get('verified_at')),('核验范围',r.get('verification_scope')),('核验页面',r.get('verified_url'))]
+        details=['- '+k+'：'+str(v) for k,v in fields if v]
+        if details:body+='\n## 来源与口径\n\n'+'\n'.join(details)+'\n'
         write(ROOT/'knowledge'/'records'/(r['id']+'.md'),body)
     for t in topics:
         related=[r for r in items if t['id'] in r['topics']]

@@ -203,7 +203,7 @@ def fetch_source(s):
     except Exception as e:
         return s,[],dict(source_id=s['id'],state='error',checked_at=STAMP,count=0,error=str(e)[:220],coverage={'note':'本次失败，保留已有数据。'})
 
-FIELDS=('title','date','summary','phase','status','version','salary','salary_context','location','skills','has_results','enrollment','published_doi')
+FIELDS=('title','date','kind','summary','is_verified','phase','status','version','salary','salary_context','salary_currency','salary_period','salary_tax','salary_inclusions','salary_basis','reference_ranges','job_level','market','location','skills','has_results','enrollment','published_doi')
 def fingerprint(r):
     return hashlib.sha256(json.dumps({k:r.get(k) for k in FIELDS},sort_keys=True,ensure_ascii=False).encode()).hexdigest()
 
