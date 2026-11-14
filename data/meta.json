@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-14T21:53:05+08:00",
+  "record_count": 422,
+  "source_count": 71,
+  "auto_sources": 16,
+  "healthy_sources": 14,
+  "error_sources": 2,
+  "today_new": 422,
+  "today_updated": 0,
+  "timezone": "Asia/Shanghai",
+  "schedule": "每天 08:17（北京时间，GitHub 调度可能延迟）",
+  "repository": "https://github.com/Alex05250/biopulse",
+  "baseline": true
+}

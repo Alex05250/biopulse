@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="从科研突破到产业与职业选择。一个可追溯、持续更新的生物科技情报库。">
+  <meta name="color-scheme" content="light dark"><meta name="theme-color" content="#eef3ef">
+  <title>BioPulse｜生物科技情报库</title>
+  <link rel="icon" href="assets/mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/base.css"><link rel="stylesheet" href="assets/app.css">
+  <script defer src="assets/app.js"></script><script defer src="assets/views.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">跳到主要内容</a>
+<aside class="sidebar" id="sidebar">
+  <a href="#overview" class="brand" aria-label="BioPulse 首页"><svg viewBox="0 0 40 40" aria-hidden="true"><path d="M8 31C8 8 32 32 32 9M8 9c0 23 24-1 24 22M12 12h16M12 28h16M12 20h16"/></svg><span>Bio<span class="brand-light">Pulse</span><small>生物科技情报库</small></span></a>
+  <div class="nav-label">WORKSPACE <span>个人情报工作台</span></div>
+  <nav aria-label="主导航">
+    <a href="#overview" data-nav="overview"><span class="nav-icon" data-icon="overview"></span>情报总览 <span class="nav-short">01</span></a>
+    <a href="#library" data-nav="library"><span class="nav-icon" data-icon="library"></span>全部情报 <span id="nav-count" class="nav-count">—</span></a>
+    <a href="#digest" data-nav="digest"><span class="nav-icon" data-icon="digest"></span>每日增量简报</a>
+    <a href="#graph" data-nav="graph"><span class="nav-icon" data-icon="graph"></span>知识网络</a>
+    <a href="#saved" data-nav="saved"><span class="nav-icon" data-icon="saved"></span>我的收藏 <span id="saved-count" class="nav-count">0</span></a>
+  </nav>
+  <div class="nav-label">INTELLIGENCE <span>四个观察窗口</span></div>
+  <nav aria-label="情报类别" class="category-nav">
+    <a href="#library/research"><i></i>科研与技术突破</a>
+    <a href="#library/industry"><i></i>产业与商业动态</a>
+    <a href="#library/policy"><i></i>政策与监管导向</a>
+    <a href="#library/career"><i></i>岗位与薪酬线索</a>
+  </nav>
+  <div class="sidebar-bottom">
+    <a href="#sources" data-nav="sources"><span class="nav-icon" data-icon="sources"></span>信源与采集状态</a>
+    <a href="#method" data-nav="method"><span class="nav-icon" data-icon="info"></span>使用说明与边界</a>
+    <div class="sync-mini"><span class="status-dot"></span><div>每日 08:17 自动采集<small>北京时间 · GitHub 云端运行</small></div></div>
+    <div class="side-footer"><span>少一点噪声，多一点洞察。</span><button id="theme" title="切换明暗主题" aria-label="切换明暗主题"><span data-icon="theme"></span></button></div>
+  </div>
+</aside>
+<div class="workspace">
+  <header class="topbar">
+    <button class="mobile-menu icon-button" id="menu" aria-label="展开导航" aria-expanded="false"><span data-icon="menu"></span></button>
+    <div class="breadcrumb">我的工作台 <span>/</span> <strong id="breadcrumb">情报总览</strong></div>
+    <div class="top-actions"><span class="edition">独立信源 · 可追溯</span><a class="icon-button" href="https://github.com/Alex05250/biopulse" target="_blank" rel="noopener noreferrer" aria-label="打开 GitHub 仓库"><span data-icon="github"></span></a><span class="avatar" title="本地收藏，无需登录">B</span></div>
+  </header>
+  <main id="main" tabindex="-1">
+    <div id="loading" class="loading"><span class="loading-orbit"></span><p>正在连接你的情报网络…</p></div>
+    <section id="view"></section>
+  </main>
+  <footer class="page-footer"><span><b>BioPulse</b> / 连接知识，追踪变化。</span><span id="footer-sync"></span><a href="#method">信息参考，非医疗或投资建议 ↗</a></footer>
+</div>
+<dialog id="detail" aria-labelledby="detail-title"><div id="detail-body"></div></dialog>
+<div id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

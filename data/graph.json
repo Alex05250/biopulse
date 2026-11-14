@@ -1,0 +1,3458 @@
+{
+  "generated_at": "2026-11-14T21:53:05+08:00",
+  "semantics": "mention-only; not causal, partnership or maturity evidence",
+  "nodes": [
+    {
+      "id": "editing",
+      "name": "基因编辑",
+      "english": "Gene editing",
+      "kind": "技术",
+      "aliases": [
+        "CRISPR",
+        "prime editing",
+        "base editing",
+        "genome editing",
+        "基因编辑",
+        "先导编辑"
+      ],
+      "note": "关注编辑精度、递送方式、脱靶及长期随访。体外结果不能直接外推到临床。",
+      "count": 43
+    },
+    {
+      "id": "protein",
+      "name": "AI 蛋白质设计",
+      "english": "Protein design",
+      "kind": "技术",
+      "aliases": [
+        "protein design",
+        "protein engineering",
+        "de novo protein",
+        "diffusion model",
+        "RFdiffusion",
+        "AlphaFold",
+        "蛋白质设计"
+      ],
+      "note": "区分计算预测、湿实验验证与实际药物开发，优先跟踪可重复的功能测定。",
+      "count": 37
+    },
+    {
+      "id": "cgt",
+      "name": "细胞与基因治疗",
+      "english": "Cell & gene therapy",
+      "kind": "技术",
+      "aliases": [
+        "gene therapy",
+        "cell therapy",
+        "CAR-T",
+        "CAR T",
+        "chimeric antigen receptor",
+        "AAV",
+        "细胞治疗",
+        "基因治疗",
+        "CGT"
+      ],
+      "note": "同时追踪产品、适应症、临床分期、生产工艺和监管；试验登记不是获批。",
+      "count": 56
+    },
+    {
+      "id": "bci",
+      "name": "脑机接口",
+      "english": "Brain–computer interface",
+      "kind": "技术",
+      "aliases": [
+        "brain-computer",
+        "brain computer",
+        "brain-machine",
+        "neural interface",
+        "Neuralink",
+        "脑机接口"
+      ],
+      "note": "区分侵入式与非侵入式，留意受试者数量、长期稳定性与真实功能终点。",
+      "count": 97
+    },
+    {
+      "id": "synbio",
+      "name": "合成生物学",
+      "english": "Synthetic biology",
+      "kind": "技术",
+      "aliases": [
+        "synthetic biology",
+        "metabolic engineering",
+        "biomanufacturing",
+        "cell-free",
+        "strain engineering",
+        "合成生物",
+        "生物制造"
+      ],
+      "note": "从实验室产率追到中试、规模化成本和供需，不把产能规划等同于实际产量。",
+      "count": 44
+    },
+    {
+      "id": "delivery",
+      "name": "递送系统",
+      "english": "Delivery systems",
+      "kind": "技术",
+      "aliases": [
+        "lipid nanoparticle",
+        "LNP",
+        "delivery system",
+        "mRNA delivery",
+        "递送",
+        "脂质纳米"
+      ],
+      "note": "关注组织靶向、免疫原性、剂量与可制造性；递送成功并不等于临床获益。",
+      "count": 5
+    },
+    {
+      "id": "rna",
+      "name": "RNA 药物",
+      "english": "RNA therapeutics",
+      "kind": "技术",
+      "aliases": [
+        "mRNA",
+        "siRNA",
+        "antisense",
+        "RNA therapeutic",
+        "RNA药物",
+        "小核酸"
+      ],
+      "note": "追踪序列设计、递送与安全性，并区分疫苗和治疗性应用。",
+      "count": 8
+    },
+    {
+      "id": "adc",
+      "name": "ADC 与多抗",
+      "english": "ADCs & multispecifics",
+      "kind": "技术",
+      "aliases": [
+        "antibody-drug conjugate",
+        "ADC",
+        "bispecific",
+        "multispecific",
+        "双抗",
+        "多抗"
+      ],
+      "note": "区分靶点、连接子、载荷、适应症和临床终点，避免只比较标题里的疗效数字。",
+      "count": 10
+    },
+    {
+      "id": "glp1",
+      "name": "GLP-1",
+      "english": "GLP-1",
+      "kind": "靶点与管线",
+      "aliases": [
+        "GLP-1",
+        "GLP1",
+        "semaglutide",
+        "tirzepatide",
+        "司美格鲁肽"
+      ],
+      "note": "关注适应症扩展、剂型、联合机制及供应；非投资建议。",
+      "count": 6
+    },
+    {
+      "id": "tl1a",
+      "name": "TL1A",
+      "english": "TL1A",
+      "kind": "靶点与管线",
+      "aliases": [
+        "TL1A",
+        "TNFSF15"
+      ],
+      "note": "围绕炎症性肠病等研究，按候选产品和临床证据追踪。",
+      "count": 0
+    },
+    {
+      "id": "cd19",
+      "name": "CD19",
+      "english": "CD19",
+      "kind": "靶点与管线",
+      "aliases": [
+        "CD19",
+        "CD-19"
+      ],
+      "note": "按细胞产品与适应症连接研究和临床登记，不自动推断同靶点产品可比。",
+      "count": 10
+    },
+    {
+      "id": "in-vivo",
+      "name": "体内 CAR-T",
+      "english": "In vivo CAR-T",
+      "kind": "靶点与管线",
+      "aliases": [
+        "in vivo CAR",
+        "in-vivo CAR",
+        "体内CAR",
+        "体内 CAR"
+      ],
+      "note": "关注体内生成的证据、细胞选择性、可控性与随访数据。",
+      "count": 2
+    },
+    {
+      "id": "generate",
+      "name": "Generate Biomedicines",
+      "english": "Generate Biomedicines",
+      "kind": "公司与实验室",
+      "aliases": [
+        "Generate Biomedicines",
+        "Generate:Biomedicines"
+      ],
+      "note": "公开招聘信息仅说明观察时仍在职位列表中，不代表净增员或行业薪资基准。",
+      "count": 26
+    },
+    {
+      "id": "neuralink",
+      "name": "Neuralink",
+      "english": "Neuralink",
+      "kind": "公司与实验室",
+      "aliases": [
+        "Neuralink"
+      ],
+      "note": "公开职位与研究记录分别保留来源，提及关系不代表技术效果得到验证。",
+      "count": 78
+    },
+    {
+      "id": "regulation",
+      "name": "监管与政策",
+      "english": "Regulation",
+      "kind": "政策与待遇",
+      "aliases": [
+        "FDA",
+        "CDE",
+        "NMPA",
+        "regulatory",
+        "guidance",
+        "监管",
+        "指导原则",
+        "卫生健康",
+        "审评"
+      ],
+      "note": "区分征求意见稿、正式文件与实施日期；指导原则发布不意味着任何具体产品已获批。",
+      "count": 67
+    },
+    {
+      "id": "career",
+      "name": "岗位与技能",
+      "english": "Careers & skills",
+      "kind": "政策与待遇",
+      "aliases": [
+        "scientist",
+        "engineer",
+        "director",
+        "research associate",
+        "招聘",
+        "岗位",
+        "薪酬"
+      ],
+      "note": "薪资保留原币种、周期与适用地区；招聘报价不是实际收入，匿名爆料不作薪资事实。",
+      "count": 152
+    }
+  ],
+  "edges": [
+    {
+      "source": "career",
+      "target": "a07d72d09be64b42",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "188ab164acfdec69",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "fc07f6df6d24053f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "fbad13ad095ac3d7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "f2a4b7616fa8f293",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "ed3e7ddc4ff5c7b0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "ea643c6991c82c11",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "adc",
+      "target": "e7679f5c467b7863",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "e7679f5c467b7863",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "e7679f5c467b7863",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "e5bf1600fe8ccb4c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "e152d3b05a031183",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "da0580c1afad1da5",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "d9b05b6c051eaf81",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "d9b05b6c051eaf81",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "d2e0bdacb9156267",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "d0ff7d1f38f189a0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "cf3d3392c8c8f7c5",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "cf3d3392c8c8f7c5",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "c6ee83657775d5d1",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "c4992facf0ace74d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "bf8aa0548d68be2c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "bb03e1b3a4d39cf7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "b8285aad3ba8ab79",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "af884cb74591746c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "98183bcb37b8f27c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "8af0b3b5bfb53912",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "8a2c14a15ccc8db6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "8a2c14a15ccc8db6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "854d6ea180ea0a91",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "817b1492e52f6e74",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cd19",
+      "target": "817b1492e52f6e74",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "817b1492e52f6e74",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "80d564063867a817",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "80d564063867a817",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "7f1cc691ecaa9957",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "7f1cc691ecaa9957",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "7f1cc691ecaa9957",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "7b594659f88cc8e6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "7939a997f88d503b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "7939a997f88d503b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "78334f1e38c736a3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "adc",
+      "target": "7745a7d201384467",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "7745a7d201384467",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "70feb6b55a0bad44",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "70c3bb61934e3486",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cd19",
+      "target": "6ff1f8a333d1d2ee",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "6ff1f8a333d1d2ee",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "6fb97d1c99b85227",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "6fb97d1c99b85227",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "glp1",
+      "target": "6fb095947027ff07",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "6fb095947027ff07",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "adc",
+      "target": "6c528b6324b9c895",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "6c528b6324b9c895",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "68d80a9bdc77b500",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "68d80a9bdc77b500",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "5c4c592672c3219c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "58a33955dc96c9c0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "52f3cb3ab8d98960",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "52f3cb3ab8d98960",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "52f3cb3ab8d98960",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "51d9602b75aa6c4c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "51aea0d9c53f83ae",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "51aea0d9c53f83ae",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "51aea0d9c53f83ae",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "51aea0d9c53f83ae",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "50050d6ccb6fd289",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "4d63a2c78f6ab5b0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "4d63a2c78f6ab5b0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "4cf0047d1f19a4a4",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "4cf0047d1f19a4a4",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "glp1",
+      "target": "4b75836fec20c0df",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "45167849a61e008c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "449ef51decc77294",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "449ef51decc77294",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "449ef51decc77294",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "34025aa98c2bc50f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "33f2ff0666f2bb84",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "2c27ff2ac92f3e84",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "266e4ac06fe11d3a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "266e4ac06fe11d3a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "266e4ac06fe11d3a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "261b5a871e7c9f6d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "1e829e7d1cdf7a9f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "1e829e7d1cdf7a9f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "rna",
+      "target": "1e829e7d1cdf7a9f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "1e171e87b3bf1a1a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "1e171e87b3bf1a1a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "1bfde42929ed54f8",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "18495ec366bd2fbe",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "0e4d0b0633e1ccf8",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "delivery",
+      "target": "0e4d0b0633e1ccf8",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "0e4d0b0633e1ccf8",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "0e4d0b0633e1ccf8",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "0b4519cc37ebe65a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "0b4519cc37ebe65a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "08fc0ae92f257866",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "glp1",
+      "target": "066083d16630feaa",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "00be5eb5b8a53770",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "fa4dadf96cbacdfa",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "fa4dadf96cbacdfa",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "fa4dadf96cbacdfa",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "f804cde63ee484c8",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "f7b4c716368e1fc6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "adc",
+      "target": "f5be3f2b0e9a311a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cd19",
+      "target": "f5be3f2b0e9a311a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "f5be3f2b0e9a311a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "e0e66a5870ccbf44",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "e0e66a5870ccbf44",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "e0e66a5870ccbf44",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "d73306e977b750ac",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "d573b46b25ce54b8",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cd19",
+      "target": "d3729b5b0d5ca283",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "d3729b5b0d5ca283",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cd19",
+      "target": "cf260405c8051da1",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "c4dbca3c3ab8cf10",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "c15860d32d69ddb4",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "bbe8534886b824e6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "delivery",
+      "target": "bbe8534886b824e6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cd19",
+      "target": "b6c600c91db1490f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "b6c600c91db1490f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "b455256dc77e2591",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "b36a9ebcb2abdd44",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "a68ae05f7005d5c0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "a11a614ffa7886ba",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "a11a614ffa7886ba",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "a11a614ffa7886ba",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "9d3327705fc66e53",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "994752b56a0233fd",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "994752b56a0233fd",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "87d3b7bb5e09a95d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "87d3b7bb5e09a95d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "87cc402ac1301dca",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "867b6061c4521319",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "85eba8e8fdd8b990",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "85eba8e8fdd8b990",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "8228f5fce2f70bcf",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cd19",
+      "target": "76913751ecc35483",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "76913751ecc35483",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "7182ff4e598e4a04",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "7182ff4e598e4a04",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "7182ff4e598e4a04",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "6ba996a8c37ec5c5",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "6a7e77a8b2b9c4af",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "6a7e77a8b2b9c4af",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "68bd7335a7af4f4f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "62636525359a37b5",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cd19",
+      "target": "5e2b0f17b769479c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "5e2b0f17b769479c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "59a2ddc75a609c23",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "56d2a29cda7e20c3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "550b66e041ab6c79",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "550b66e041ab6c79",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "52e1ca382dc8c21d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "glp1",
+      "target": "52cd7988ea2f0527",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "52cd7988ea2f0527",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "50dcc46a48f25c79",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "50dcc46a48f25c79",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "50dcc46a48f25c79",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "50dcc46a48f25c79",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "50cd75650427cda4",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "50cd75650427cda4",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "492f4fec72d26f26",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "rna",
+      "target": "492f4fec72d26f26",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "492f4fec72d26f26",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "45efdc07982df48e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "3ad6b5f5abae0de8",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "3938a9160d75c197",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "28f53a5e7cfd22db",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "286f210758de10c5",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "adc",
+      "target": "1d01498e1e8da97c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "1d01498e1e8da97c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "1d01498e1e8da97c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "1d01498e1e8da97c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "1d01498e1e8da97c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "19ba83a1666440b2",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cd19",
+      "target": "12b8db757b3c68a3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "12b8db757b3c68a3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "0fc7d73ccc7539ab",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "04091c17cc7a7d6c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "ee71bf6219911cb7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "ee71bf6219911cb7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "da1a6b882dff4641",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "d715c2aacef36a1f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "d715c2aacef36a1f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "d715c2aacef36a1f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "d6a4ab6c47ea676f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "bcccd5daee0c63d9",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "ab940603f6e6cfcf",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "8a5caf663f440535",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "8a5260e9d45b295a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "6012918646f18ecd",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "6012918646f18ecd",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "21ddbcaf895ddfbb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "2058c3b132468fb0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "090be679d685ee1b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "090be679d685ee1b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "f102ffcfb1931422",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "e1dbe05427b6b5dd",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "dd40024382bd1ceb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "bf8fdceedfa52842",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "bf8fdceedfa52842",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "bf8fdceedfa52842",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "93da3d00c5c2de55",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "928c2b69aa01b117",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "64d02744cb86b207",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "63928ad61a54ff34",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "6333742dd111d6d4",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "6333742dd111d6d4",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "6333742dd111d6d4",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "3ca0a6e74dc72d3d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "331e71457ab6ac9f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "2febff4afbc8638f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "2f6bbc3411e5fe65",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "2f6bbc3411e5fe65",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "2e235acb2063a3f3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "247c016d9d219bf9",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "247c016d9d219bf9",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "247c016d9d219bf9",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "247c016d9d219bf9",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "247c016d9d219bf9",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "1d18db5642886d57",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "1d18db5642886d57",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "1d18db5642886d57",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "14f35567d49474eb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "glp1",
+      "target": "14f35567d49474eb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "14f35567d49474eb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "0aa9eff544d185e0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "0aa9eff544d185e0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "0aa9eff544d185e0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "049ebeebe809c88a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "0361d0255b12d7bd",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "ee8433cb7e09bb0e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "e91004081f16f91f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "e177a306a253620c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "e115d9416a3419a0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "dd97652ddca9fd85",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "c80ee84e40b7dc32",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "c80ee84e40b7dc32",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "c80ee84e40b7dc32",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "b635cf4087269b7e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "afb4716bda38adee",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "964e163babb61bba",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "8da393ab1bb1a4db",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "rna",
+      "target": "8da393ab1bb1a4db",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "860f112ab7b0deea",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "860f112ab7b0deea",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "6688d8d67ea548a3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "6688d8d67ea548a3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "63153e8aad382ea0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "63153e8aad382ea0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "glp1",
+      "target": "50281eaa87f4124d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "50281eaa87f4124d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "rna",
+      "target": "4fe454917271573d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "4abf73790f0446ee",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "437308e3d2c30996",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "4056f716b4e6bff6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "3c1f570e46e15052",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "3c1f570e46e15052",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "38e898873aa03411",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "38343342449ecd96",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "38343342449ecd96",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "31814f5f965b031d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "138d32aa26fe42f9",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "0ba8198e4d67fb3a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "01a97690bf66d83b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "01a97690bf66d83b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "01a97690bf66d83b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "8b8554da60a81925",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "ece4532db38d5a8a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "c8f2e3f035de72f7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "c8f2e3f035de72f7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "be60e38b219f4da3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "delivery",
+      "target": "b95722c91ba86af8",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "b95722c91ba86af8",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "rna",
+      "target": "b95722c91ba86af8",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "abc0ba074a2f5aeb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "a1dabac00b71f5fd",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "a1dabac00b71f5fd",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "a1dabac00b71f5fd",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "953a3e057eaadf7c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "953a3e057eaadf7c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "8baad08b6805e63d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "8baad08b6805e63d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "8baad08b6805e63d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "666f5641cf9b25b3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "666f5641cf9b25b3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "666f5641cf9b25b3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "3c6aa6b68e1771ab",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "3186acbdddccc4eb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "1d005c7cf1ca9c2e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "153fc93883ea3621",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "0f66d785a968f22b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "0f66d785a968f22b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "0f66d785a968f22b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "02483a9962d6c535",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "02483a9962d6c535",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "02483a9962d6c535",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "fe2a6946658e18be",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "fe2a6946658e18be",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "fe2a6946658e18be",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "fe2a6946658e18be",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "fa2dee508c4cd155",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "fa2dee508c4cd155",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "fa2dee508c4cd155",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "fa2dee508c4cd155",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "f75363ce902eadea",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "f75363ce902eadea",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "f75363ce902eadea",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "f46447593d147292",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "f46447593d147292",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "f46447593d147292",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "ee4e6f6e15264550",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "ee4e6f6e15264550",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "ee4e6f6e15264550",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "ecddcc6f080d5bab",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "ecddcc6f080d5bab",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "ecddcc6f080d5bab",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "ebb8561e42a5cf17",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "ebb8561e42a5cf17",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "ebb8561e42a5cf17",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "eb849a3372cc5bbc",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "eb849a3372cc5bbc",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "eb849a3372cc5bbc",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "ea5762764abfcef7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "ea5762764abfcef7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "ea5762764abfcef7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "e68d28a4a10f6e82",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "e68d28a4a10f6e82",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "rna",
+      "target": "e68d28a4a10f6e82",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "e577c8c3d9f13684",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "e577c8c3d9f13684",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "e577c8c3d9f13684",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "df08fc920e7c1b54",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "df08fc920e7c1b54",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "df08fc920e7c1b54",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "df08fc920e7c1b54",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "d9e06f164ec36818",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "d9e06f164ec36818",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "d9e06f164ec36818",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "d2968c13e28d114e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "d2968c13e28d114e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "d2968c13e28d114e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "c4e022e066d76178",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "c4e022e066d76178",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "c4e022e066d76178",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "c324c026c731fe52",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "c324c026c731fe52",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "c324c026c731fe52",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "bb29fd0ef5ae0887",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "bb29fd0ef5ae0887",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "bb29fd0ef5ae0887",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "b9cd4c1205ec0949",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "b9cd4c1205ec0949",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "b9cd4c1205ec0949",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "b6832fab6881290f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "b6832fab6881290f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "b6832fab6881290f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "b4007e9cc86089a4",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "b4007e9cc86089a4",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "b4007e9cc86089a4",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "b4007e9cc86089a4",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "b3702bcb7b90c309",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "b3702bcb7b90c309",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "b3702bcb7b90c309",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "aea132dec336f224",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "aea132dec336f224",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "aea132dec336f224",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "aea132dec336f224",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "aad89f1f11bd28e3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "aad89f1f11bd28e3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "aad89f1f11bd28e3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "aad89f1f11bd28e3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "aa3311e9bf50c9cf",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "aa3311e9bf50c9cf",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "aa3311e9bf50c9cf",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "a241a0bdf8920c51",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "a241a0bdf8920c51",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "a241a0bdf8920c51",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "90a41d8fdbf960bf",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "90a41d8fdbf960bf",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "90a41d8fdbf960bf",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "8e55f7a526e23ebe",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "8e55f7a526e23ebe",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "8e55f7a526e23ebe",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "8e55f7a526e23ebe",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "adc",
+      "target": "8ad53ae8f9c632d7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "8ad53ae8f9c632d7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "8ad53ae8f9c632d7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "8ad53ae8f9c632d7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "8955cdc5deeb013a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "8955cdc5deeb013a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "8955cdc5deeb013a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "88fa4759acac78c3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "88fa4759acac78c3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "88fa4759acac78c3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "878c9268c76a8338",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "878c9268c76a8338",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "878c9268c76a8338",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "838180ce6330d419",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "838180ce6330d419",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "838180ce6330d419",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "8281452b6be7076f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "8281452b6be7076f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "8281452b6be7076f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "7ed25110c53a541a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "7ed25110c53a541a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "7ed25110c53a541a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "7d58596e7712b22a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "7d58596e7712b22a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "7d58596e7712b22a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "7ba6460161c004ee",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "7ba6460161c004ee",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "7ba6460161c004ee",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "7ba6460161c004ee",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "7932789cb023335b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "7932789cb023335b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "7932789cb023335b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "6d892e5ed9d5a447",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "6d892e5ed9d5a447",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "6d892e5ed9d5a447",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "6d892e5ed9d5a447",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "6b23438861ee0ca2",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "6b23438861ee0ca2",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "6b23438861ee0ca2",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "6b23438861ee0ca2",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "697ddacb8da4f4eb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "697ddacb8da4f4eb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "697ddacb8da4f4eb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "68993d996f962ab0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "68993d996f962ab0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "68993d996f962ab0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "65cf2cef13a5662a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "65cf2cef13a5662a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "65cf2cef13a5662a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "65bace99a1b58eaf",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "65bace99a1b58eaf",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "65bace99a1b58eaf",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "632379b9ffc2b04e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "632379b9ffc2b04e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "632379b9ffc2b04e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "60444c7bd5372638",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "60444c7bd5372638",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "60444c7bd5372638",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "60444c7bd5372638",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "59b35d33fc54a53c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "59b35d33fc54a53c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "59b35d33fc54a53c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "552303a8ddbefabf",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "552303a8ddbefabf",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "552303a8ddbefabf",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "552303a8ddbefabf",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "50cf0eef0bad4837",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "50cf0eef0bad4837",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "50cf0eef0bad4837",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "5022f0c3a034901e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "5022f0c3a034901e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "5022f0c3a034901e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "4e0fb69ae56c10e6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "4e0fb69ae56c10e6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "4e0fb69ae56c10e6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "47c48dfa57eeaaf0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "47c48dfa57eeaaf0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "47c48dfa57eeaaf0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "3c30464a7265f38d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "3c30464a7265f38d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "3c30464a7265f38d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "3bad541d3696434b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "3bad541d3696434b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "3bad541d3696434b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "383551c234ca73b5",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "383551c234ca73b5",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "383551c234ca73b5",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "383551c234ca73b5",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "37f23650d0dde107",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "37f23650d0dde107",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "37f23650d0dde107",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "3474bf6435ab32fb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "3474bf6435ab32fb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "3474bf6435ab32fb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "334c6a3688a75462",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "334c6a3688a75462",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "334c6a3688a75462",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "2f3f2151f30cd520",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "2f3f2151f30cd520",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "2f3f2151f30cd520",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "26d370c2582ff175",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "26d370c2582ff175",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "26d370c2582ff175",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "26d370c2582ff175",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "22e81dc5b82850f3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "22e81dc5b82850f3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "22e81dc5b82850f3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "1ac84888ca6d6f6d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "1ac84888ca6d6f6d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "1ac84888ca6d6f6d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "1ac84888ca6d6f6d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "19916cd9092d3662",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "19916cd9092d3662",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "19916cd9092d3662",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "196443f2cbb03d58",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "196443f2cbb03d58",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "196443f2cbb03d58",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "14bf4bf9d1becb70",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "14bf4bf9d1becb70",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "14bf4bf9d1becb70",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "120c03fa5de77902",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "120c03fa5de77902",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "120c03fa5de77902",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "119ab2bd6658c9ed",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "119ab2bd6658c9ed",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "119ab2bd6658c9ed",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "07c6643aa6e3238f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "07c6643aa6e3238f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "07c6643aa6e3238f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "07c6643aa6e3238f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "adc",
+      "target": "05f0292abf1777a0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "05f0292abf1777a0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "05f0292abf1777a0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "05f0292abf1777a0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "05701fb04165e848",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "05701fb04165e848",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "05701fb04165e848",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "05701fb04165e848",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "01d972d946e4ba94",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "01d972d946e4ba94",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "neuralink",
+      "target": "01d972d946e4ba94",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "d27c2fbb298a73dd",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "d27c2fbb298a73dd",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "c136e051fbb00b69",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "c136e051fbb00b69",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "b81d19a1c3661a41",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "8ba4a8fefd961049",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "839d51be26867bb9",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "7cd5cc90ff8aac3c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "7cd5cc90ff8aac3c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "6c2538917af39692",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "6967be3f23c49e4d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "6967be3f23c49e4d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "6967be3f23c49e4d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "in-vivo",
+      "target": "6967be3f23c49e4d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "6967be3f23c49e4d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "63509a223fce5546",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "5e11d4eccbfd9c9e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "5e11d4eccbfd9c9e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "5e11d4eccbfd9c9e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "5b0349523e337b4e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "rna",
+      "target": "5b0349523e337b4e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "ec76b329f3d1b8b0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "ec76b329f3d1b8b0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "ec76b329f3d1b8b0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "d007bec8792070df",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "d007bec8792070df",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "af40409fd7c0d630",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "af40409fd7c0d630",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "af40409fd7c0d630",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "5bab582551d31049",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "adc",
+      "target": "294563f3e071cd1b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "294563f3e071cd1b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "294563f3e071cd1b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "294563f3e071cd1b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "294563f3e071cd1b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "095b9b528462c973",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "095b9b528462c973",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "e0ef0e851a60846d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "9ab685de5f0629ef",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "5e6b8a8f2f1822ff",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "1687b1caaf1cc376",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "1687b1caaf1cc376",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "1687b1caaf1cc376",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "799434930c95b57f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "799434930c95b57f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "799434930c95b57f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "adc",
+      "target": "79285961bf946c17",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "79285961bf946c17",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "79285961bf946c17",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "79285961bf946c17",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "74580e8158a2de37",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "74580e8158a2de37",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "74580e8158a2de37",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "delivery",
+      "target": "dd30bf8b111719c3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "rna",
+      "target": "dd30bf8b111719c3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "75184343abd3cec0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "68d3b11c79eb85ec",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "68d3b11c79eb85ec",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "68d3b11c79eb85ec",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "2a055a5df11282fe",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "2a055a5df11282fe",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "2a055a5df11282fe",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "25cba8b15076cdfb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "25cba8b15076cdfb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "25cba8b15076cdfb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "71b5028d2ee2650c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "87c6b2f080a3fb0a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "87c6b2f080a3fb0a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "c8f94b358fa50aef",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "dedb3853b10e6ef9",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "a214ec1aded836f7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cd19",
+      "target": "a214ec1aded836f7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "a214ec1aded836f7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "delivery",
+      "target": "a214ec1aded836f7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "in-vivo",
+      "target": "a214ec1aded836f7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "5fd64e56dec2bb19",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "5fd64e56dec2bb19",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "22adc3f299a8da11",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "22adc3f299a8da11",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "22adc3f299a8da11",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "2285f93dc979ed65",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "2285f93dc979ed65",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "2285f93dc979ed65",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "adc",
+      "target": "a5222ec9eb70cdf6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "a5222ec9eb70cdf6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "a5222ec9eb70cdf6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "a5222ec9eb70cdf6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "56222c3583865d07",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "56222c3583865d07",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "56222c3583865d07",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "701d7d9971759690",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "701d7d9971759690",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "701d7d9971759690",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "0ad061321d63837f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "0ad061321d63837f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "0ad061321d63837f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "0ad061321d63837f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "f59ef923396dfd3f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "a5534e6939ed161b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "f410e75c4e30d4a7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "f410e75c4e30d4a7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "f410e75c4e30d4a7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "dcec1658864976bc",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "dcec1658864976bc",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "fe83bbc2294b5d5d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "fe83bbc2294b5d5d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "fe83bbc2294b5d5d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "fe83bbc2294b5d5d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "fe83bbc2294b5d5d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "027191a6e38e2970",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "027191a6e38e2970",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "027191a6e38e2970",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "28aaf93cd2e9db5a",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "generate",
+      "target": "28aaf93cd2e9db5a",
+      "relation": "mentioned_in"
+    }
+  ]
+}

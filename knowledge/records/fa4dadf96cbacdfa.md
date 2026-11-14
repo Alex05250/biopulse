@@ -1,0 +1,13 @@
+# Associative Learning and Memory Erasure in a Synthetic Multicellular System
+
+- 原站日期：2026-11-12（published）
+- 类型：preprint
+- 首次收录：2026-11-14T21:53:05+08:00
+- 来源：[bioRxiv · 合成生物学](https://doi.org/10.64898/2026.11.09.765282)
+- 记录 ID：fa4dadf96cbacdfa
+
+未经同行评议 · bioRxiv synthetic biology，版本 1。仅作研究线索，不能据此认定疗效或安全性。
+
+## 关联节点（仅提及，不代表因果）
+
+[[岗位与技能]] [[监管与政策]] [[合成生物学]]

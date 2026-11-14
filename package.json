@@ -1,0 +1,12 @@
+{
+  "name": "biopulse-intelligence",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Source-linked biotech intelligence library",
+  "scripts": {
+    "check": "node --check assets/app.js && node --check assets/views.js",
+    "serve": "python -m http.server 8786 --bind 127.0.0.1",
+    "build": "python scripts/build.py",
+    "collect": "python scripts/collect.py"
+  }
+}

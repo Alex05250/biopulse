@@ -1,0 +1,667 @@
+[
+  {
+    "id": "epmc-nbt",
+    "name": "Nature Biotechnology · PubMed 索引",
+    "category": "research",
+    "url": "https://www.nature.com/nbt/",
+    "mode": "auto",
+    "adapter": "epmc",
+    "query": "JOURNAL:\"Nature biotechnology\"",
+    "limit": 30
+  },
+  {
+    "id": "nmeth",
+    "name": "Nature Methods · RSS",
+    "category": "research",
+    "url": "https://www.nature.com/nmeth/",
+    "mode": "auto",
+    "adapter": "rss",
+    "feed": "https://www.nature.com/nmeth.rss",
+    "limit": 25
+  },
+  {
+    "id": "epmc-core",
+    "name": "Cell / Science / Nature · PubMed 索引",
+    "category": "research",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "mode": "auto",
+    "adapter": "epmc",
+    "query": "(JOURNAL:\"Cell\" OR JOURNAL:\"Science\" OR JOURNAL:\"Nature\") AND (TITLE_ABS:CRISPR OR TITLE_ABS:\"protein design\" OR TITLE_ABS:\"synthetic biology\" OR TITLE_ABS:\"gene therapy\" OR TITLE_ABS:\"brain-computer\")",
+    "limit": 30
+  },
+  {
+    "id": "epmc-editing",
+    "name": "PubMed · 基因编辑",
+    "category": "research",
+    "url": "https://europepmc.org/",
+    "mode": "auto",
+    "adapter": "epmc",
+    "query": "(TITLE_ABS:CRISPR OR TITLE_ABS:\"prime editing\" OR TITLE_ABS:\"base editing\")",
+    "limit": 18,
+    "topic": "editing"
+  },
+  {
+    "id": "epmc-protein",
+    "name": "PubMed · AI 蛋白质设计",
+    "category": "research",
+    "url": "https://europepmc.org/",
+    "mode": "auto",
+    "adapter": "epmc",
+    "query": "(TITLE_ABS:\"protein design\" OR TITLE_ABS:\"de novo protein\")",
+    "limit": 18,
+    "topic": "protein"
+  },
+  {
+    "id": "epmc-synbio",
+    "name": "PubMed · 合成生物学",
+    "category": "research",
+    "url": "https://europepmc.org/",
+    "mode": "auto",
+    "adapter": "epmc",
+    "query": "(TITLE_ABS:\"synthetic biology\" OR TITLE_ABS:\"biomanufacturing\")",
+    "limit": 18,
+    "topic": "synbio"
+  },
+  {
+    "id": "epmc-bci",
+    "name": "PubMed · 脑机接口",
+    "category": "research",
+    "url": "https://europepmc.org/",
+    "mode": "auto",
+    "adapter": "epmc",
+    "query": "(TITLE_ABS:\"brain-computer interface\" OR TITLE_ABS:\"neural interface\")",
+    "limit": 18,
+    "topic": "bci"
+  },
+  {
+    "id": "biorxiv-synthetic_biology",
+    "name": "bioRxiv · 合成生物学",
+    "category": "research",
+    "url": "https://www.biorxiv.org/",
+    "mode": "auto",
+    "adapter": "biorxiv",
+    "subject": "synthetic_biology",
+    "limit": 90
+  },
+  {
+    "id": "biorxiv-bioinformatics",
+    "name": "bioRxiv · 生物信息学",
+    "category": "research",
+    "url": "https://www.biorxiv.org/",
+    "mode": "auto",
+    "adapter": "biorxiv",
+    "subject": "bioinformatics",
+    "limit": 90
+  },
+  {
+    "id": "trials",
+    "name": "ClinicalTrials.gov",
+    "category": "clinical",
+    "url": "https://clinicaltrials.gov/",
+    "mode": "auto",
+    "adapter": "trials",
+    "limit": 60
+  },
+  {
+    "id": "gen",
+    "name": "GEN",
+    "category": "industry",
+    "url": "https://www.genengnews.com/",
+    "mode": "auto",
+    "adapter": "rss",
+    "feed": "https://www.genengnews.com/feed/",
+    "limit": 25
+  },
+  {
+    "id": "stat",
+    "name": "STAT · Biotech",
+    "category": "industry",
+    "url": "https://www.statnews.com/category/biotech/",
+    "mode": "auto",
+    "adapter": "rss",
+    "feed": "https://www.statnews.com/category/biotech/feed/",
+    "limit": 25,
+    "note": "只索引公开题录；STAT+ 正文可能需订阅。"
+  },
+  {
+    "id": "fierce",
+    "name": "Fierce Biotech",
+    "category": "industry",
+    "url": "https://www.fiercebiotech.com/",
+    "mode": "auto",
+    "adapter": "rss",
+    "feed": "https://www.fiercebiotech.com/rss/xml",
+    "limit": 25
+  },
+  {
+    "id": "fda",
+    "name": "FDA · Biologics",
+    "category": "policy",
+    "url": "https://www.fda.gov/vaccines-blood-biologics",
+    "mode": "auto",
+    "adapter": "rss",
+    "feed": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/biologics/rss.xml",
+    "limit": 25
+  },
+  {
+    "id": "jobs-generatebiomedicines",
+    "name": "Generate Biomedicines · 官方招聘",
+    "category": "career",
+    "url": "https://boards-api.greenhouse.io/v1/boards/generatebiomedicines/jobs",
+    "mode": "auto",
+    "adapter": "greenhouse",
+    "board": "generatebiomedicines",
+    "company": "Generate Biomedicines",
+    "limit": 200,
+    "topic": "generate",
+    "note": "海外公开职位样本，不代表国内就业或整体行业薪资。"
+  },
+  {
+    "id": "jobs-neuralink",
+    "name": "Neuralink · 官方招聘",
+    "category": "career",
+    "url": "https://boards-api.greenhouse.io/v1/boards/neuralink/jobs",
+    "mode": "auto",
+    "adapter": "greenhouse",
+    "board": "neuralink",
+    "company": "Neuralink",
+    "limit": 200,
+    "topic": "neuralink",
+    "note": "海外公开职位样本，不代表国内就业或整体行业薪资。"
+  },
+  {
+    "id": "medrxiv",
+    "name": "medRxiv",
+    "category": "research",
+    "url": "https://www.medrxiv.org/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "bioart",
+    "name": "BioArt",
+    "category": "research",
+    "url": "https://www.bioart.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "singularity",
+    "name": "奇点网",
+    "category": "research",
+    "url": "https://www.geekheal.com/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "intellectual",
+    "name": "知识分子",
+    "category": "research",
+    "url": "https://www.zhishifenzi.com/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "biodiscover",
+    "name": "生物探索",
+    "category": "research",
+    "url": "https://www.biodiscover.com/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "inature",
+    "name": "iNature",
+    "category": "research",
+    "url": "https://www.inature.com/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "bioskill",
+    "name": "生信技能树",
+    "category": "research",
+    "url": "https://www.biotrainee.com/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "scholar",
+    "name": "Google Scholar Alerts",
+    "category": "research",
+    "url": "https://scholar.google.com/",
+    "mode": "account",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "stork",
+    "name": "文献鸟 Stork",
+    "category": "research",
+    "url": "https://www.storkapp.me/",
+    "mode": "account",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "rabbit",
+    "name": "ResearchRabbit",
+    "category": "research",
+    "url": "https://www.researchrabbit.ai/",
+    "mode": "account",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "endpoints",
+    "name": "Endpoints News",
+    "category": "industry",
+    "url": "https://endpts.com/",
+    "mode": "paid",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "cube",
+    "name": "医药魔方 / NextPharma",
+    "category": "industry",
+    "url": "https://www.pharmcube.com/",
+    "mode": "paid",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "insight",
+    "name": "丁香园 Insight",
+    "category": "industry",
+    "url": "https://db.dxy.cn/",
+    "mode": "paid",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "yaozh",
+    "name": "药智网",
+    "category": "industry",
+    "url": "https://www.yaozh.com/",
+    "mode": "paid",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "pharnex",
+    "name": "摩熵医药",
+    "category": "industry",
+    "url": "https://www.pharnexcloud.com/",
+    "mode": "paid",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "synod",
+    "name": "同写意",
+    "category": "industry",
+    "url": "https://www.tongxieyi.com/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "rd",
+    "name": "研发客",
+    "category": "industry",
+    "url": "https://www.rdpharm.com/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "eeo",
+    "name": "E药经理人",
+    "category": "industry",
+    "url": "https://www.yyjlr.com/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "drugtimes",
+    "name": "药时代",
+    "category": "industry",
+    "url": "https://www.drugtimes.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "vb",
+    "name": "动脉网",
+    "category": "industry",
+    "url": "https://www.vbdata.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "synbiobeta",
+    "name": "SynBioBeta / 生辉相关报道",
+    "category": "industry",
+    "url": "https://www.synbiobeta.com/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "hkex",
+    "name": "港交所披露易 · 招股书",
+    "category": "industry",
+    "url": "https://www.hkexnews.hk/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "sse",
+    "name": "上交所 · 科创板披露",
+    "category": "industry",
+    "url": "https://www.sse.com.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "hibor",
+    "name": "慧博投研",
+    "category": "industry",
+    "url": "https://www.hibor.com.cn/",
+    "mode": "account",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "robo",
+    "name": "萝卜投研",
+    "category": "industry",
+    "url": "https://robo.datayes.com/",
+    "mode": "account",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "eastmoney",
+    "name": "东方财富 · 研报",
+    "category": "industry",
+    "url": "https://data.eastmoney.com/report/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "cde",
+    "name": "CDE · 指导原则与公示",
+    "category": "policy",
+    "url": "https://www.cde.org.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "nmpa",
+    "name": "国家药监局",
+    "category": "policy",
+    "url": "https://www.nmpa.gov.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "nhc",
+    "name": "国家卫生健康委",
+    "category": "policy",
+    "url": "https://www.nhc.gov.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "most",
+    "name": "科技部 · 申报指南",
+    "category": "policy",
+    "url": "https://service.most.gov.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "ndrc",
+    "name": "国家发改委",
+    "category": "policy",
+    "url": "https://www.ndrc.gov.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "miit",
+    "name": "工业和信息化部",
+    "category": "policy",
+    "url": "https://www.miit.gov.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "nhsa",
+    "name": "国家医保局",
+    "category": "policy",
+    "url": "https://www.nhsa.gov.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "chinatrials",
+    "name": "中国药物临床试验登记与信息公示",
+    "category": "policy",
+    "url": "http://www.chinadrugtrials.org.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "zj",
+    "name": "上海张江",
+    "category": "policy",
+    "url": "https://www.zjpark.com/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "biobay",
+    "name": "苏州 BioBAY",
+    "category": "policy",
+    "url": "https://www.biobay.com.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "zgc",
+    "name": "中关村生命科学园",
+    "category": "policy",
+    "url": "https://www.lifesciencepark.com.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "pingshan",
+    "name": "深圳坪山",
+    "category": "policy",
+    "url": "https://www.szpsq.gov.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "tianfu",
+    "name": "成都天府国际生物城",
+    "category": "policy",
+    "url": "https://www.shuangliu.gov.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "guanggu",
+    "name": "武汉光谷生物城",
+    "category": "policy",
+    "url": "https://www.wehdz.gov.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "liepin",
+    "name": "猎聘",
+    "category": "career",
+    "url": "https://www.liepin.com/",
+    "mode": "account",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "linkedin",
+    "name": "LinkedIn",
+    "category": "career",
+    "url": "https://www.linkedin.com/jobs/",
+    "mode": "account",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "boss",
+    "name": "BOSS 直聘",
+    "category": "career",
+    "url": "https://www.zhipin.com/",
+    "mode": "account",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "dxyjobs",
+    "name": "丁香人才",
+    "category": "career",
+    "url": "https://www.jobmd.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "sciencejobs",
+    "name": "科学网",
+    "category": "career",
+    "url": "https://talent.sciencenet.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "gaoxiaojob",
+    "name": "高校人才网",
+    "category": "career",
+    "url": "https://www.gaoxiaojob.com/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "careerintl",
+    "name": "科锐国际 · 薪酬报告",
+    "category": "career",
+    "url": "https://www.careerintlinc.com/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "page",
+    "name": "Michael Page · 薪酬报告",
+    "category": "career",
+    "url": "https://www.michaelpage.com.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "hays",
+    "name": "Hays · 薪酬指南",
+    "category": "career",
+    "url": "https://www.hays-china.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "kelly",
+    "name": "Kelly Services",
+    "category": "career",
+    "url": "https://www.kellyservices.com/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "maimai",
+    "name": "脉脉 · 仅作口碑线索",
+    "category": "career",
+    "url": "https://maimai.cn/",
+    "mode": "account",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "red",
+    "name": "小红书 · 仅作口碑线索",
+    "category": "career",
+    "url": "https://www.xiaohongshu.com/",
+    "mode": "account",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "offershow",
+    "name": "Offershow · 仅作报价线索",
+    "category": "career",
+    "url": "https://www.offershow.cn/",
+    "mode": "account",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "muchong",
+    "name": "小木虫",
+    "category": "career",
+    "url": "https://muchong.com/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "zhihu",
+    "name": "知乎",
+    "category": "career",
+    "url": "https://www.zhihu.com/",
+    "mode": "account",
+    "adapter": null,
+    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  }
+]

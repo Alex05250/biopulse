@@ -1,0 +1,231 @@
+[
+  {
+    "id": "editing",
+    "name": "基因编辑",
+    "english": "Gene editing",
+    "kind": "技术",
+    "aliases": [
+      "CRISPR",
+      "prime editing",
+      "base editing",
+      "genome editing",
+      "基因编辑",
+      "先导编辑"
+    ],
+    "note": "关注编辑精度、递送方式、脱靶及长期随访。体外结果不能直接外推到临床。"
+  },
+  {
+    "id": "protein",
+    "name": "AI 蛋白质设计",
+    "english": "Protein design",
+    "kind": "技术",
+    "aliases": [
+      "protein design",
+      "protein engineering",
+      "de novo protein",
+      "diffusion model",
+      "RFdiffusion",
+      "AlphaFold",
+      "蛋白质设计"
+    ],
+    "note": "区分计算预测、湿实验验证与实际药物开发，优先跟踪可重复的功能测定。"
+  },
+  {
+    "id": "cgt",
+    "name": "细胞与基因治疗",
+    "english": "Cell & gene therapy",
+    "kind": "技术",
+    "aliases": [
+      "gene therapy",
+      "cell therapy",
+      "CAR-T",
+      "CAR T",
+      "chimeric antigen receptor",
+      "AAV",
+      "细胞治疗",
+      "基因治疗",
+      "CGT"
+    ],
+    "note": "同时追踪产品、适应症、临床分期、生产工艺和监管；试验登记不是获批。"
+  },
+  {
+    "id": "bci",
+    "name": "脑机接口",
+    "english": "Brain–computer interface",
+    "kind": "技术",
+    "aliases": [
+      "brain-computer",
+      "brain computer",
+      "brain-machine",
+      "neural interface",
+      "Neuralink",
+      "脑机接口"
+    ],
+    "note": "区分侵入式与非侵入式，留意受试者数量、长期稳定性与真实功能终点。"
+  },
+  {
+    "id": "synbio",
+    "name": "合成生物学",
+    "english": "Synthetic biology",
+    "kind": "技术",
+    "aliases": [
+      "synthetic biology",
+      "metabolic engineering",
+      "biomanufacturing",
+      "cell-free",
+      "strain engineering",
+      "合成生物",
+      "生物制造"
+    ],
+    "note": "从实验室产率追到中试、规模化成本和供需，不把产能规划等同于实际产量。"
+  },
+  {
+    "id": "delivery",
+    "name": "递送系统",
+    "english": "Delivery systems",
+    "kind": "技术",
+    "aliases": [
+      "lipid nanoparticle",
+      "LNP",
+      "delivery system",
+      "mRNA delivery",
+      "递送",
+      "脂质纳米"
+    ],
+    "note": "关注组织靶向、免疫原性、剂量与可制造性；递送成功并不等于临床获益。"
+  },
+  {
+    "id": "rna",
+    "name": "RNA 药物",
+    "english": "RNA therapeutics",
+    "kind": "技术",
+    "aliases": [
+      "mRNA",
+      "siRNA",
+      "antisense",
+      "RNA therapeutic",
+      "RNA药物",
+      "小核酸"
+    ],
+    "note": "追踪序列设计、递送与安全性，并区分疫苗和治疗性应用。"
+  },
+  {
+    "id": "adc",
+    "name": "ADC 与多抗",
+    "english": "ADCs & multispecifics",
+    "kind": "技术",
+    "aliases": [
+      "antibody-drug conjugate",
+      "ADC",
+      "bispecific",
+      "multispecific",
+      "双抗",
+      "多抗"
+    ],
+    "note": "区分靶点、连接子、载荷、适应症和临床终点，避免只比较标题里的疗效数字。"
+  },
+  {
+    "id": "glp1",
+    "name": "GLP-1",
+    "english": "GLP-1",
+    "kind": "靶点与管线",
+    "aliases": [
+      "GLP-1",
+      "GLP1",
+      "semaglutide",
+      "tirzepatide",
+      "司美格鲁肽"
+    ],
+    "note": "关注适应症扩展、剂型、联合机制及供应；非投资建议。"
+  },
+  {
+    "id": "tl1a",
+    "name": "TL1A",
+    "english": "TL1A",
+    "kind": "靶点与管线",
+    "aliases": [
+      "TL1A",
+      "TNFSF15"
+    ],
+    "note": "围绕炎症性肠病等研究，按候选产品和临床证据追踪。"
+  },
+  {
+    "id": "cd19",
+    "name": "CD19",
+    "english": "CD19",
+    "kind": "靶点与管线",
+    "aliases": [
+      "CD19",
+      "CD-19"
+    ],
+    "note": "按细胞产品与适应症连接研究和临床登记，不自动推断同靶点产品可比。"
+  },
+  {
+    "id": "in-vivo",
+    "name": "体内 CAR-T",
+    "english": "In vivo CAR-T",
+    "kind": "靶点与管线",
+    "aliases": [
+      "in vivo CAR",
+      "in-vivo CAR",
+      "体内CAR",
+      "体内 CAR"
+    ],
+    "note": "关注体内生成的证据、细胞选择性、可控性与随访数据。"
+  },
+  {
+    "id": "generate",
+    "name": "Generate Biomedicines",
+    "english": "Generate Biomedicines",
+    "kind": "公司与实验室",
+    "aliases": [
+      "Generate Biomedicines",
+      "Generate:Biomedicines"
+    ],
+    "note": "公开招聘信息仅说明观察时仍在职位列表中，不代表净增员或行业薪资基准。"
+  },
+  {
+    "id": "neuralink",
+    "name": "Neuralink",
+    "english": "Neuralink",
+    "kind": "公司与实验室",
+    "aliases": [
+      "Neuralink"
+    ],
+    "note": "公开职位与研究记录分别保留来源，提及关系不代表技术效果得到验证。"
+  },
+  {
+    "id": "regulation",
+    "name": "监管与政策",
+    "english": "Regulation",
+    "kind": "政策与待遇",
+    "aliases": [
+      "FDA",
+      "CDE",
+      "NMPA",
+      "regulatory",
+      "guidance",
+      "监管",
+      "指导原则",
+      "卫生健康",
+      "审评"
+    ],
+    "note": "区分征求意见稿、正式文件与实施日期；指导原则发布不意味着任何具体产品已获批。"
+  },
+  {
+    "id": "career",
+    "name": "岗位与技能",
+    "english": "Careers & skills",
+    "kind": "政策与待遇",
+    "aliases": [
+      "scientist",
+      "engineer",
+      "director",
+      "research associate",
+      "招聘",
+      "岗位",
+      "薪酬"
+    ],
+    "note": "薪资保留原币种、周期与适用地区；招聘报价不是实际收入，匿名爆料不作薪资事实。"
+  }
+]

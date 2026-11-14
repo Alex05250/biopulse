@@ -1,0 +1,67 @@
+name: Daily intelligence & Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: Fetch public sources before building
+        default: true
+        type: boolean
+  schedule:
+    # 00:17 UTC = 08:17 Asia/Shanghai. GitHub may delay scheduled runs.
+    - cron: '17 0 * * *'
+
+concurrency:
+  group: biopulse-production
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify collector and client
+        run: |
+          python -m unittest discover -s tests -v
+          node --check assets/app.js
+          node --check assets/views.js
+      - name: Refresh public metadata
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
+        run: python scripts/collect.py
+      - name: Build database, graph, Markdown and website
+        run: python scripts/build.py
+      - name: Commit auditable data and knowledge changes
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config user.name 'BioPulse Bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data knowledge
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: refresh public intelligence [skip ci]'
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
