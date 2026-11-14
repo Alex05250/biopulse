@@ -18,6 +18,7 @@ concurrency:
 
 permissions:
   contents: write
+  actions: read
   pages: write
   id-token: write
 
@@ -62,6 +63,10 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
+      - name: Wait for uploaded artifact to be visible
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/wait_artifact.py
       - name: Deploy GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
