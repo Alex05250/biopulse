@@ -1,6 +1,7 @@
 {
   "schedule": "每天 20:30（北京时间；本机 Codex 定时核验，非 GitHub 云端全量抓取）",
   "rules": [
+    "本阶段只补公开信息。跳过 enabled=false 的分组；不购买、不申请试用或付费接口，不反复向用户索要订阅。",
     "搜索结果只是发现线索；先检查域名、标题和主题相关性，再核验原文。",
     "公众号文章未核验发布账号、发布时间或遇验证码时，只能作为 lead；不冒充已读原文。",
     "禁止绕过登录、验证码、付费墙；不得用转载或缓存来规避原站验证。",
@@ -20,9 +21,36 @@
         "site:zhishifenzi.com 生物 基因 编辑",
         "site:biodiscover.com 合成生物 蛋白"
       ],
-      "allowed_hosts": ["mp.weixin.qq.com", "www.zhishifenzi.com", "zhishifenzi.com", "www.biodiscover.com", "biodiscover.com"],
+      "allowed_hosts": [
+        "mp.weixin.qq.com",
+        "www.zhishifenzi.com",
+        "zhishifenzi.com",
+        "www.biodiscover.com",
+        "biodiscover.com"
+      ],
       "limit": 8,
-      "coverage": "关键词公开索引，不是公众号全历史或全量订阅"
+      "coverage": "关键词公开索引，不是公众号全历史或全量订阅",
+      "enabled": true
+    },
+    {
+      "id": "public-industry",
+      "name": "中文公开产业资讯",
+      "enabled": true,
+      "queries": [
+        "site:pharmcube.com/newsLibrary/detail 生物 医药",
+        "site:vbdata.cn 合成生物 AI 制药",
+        "site:drugtimes.cn 基因治疗 蛋白"
+      ],
+      "allowed_hosts": [
+        "www.pharmcube.com",
+        "pharmcube.com",
+        "www.vbdata.cn",
+        "vbdata.cn",
+        "www.drugtimes.cn",
+        "drugtimes.cn"
+      ],
+      "limit": 5,
+      "coverage": "只读无需授权的公开资讯与公告；与专业数据库分开建 public 来源ID，遇登录/付费/验证码即停止该页，不借转载绕过。"
     },
     {
       "id": "cn-jobs",
@@ -39,7 +67,8 @@
         "https://faculty.sustech.edu.cn/?cat=11&go=2&iscss=1&snapid=1&tagid=zhangxm"
       ],
       "limit": 10,
-      "coverage": "公开招聘样本；不外推到应届薪资、行业均值或实际到手收入"
+      "coverage": "公开招聘样本；不外推到应届薪资、行业均值或实际到手收入",
+      "enabled": true
     },
     {
       "id": "cn-salary-reports",
@@ -49,9 +78,12 @@
         "site:hays-china.cn 薪酬指南 生命科学",
         "site:michaelpage.com.cn 薪酬指南 生命科学"
       ],
-      "entry_urls": ["https://www.careerintlinc.com/report/3168.html"],
+      "entry_urls": [
+        "https://www.careerintlinc.com/report/3168.html"
+      ],
       "limit": 3,
-      "coverage": "优先正式发布者；摘要没有写明周期、地区或税口径时不进行工资换算"
+      "coverage": "优先正式发布者；摘要没有写明周期、地区或税口径时不进行工资换算",
+      "enabled": true
     },
     {
       "id": "licensed",
@@ -61,7 +93,10 @@
         "https://db.dxy.cn/v5/home/document",
         "https://www.pharmcube.com/"
       ],
-      "coverage": "仅核查官方产品和授权方式；未授权不调用专业接口，不采集付费内容"
+      "coverage": "本阶段关闭定时跟进，仅保留官方目录；用户主动要求并明确授权后再单独处理。",
+      "enabled": false
     }
-  ]
+  ],
+  "access_mode": "public_only",
+  "scope_note": "用户选择本阶段先补公开信息，不购买、不申请试用或付费接口，不反复追问订阅。"
 }
