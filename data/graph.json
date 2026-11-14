@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T22:09:55+08:00",
+  "generated_at": "2026-11-14T22:14:12+08:00",
   "semantics": "mention-only; not causal, partnership or maturity evidence",
   "nodes": [
     {
@@ -52,7 +52,7 @@
         "CGT"
       ],
       "note": "同时追踪产品、适应症、临床分期、生产工艺和监管；试验登记不是获批。",
-      "count": 56
+      "count": 59
     },
     {
       "id": "bci",
@@ -228,7 +228,7 @@
         "审评"
       ],
       "note": "区分征求意见稿、正式文件与实施日期；指导原则发布不意味着任何具体产品已获批。",
-      "count": 69
+      "count": 79
     },
     {
       "id": "career",
@@ -405,6 +405,11 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "regulation",
+      "target": "734c43e1e65a5d92",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "bci",
       "target": "70feb6b55a0bad44",
       "relation": "mentioned_in"
@@ -422,6 +427,16 @@
     {
       "source": "cgt",
       "target": "6ff1f8a333d1d2ee",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "6c5c4fa941c79405",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "6c5c4fa941c79405",
       "relation": "mentioned_in"
     },
     {
@@ -590,6 +605,11 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "regulation",
+      "target": "0c85d777e647a5a3",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "editing",
       "target": "0b4519cc37ebe65a",
       "relation": "mentioned_in"
@@ -727,6 +747,11 @@
     {
       "source": "synbio",
       "target": "994752b56a0233fd",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "97009043e7e9cf7a",
       "relation": "mentioned_in"
     },
     {
@@ -936,6 +961,11 @@
     },
     {
       "source": "cgt",
+      "target": "f06d94f4c2042831",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
       "target": "ee71bf6219911cb7",
       "relation": "mentioned_in"
     },
@@ -1000,6 +1030,11 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "regulation",
+      "target": "75aa1854c1752810",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "synbio",
       "target": "3a791103771cf7c8",
       "relation": "mentioned_in"
@@ -1060,8 +1095,23 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "regulation",
+      "target": "b0588e1e6476a95c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "ada3ffef2da28fa0",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "bci",
       "target": "93da3d00c5c2de55",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "865689c2630209c1",
       "relation": "mentioned_in"
     },
     {
@@ -1080,8 +1130,23 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "cgt",
+      "target": "3fb83d57d18e4d61",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "3f37fda9459c804c",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "protein",
       "target": "3ca0a6e74dc72d3d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "3508cdae614d2c29",
       "relation": "mentioned_in"
     },
     {
