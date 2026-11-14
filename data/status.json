@@ -157,16 +157,16 @@
   },
   {
     "source_id": "fierce",
-    "state": "ok",
+    "state": "error",
     "checked_at": "2026-11-14T22:14:12+08:00",
     "count": 0,
     "coverage": {
       "available": 25,
       "sampled": true,
-      "note": "只索引 RSS 提供的近期条目，不抓取付费正文。"
+      "note": "本次没有可收录条目，保留历史数据，不宣称覆盖。"
     },
-    "error": "",
-    "last_success": "2026-11-14T22:14:12+08:00"
+    "error": "RSS 返回条目但无可解析的非未来日期，需核验；不计为可用采集源。",
+    "last_success": null
   },
   {
     "source_id": "fda",

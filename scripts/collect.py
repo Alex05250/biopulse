@@ -174,6 +174,8 @@ def rss(s):
         r['topics']=topic_ids(title+' '+body)
         r['summary']='期刊题录 · 文章类型与证据请查看原文。' if kind=='journal' else '官方更新索引 · 文件范围、版本与生效日期以原文为准。' if kind=='official' else '媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。'
         if r['date']: out.append(r)
+    if not out:
+        raise ValueError('RSS returned items but no record with a parseable, non-future date; source needs review.')
     return out,dict(available=len(rows),sampled=True,note='只索引 RSS 提供的近期条目，不抓取付费正文。')
 
 def greenhouse(s):
