@@ -6,11 +6,10 @@ GLP-1 · 靶点与管线
 
 ## 提及关联（不是因果）
 
-[[基因编辑]] [[合成生物学]] [[监管与政策]]
+[[基因编辑]] [[监管与政策]]
 
-## 相关情报 / 6 条
+## 相关情报 / 5 条
 
-- [[6fb095947027ff07|ADMETatlas: an online database of peptide ADMET evidence toward peptide therapeutic development.]] · 2026-11-13 · journal
 - [[4b75836fec20c0df|STAT+: HHS plans funding for research into ibogaine for PTSD]] · 2026-11-13 · news
 - [[066083d16630feaa|STAT+: Oura’s acquisition of health tech startup raises conflict-of-interest questions for Eli Lilly, experts say]] · 2026-11-13 · news
 - [[52cd7988ea2f0527|STAT+: Most-favored nations policy makes drugmakers rethink launches abroad]] · 2026-11-12 · news

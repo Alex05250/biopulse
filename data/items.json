@@ -12,16 +12,14 @@
     "source_refs": [
       "gen"
     ],
-    "topics": [
-      "career"
-    ],
+    "topics": [],
     "summary": "媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。",
     "doi": "10.1126/science.aef4622",
     "venue": "GEN",
     "authors": "Sophia Ktori",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -37,16 +35,14 @@
     "source_refs": [
       "gen"
     ],
-    "topics": [
-      "career"
-    ],
+    "topics": [],
     "summary": "媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。",
     "doi": "10.1186/s13073-026-01747-2",
     "venue": "GEN",
     "authors": "Julianna LeMieux, PhD",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -75,9 +71,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "fbad13ad095ac3d7",
@@ -112,7 +108,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -145,7 +141,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -179,7 +175,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -212,7 +208,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -230,7 +226,6 @@
     ],
     "topics": [
       "adc",
-      "career",
       "regulation"
     ],
     "summary": "媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。",
@@ -239,7 +234,7 @@
     "authors": "Kathy Vuksanaj",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -268,40 +263,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "e152d3b05a031183",
-    "title": "Genetic Susceptibility, Neurodevelopmental Abnormalities, and Neuroimmune Interactions Across Major Psychiatric Disorders.",
-    "url": "https://doi.org/10.1007/s12264-026-01742-y",
-    "date": "2026-11-13",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · 脑机接口",
-    "source_id": "epmc-bci",
-    "source_refs": [
-      "epmc-bci"
-    ],
-    "topics": [
-      "bci"
-    ],
-    "summary": "题录索引 · Neuroscience bulletin。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1007/s12264-026-01742-y",
-    "pmid": "43026477",
-    "venue": "Neuroscience bulletin",
-    "authors": "Lu Z, Gao Y, Liu B, Wu Y, Li T, Wang Q, Qi H, Ma X, Yue W.",
-    "publication_types": [
-      "IM",
-      "Review",
-      "Journal Article"
-    ],
-    "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "da0580c1afad1da5",
@@ -333,66 +297,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "d9b05b6c051eaf81",
-    "title": "GhNAC029 reduces cotton drought tolerance by negatively regulating NCED1-mediated ABA synthesis.",
-    "url": "https://doi.org/10.1093/plphys/kiag850",
-    "date": "2026-11-13",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · 合成生物学",
-    "source_id": "epmc-synbio",
-    "source_refs": [
-      "epmc-synbio"
-    ],
-    "topics": [
-      "regulation",
-      "synbio"
-    ],
-    "summary": "题录索引 · Plant physiology。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1093/plphys/kiag850",
-    "pmid": "43023385",
-    "venue": "Plant physiology",
-    "authors": "Li J, Wang M, Shen Y, Ma H, Shen Q, Liu S, Liu R, Zhang S, Pang C, Ge C.",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "d2e0bdacb9156267",
-    "title": "Spatial DNA-directed single-molecule methylome and transcriptome co-profiling in mammalian tissues.",
-    "url": "https://doi.org/10.1038/s41422-026-01320-x",
-    "date": "2026-11-13",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · 合成生物学",
-    "source_id": "epmc-synbio",
-    "source_refs": [
-      "epmc-synbio"
-    ],
-    "topics": [
-      "synbio"
-    ],
-    "summary": "题录索引 · Cell research。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1038/s41422-026-01320-x",
-    "pmid": "43020869",
-    "venue": "Cell research",
-    "authors": "Yu H, Yuan S, Tang X, Lu Y, He A, Wu H, Zhou J, Liang G, Ruan K, Li N, Huang X, Jiang X, Chen H, Liu C, Li W.",
-    "publication_types": [
-      "Letter"
-    ],
-    "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -421,9 +326,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "cf3d3392c8c8f7c5",
@@ -439,7 +344,6 @@
       "gen"
     ],
     "topics": [
-      "career",
       "regulation"
     ],
     "summary": "媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。",
@@ -448,7 +352,7 @@
     "authors": "Sophia Ktori",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -482,7 +386,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -512,9 +416,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "bf8aa0548d68be2c",
@@ -542,9 +446,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "bb03e1b3a4d39cf7",
@@ -573,7 +477,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -602,9 +506,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "af884cb74591746c",
@@ -631,9 +535,9 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "98183bcb37b8f27c",
@@ -665,7 +569,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -693,9 +597,9 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "8a2c14a15ccc8db6",
@@ -723,9 +627,9 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "854d6ea180ea0a91",
@@ -740,16 +644,14 @@
     "source_refs": [
       "gen"
     ],
-    "topics": [
-      "career"
-    ],
+    "topics": [],
     "summary": "媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。",
     "doi": "10.1371/journal.ppat.1014754",
     "venue": "GEN",
     "authors": "Savannah Wiegel",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -766,7 +668,6 @@
       "trials"
     ],
     "topics": [
-      "career",
       "cd19",
       "cgt"
     ],
@@ -785,7 +686,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -802,7 +703,6 @@
       "trials"
     ],
     "topics": [
-      "career",
       "cgt"
     ],
     "summary": "登记更新 · City of Hope Medical Center · PHASE1 · RECRUITING。登记状态不代表疗效已证实；是否有结果请查原始登记。",
@@ -822,7 +722,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -839,7 +739,6 @@
       "biorxiv-synthetic_biology"
     ],
     "topics": [
-      "career",
       "regulation",
       "synbio"
     ],
@@ -854,7 +753,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -883,9 +782,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "7939a997f88d503b",
@@ -901,7 +800,6 @@
       "biorxiv-synthetic_biology"
     ],
     "topics": [
-      "career",
       "synbio"
     ],
     "summary": "未经同行评议 · bioRxiv synthetic biology，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
@@ -915,7 +813,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -948,7 +846,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -984,7 +882,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -1021,7 +919,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -1049,9 +947,9 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "6ff1f8a333d1d2ee",
@@ -1089,7 +987,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -1127,98 +1025,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "6fb97d1c99b85227",
-    "title": "CRISPR opens the door to targeted therapy against glioblastoma (Review).",
-    "url": "https://doi.org/10.3892/ijo.2026.5957",
-    "date": "2026-11-13",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · 合成生物学",
-    "source_id": "epmc-synbio",
-    "source_refs": [
-      "epmc-synbio"
-    ],
-    "topics": [
-      "editing",
-      "synbio"
-    ],
-    "summary": "题录索引 · International journal of oncology。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.3892/ijo.2026.5957",
-    "pmid": "43023242",
-    "venue": "International journal of oncology",
-    "authors": "Zhang C, Zhang Y, Song N, Zhang L, Zhao Y, Yao C.",
-    "publication_types": [
-      "Review",
-      "Journal Article"
-    ],
-    "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "6fb095947027ff07",
-    "title": "ADMETatlas: an online database of peptide ADMET evidence toward peptide therapeutic development.",
-    "url": "https://doi.org/10.1093/nar/gkag1147",
-    "date": "2026-11-13",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · 合成生物学",
-    "source_id": "epmc-synbio",
-    "source_refs": [
-      "epmc-synbio"
-    ],
-    "topics": [
-      "glp1",
-      "synbio"
-    ],
-    "summary": "题录索引 · Nucleic acids research。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1093/nar/gkag1147",
-    "pmid": "43021686",
-    "venue": "Nucleic acids research",
-    "authors": "Yi J, Tian Y, Deng Y, Gu X, Fu X, Jiang D, Lyu A, Cao D.",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "6c528b6324b9c895",
-    "title": "A Synthetic Benchmark for Topology-Aware Modeling of Multispecific Antibody Function.",
-    "url": "https://doi.org/10.1177/15578666261499737",
-    "date": "2026-11-13",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · AI 蛋白质设计",
-    "source_id": "epmc-protein",
-    "source_refs": [
-      "epmc-protein"
-    ],
-    "topics": [
-      "adc",
-      "protein"
-    ],
-    "summary": "题录索引 · Journal of computational biology : a journal of computational molecular cell biology。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1177/15578666261499737",
-    "pmid": "43023316",
-    "venue": "Journal of computational biology : a journal of computational molecular cell biology",
-    "authors": "Southern J, Lu C, Nerli S, Stanton SD, Watkins AM, Seeger F, Dreyer FA.",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -1250,7 +1057,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -1279,9 +1086,9 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "5c4c592672c3219c",
@@ -1313,7 +1120,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -1348,39 +1155,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "52f3cb3ab8d98960",
-    "title": "Rewiring dendritic cell function with CLEC9A and DEC205 CARs.",
-    "url": "https://doi.org/10.1038/s41590-026-02711-3",
-    "date": "2026-11-13",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · 合成生物学",
-    "source_id": "epmc-synbio",
-    "source_refs": [
-      "epmc-synbio"
-    ],
-    "topics": [
-      "career",
-      "cgt",
-      "synbio"
-    ],
-    "summary": "题录索引 · Nature immunology。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1038/s41590-026-02711-3",
-    "pmid": "43026322",
-    "venue": "Nature immunology",
-    "authors": "Niu C, Dai X, Gao H, Zhang H, Ma Y, Wang H, Xiao Z, Xu Y, He S, Ye Z, Tang X, Lin P, Li K, Pittet MJ, Zhang L, Wang C.",
-    "publication_types": [
-      "IM",
-      "Journal Article"
-    ],
-    "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -1405,7 +1180,7 @@
     "authors": "Meghana Keshavan",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -1423,7 +1198,6 @@
       "epmc-synbio"
     ],
     "topics": [
-      "career",
       "editing",
       "regulation",
       "synbio"
@@ -1439,9 +1213,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "50050d6ccb6fd289",
@@ -1468,9 +1242,9 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "4d63a2c78f6ab5b0",
@@ -1507,7 +1281,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -1537,9 +1311,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "4b75836fec20c0df",
@@ -1563,7 +1337,7 @@
     "authors": "Meghana Keshavan",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -1594,7 +1368,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -1627,7 +1401,7 @@
     },
     "has_results": true,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -1664,7 +1438,7 @@
     "job_id": "4728873006",
     "published_date": "2026-11-13",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -1692,9 +1466,9 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "33f2ff0666f2bb84",
@@ -1726,7 +1500,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -1756,7 +1530,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -1784,7 +1558,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -1801,7 +1575,6 @@
       "epmc-editing"
     ],
     "topics": [
-      "career",
       "editing",
       "synbio"
     ],
@@ -1814,9 +1587,9 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "261b5a871e7c9f6d",
@@ -1843,9 +1616,9 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "24dcdb0db87d8bbe",
@@ -1876,7 +1649,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -1906,9 +1679,9 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "1e171e87b3bf1a1a",
@@ -1936,9 +1709,9 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "1bfde42929ed54f8",
@@ -1965,9 +1738,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "18aeb36e530454b6",
@@ -1997,7 +1770,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2013,16 +1786,14 @@
     "source_refs": [
       "gen"
     ],
-    "topics": [
-      "career"
-    ],
+    "topics": [],
     "summary": "媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。",
     "doi": "",
     "venue": "GEN",
     "authors": "Uduak Thomas",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2039,7 +1810,6 @@
       "epmc-synbio"
     ],
     "topics": [
-      "career",
       "delivery",
       "regulation",
       "synbio"
@@ -2055,9 +1825,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "0b4519cc37ebe65a",
@@ -2073,7 +1843,6 @@
       "epmc-editing"
     ],
     "topics": [
-      "career",
       "editing"
     ],
     "summary": "题录索引 · PLoS neglected tropical diseases。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
@@ -2086,9 +1855,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "08fc0ae92f257866",
@@ -2115,9 +1884,9 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "066083d16630feaa",
@@ -2141,36 +1910,7 @@
     "authors": "Elaine Chen",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "00be5eb5b8a53770",
-    "title": "Arabidopsis TRB Proteins Promote ROS Detoxification for Ethanol-Enhanced Salt Stress Tolerance.",
-    "url": "https://doi.org/10.1093/jxb/erag572",
-    "date": "2026-11-13",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · 合成生物学",
-    "source_id": "epmc-synbio",
-    "source_refs": [
-      "epmc-synbio"
-    ],
-    "topics": [
-      "synbio"
-    ],
-    "summary": "题录索引 · Journal of experimental botany。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1093/jxb/erag572",
-    "pmid": "43021669",
-    "venue": "Journal of experimental botany",
-    "authors": "Urushihara K, Matsui A, Tanaka M, Fujiwara S, Mitsuda N, Ohme-Takagi M, Nagano AJ, Seki M, Sako K.",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2187,7 +1927,6 @@
       "biorxiv-synthetic_biology"
     ],
     "topics": [
-      "career",
       "regulation",
       "synbio"
     ],
@@ -2202,7 +1941,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2237,7 +1976,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2277,7 +2016,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2313,7 +2052,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2344,7 +2083,7 @@
     },
     "has_results": true,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2367,7 +2106,7 @@
     "authors": "Adam Feuerstein",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2390,7 +2129,7 @@
     "authors": "Seongryong Kim, Sungmin Cheong, Suho Lee, Yeju Kim, Ronald Xie, In Gyeong Koh",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2407,7 +2146,6 @@
       "biorxiv-synthetic_biology"
     ],
     "topics": [
-      "career",
       "protein",
       "synbio"
     ],
@@ -2422,7 +2160,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2459,7 +2197,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2494,7 +2232,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2528,7 +2266,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2563,7 +2301,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2597,7 +2335,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2628,7 +2366,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2663,7 +2401,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2691,9 +2429,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "c15860d32d69ddb4",
@@ -2725,7 +2463,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2759,7 +2497,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2795,7 +2533,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2829,7 +2567,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2862,7 +2600,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2896,38 +2634,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "a11a614ffa7886ba",
-    "title": "Lineage-specific Emergence and Multi-layered Regulation of Limonoid Biosynthesis in Citrus.",
-    "url": "https://doi.org/10.1016/j.xplc.2026.102166",
-    "date": "2026-11-12",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · 合成生物学",
-    "source_id": "epmc-synbio",
-    "source_refs": [
-      "epmc-synbio"
-    ],
-    "topics": [
-      "career",
-      "regulation",
-      "synbio"
-    ],
-    "summary": "题录索引 · Plant communications。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1016/j.xplc.2026.102166",
-    "pmid": "43016121",
-    "venue": "Plant communications",
-    "authors": "Wang Z, Xiong J, Liu S, Tian X, Liu Y, Luo X, Xie Z, Chai L, Xu J, Xu Q, Ye J, Zheng X, Deng X.",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2960,7 +2667,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -2977,7 +2684,6 @@
       "biorxiv-synthetic_biology"
     ],
     "topics": [
-      "career",
       "synbio"
     ],
     "summary": "未经同行评议 · bioRxiv synthetic biology，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
@@ -2991,7 +2697,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3008,7 +2714,6 @@
       "epmc-synbio"
     ],
     "topics": [
-      "career",
       "synbio"
     ],
     "summary": "题录索引 · Bioresource technology。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
@@ -3021,9 +2726,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "87cc402ac1301dca",
@@ -3055,7 +2760,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3083,9 +2788,9 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "85eba8e8fdd8b990",
@@ -3114,7 +2819,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3147,7 +2852,7 @@
     },
     "has_results": true,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3181,7 +2886,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3199,7 +2904,6 @@
       "epmc-synbio"
     ],
     "topics": [
-      "career",
       "regulation",
       "synbio"
     ],
@@ -3214,7 +2918,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3247,7 +2951,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3284,7 +2988,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3317,7 +3021,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3351,7 +3055,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3385,7 +3089,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3416,7 +3120,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3451,7 +3155,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3480,66 +3184,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "56d2a29cda7e20c3",
-    "title": "Reductive Coupling of Carbonyl Compounds with Primary Amides for the Synthesis of N-Alkyl Amides.",
-    "url": "https://doi.org/10.1021/acs.joc.6c02182",
-    "date": "2026-11-12",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · 合成生物学",
-    "source_id": "epmc-synbio",
-    "source_refs": [
-      "epmc-synbio"
-    ],
-    "topics": [
-      "synbio"
-    ],
-    "summary": "题录索引 · The Journal of organic chemistry。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1021/acs.joc.6c02182",
-    "pmid": "43019387",
-    "venue": "The Journal of organic chemistry",
-    "authors": "Wu W, Yang B, Tang Y, Shi J, Qin Z, Ma J, Su F, Sun P, Du B.",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "550b66e041ab6c79",
-    "title": "Mechanism-guided remodeling of a push-pull active-site microenvironment in aldehyde dehydrogenase for HMF oxidation.",
-    "url": "https://doi.org/10.1016/j.ijbiomac.2026.155191",
-    "date": "2026-11-12",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · 合成生物学",
-    "source_id": "epmc-synbio",
-    "source_refs": [
-      "epmc-synbio"
-    ],
-    "topics": [
-      "career",
-      "synbio"
-    ],
-    "summary": "题录索引 · International journal of biological macromolecules。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1016/j.ijbiomac.2026.155191",
-    "pmid": "43020358",
-    "venue": "International journal of biological macromolecules",
-    "authors": "Xi Z, Yu L, Yang Z, Zhao H, Tang Z, Zhang L, Zhang R, Zhu X, Wang B, Chen K, Hui F, Niu Q.",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3567,9 +3212,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "52cd7988ea2f0527",
@@ -3594,7 +3239,7 @@
     "authors": "Elaine Chen",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3617,7 +3262,7 @@
     "authors": "Adam Feuerstein",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3653,7 +3298,7 @@
     "job_id": "7799063003",
     "published_date": "2026-07-08",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3690,7 +3335,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3707,7 +3352,6 @@
       "biorxiv-synthetic_biology"
     ],
     "topics": [
-      "career",
       "rna",
       "synbio"
     ],
@@ -3722,7 +3366,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3751,7 +3395,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3783,37 +3427,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "3ad6b5f5abae0de8",
-    "title": "Single Center, Single-Group Trial to Evaluate the Safety and Feasibility of 50 Hz Stimulation to Enhance Stroke Recovery of Upper Limb Function: The Motor Recovery Through Plasticity-Inducing Cortical Stimulation Open-Loop Protocol",
-    "url": "https://europepmc.org/article/PMC/PMC13754338",
-    "date": "2026-11-12",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · 脑机接口",
-    "source_id": "epmc-bci",
-    "source_refs": [
-      "epmc-bci"
-    ],
-    "topics": [
-      "bci"
-    ],
-    "summary": "题录索引 · Neurosurgery practice。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "",
-    "pmid": "",
-    "venue": "Neurosurgery practice",
-    "authors": "Herron J, Cho H, Robert-Gonzalez A, Bahadori-Nejad M, Wohns N, Friedman G, Fu J, Bi P, D'Souza S, Anderson A, Wright D, Bunnell A, Mazwi N, Perlmutter S, Creutzfeldt C, Tirschwell D, Klein E, Weaver K, Grannan B, Ko A, Moritz C, Cramer S, Ojemann J.",
-    "publication_types": [
-      "research-article",
-      "Journal Article"
-    ],
-    "access": "索引标记开放获取（未验证全文）",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3841,9 +3455,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "28f53a5e7cfd22db",
@@ -3875,36 +3489,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "286f210758de10c5",
-    "title": "Low-amplitude intracortical microstimulation produces short-latency modulation throughout the cortical reach-to-grasp network.",
-    "url": "https://doi.org/10.1088/1741-2552/aec197",
-    "date": "2026-11-12",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · 脑机接口",
-    "source_id": "epmc-bci",
-    "source_refs": [
-      "epmc-bci"
-    ],
-    "topics": [
-      "bci"
-    ],
-    "summary": "题录索引 · Journal of neural engineering。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1088/1741-2552/aec197",
-    "pmid": "43019601",
-    "venue": "Journal of neural engineering",
-    "authors": "Ruszala BM, Schieber MH.",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3935,7 +3520,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -3973,7 +3558,7 @@
     "job_id": "4729144006",
     "published_date": "2026-11-12",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4001,9 +3586,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "12b8db757b3c68a3",
@@ -4037,36 +3622,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "0fc7d73ccc7539ab",
-    "title": "A patient-derived, autologous component-integrated biomimetic hydrogel system for lung cancer organoid culture and recapitulation of immunotherapy response.",
-    "url": "https://doi.org/10.1088/1758-5090/aec19a",
-    "date": "2026-11-12",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · 合成生物学",
-    "source_id": "epmc-synbio",
-    "source_refs": [
-      "epmc-synbio"
-    ],
-    "topics": [
-      "synbio"
-    ],
-    "summary": "题录索引 · Biofabrication。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1088/1758-5090/aec19a",
-    "pmid": "43019602",
-    "venue": "Biofabrication",
-    "authors": "Yun W, Yuan J, Li Y, Liu H, Xiao L, Chen W.",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4103,7 +3659,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4120,7 +3676,6 @@
       "gen"
     ],
     "topics": [
-      "career",
       "cgt"
     ],
     "summary": "媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。",
@@ -4129,8 +3684,38 @@
     "authors": "Corinna Singleman, PhD",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "e42d0f19c2aa82a3",
+    "title": "Emerging synthetic biology toolkits to control gene expression and provide therapeutic avenues in cardiovascular disease.",
+    "url": "https://doi.org/10.1080/13543784.2026.2761884",
+    "date": "2026-11-11",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · 合成生物学",
+    "source_id": "epmc-synbio",
+    "source_refs": [
+      "epmc-synbio"
+    ],
+    "topics": [
+      "regulation",
+      "synbio"
+    ],
+    "summary": "题录索引 · Expert opinion on investigational drugs。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1080/13543784.2026.2761884",
+    "pmid": "43016050",
+    "venue": "Expert opinion on investigational drugs",
+    "authors": "Chen YC, Pokharel S, Alexander NR, Jin FM, Chen WCW.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "da1a6b882dff4641",
@@ -4158,7 +3743,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4192,7 +3777,7 @@
     "job_id": "7718856003",
     "published_date": "2026-04-28",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4222,8 +3807,39 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "cbc48473af4c3aa1",
+    "title": "Targeting bacterial signaling pathways: a paradigm shift in antimicrobial strategies for food safety.",
+    "url": "https://doi.org/10.1080/10408398.2026.2754574",
+    "date": "2026-11-11",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · 合成生物学",
+    "source_id": "epmc-synbio",
+    "source_refs": [
+      "epmc-synbio"
+    ],
+    "topics": [
+      "delivery",
+      "synbio"
+    ],
+    "summary": "题录索引 · Critical reviews in food science and nutrition。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1080/10408398.2026.2754574",
+    "pmid": "43012873",
+    "venue": "Critical reviews in food science and nutrition",
+    "authors": "Cen C, Chu J, Wang W, Yi Z, Jiang B, Shentu X, Miao S, Wang Y, Yu X.",
+    "publication_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "ca1588ae5011b53b",
@@ -4250,8 +3866,38 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "c60ef5437c89eb51",
+    "title": "In-field crop disease surveillance: from phenotypes to molecules.",
+    "url": "https://doi.org/10.1039/d5cs01551k",
+    "date": "2026-11-11",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · 合成生物学",
+    "source_id": "epmc-synbio",
+    "source_refs": [
+      "epmc-synbio"
+    ],
+    "topics": [
+      "synbio"
+    ],
+    "summary": "题录索引 · Chemical Society reviews。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1039/d5cs01551k",
+    "pmid": "43012344",
+    "venue": "Chemical Society reviews",
+    "authors": "Xia X, Zhang T, Luo Q, Wu H, Wei Q, Deng R.",
+    "publication_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "c205e96230f7ad6c",
@@ -4273,7 +3919,7 @@
     "authors": "David E. Reynolds, Renee-Tyler T. Morales, Phoebe Vallapureddy, Shailesh Senthil Kumar, Emily Huynh, Claire Messerschmidt",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4289,16 +3935,14 @@
     "source_refs": [
       "gen"
     ],
-    "topics": [
-      "career"
-    ],
+    "topics": [],
     "summary": "媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。",
     "doi": "10.1002/bit.70417",
     "venue": "GEN",
     "authors": "Corinna Singleman, PhD",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4328,8 +3972,37 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "977d60068c4a1e4a",
+    "title": "On-demand biomanufacturing via programmed SporeBot.",
+    "url": "https://doi.org/10.1016/j.crmeth.2026.101662",
+    "date": "2026-11-11",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · 合成生物学",
+    "source_id": "epmc-synbio",
+    "source_refs": [
+      "epmc-synbio"
+    ],
+    "topics": [
+      "synbio"
+    ],
+    "summary": "题录索引 · Cell reports methods。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1016/j.crmeth.2026.101662",
+    "pmid": "43014321",
+    "venue": "Cell reports methods",
+    "authors": "Chen J, Zhang J, Zang Z, Ruan B, Tang J, Wang L, Tang C, Luo J, Xie R, Peng Z, Li J, Lu W, Wang G, Sun J, Dai Z.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "8a5caf663f440535",
@@ -4344,16 +4017,14 @@
     "source_refs": [
       "gen"
     ],
-    "topics": [
-      "career"
-    ],
+    "topics": [],
     "summary": "媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。",
     "doi": "10.3389/fbiom.2026.1831334",
     "venue": "GEN",
     "authors": "Corinna Singleman, PhD",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4369,16 +4040,14 @@
     "source_refs": [
       "gen"
     ],
-    "topics": [
-      "career"
-    ],
+    "topics": [],
     "summary": "媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。",
     "doi": "",
     "venue": "GEN",
     "authors": "Sophia Ktori",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4406,37 +4075,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "6012918646f18ecd",
-    "title": "Saturation barcoding of ribosomal DNA resolves the nucleolar organizer regions of the human genome",
-    "url": "https://doi.org/10.64898/2026.11.10.765783",
-    "date": "2026-11-11",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "preprint",
-    "source": "PubMed · 合成生物学",
-    "source_id": "epmc-synbio",
-    "source_refs": [
-      "epmc-synbio"
-    ],
-    "topics": [
-      "editing",
-      "synbio"
-    ],
-    "summary": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.64898/2026.11.10.765783",
-    "pmid": "",
-    "venue": "预印本",
-    "authors": "Zhao S, Wallentin J, Potapova T, Zheng S, Liu X, Daza RM, Gerton JL, Shendure J, Li X.",
-    "publication_types": [
-      "Preprint"
-    ],
-    "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4464,7 +4103,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4492,8 +4131,38 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "3a791103771cf7c8",
+    "title": "Bacterial outer membrane vesicles at the Host-Pathogen interface: Biochemical mechanisms, immunomodulation, clinical and biotechnological applications.",
+    "url": "https://doi.org/10.1556/030.2026.03095",
+    "date": "2026-11-11",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · 合成生物学",
+    "source_id": "epmc-synbio",
+    "source_refs": [
+      "epmc-synbio"
+    ],
+    "topics": [
+      "synbio"
+    ],
+    "summary": "题录索引 · Acta microbiologica et immunologica Hungarica。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1556/030.2026.03095",
+    "pmid": "43012915",
+    "venue": "Acta microbiologica et immunologica Hungarica",
+    "authors": "Ali SF, Hussein AN, Doori HL, Hameed A, Abdul Kader MAH, Kadhim MJ.",
+    "publication_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "21ddbcaf895ddfbb",
@@ -4520,9 +4189,9 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "2058c3b132468fb0",
@@ -4549,9 +4218,39 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
+  },
+  {
+    "id": "1443a4d7a2099571",
+    "title": "Hierarchical design strategies for tuning genetic circuits.",
+    "url": "https://doi.org/10.1016/j.tibtech.2026.10.013",
+    "date": "2026-11-11",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · 合成生物学",
+    "source_id": "epmc-synbio",
+    "source_refs": [
+      "epmc-synbio"
+    ],
+    "topics": [
+      "synbio"
+    ],
+    "summary": "题录索引 · Trends in biotechnology。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1016/j.tibtech.2026.10.013",
+    "pmid": "43015170",
+    "venue": "Trends in biotechnology",
+    "authors": "Ba F, Liu L, Sun Q.",
+    "publication_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "090be679d685ee1b",
@@ -4567,8 +4266,7 @@
       "epmc-bci"
     ],
     "topics": [
-      "bci",
-      "career"
+      "bci"
     ],
     "summary": "题录索引 · Journal of neural engineering。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
     "doi": "10.1088/1741-2552/aec0d0",
@@ -4579,9 +4277,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "ffe4c22ec5e24471",
@@ -4608,8 +4306,37 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "ff82e63116cfeb87",
+    "title": "SeekRBP: Leveraging Sequence-Structure Integration with Reinforcement Learning for Receptor-Binding Protein Identification.",
+    "url": "https://doi.org/10.1093/bioinformatics/btag813",
+    "date": "2026-11-10",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · 合成生物学",
+    "source_id": "epmc-synbio",
+    "source_refs": [
+      "epmc-synbio"
+    ],
+    "topics": [
+      "synbio"
+    ],
+    "summary": "题录索引 · Bioinformatics (Oxford, England)。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1093/bioinformatics/btag813",
+    "pmid": "43009207",
+    "venue": "Bioinformatics (Oxford, England)",
+    "authors": "Luo X, Ou-Yang L, Shen Y, Guan J, Cai D, Zhang J, Xing G, Sun Y, Shang J.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "f279d8217cfda79b",
@@ -4636,7 +4363,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4664,37 +4391,38 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
-    "id": "f102ffcfb1931422",
-    "title": "Lower frequency ECoG features improve longitudinal stability of speech and hand-grasp detection in a patient with progressive ALS.",
-    "url": "https://doi.org/10.1088/1741-2552/aec049",
+    "id": "efefa0382fea9454",
+    "title": "Next-generation nanocellulose-based smart biomaterials: advances, functionalization strategies, and sustainable biomedical applications.",
+    "url": "https://doi.org/10.1016/j.carres.2026.110165",
     "date": "2026-11-10",
     "date_basis": "published",
     "category": "research",
     "kind": "journal",
-    "source": "PubMed · 脑机接口",
-    "source_id": "epmc-bci",
+    "source": "PubMed · 合成生物学",
+    "source_id": "epmc-synbio",
     "source_refs": [
-      "epmc-bci"
+      "epmc-synbio"
     ],
     "topics": [
-      "bci"
+      "synbio"
     ],
-    "summary": "题录索引 · Journal of neural engineering。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1088/1741-2552/aec049",
-    "pmid": "43008331",
-    "venue": "Journal of neural engineering",
-    "authors": "Wallner J, Angrick M, Luo S, Candrea D, Crone N, Krusienski DJ.",
+    "summary": "题录索引 · Carbohydrate research。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1016/j.carres.2026.110165",
+    "pmid": "43014067",
+    "venue": "Carbohydrate research",
+    "authors": "Edo GI, Omoathebu EE, Orogu JO, Ainyanbhor IE, Makia RS, Oghroro EEA, Owheruo JO, Yousif E, Jikah AN, Akpoghelie PO, Essaghah AEA, Fuwape IA, Umar H, Ahmed DS, Alamiery AA, Said MA.",
     "publication_types": [
+      "Review",
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "eb46ba83a561b935",
@@ -4721,7 +4449,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4751,7 +4479,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4779,7 +4507,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4810,7 +4538,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4838,7 +4566,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4870,7 +4598,7 @@
     "job_id": "6510680003",
     "published_date": "2025-03-14",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4898,7 +4626,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4926,7 +4654,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4957,7 +4685,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -4985,7 +4713,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5008,7 +4736,7 @@
     "authors": "Evan Yang, Jose Aceves-Salvador, Carlos Castrillon, Uli S. Herrmann, Elliot H. Akama-Garren, Michael C. Carroll",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5037,38 +4765,9 @@
       "Journal Article"
     ],
     "access": "索引标记开放获取（未验证全文）",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "928c2b69aa01b117",
-    "title": "MSTA-CNN an ultra-lightweight multi-scale temporal-spatial attention convolutional neural network for high-performance P300 spellers.",
-    "url": "https://doi.org/10.1088/2057-1976/aec01c",
-    "date": "2026-11-10",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · 脑机接口",
-    "source_id": "epmc-bci",
-    "source_refs": [
-      "epmc-bci"
-    ],
-    "topics": [
-      "bci"
-    ],
-    "summary": "题录索引 · Biomedical physics & engineering express。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1088/2057-1976/aec01c",
-    "pmid": "43008323",
-    "venue": "Biomedical physics & engineering express",
-    "authors": "Fatemi SA, Shamsi M.",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "90466387093e675b",
@@ -5095,7 +4794,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5123,7 +4822,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5151,7 +4850,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5179,7 +4878,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5207,7 +4906,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5235,7 +4934,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5263,7 +4962,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5291,7 +4990,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5319,7 +5018,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5335,9 +5034,7 @@
     "source_refs": [
       "biorxiv-bioinformatics"
     ],
-    "topics": [
-      "career"
-    ],
+    "topics": [],
     "summary": "未经同行评议 · bioRxiv bioinformatics，版本 2。仅作研究线索，不能据此认定疗效或安全性。",
     "doi": "10.64898/2026.11.04.764416",
     "authors": "Liu, Y.; Liu, J.; Shi, Z.; Song, R.; Zhao, Z.; He, B.; Liu, X.; Liu, H.; Chen, J.; Li, K.; Wang, J.; Huang, Y.; Wang, J.; Dang, Y.; Chen, C.-T.; Zheng, S.",
@@ -5349,7 +5046,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5379,7 +5076,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5390,13 +5087,12 @@
     "date_basis": "published",
     "category": "research",
     "kind": "journal",
-    "source": "PubMed · AI 蛋白质设计",
-    "source_id": "epmc-protein",
+    "source": "PubMed · 合成生物学",
+    "source_id": "epmc-synbio",
     "source_refs": [
-      "epmc-protein"
+      "epmc-synbio"
     ],
     "topics": [
-      "protein",
       "regulation",
       "synbio"
     ],
@@ -5411,9 +5107,9 @@
       "Journal Article"
     ],
     "access": "索引标记开放获取（未验证全文）",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "60a7aad1d9cb4391",
@@ -5440,7 +5136,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5468,7 +5164,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5496,7 +5192,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5524,7 +5220,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5552,7 +5248,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5580,7 +5276,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5608,7 +5304,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5636,7 +5332,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5664,7 +5360,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5692,7 +5388,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5722,7 +5418,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5755,7 +5451,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5788,7 +5484,7 @@
     },
     "has_results": false,
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5819,7 +5515,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5849,7 +5545,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5891,7 +5587,7 @@
     "job_id": "4723838006",
     "published_date": "2026-11-10",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5919,40 +5615,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "1d18db5642886d57",
-    "title": "Synthetic biology for sustainable abundance: biomining, electromicrobial production, and hyper-engineerable microbes.",
-    "url": "https://doi.org/10.1039/d6cc01792d",
-    "date": "2026-11-10",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · AI 蛋白质设计",
-    "source_id": "epmc-protein",
-    "source_refs": [
-      "epmc-protein"
-    ],
-    "topics": [
-      "career",
-      "protein",
-      "synbio"
-    ],
-    "summary": "题录索引 · Chemical communications (Cambridge, England)。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1039/d6cc01792d",
-    "pmid": "43006193",
-    "venue": "Chemical communications (Cambridge, England)",
-    "authors": "Vengerova G, Barstow B.",
-    "publication_types": [
-      "research-article",
-      "Review",
-      "Journal Article"
-    ],
-    "access": "索引标记开放获取（未验证全文）",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -5979,7 +5642,7 @@
     "authors": "Elaine Chen",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6002,8 +5665,40 @@
     "authors": "Jason Mast",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "11c7e17ae53f2ce5",
+    "title": "The road ahead for stem cell therapies in type 1 diabetes.",
+    "url": "https://doi.org/10.1111/dme.70511",
+    "date": "2026-11-10",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · 合成生物学",
+    "source_id": "epmc-synbio",
+    "source_refs": [
+      "epmc-synbio"
+    ],
+    "topics": [
+      "editing",
+      "regulation",
+      "synbio"
+    ],
+    "summary": "题录索引 · Diabetic medicine : a journal of the British Diabetic Association。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1111/dme.70511",
+    "pmid": "43010164",
+    "venue": "Diabetic medicine : a journal of the British Diabetic Association",
+    "authors": "Gasa R, Sancho R, Spagnoli FM.",
+    "publication_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "111a666160036f4d",
@@ -6030,7 +5725,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6058,7 +5753,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6086,7 +5781,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6114,7 +5809,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6142,7 +5837,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6159,7 +5854,6 @@
       "biorxiv-bioinformatics"
     ],
     "topics": [
-      "career",
       "editing",
       "protein"
     ],
@@ -6174,8 +5868,37 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "09f2d21cd80d69d3",
+    "title": "Diffusion integrity testing of small-area sterilizing-grade membrane filters in single-use assemblies.",
+    "url": "https://doi.org/10.1002/btpr.88563",
+    "date": "2026-11-10",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · 合成生物学",
+    "source_id": "epmc-synbio",
+    "source_refs": [
+      "epmc-synbio"
+    ],
+    "topics": [
+      "synbio"
+    ],
+    "summary": "题录索引 · Biotechnology progress。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1002/btpr.88563",
+    "pmid": "43009440",
+    "venue": "Biotechnology progress",
+    "authors": "Alembath A, Hersey J.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "0691f622c4891ac2",
@@ -6202,7 +5925,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6230,7 +5953,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6255,7 +5978,7 @@
     "authors": "Elaine Chen and Elizabeth Cooney",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6285,7 +6008,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6313,7 +6036,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6341,7 +6064,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6369,7 +6092,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6399,7 +6122,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6415,9 +6138,7 @@
     "source_refs": [
       "biorxiv-bioinformatics"
     ],
-    "topics": [
-      "career"
-    ],
+    "topics": [],
     "summary": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
     "doi": "10.64898/2026.11.06.764933",
     "authors": "Hernandez Berthet, A. S.; Sanchez, I. E.; Noguera, M. E.; Roman, E. A.",
@@ -6429,7 +6150,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6459,7 +6180,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6489,7 +6210,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6517,7 +6238,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6547,7 +6268,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6575,7 +6296,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6603,7 +6324,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6620,7 +6341,6 @@
       "biorxiv-synthetic_biology"
     ],
     "topics": [
-      "career",
       "editing",
       "synbio"
     ],
@@ -6635,7 +6355,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6663,7 +6383,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6686,7 +6406,7 @@
     "authors": "Atsushi Miyawaki",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6714,7 +6434,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6742,7 +6462,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6772,7 +6492,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6800,7 +6520,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6816,9 +6536,7 @@
     "source_refs": [
       "biorxiv-bioinformatics"
     ],
-    "topics": [
-      "career"
-    ],
+    "topics": [],
     "summary": "未经同行评议 · bioRxiv bioinformatics，版本 2。仅作研究线索，不能据此认定疗效或安全性。",
     "doi": "10.1101/2025.09.26.676459",
     "authors": "Velecky, J.; Faldynova, H.; Hermosilla, P.; Slanska, K.; Sendlerova, N.; Doerr, M.; Egersdorfova, S.; Bornscheuer, U.; Damborsky, J.; Prokop, Z.; Mazurenko, S.",
@@ -6830,7 +6548,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6853,7 +6571,7 @@
     "authors": "Qi Zou, Zhikang Wang, Sijie Li, Senlin Lin, Chuangyi Han, Yan Cui",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6881,7 +6599,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6909,7 +6627,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6925,9 +6643,7 @@
     "source_refs": [
       "biorxiv-bioinformatics"
     ],
-    "topics": [
-      "career"
-    ],
+    "topics": [],
     "summary": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
     "doi": "10.64898/2026.11.05.764763",
     "authors": "Das, R.; Dutta, S.; Bhattacharjee, S.",
@@ -6939,7 +6655,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6967,7 +6683,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -6984,7 +6700,6 @@
       "biorxiv-bioinformatics"
     ],
     "topics": [
-      "career",
       "rna"
     ],
     "summary": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
@@ -6998,7 +6713,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7027,9 +6742,9 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "80edd0e2e4909e25",
@@ -7056,7 +6771,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7084,7 +6799,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7101,7 +6816,6 @@
       "biorxiv-synthetic_biology"
     ],
     "topics": [
-      "career",
       "synbio"
     ],
     "summary": "未经同行评议 · bioRxiv synthetic biology，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
@@ -7115,7 +6829,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7132,7 +6846,6 @@
       "biorxiv-synthetic_biology"
     ],
     "topics": [
-      "career",
       "synbio"
     ],
     "summary": "未经同行评议 · bioRxiv synthetic biology，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
@@ -7146,7 +6859,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7169,7 +6882,7 @@
     "authors": "Vivien Marx",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7197,7 +6910,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7225,7 +6938,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7253,7 +6966,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7281,7 +6994,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7309,7 +7022,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7335,7 +7048,7 @@
     "authors": "Elaine Chen",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7365,7 +7078,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7393,7 +7106,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7423,7 +7136,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7451,7 +7164,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7476,36 +7189,7 @@
     "authors": "Meghana Keshavan and Brittany Trang",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "4056f716b4e6bff6",
-    "title": "Hierarchical causal construction for semantic-granularity-aligned counterfactual medical image generation.",
-    "url": "https://doi.org/10.1016/j.media.2026.104391",
-    "date": "2026-11-09",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · 脑机接口",
-    "source_id": "epmc-bci",
-    "source_refs": [
-      "epmc-bci"
-    ],
-    "topics": [
-      "bci"
-    ],
-    "summary": "题录索引 · Medical image analysis。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1016/j.media.2026.104391",
-    "pmid": "43019929",
-    "venue": "Medical image analysis",
-    "authors": "Fu Z, Zhou W, Jiang Z, Lin Y, Li G, Cao Y, Hou Y, Ding X, Yan Q, Chen Y.",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7534,9 +7218,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "38e898873aa03411",
@@ -7565,7 +7249,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7582,7 +7266,6 @@
       "biorxiv-synthetic_biology"
     ],
     "topics": [
-      "career",
       "synbio"
     ],
     "summary": "未经同行评议 · bioRxiv synthetic biology，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
@@ -7596,7 +7279,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7626,7 +7309,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7654,7 +7337,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7684,7 +7367,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7712,7 +7395,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7742,7 +7425,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7779,7 +7462,7 @@
     "job_id": "4725188006",
     "published_date": "2026-11-06",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7802,7 +7485,7 @@
     "authors": "John Wilkerson",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7818,9 +7501,7 @@
     "source_refs": [
       "biorxiv-bioinformatics"
     ],
-    "topics": [
-      "career"
-    ],
+    "topics": [],
     "summary": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
     "doi": "10.64898/2026.11.06.764833",
     "authors": "Behera, B. P.; Dixit, A.",
@@ -7832,7 +7513,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7855,7 +7536,7 @@
     "authors": "Matthew Herper",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7880,38 +7561,7 @@
     "authors": "Jason Mast",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "c8f2e3f035de72f7",
-    "title": "Psychological Predictors of Pilot Performance: An Integrative Review of Proximal and Distal Performance Criteria.",
-    "url": "https://doi.org/10.2147/prbm.s644271",
-    "date": "2026-11-07",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · 脑机接口",
-    "source_id": "epmc-bci",
-    "source_refs": [
-      "epmc-bci"
-    ],
-    "topics": [
-      "bci",
-      "regulation"
-    ],
-    "summary": "题录索引 · Psychology research and behavior management。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.2147/prbm.s644271",
-    "pmid": "43022516",
-    "venue": "Psychology research and behavior management",
-    "authors": "Yuwen Z, Yu F, Xiao Y, Xing YX, He J, Dong Y, Yao X.",
-    "publication_types": [
-      "Review",
-      "Journal Article"
-    ],
-    "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7939,7 +7589,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7967,7 +7617,7 @@
     ],
     "published_doi": "",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -7990,7 +7640,7 @@
     "authors": "Elizabeth Cooney and Matthew Herper",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8013,8 +7663,37 @@
     "authors": "Elizabeth Cooney",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "f705f83518de919a",
+    "title": "REFS: robust EEG feature selection with incomplete labels for multi-dimensional emotion recognition.",
+    "url": "https://doi.org/10.1088/1741-2552/aeb97e",
+    "date": "2026-11-06",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · 脑机接口",
+    "source_id": "epmc-bci",
+    "source_refs": [
+      "epmc-bci"
+    ],
+    "topics": [
+      "bci"
+    ],
+    "summary": "题录索引 · Journal of neural engineering。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1088/1741-2552/aeb97e",
+    "pmid": "42933128",
+    "venue": "Journal of neural engineering",
+    "authors": "Xu X, Dong W, Wei F, Zhuo L.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "c4cb08b5ef1f5969",
@@ -8040,7 +7719,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8065,7 +7744,7 @@
     "authors": "Meghana Keshavan and Jason Mast",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8096,7 +7775,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8119,37 +7798,7 @@
     "authors": "Justin Kuczynski, Zongzhi Liu, Catherine Lozupone, Daniel McDonald, Noah Fierer, Rob Knight",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "abc0ba074a2f5aeb",
-    "title": "A single-amino acid difference between rodent and human Andes virus affects viral glycoprotein trafficking.",
-    "url": "https://doi.org/10.1126/sciadv.aek2522",
-    "date": "2026-11-06",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · AI 蛋白质设计",
-    "source_id": "epmc-protein",
-    "source_refs": [
-      "epmc-protein"
-    ],
-    "topics": [
-      "protein"
-    ],
-    "summary": "题录索引 · Science advances。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1126/sciadv.aek2522",
-    "pmid": "42993834",
-    "venue": "Science advances",
-    "authors": "Vidal-Freire S, Ferressini-Gerpe NM, Bellomo CM, Pastor AF, Tagliavia M, Somavarapu R, Shirsathe S, Zhang J, Giannetti E, Mena I, Krammer F, Tischler ND, Patiño-Galindo JA, Kaczmarek M, Sanchez-Lockhart M, Worwa G, Kuhn JH, Schmaljohn CS, García-Sastre A, Martínez VP, Palacios G.",
-    "publication_types": [
-      "research-article",
-      "Journal Article"
-    ],
-    "access": "索引标记开放获取（未验证全文）",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8183,7 +7832,7 @@
     "job_id": "8044955003",
     "published_date": "2026-10-26",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8209,7 +7858,7 @@
     "authors": "Ed Silverman and Jason Mast",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8243,7 +7892,7 @@
     "job_id": "8027961003",
     "published_date": "2026-10-12",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8275,7 +7924,7 @@
     "job_id": "8197877003",
     "published_date": "2026-11-06",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8303,9 +7952,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "3186acbdddccc4eb",
@@ -8329,7 +7978,7 @@
     "authors": "Meghana Keshavan",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8357,9 +8006,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "153fc93883ea3621",
@@ -8386,9 +8035,9 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "0f66d785a968f22b",
@@ -8421,7 +8070,7 @@
     "job_id": "8197788003",
     "published_date": "2026-11-06",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8455,7 +8104,7 @@
     "job_id": "8027924003",
     "published_date": "2026-10-12",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8491,7 +8140,7 @@
     "job_id": "7931610003",
     "published_date": "2026-08-21",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8526,7 +8175,7 @@
     "job_id": "6819467003",
     "published_date": "2025-08-29",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8560,7 +8209,7 @@
     "job_id": "8005705003",
     "published_date": "2026-09-25",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8592,7 +8241,7 @@
     "job_id": "6576326003",
     "published_date": "2025-05-14",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8626,7 +8275,7 @@
     "job_id": "6607398003",
     "published_date": "2025-06-13",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8658,7 +8307,7 @@
     "job_id": "6550259003",
     "published_date": "2025-04-21",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8690,7 +8339,7 @@
     "job_id": "7751605003",
     "published_date": "2026-05-28",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8722,7 +8371,7 @@
     "job_id": "7780708003",
     "published_date": "2026-06-22",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8756,7 +8405,7 @@
     "job_id": "8020751003",
     "published_date": "2026-10-09",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8773,7 +8422,6 @@
       "epmc-protein"
     ],
     "topics": [
-      "career",
       "protein",
       "rna"
     ],
@@ -8786,9 +8434,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "e577c8c3d9f13684",
@@ -8819,7 +8467,7 @@
     "job_id": "7784040003",
     "published_date": "2026-06-24",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8842,7 +8490,7 @@
     "authors": "Seow Neng Chan, Jun Wei Pek",
     "access": "原文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8878,7 +8526,7 @@
     "job_id": "8197226003",
     "published_date": "2026-11-05",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8912,7 +8560,7 @@
     "job_id": "8005730003",
     "published_date": "2026-09-25",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8944,7 +8592,7 @@
     "job_id": "8196930003",
     "published_date": "2026-11-05",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -8978,7 +8626,7 @@
     "job_id": "6569010003",
     "published_date": "2025-05-07",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9010,7 +8658,7 @@
     "job_id": "7750309003",
     "published_date": "2026-05-27",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9042,7 +8690,7 @@
     "job_id": "8042285003",
     "published_date": "2026-10-22",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9076,7 +8724,7 @@
     "job_id": "7655221003",
     "published_date": "2026-03-05",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9113,7 +8761,7 @@
     "job_id": "5663271003",
     "published_date": "2023-06-29",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9149,7 +8797,7 @@
     "job_id": "7741688003",
     "published_date": "2026-05-20",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9181,7 +8829,7 @@
     "job_id": "6521585003",
     "published_date": "2025-03-25",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9216,7 +8864,7 @@
     "job_id": "6563685003",
     "published_date": "2025-05-02",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9252,7 +8900,7 @@
     "job_id": "7820573003",
     "published_date": "2026-07-29",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9284,8 +8932,40 @@
     "job_id": "6258222003",
     "published_date": "2025-11-13",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "a414edea0c7c65ad",
+    "title": "Advanced biomaterial technologies for neural regeneration in central nervous system diseases: mechanisms and applications.",
+    "url": "https://doi.org/10.1039/d6nr02348g",
+    "date": "2026-11-05",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · 脑机接口",
+    "source_id": "epmc-bci",
+    "source_refs": [
+      "epmc-bci"
+    ],
+    "topics": [
+      "bci",
+      "delivery",
+      "regulation"
+    ],
+    "summary": "题录索引 · Nanoscale。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1039/d6nr02348g",
+    "pmid": "42886472",
+    "venue": "Nanoscale",
+    "authors": "Anniwa D, Chen Z, Chen X, Yuan W, Lang H, Chen N, Zhang N, Qin M.",
+    "publication_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "a241a0bdf8920c51",
@@ -9318,7 +8998,7 @@
     "job_id": "7702527003",
     "published_date": "2026-04-15",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9353,7 +9033,7 @@
     "job_id": "6596365003",
     "published_date": "2025-06-02",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9388,7 +9068,7 @@
     "job_id": "7493547003",
     "published_date": "2025-10-09",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9421,7 +9101,7 @@
     "job_id": "7565469003",
     "published_date": "2026-02-18",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9453,7 +9133,7 @@
     "job_id": "7989339003",
     "published_date": "2026-09-08",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9487,7 +9167,7 @@
     "job_id": "7090489003",
     "published_date": "2025-10-27",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9521,7 +9201,7 @@
     "job_id": "7979933003",
     "published_date": "2026-08-27",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9553,7 +9233,7 @@
     "job_id": "6021322003",
     "published_date": "2024-06-11",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9588,7 +9268,7 @@
     "job_id": "6587719003",
     "published_date": "2025-05-23",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9620,7 +9300,7 @@
     "job_id": "6545426003",
     "published_date": "2025-04-15",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9654,7 +9334,7 @@
     "job_id": "6569018003",
     "published_date": "2025-05-07",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9690,7 +9370,7 @@
     "job_id": "7984011003",
     "published_date": "2026-09-03",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9724,7 +9404,7 @@
     "job_id": "6594422003",
     "published_date": "2025-05-30",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9757,7 +9437,7 @@
     "job_id": "8107986003",
     "published_date": "2026-10-30",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9790,7 +9470,7 @@
     "job_id": "8017328003",
     "published_date": "2026-10-08",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9824,7 +9504,7 @@
     "job_id": "7715119003",
     "published_date": "2026-04-29",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9858,7 +9538,7 @@
     "job_id": "8197036003",
     "published_date": "2026-11-05",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9890,7 +9570,7 @@
     "job_id": "6648992003",
     "published_date": "2025-07-15",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9925,7 +9605,7 @@
     "job_id": "7483748003",
     "published_date": "2025-09-30",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9959,7 +9639,7 @@
     "job_id": "7491410003",
     "published_date": "2025-10-07",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -9992,7 +9672,7 @@
     "job_id": "5469305003",
     "published_date": "2025-01-14",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10027,7 +9707,7 @@
     "job_id": "7571489003",
     "published_date": "2025-12-23",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10062,7 +9742,7 @@
     "job_id": "8008849003",
     "published_date": "2026-09-29",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10096,7 +9776,7 @@
     "job_id": "8014659003",
     "published_date": "2026-10-06",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10130,7 +9810,7 @@
     "job_id": "5469298003",
     "published_date": "2024-06-13",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10164,7 +9844,7 @@
     "job_id": "5663491003",
     "published_date": "2023-06-27",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10198,7 +9878,7 @@
     "job_id": "7813024003",
     "published_date": "2026-07-22",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10232,7 +9912,7 @@
     "job_id": "7637700003",
     "published_date": "2026-02-19",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10264,7 +9944,7 @@
     "job_id": "7666761003",
     "published_date": "2026-03-19",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10299,7 +9979,7 @@
     "job_id": "6304285003",
     "published_date": "2024-12-18",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10333,7 +10013,7 @@
     "job_id": "6594261003",
     "published_date": "2025-05-30",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10372,7 +10052,7 @@
     "job_id": "4714150006",
     "published_date": "2026-09-18",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10406,7 +10086,7 @@
     "job_id": "6083322003",
     "published_date": "2024-12-13",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10440,7 +10120,7 @@
     "job_id": "7689641003",
     "published_date": "2026-04-03",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10463,7 +10143,7 @@
     "authors": "Elizabeth Cooney",
     "access": "仅公开题录；原文可能需订阅",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10498,7 +10178,7 @@
     "job_id": "7808355003",
     "published_date": "2026-07-17",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10530,7 +10210,7 @@
     "job_id": "7821933003",
     "published_date": "2026-07-30",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10566,7 +10246,7 @@
     "job_id": "8005649003",
     "published_date": "2026-09-25",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10598,7 +10278,7 @@
     "job_id": "7702524003",
     "published_date": "2026-04-15",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10632,7 +10312,7 @@
     "job_id": "6283663003",
     "published_date": "2024-11-26",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10664,7 +10344,7 @@
     "job_id": "6514169003",
     "published_date": "2025-03-28",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10698,7 +10378,7 @@
     "job_id": "7823342003",
     "published_date": "2026-08-04",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10732,7 +10412,7 @@
     "job_id": "8005762003",
     "published_date": "2026-09-25",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10768,7 +10448,7 @@
     "job_id": "7987219003",
     "published_date": "2026-09-04",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10801,7 +10481,7 @@
     "job_id": "6644300003",
     "published_date": "2025-07-10",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10836,7 +10516,7 @@
     "job_id": "7668502003",
     "published_date": "2026-03-17",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10868,7 +10548,7 @@
     "job_id": "7656401003",
     "published_date": "2026-03-06",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10885,7 +10565,6 @@
       "epmc-core"
     ],
     "topics": [
-      "career",
       "synbio"
     ],
     "summary": "题录索引 · Nature。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
@@ -10898,7 +10577,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10915,7 +10594,6 @@
       "epmc-protein"
     ],
     "topics": [
-      "career",
       "protein"
     ],
     "summary": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
@@ -10927,9 +10605,9 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "b81d19a1c3661a41",
@@ -10957,7 +10635,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -10986,7 +10664,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11014,9 +10692,38 @@
       "Preprint"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
+  },
+  {
+    "id": "7d038d0634b4647c",
+    "title": "False-Positive Calls of Reimplemented Published Analyses for Covert Command-Following on Electroencephalograms Recorded Without Study Commands",
+    "url": "https://doi.org/10.64898/2026.11.03.26367200",
+    "date": "2026-11-04",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "preprint",
+    "source": "PubMed · 脑机接口",
+    "source_id": "epmc-bci",
+    "source_refs": [
+      "epmc-bci"
+    ],
+    "topics": [
+      "bci"
+    ],
+    "summary": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.64898/2026.11.03.26367200",
+    "pmid": "",
+    "venue": "预印本",
+    "authors": "Gorenshtein A, Adiniaev Y, Barash Y, Klang E, Daniel O.",
+    "publication_types": [
+      "Preprint"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "7cd5cc90ff8aac3c",
@@ -11045,37 +10752,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "6c2538917af39692",
-    "title": "When does a funnel become a trap? A Gömböc-inspired model of protein folding landscapes.",
-    "url": "https://doi.org/10.1039/d6ra07903b",
-    "date": "2026-11-04",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · AI 蛋白质设计",
-    "source_id": "epmc-protein",
-    "source_refs": [
-      "epmc-protein"
-    ],
-    "topics": [
-      "protein"
-    ],
-    "summary": "题录索引 · RSC advances。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1039/d6ra07903b",
-    "pmid": "42985218",
-    "venue": "RSC advances",
-    "authors": "Shityakov S, Skorb EV, Nosonovsky M.",
-    "publication_types": [
-      "research-article",
-      "Journal Article"
-    ],
-    "access": "索引标记开放获取（未验证全文）",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11092,7 +10769,6 @@
       "epmc-core"
     ],
     "topics": [
-      "career",
       "cgt",
       "editing",
       "in-vivo",
@@ -11108,7 +10784,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11137,9 +10813,9 @@
       "Journal Article"
     ],
     "access": "索引标记开放获取（未验证全文）",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "5e11d4eccbfd9c9e",
@@ -11155,7 +10831,6 @@
       "epmc-protein"
     ],
     "topics": [
-      "career",
       "protein",
       "synbio"
     ],
@@ -11169,9 +10844,9 @@
       "Journal Article"
     ],
     "access": "全文权限以原站为准",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "5b0349523e337b4e",
@@ -11201,8 +10876,68 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "06af1de29a4d9d02",
+    "title": "Ultrasound neural interface enabling acute spinal cord monitoring and blood flow modulation.",
+    "url": "https://doi.org/10.1126/sciadv.aeg2342",
+    "date": "2026-11-04",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · 脑机接口",
+    "source_id": "epmc-bci",
+    "source_refs": [
+      "epmc-bci"
+    ],
+    "topics": [
+      "bci"
+    ],
+    "summary": "题录索引 · Science advances。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1126/sciadv.aeg2342",
+    "pmid": "42981416",
+    "venue": "Science advances",
+    "authors": "Kerensky MJ, Krishnan S, Liang R, Kempski Leadingham KM, Quiroz VM, Punnoose J, Smit C, Routkevitch D, Kumar A, Davidar AD, Steger L, Weber-Levine C, Jiang K, Bhimreddy M, Bauer SJ, Lopez AF, Kramer P, Robinson K, Menta AK, Ghaith AK, Hersh AM, Abramson HG, Mohammadabadi A, Theodore JN, Zmily OM, Jillala R, Vattipally V, Kopala D, Barough SS, Amini MH, Maltz J, Chavez F, Morrison K, Roy L, Suk I, Lee RP, Tyler B, Luciano M, Thakor NV, Doloff JC, Theodore N, Manbachi A.",
+    "publication_types": [
+      "research-article",
+      "Journal Article"
+    ],
+    "access": "索引标记开放获取（未验证全文）",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
+  },
+  {
+    "id": "f3867c9a1f7e4859",
+    "title": "Comparative Effects of Neurostimulation- and Technology-Augmented Robot-Assisted Training on Upper-Limb Motor Recovery After Stroke: A Systematic Review and Network Meta-Analysis.",
+    "url": "https://doi.org/10.1016/j.apmr.2026.10.014",
+    "date": "2026-11-03",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · 脑机接口",
+    "source_id": "epmc-bci",
+    "source_refs": [
+      "epmc-bci"
+    ],
+    "topics": [
+      "bci"
+    ],
+    "summary": "题录索引 · Archives of physical medicine and rehabilitation。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1016/j.apmr.2026.10.014",
+    "pmid": "42977063",
+    "venue": "Archives of physical medicine and rehabilitation",
+    "authors": "Wang L, Zhu Z, Liu Y, Qu J, Li N, Liu H, Cao L, Ma Z, Wu H, Wang J.",
+    "publication_types": [
+      "Review",
+      "Journal Article"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "ec76b329f3d1b8b0",
@@ -11238,7 +10973,7 @@
     "job_id": "4726447006",
     "published_date": "2026-11-03",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11273,7 +11008,7 @@
     "job_id": "4715785006",
     "published_date": "2026-09-24",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11300,7 +11035,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11337,37 +11072,7 @@
     "job_id": "4709314006",
     "published_date": "2026-08-28",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
-  },
-  {
-    "id": "5bab582551d31049",
-    "title": "Folding without glutamine: Proteome-scale removal of a canonical amino acid.",
-    "url": "https://doi.org/10.1371/journal.pcbi.1014931",
-    "date": "2026-11-03",
-    "date_basis": "published",
-    "category": "research",
-    "kind": "journal",
-    "source": "PubMed · AI 蛋白质设计",
-    "source_id": "epmc-protein",
-    "source_refs": [
-      "epmc-protein"
-    ],
-    "topics": [
-      "protein"
-    ],
-    "summary": "题录索引 · PLoS computational biology。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1371/journal.pcbi.1014931",
-    "pmid": "42976221",
-    "venue": "PLoS computational biology",
-    "authors": "Garciarrubio A, Ramos-Cerrillo B, Morett E, Segovia L.",
-    "publication_types": [
-      "research-article",
-      "Journal Article"
-    ],
-    "access": "索引标记开放获取（未验证全文）",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11405,40 +11110,71 @@
     "job_id": "4726928006",
     "published_date": "2026-11-03",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
-    "id": "095b9b528462c973",
-    "title": "Iterative computational and rational design generates diverse PET hydrolases for plastic depolymerization.",
-    "url": "https://doi.org/10.1038/s41467-026-78471-3",
+    "id": "2857a51cdc9d43b9",
+    "title": "Potential Applications of Brain-Computer Interface Technology in the Rehabilitation of Patients with Anxiety Disorders: A Narrative Review.",
+    "url": "https://doi.org/10.2147/ndt.s647508",
     "date": "2026-11-03",
     "date_basis": "published",
     "category": "research",
     "kind": "journal",
-    "source": "PubMed · AI 蛋白质设计",
-    "source_id": "epmc-protein",
+    "source": "PubMed · 脑机接口",
+    "source_id": "epmc-bci",
     "source_refs": [
-      "epmc-protein"
+      "epmc-bci"
     ],
     "topics": [
-      "career",
-      "protein"
+      "bci",
+      "regulation"
     ],
-    "summary": "题录索引 · Nature communications。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
-    "doi": "10.1038/s41467-026-78471-3",
-    "pmid": "42977755",
-    "venue": "Nature communications",
-    "authors": "Norton-Baker B, Fram B, Thadani NN, Komp E, Su Y, Storment OO, Murphy NP, Lim S, Erickson E, Rollins N, Gado JE, Shearer CA, Mathews II, Truebridge I, Llases M, Bahl CD, Sarangi R, Marks DS, McGeehan JE, Sander C, Beckham GT, Gauthier NP.",
+    "summary": "题录索引 · Neuropsychiatric disease and treatment。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.2147/ndt.s647508",
+    "pmid": "43005114",
+    "venue": "Neuropsychiatric disease and treatment",
+    "authors": "Liu Q, Liu J, Lou H.",
     "publication_types": [
-      "research-article",
-      "Research Support, U.S. Gov't, Non-P.H.S.",
+      "review-article",
+      "Review",
       "Journal Article"
     ],
     "access": "索引标记开放获取（未验证全文）",
-    "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
-    "updated_at": "2026-11-14T21:53:05+08:00"
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
+  },
+  {
+    "id": "035329ef60b7ca2f",
+    "title": "Engineering Neural Interface Materials for Brain-Computer Interfaces: Toward Reliable Neural Information and Functional Recovery.",
+    "url": "https://doi.org/10.34133/bmr.0437",
+    "date": "2026-11-03",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · 脑机接口",
+    "source_id": "epmc-bci",
+    "source_refs": [
+      "epmc-bci"
+    ],
+    "topics": [
+      "bci"
+    ],
+    "summary": "题录索引 · Biomaterials research。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.34133/bmr.0437",
+    "pmid": "42978770",
+    "venue": "Biomaterials research",
+    "authors": "Xu K, Li Q, Dong Y, Zhong M, Shi W, Lu B, Mo Z, Park J, Wu J.",
+    "publication_types": [
+      "review-article",
+      "Review",
+      "Journal Article"
+    ],
+    "access": "索引标记开放获取（未验证全文）",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "e0ef0e851a60846d",
@@ -11453,9 +11189,7 @@
     "source_refs": [
       "epmc-nbt"
     ],
-    "topics": [
-      "career"
-    ],
+    "topics": [],
     "summary": "题录索引 · Nature biotechnology。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
     "doi": "10.1038/s41587-026-03391-y",
     "pmid": "43009584",
@@ -11466,7 +11200,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11493,7 +11227,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11520,7 +11254,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11547,8 +11281,38 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "cc1e58a4ee808e08",
+    "title": "Global analysis of thermal and chemical denaturation using CheMelt: Thermodynamic dissection of highly thermostable de novo designed proteins.",
+    "url": "https://doi.org/10.1002/pro.70800",
+    "date": "2026-11-01",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · AI 蛋白质设计",
+    "source_id": "epmc-protein",
+    "source_refs": [
+      "epmc-protein"
+    ],
+    "topics": [
+      "protein"
+    ],
+    "summary": "题录索引 · Protein science : a publication of the Protein Society。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1002/pro.70800",
+    "pmid": "42813586",
+    "venue": "Protein science : a publication of the Protein Society",
+    "authors": "Lampinen V, Burastero O, Guazzelli IP, Vögele F, Pinheiro F, Nowak JS, Garcia Alai MM, Kjaergaard M.",
+    "publication_types": [
+      "methods-article",
+      "Journal Article"
+    ],
+    "access": "索引标记开放获取（未验证全文）",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "c95fa03e621c357f",
@@ -11574,7 +11338,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11601,7 +11365,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11628,7 +11392,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11655,7 +11419,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11682,7 +11446,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11709,7 +11473,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11738,7 +11502,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11765,8 +11529,37 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "8d09967958e3858d",
+    "title": "Naturally Arising de Novo Open Reading Frames as Potential Zinc Chelators in Drosophila melanogaster.",
+    "url": "https://doi.org/10.1093/gbe/evag274",
+    "date": "2026-11-01",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · AI 蛋白质设计",
+    "source_id": "epmc-protein",
+    "source_refs": [
+      "epmc-protein"
+    ],
+    "topics": [
+      "protein"
+    ],
+    "summary": "题录索引 · Genome biology and evolution。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1093/gbe/evag274",
+    "pmid": "42958913",
+    "venue": "Genome biology and evolution",
+    "authors": "Lee U.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "7028093ddbb21fd1",
@@ -11792,7 +11585,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11819,7 +11612,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11848,7 +11641,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11875,7 +11668,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11902,8 +11695,67 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "24ccc864e41ad032",
+    "title": "Design Trade-Offs between Target Binding and Self-Association Revealed by De Novo SARS-CoV-2 Binders.",
+    "url": "https://doi.org/10.1021/acs.jcim.6c02394",
+    "date": "2026-11-01",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · AI 蛋白质设计",
+    "source_id": "epmc-protein",
+    "source_refs": [
+      "epmc-protein"
+    ],
+    "topics": [
+      "protein"
+    ],
+    "summary": "题录索引 · Journal of chemical information and modeling。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1021/acs.jcim.6c02394",
+    "pmid": "43001931",
+    "venue": "Journal of chemical information and modeling",
+    "authors": "Carcelén L, Peñas-Utrilla D, Ferrero DS, Ferrer-Orta C, Nadal M, Colizzi F, Muñoz JC, Taulés M, Verdaguer N, Marcos E.",
+    "publication_types": [
+      "research-article",
+      "Journal Article"
+    ],
+    "access": "索引标记开放获取（未验证全文）",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
+  },
+  {
+    "id": "1d669dd14c2a63a5",
+    "title": "MONDE·T: A database and interactive webserver for non-standard amino acids and peptide components in the PDB.",
+    "url": "https://doi.org/10.1002/pro.70809",
+    "date": "2026-11-01",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "journal",
+    "source": "PubMed · AI 蛋白质设计",
+    "source_id": "epmc-protein",
+    "source_refs": [
+      "epmc-protein"
+    ],
+    "topics": [
+      "protein"
+    ],
+    "summary": "题录索引 · Protein science : a publication of the Protein Society。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.1002/pro.70809",
+    "pmid": "42867160",
+    "venue": "Protein science : a publication of the Protein Society",
+    "authors": "Waldherr A, Freimann GL, Lupas AN.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "1aaa48b79f06553e",
@@ -11929,7 +11781,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11956,7 +11808,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -11983,7 +11835,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12010,7 +11862,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12037,8 +11889,37 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "f414604eac43e69d",
+    "title": "LPT: Orchestrating bounded agentic loops for automated protein binder design",
+    "url": "https://doi.org/10.64898/2026.10.29.762730",
+    "date": "2026-10-30",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "preprint",
+    "source": "PubMed · AI 蛋白质设计",
+    "source_id": "epmc-protein",
+    "source_refs": [
+      "epmc-protein"
+    ],
+    "topics": [
+      "protein"
+    ],
+    "summary": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.64898/2026.10.29.762730",
+    "pmid": "",
+    "venue": "预印本",
+    "authors": "Uckelmann M.",
+    "publication_types": [
+      "Preprint"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "1687b1caaf1cc376",
@@ -12074,7 +11955,7 @@
     "job_id": "4726145006",
     "published_date": "2026-10-30",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12111,7 +11992,7 @@
     "job_id": "4725901006",
     "published_date": "2026-10-29",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12148,7 +12029,7 @@
     "job_id": "4722009006",
     "published_date": "2026-10-16",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12185,7 +12066,7 @@
     "job_id": "4725357006",
     "published_date": "2026-10-29",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12215,8 +12096,37 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "a84816c72e5adb87",
+    "title": "De novo Protein Generating Model via Structure-Aware Graph Neural Networks",
+    "url": "https://doi.org/10.64898/2026.10.27.762190",
+    "date": "2026-10-28",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "preprint",
+    "source": "PubMed · AI 蛋白质设计",
+    "source_id": "epmc-protein",
+    "source_refs": [
+      "epmc-protein"
+    ],
+    "topics": [
+      "protein"
+    ],
+    "summary": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.64898/2026.10.27.762190",
+    "pmid": "",
+    "venue": "预印本",
+    "authors": "Gammill C, Tamil L.",
+    "publication_types": [
+      "Preprint"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "75184343abd3cec0",
@@ -12244,7 +12154,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12280,8 +12190,37 @@
     "job_id": "4725187006",
     "published_date": "2026-10-28",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "34cec14ed6d2f352",
+    "title": "An Interactive Bidirectional De Novo Protein Design System",
+    "url": "https://doi.org/10.64898/2026.10.27.762208",
+    "date": "2026-10-28",
+    "date_basis": "published",
+    "category": "research",
+    "kind": "preprint",
+    "source": "PubMed · AI 蛋白质设计",
+    "source_id": "epmc-protein",
+    "source_refs": [
+      "epmc-protein"
+    ],
+    "topics": [
+      "protein"
+    ],
+    "summary": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+    "doi": "10.64898/2026.10.27.762208",
+    "pmid": "",
+    "venue": "预印本",
+    "authors": "Gammill C, Tamil L.",
+    "publication_types": [
+      "Preprint"
+    ],
+    "access": "全文权限以原站为准",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
     "id": "2a055a5df11282fe",
@@ -12297,7 +12236,6 @@
       "epmc-nbt"
     ],
     "topics": [
-      "career",
       "cgt",
       "editing"
     ],
@@ -12311,7 +12249,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12348,7 +12286,7 @@
     "job_id": "4725186006",
     "published_date": "2026-10-28",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12377,7 +12315,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12407,7 +12345,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12436,7 +12374,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12465,7 +12403,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12482,7 +12420,6 @@
       "epmc-core"
     ],
     "topics": [
-      "career",
       "cd19",
       "cgt",
       "delivery",
@@ -12498,7 +12435,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12515,7 +12452,6 @@
       "epmc-core"
     ],
     "topics": [
-      "career",
       "protein"
     ],
     "summary": "题录索引 · Nature。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
@@ -12528,7 +12464,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12566,7 +12502,7 @@
     "job_id": "4723326006",
     "published_date": "2026-10-21",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12603,7 +12539,7 @@
     "job_id": "4723323006",
     "published_date": "2026-10-21",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12641,7 +12577,7 @@
     "job_id": "4723337006",
     "published_date": "2026-10-20",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12677,7 +12613,7 @@
     "job_id": "4721988006",
     "published_date": "2026-10-19",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12714,7 +12650,7 @@
     "job_id": "4711075006",
     "published_date": "2026-09-03",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12753,7 +12689,7 @@
     "job_id": "4722249006",
     "published_date": "2026-10-15",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12782,7 +12718,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12811,7 +12747,7 @@
     ],
     "access": "全文权限以原站为准",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12848,7 +12784,7 @@
     "job_id": "4718405006",
     "published_date": "2026-10-01",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12883,7 +12819,7 @@
     "job_id": "4703468006",
     "published_date": "2026-08-10",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12923,7 +12859,7 @@
     "job_id": "4712073006",
     "published_date": "2026-09-09",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12961,7 +12897,7 @@
     "job_id": "4696856006",
     "published_date": "2026-07-14",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
   },
   {
@@ -12996,7 +12932,30 @@
     "job_id": "4364980006",
     "published_date": "2024-04-30",
     "first_seen": "2026-11-14T21:53:05+08:00",
-    "last_seen": "2026-11-14T21:53:05+08:00",
+    "last_seen": "2026-11-14T22:08:30+08:00",
     "updated_at": "2026-11-14T21:53:05+08:00"
+  },
+  {
+    "id": "40b81efc334a1fb9",
+    "title": "生物医学新技术临床研究和临床转化应用管理条例（国务院令第818号）",
+    "url": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1781",
+    "date": "2025-09-28",
+    "date_basis": "published",
+    "category": "policy",
+    "kind": "official",
+    "source": "国家行政法规库",
+    "source_id": "moj",
+    "source_refs": [
+      "moj"
+    ],
+    "topics": [
+      "cgt",
+      "regulation"
+    ],
+    "summary": "法规基底记录，不是今日新闻。条例要求拟临床转化应用的新技术经国务院卫生健康部门审查批准；药品、医疗器械的临床试验仍分别适用药品和器械法规。生效日期为 2026 年 5 月 1 日。",
+    "effective_date": "2026-05-01",
+    "first_seen": "2026-11-14T22:08:30+08:00",
+    "last_seen": "2026-11-14T22:09:55+08:00",
+    "updated_at": "2026-11-14T22:08:30+08:00"
   }
 ]

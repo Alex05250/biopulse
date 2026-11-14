@@ -55,6 +55,8 @@ for category,rows in directory.items():
     for id,name,url,mode in rows:
         add(id,name,category,url,mode,note='目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。')
 save('sources.json',sources)
+sources.append(dict(id='moj',name='国家行政法规库',category='policy',url='https://xzfg.moj.gov.cn/',mode='manual',adapter=None,note='法规基底资料；经原文核对后人工整理，不代表每日自动采集。'))
+save('sources.json',sources)
 if not (ROOT/'data/editorial.json').exists():
     save('editorial.json',{'briefs':[],'annotations':{}})
 if not (ROOT/'data/curated.json').exists():

@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "40b81efc334a1fb9",
+    "title": "生物医学新技术临床研究和临床转化应用管理条例（国务院令第818号）",
+    "url": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1781",
+    "date": "2025-09-28",
+    "date_basis": "published",
+    "category": "policy",
+    "kind": "official",
+    "source": "国家行政法规库",
+    "source_id": "moj",
+    "source_refs": [
+      "moj"
+    ],
+    "topics": [
+      "regulation",
+      "cgt"
+    ],
+    "summary": "法规基底记录，不是今日新闻。条例要求拟临床转化应用的新技术经国务院卫生健康部门审查批准；药品、医疗器械的临床试验仍分别适用药品和器械法规。生效日期为 2026 年 5 月 1 日。",
+    "effective_date": "2026-05-01"
+  }
+]

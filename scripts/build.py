@@ -46,6 +46,12 @@ def build():
     assert not con.execute('PRAGMA foreign_key_check').fetchall()
     con.commit();con.close();tmp.replace(target)
     annotations=editorial.get('annotations',{})
+    record_dir=(ROOT/'knowledge'/'records').resolve()
+    assert record_dir.is_relative_to(ROOT.resolve())
+    # Only generated records whose IDs were explicitly removed from the index are pruned.
+    if record_dir.exists():
+        for p in record_dir.glob('*.md'):
+            if p.stem not in ids:p.unlink()
     for r in items:
         a=annotations.get(r['id'],{})
         body='# '+(a.get('title_zh') or r['title'])+'\n\n'+(r['title']+'\n\n' if a.get('title_zh') else '')+'- 原站日期：'+str(r.get('date') or '未提供')+'（'+r['date_basis']+'）\n- 类型：'+r['kind']+'\n- 首次收录：'+r['first_seen']+'\n- 来源：['+r['source']+']('+r['url']+')\n- 记录 ID：'+r['id']+'\n\n'+(a.get('summary') or r['summary'])+'\n\n'+('边界：'+a['caution']+'\n\n' if a.get('caution') else '')+'## 关联节点（仅提及，不代表因果）\n\n'+' '.join('[['+next(t['name'] for t in topics if t['id']==id)+']]' for id in r['topics'])+'\n'

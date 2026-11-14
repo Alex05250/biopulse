@@ -8,11 +8,10 @@ ADCs & multispecifics · 技术
 
 [[AI 蛋白质设计]] [[细胞与基因治疗]] [[脑机接口]] [[合成生物学]] [[CD19]] [[Generate Biomedicines]] [[Neuralink]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 10 条
+## 相关情报 / 9 条
 
 - [[e7679f5c467b7863|Downstream Processing: Purifying Complex Antibody Therapeutics When Target Molecules Misbehave]] · 2026-11-13 · news
 - [[7745a7d201384467|Neoadjuvant Intravesical Nadofaragene Firadenovec With Enfortumab Vedotin and Pembrolizumab for the Treatment of Muscle Invasive Bladder Cancer, TRIFECTA Trial]] · 2026-11-13 · trial
-- [[6c528b6324b9c895|A Synthetic Benchmark for Topology-Aware Modeling of Multispecific Antibody Function.]] · 2026-11-13 · journal
 - [[f5be3f2b0e9a311a|Testing the Anti-cancer Drug, Glofitamab, in Patients With Mantle Cell Lymphoma (A Type of Blood Cancer) Whose Disease Returned After CAR-T Cell Therapy]] · 2026-11-12 · trial
 - [[1d01498e1e8da97c|Associate Director, Biotherapeutic Production and Characterization]] · 2026-11-12 · job
 - [[8ad53ae8f9c632d7|Analog and Mixed-Signal IC Design Engineer Intern]] · 2026-11-05 · job

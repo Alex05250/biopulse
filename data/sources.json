@@ -663,5 +663,14 @@
     "mode": "account",
     "adapter": null,
     "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+  },
+  {
+    "id": "moj",
+    "name": "国家行政法规库",
+    "category": "policy",
+    "url": "https://xzfg.moj.gov.cn/",
+    "mode": "manual",
+    "adapter": null,
+    "note": "法规基底资料；经原文核对后人工整理，不代表每日自动采集。"
   }
 ]

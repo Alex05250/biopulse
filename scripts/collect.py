@@ -52,7 +52,8 @@ def day(value):
     try:
         if re.match(r'^\d{4}-\d{2}-\d{2}',value):
             d=value[:10]; datetime.strptime(d,'%Y-%m-%d'); return d if d<=TODAY else None
-        return parsedate_to_datetime(value).astimezone(TZ).date().isoformat()
+        d=parsedate_to_datetime(value).astimezone(TZ).date().isoformat()
+        return d if d<=TODAY else None
     except (ValueError,TypeError,OverflowError):
         return None
 
@@ -75,6 +76,8 @@ def topic_ids(value, forced=()):
     lower=text(value).lower()
     ids=set(forced)
     for t in TOPICS:
+        if t['id']=='career' and 'career' not in forced:
+            continue
         for alias in t['aliases']:
             # Avoid short acronyms matching substrings, e.g. ADC inside unrelated words.
             pat=r'(?<![a-z0-9])'+re.escape(alias.lower())+r'(?![a-z0-9])' if re.fullmatch(r'[a-z0-9-]{1,5}',alias.lower()) else re.escape(alias.lower())
@@ -85,7 +88,7 @@ def record(s,title,url,date,kind,**extra):
     url=canonical(url)
     if not text(title) or not url: raise ValueError('Missing title or valid public URL')
     key=extra.pop('key',url)
-    return dict(id=hashlib.sha256(key.lower().encode()).hexdigest()[:16],title=text(title),url=url,date=day(date),date_basis=extra.pop('date_basis','published'),category=s['category'],kind=kind,source=s['name'],source_id=s['id'],source_refs=[s['id']],topics=[],summary='',**extra)
+    return dict(id=hashlib.sha256(key.lower().encode()).hexdigest()[:16],title=text(title),url=url,date=day(date),date_basis=extra.pop('date_basis','published'),category=s['category'],kind=kind,source=s['name'],source_id=s['id'],source_refs=[s['id']],topics=extra.pop('topics',[]),summary=extra.pop('summary',''),**extra)
 
 def epmc(s):
     since=(NOW.date()-timedelta(days=35)).isoformat()
