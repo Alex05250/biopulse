@@ -11,7 +11,7 @@ RNA therapeutics · 技术
 ## 相关情报 / 80 条
 
 - [[1e829e7d1cdf7a9f|Aryl hydrocarbon receptor (AhR) restrains the maintenance and acquisition of the anti-inflammatory identity of monocyte-derived macrophages.]] · 2026-11-13 · preprint
-- [[dc69d44cbf4ff6eb|Comprehensive engineering of the CasX-Editor to generate a therapeutically optimized genome editor]] · 2026-11-12 · preprint
+- [[dc69d44cbf4ff6eb|紧凑型X-Editor：关注低剂量体内编辑，也保留预印本边界]] · 2026-11-12 · preprint
 - [[79272f4f53928650|Engineering a High-Fidelity CRISPR-Cas13d System for Targeted RNA Depletion in Plasmodium falciparum]] · 2026-11-12 · preprint
 - [[492f4fec72d26f26|Self-organized criticality in a mammalian RNA-interference circuit]] · 2026-11-12 · preprint
 - [[466280c3cbf88ea7|A Three-Axis Framework for Therapy Prioritization in MBD4-Deficient Tumors: De-confounded Synthetic Lethality Modeling, Replication-Stress Pharmacology, and PARP1 Trapping Decoupling]] · 2026-11-12 · preprint

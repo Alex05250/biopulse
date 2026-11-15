@@ -722,5 +722,14 @@
     "mode": "review",
     "url": "https://www.cqcivc.edu.cn/SITE_ATTACHE/jyb_cqcivc_edu_cn/2026-04-02/upload/file/20260402/GzxH_1775095183197089795.pdf",
     "note": "已阅读高校就业网站公开的企业原版招聘PDF；逐岗位索引，不含私人联系人。云端只检查已知PDF是否改变，不等于自动发现新岗位或确认仍有空缺。"
+  },
+  {
+    "id": "beijing-stic-public",
+    "name": "北京市科委、中关村管委会 · 公开政策与案例",
+    "category": "policy",
+    "mode": "review",
+    "adapter": null,
+    "url": "https://kw.beijing.gov.cn/",
+    "note": "逐篇阅读政府公开原文后索引；案例总结与可申报政策分开，不把基金规模当成企业可直接领取的补贴。不是云端全量抓取。"
   }
 ]

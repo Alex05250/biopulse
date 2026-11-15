@@ -249,7 +249,8 @@ def merge(old,incoming,stamp=STAMP):
         r['source_refs']=sorted(set(r['source_refs']+(before or {}).get('source_refs',[])))
         r['topics']=sorted(set(r['topics']+(before or {}).get('topics',[])))
         r['first_seen']=(before or {}).get('first_seen',stamp)
-        r['last_seen']=r.get('verified_at') or r.get('source_observed_at') or stamp
+        # Re-importing a saved curated record is not a new source observation.
+        r['last_seen']=r.get('verified_at') or r.get('source_observed_at') or (before or {}).get('last_seen') or stamp
         r['updated_at']=(before or {}).get('updated_at',stamp)
         if before is None:
             changes.append(dict(item_id=id,type='new',at=stamp,fields={}))

@@ -18,6 +18,14 @@ class CollectorTests(unittest.TestCase):
         a=self.fixture();old,_=c.merge([], [a], '2026-01-01T08:00:00+08:00')
         new,changes=c.merge(old,[self.fixture()], '2026-01-02T08:00:00+08:00')
         self.assertEqual(changes,[]);self.assertEqual(old[0]['first_seen'],new[0]['first_seen'])
+    def test_reimport_without_observation_preserves_last_seen(self):
+        first='2026-01-01T08:00:00+08:00';later='2026-01-02T08:00:00+08:00'
+        old,_=c.merge([], [self.fixture()], first)
+        new,changes=c.merge(old,[self.fixture()],later)
+        self.assertEqual(new[0]['last_seen'],first)
+        self.assertEqual(changes,[])
+        observed,_=c.merge(new,[self.fixture(source_observed_at=later)],later)
+        self.assertEqual(observed[0]['last_seen'],later)
     def test_visible_field_diff(self):
         old,_=c.merge([], [self.fixture()], '2026-01-01T08:00:00+08:00')
         new,changes=c.merge(old,[self.fixture(status='COMPLETED')], '2026-01-02T08:00:00+08:00')

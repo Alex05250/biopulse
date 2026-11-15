@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T14:39:52+08:00",
+  "generated_at": "2026-11-15T20:42:55+08:00",
   "semantics": "mention-only; not causal, partnership or maturity evidence",
   "nodes": [
     {
@@ -52,7 +52,7 @@
         "CGT"
       ],
       "note": "同时追踪产品、适应症、临床分期、生产工艺和监管；试验登记不是获批。",
-      "count": 400
+      "count": 401
     },
     {
       "id": "bci",
@@ -85,7 +85,7 @@
         "生物制造"
       ],
       "note": "从实验室产率追到中试、规模化成本和供需，不把产能规划等同于实际产量。",
-      "count": 259
+      "count": 260
     },
     {
       "id": "delivery",
@@ -228,7 +228,7 @@
         "审评"
       ],
       "note": "区分征求意见稿、正式文件与实施日期；指导原则发布不意味着任何具体产品已获批。",
-      "count": 311
+      "count": 312
     },
     {
       "id": "career",
@@ -462,6 +462,21 @@
     {
       "source": "editing",
       "target": "70c3bb61934e3486",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "6ffa7b2c45f19d7f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "6ffa7b2c45f19d7f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "6ffa7b2c45f19d7f",
       "relation": "mentioned_in"
     },
     {

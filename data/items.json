@@ -1263,6 +1263,36 @@
     "updated_at": "2026-11-14T22:08:30+08:00"
   },
   {
+    "id": "6ffa7b2c45f19d7f",
+    "title": "昌平区强化市区协同，积极探索合成生物制造全产业链“三新”模式",
+    "url": "https://kw.beijing.gov.cn/ztzl/bjskjtzggdxal/202611/t20261113_4944373.html",
+    "date": "2026-11-13",
+    "date_basis": "published",
+    "category": "policy",
+    "kind": "official",
+    "source": "北京市科委、中关村管委会 · 公开政策与案例",
+    "source_id": "beijing-stic-public",
+    "source_refs": [
+      "beijing-stic-public"
+    ],
+    "topics": [
+      "cgt",
+      "regulation",
+      "synbio"
+    ],
+    "summary": "北京市科委、中关村管委会公开案例回顾昌平合成生物制造的基金、共性平台与审批协调。原文列出两支合计规模6亿元的科创基金，并介绍CGT中试生产平台；这是已有措施与进展的总结，不是新的补贴申报通知。",
+    "market": "CN",
+    "location": "北京昌平",
+    "is_verified": true,
+    "verified_at": "2026-11-15T20:41:30+08:00",
+    "verified_url": "https://kw.beijing.gov.cn/ztzl/bjskjtzggdxal/202611/t20261113_4944373.html",
+    "verification_scope": "已通过浏览器读取政府公开正文和页面标注的2026-11-13日期；未核验基金实际到资、企业申请资格或项目投资结果。",
+    "evidence_level": "official_case_summary",
+    "first_seen": "2026-11-15T20:41:30+08:00",
+    "last_seen": "2026-11-15T20:41:30+08:00",
+    "updated_at": "2026-11-15T20:41:30+08:00"
+  },
+  {
     "id": "6ff1f8a333d1d2ee",
     "title": "Metabolically Fit CD19 CAR T Cells With CD34 Selection Markers in Adults With CD19-Positive B-Cell Acute Lymphocytic Leukemia",
     "url": "https://clinicaltrials.gov/study/NCT07896213",

@@ -324,5 +324,16 @@
       "sampled": true,
       "note": "已阅读高校就业网站公开的企业原版招聘PDF；逐岗位索引，不含私人联系人。云端只检查已知PDF是否改变，不等于自动发现新岗位或确认仍有空缺。"
     }
+  },
+  {
+    "source_id": "beijing-stic-public",
+    "state": "reviewed",
+    "checked_at": "2026-11-15T20:41:30+08:00",
+    "count": 1,
+    "error": "",
+    "coverage": {
+      "sampled": true,
+      "note": "本次阅读1篇政府公开案例；不代表全站政策监控或申报资格核验。"
+    }
   }
 ]

@@ -97,6 +97,24 @@
       ],
       "coverage": "本阶段关闭定时跟进，仅保留官方目录；用户主动要求并明确授权后再单独处理。",
       "enabled": false
+    },
+    {
+      "id": "cn-policy",
+      "name": "国内官方政策与园区公开进展",
+      "source_id": "beijing-stic-public",
+      "enabled": true,
+      "queries": [
+        "site:kw.beijing.gov.cn 合成生物制造 政策 申报",
+        "site:gov.cn 生物制造 细胞 基因 治疗 指导原则"
+      ],
+      "allowed_hosts": [
+        "gov.cn"
+      ],
+      "entry_urls": [
+        "https://kw.beijing.gov.cn/ztzl/bjskjtzggdxal/202611/t20261113_4944373.html"
+      ],
+      "limit": 4,
+      "coverage": "逐篇原文核验；案例回顾不等于新政策，基金规模不等于拨款，不推断补贴资格；发布时间与生效日期分开。"
     }
   ],
   "access_mode": "public_only",
