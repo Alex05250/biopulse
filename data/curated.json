@@ -387,5 +387,1565 @@
     "summary": "公开搜索命中这条标题。微信原文实测被滑块验证阻止，尚未核验发布账号、发表日期和内容。仅保留公开标题及链接，不作为新论文、突破或已读原文。",
     "is_verified": false,
     "verification_scope": "仅搜索题录。微信原文显示滑块验证，未读取正文，账号与发表时间未核验。"
+  },
+  {
+    "id": "1e43c486d3071e1a",
+    "title": "技术支持工程师（国内营销）",
+    "url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "万孚生物 · 2027届校招简章（暨南大学就业网）",
+    "source_id": "wondfo-2027",
+    "source_refs": [
+      "wondfo-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届，专业要求涉及医学检验、生物医学工程、生物技术、临床医学等。学历与城市按简章保留；单岗位薪资未公开。",
+    "market": "CN",
+    "company": "广州万孚生物技术股份有限公司",
+    "employer_id": "wondfo",
+    "employer_type": "enterprise",
+    "location": "南宁 / 济南 / 合肥 / 北京 / 成都",
+    "cities": [
+      "南宁",
+      "济南",
+      "合肥",
+      "北京",
+      "成都"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "bachelor",
+    "education_allowed": [
+      "bachelor"
+    ],
+    "education_text": "本科",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "applications",
+    "major_requirements": "医学检验、生物医学工程、生物技术、临床医学等",
+    "hiring_batch": "2027届",
+    "graduation_window": "2026年11月至2027年7月毕业",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      1
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第1页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。"
+  },
+  {
+    "id": "b56f988ea91891cd",
+    "title": "市场推广专员（国内营销）",
+    "url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "万孚生物 · 2027届校招简章（暨南大学就业网）",
+    "source_id": "wondfo-2027",
+    "source_refs": [
+      "wondfo-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届，专业要求涉及医学检验、临床医学、生物医学工程、市场营销等。学历与城市按简章保留；单岗位薪资未公开。",
+    "market": "CN",
+    "company": "广州万孚生物技术股份有限公司",
+    "employer_id": "wondfo",
+    "employer_type": "enterprise",
+    "location": "沈阳 / 济南 / 北京 / 乌鲁木齐 / 昆明 / 贵阳 / 重庆 / 南昌 / 长沙 / 广州 / 杭州",
+    "cities": [
+      "沈阳",
+      "济南",
+      "北京",
+      "乌鲁木齐",
+      "昆明",
+      "贵阳",
+      "重庆",
+      "南昌",
+      "长沙",
+      "广州",
+      "杭州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "master",
+    "education_allowed": [
+      "master"
+    ],
+    "education_text": "硕士",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "sales",
+    "major_requirements": "医学检验、临床医学、生物医学工程、市场营销等",
+    "hiring_batch": "2027届",
+    "graduation_window": "2026年11月至2027年7月毕业",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      1
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第1页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。"
+  },
+  {
+    "id": "73e868d375218947",
+    "title": "发光销售工程师",
+    "url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "万孚生物 · 2027届校招简章（暨南大学就业网）",
+    "source_id": "wondfo-2027",
+    "source_refs": [
+      "wondfo-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届，专业要求涉及医学检验、临床医学、生物医学工程、电子机械等。学历与城市按简章保留；单岗位薪资未公开。",
+    "market": "CN",
+    "company": "广州万孚生物技术股份有限公司",
+    "employer_id": "wondfo",
+    "employer_type": "enterprise",
+    "location": "广州",
+    "cities": [
+      "广州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "bachelor",
+    "education_allowed": [
+      "bachelor",
+      "master"
+    ],
+    "education_text": "本科 / 硕士",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "sales",
+    "major_requirements": "医学检验、临床医学、生物医学工程、电子机械等",
+    "hiring_batch": "2027届",
+    "graduation_window": "2026年11月至2027年7月毕业",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      1
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第1页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。"
+  },
+  {
+    "id": "ce55b0ddb45280b4",
+    "title": "产品专员（国际营销）",
+    "url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "万孚生物 · 2027届校招简章（暨南大学就业网）",
+    "source_id": "wondfo-2027",
+    "source_refs": [
+      "wondfo-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届，专业要求涉及西班牙语、英语及医学检验、生物医学工程等。学历与城市按简章保留；单岗位薪资未公开。",
+    "market": "CN",
+    "company": "广州万孚生物技术股份有限公司",
+    "employer_id": "wondfo",
+    "employer_type": "enterprise",
+    "location": "广州",
+    "cities": [
+      "广州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "bachelor",
+    "education_allowed": [
+      "bachelor",
+      "master"
+    ],
+    "education_text": "本科 / 硕士",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "applications",
+    "major_requirements": "西班牙语、英语及医学检验、生物医学工程等",
+    "hiring_batch": "2027届",
+    "graduation_window": "2026年11月至2027年7月毕业",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      1
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第1页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。"
+  },
+  {
+    "id": "72c2aebc1146f60e",
+    "title": "技术支持工程师（国际营销）",
+    "url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "万孚生物 · 2027届校招简章（暨南大学就业网）",
+    "source_id": "wondfo-2027",
+    "source_refs": [
+      "wondfo-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届，专业要求涉及西班牙语、英语及医学检验、生物医学工程等。学历与城市按简章保留；单岗位薪资未公开。",
+    "market": "CN",
+    "company": "广州万孚生物技术股份有限公司",
+    "employer_id": "wondfo",
+    "employer_type": "enterprise",
+    "location": "广州",
+    "cities": [
+      "广州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "bachelor",
+    "education_allowed": [
+      "bachelor"
+    ],
+    "education_text": "本科",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "applications",
+    "major_requirements": "西班牙语、英语及医学检验、生物医学工程等",
+    "hiring_batch": "2027届",
+    "graduation_window": "2026年11月至2027年7月毕业",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      1
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第1页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。"
+  },
+  {
+    "id": "6c4ed23db02af6be",
+    "title": "技术工程师（研发）",
+    "url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "万孚生物 · 2027届校招简章（暨南大学就业网）",
+    "source_id": "wondfo-2027",
+    "source_refs": [
+      "wondfo-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届，专业要求涉及医学检验、生物技术、生物工程等。学历与城市按简章保留；单岗位薪资未公开。",
+    "market": "CN",
+    "company": "广州万孚生物技术股份有限公司",
+    "employer_id": "wondfo",
+    "employer_type": "enterprise",
+    "location": "广州",
+    "cities": [
+      "广州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "bachelor",
+    "education_allowed": [
+      "bachelor"
+    ],
+    "education_text": "本科",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "wetlab",
+    "major_requirements": "医学检验、生物技术、生物工程等",
+    "hiring_batch": "2027届",
+    "graduation_window": "2026年11月至2027年7月毕业",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      2
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第2页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。"
+  },
+  {
+    "id": "edc3bc11fe40b5e3",
+    "title": "研发工程师",
+    "url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "万孚生物 · 2027届校招简章（暨南大学就业网）",
+    "source_id": "wondfo-2027",
+    "source_refs": [
+      "wondfo-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届，专业要求涉及医学检验、生物技术、生物工程、化学等。学历与城市按简章保留；单岗位薪资未公开。",
+    "market": "CN",
+    "company": "广州万孚生物技术股份有限公司",
+    "employer_id": "wondfo",
+    "employer_type": "enterprise",
+    "location": "广州",
+    "cities": [
+      "广州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "master",
+    "education_allowed": [
+      "master"
+    ],
+    "education_text": "硕士",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "wetlab",
+    "major_requirements": "医学检验、生物技术、生物工程、化学等",
+    "hiring_batch": "2027届",
+    "graduation_window": "2026年11月至2027年7月毕业",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      2
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第2页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。"
+  },
+  {
+    "id": "947fc4248a62e132",
+    "title": "临床工程师",
+    "url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "万孚生物 · 2027届校招简章（暨南大学就业网）",
+    "source_id": "wondfo-2027",
+    "source_refs": [
+      "wondfo-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届，专业要求涉及临床医学、医学检验、生物医学工程等。学历与城市按简章保留；单岗位薪资未公开。",
+    "market": "CN",
+    "company": "广州万孚生物技术股份有限公司",
+    "employer_id": "wondfo",
+    "employer_type": "enterprise",
+    "location": "广州",
+    "cities": [
+      "广州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "master",
+    "education_allowed": [
+      "master"
+    ],
+    "education_text": "硕士",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "clinical",
+    "major_requirements": "临床医学、医学检验、生物医学工程等",
+    "hiring_batch": "2027届",
+    "graduation_window": "2026年11月至2027年7月毕业",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      2
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第2页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。"
+  },
+  {
+    "id": "f9ce2df883989fc3",
+    "title": "国际注册工程师",
+    "url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "万孚生物 · 2027届校招简章（暨南大学就业网）",
+    "source_id": "wondfo-2027",
+    "source_refs": [
+      "wondfo-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届，专业要求涉及医学检验、生物医学工程、生物技术等。学历与城市按简章保留；单岗位薪资未公开。",
+    "market": "CN",
+    "company": "广州万孚生物技术股份有限公司",
+    "employer_id": "wondfo",
+    "employer_type": "enterprise",
+    "location": "广州",
+    "cities": [
+      "广州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "master",
+    "education_allowed": [
+      "master"
+    ],
+    "education_text": "硕士",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "regulatory",
+    "major_requirements": "医学检验、生物医学工程、生物技术等",
+    "hiring_batch": "2027届",
+    "graduation_window": "2026年11月至2027年7月毕业",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      2
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第2页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。"
+  },
+  {
+    "id": "4812d9246ed1294e",
+    "title": "注册专员",
+    "url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "万孚生物 · 2027届校招简章（暨南大学就业网）",
+    "source_id": "wondfo-2027",
+    "source_refs": [
+      "wondfo-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届，专业要求涉及生物、化学、医学检验。学历与城市按简章保留；单岗位薪资未公开。",
+    "market": "CN",
+    "company": "广州万孚生物技术股份有限公司",
+    "employer_id": "wondfo",
+    "employer_type": "enterprise",
+    "location": "广州",
+    "cities": [
+      "广州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "master",
+    "education_allowed": [
+      "master"
+    ],
+    "education_text": "硕士",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "regulatory",
+    "major_requirements": "生物、化学、医学检验",
+    "hiring_batch": "2027届",
+    "graduation_window": "2026年11月至2027年7月毕业",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      2
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第2页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。"
+  },
+  {
+    "id": "321fd60cd66ba0f8",
+    "title": "研究员（算法，硕士）",
+    "url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "万孚生物 · 2027届校招简章（暨南大学就业网）",
+    "source_id": "wondfo-2027",
+    "source_refs": [
+      "wondfo-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届，专业要求涉及计算机、AI、生医工、生信、电子信息等。学历与城市按简章保留；单岗位薪资未公开。",
+    "market": "CN",
+    "company": "广州万孚生物技术股份有限公司",
+    "employer_id": "wondfo",
+    "employer_type": "enterprise",
+    "location": "广州",
+    "cities": [
+      "广州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "master",
+    "education_allowed": [
+      "master"
+    ],
+    "education_text": "硕士",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "bioinformatics",
+    "major_requirements": "计算机、AI、生医工、生信、电子信息等",
+    "hiring_batch": "2027届",
+    "graduation_window": "2026年11月至2027年7月毕业",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      2
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第2页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。"
+  },
+  {
+    "id": "9810e6f20e7f0ecb",
+    "title": "QA工程师",
+    "url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "万孚生物 · 2027届校招简章（暨南大学就业网）",
+    "source_id": "wondfo-2027",
+    "source_refs": [
+      "wondfo-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届，专业要求涉及医学检验、生物技术、药学、质量管理等。学历与城市按简章保留；单岗位薪资未公开。",
+    "market": "CN",
+    "company": "广州万孚生物技术股份有限公司",
+    "employer_id": "wondfo",
+    "employer_type": "enterprise",
+    "location": "广州 / 东莞",
+    "cities": [
+      "广州",
+      "东莞"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "master",
+    "education_allowed": [
+      "master"
+    ],
+    "education_text": "硕士",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "quality",
+    "major_requirements": "医学检验、生物技术、药学、质量管理等",
+    "hiring_batch": "2027届",
+    "graduation_window": "2026年11月至2027年7月毕业",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      2
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第2页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。"
+  },
+  {
+    "id": "7423e01e7549d8b4",
+    "title": "技术工程师（供应链）",
+    "url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "万孚生物 · 2027届校招简章（暨南大学就业网）",
+    "source_id": "wondfo-2027",
+    "source_refs": [
+      "wondfo-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届，专业要求涉及医学检验、生物技术、生物工程、生物医学工程等。学历与城市按简章保留；单岗位薪资未公开。",
+    "market": "CN",
+    "company": "广州万孚生物技术股份有限公司",
+    "employer_id": "wondfo",
+    "employer_type": "enterprise",
+    "location": "广州",
+    "cities": [
+      "广州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "bachelor",
+    "education_allowed": [
+      "bachelor"
+    ],
+    "education_text": "本科",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "bioprocess",
+    "major_requirements": "医学检验、生物技术、生物工程、生物医学工程等",
+    "hiring_batch": "2027届",
+    "graduation_window": "2026年11月至2027年7月毕业",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      2
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第2页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。"
+  },
+  {
+    "id": "309f676998d7342d",
+    "title": "工艺工程师",
+    "url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "万孚生物 · 2027届校招简章（暨南大学就业网）",
+    "source_id": "wondfo-2027",
+    "source_refs": [
+      "wondfo-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届，专业要求涉及生物技术、生物工程、医学检验等。学历与城市按简章保留；单岗位薪资未公开。",
+    "market": "CN",
+    "company": "广州万孚生物技术股份有限公司",
+    "employer_id": "wondfo",
+    "employer_type": "enterprise",
+    "location": "广州",
+    "cities": [
+      "广州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "bachelor",
+    "education_allowed": [
+      "bachelor"
+    ],
+    "education_text": "本科",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "bioprocess",
+    "major_requirements": "生物技术、生物工程、医学检验等",
+    "hiring_batch": "2027届",
+    "graduation_window": "2026年11月至2027年7月毕业",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      2
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第2页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。"
+  },
+  {
+    "id": "d40f1c2f51a4b78b",
+    "title": "调试技术员",
+    "url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "博拓生物 · 2027届校招简章（杭州电子科技大学就业网）",
+    "source_id": "biotest-2027",
+    "source_refs": [
+      "biotest-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届校招简章列示岗位。整批校招另有综合年薪范围，但未细分到此岗位；不能把该范围当作本岗位承诺。",
+    "market": "CN",
+    "company": "杭州博拓生物科技股份有限公司",
+    "employer_id": "biotest",
+    "employer_type": "enterprise",
+    "location": "杭州",
+    "cities": [
+      "杭州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "bachelor",
+    "education_allowed": [
+      "bachelor"
+    ],
+    "education_text": "本科",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "wetlab",
+    "major_requirements": "生物、药学、检验、食品、动物兽医等相关专业",
+    "hiring_batch": "2027届",
+    "graduation_window": "",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      4,
+      5
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第4,5页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。",
+    "compensation_reference": "d9483ddf7418efc4"
+  },
+  {
+    "id": "0b5e3cb904567e9d",
+    "title": "试剂研发技术员",
+    "url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "博拓生物 · 2027届校招简章（杭州电子科技大学就业网）",
+    "source_id": "biotest-2027",
+    "source_refs": [
+      "biotest-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届校招简章列示岗位。整批校招另有综合年薪范围，但未细分到此岗位；不能把该范围当作本岗位承诺。",
+    "market": "CN",
+    "company": "杭州博拓生物科技股份有限公司",
+    "employer_id": "biotest",
+    "employer_type": "enterprise",
+    "location": "杭州",
+    "cities": [
+      "杭州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "master",
+    "education_allowed": [
+      "master"
+    ],
+    "education_text": "硕士",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "wetlab",
+    "major_requirements": "生物、药学、检验、食品、动物兽医等相关专业",
+    "hiring_batch": "2027届",
+    "graduation_window": "",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      4,
+      5
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第4,5页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。",
+    "compensation_reference": "d9483ddf7418efc4"
+  },
+  {
+    "id": "06946529d5f85913",
+    "title": "抗体研发技术员",
+    "url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "博拓生物 · 2027届校招简章（杭州电子科技大学就业网）",
+    "source_id": "biotest-2027",
+    "source_refs": [
+      "biotest-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届校招简章列示岗位。整批校招另有综合年薪范围，但未细分到此岗位；不能把该范围当作本岗位承诺。",
+    "market": "CN",
+    "company": "杭州博拓生物科技股份有限公司",
+    "employer_id": "biotest",
+    "employer_type": "enterprise",
+    "location": "杭州",
+    "cities": [
+      "杭州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "bachelor",
+    "education_allowed": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "education_text": "本科及以上",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "wetlab",
+    "major_requirements": "生物、药学、检验、食品、动物兽医等相关专业",
+    "hiring_batch": "2027届",
+    "graduation_window": "",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      4,
+      5
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第4,5页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。",
+    "compensation_reference": "d9483ddf7418efc4"
+  },
+  {
+    "id": "eae6f64cb78789a8",
+    "title": "纯化技术员",
+    "url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "博拓生物 · 2027届校招简章（杭州电子科技大学就业网）",
+    "source_id": "biotest-2027",
+    "source_refs": [
+      "biotest-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届校招简章列示岗位。整批校招另有综合年薪范围，但未细分到此岗位；不能把该范围当作本岗位承诺。",
+    "market": "CN",
+    "company": "杭州博拓生物科技股份有限公司",
+    "employer_id": "biotest",
+    "employer_type": "enterprise",
+    "location": "杭州",
+    "cities": [
+      "杭州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "bachelor",
+    "education_allowed": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "education_text": "本科及以上",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "wetlab",
+    "major_requirements": "生物、药学、检验、食品、动物兽医等相关专业",
+    "hiring_batch": "2027届",
+    "graduation_window": "",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      4,
+      5
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第4,5页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。",
+    "compensation_reference": "d9483ddf7418efc4"
+  },
+  {
+    "id": "14023073b0aa8b3a",
+    "title": "纳米材料研发技术员",
+    "url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "博拓生物 · 2027届校招简章（杭州电子科技大学就业网）",
+    "source_id": "biotest-2027",
+    "source_refs": [
+      "biotest-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届校招简章列示岗位。整批校招另有综合年薪范围，但未细分到此岗位；不能把该范围当作本岗位承诺。",
+    "market": "CN",
+    "company": "杭州博拓生物科技股份有限公司",
+    "employer_id": "biotest",
+    "employer_type": "enterprise",
+    "location": "杭州",
+    "cities": [
+      "杭州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "master",
+    "education_allowed": [
+      "master"
+    ],
+    "education_text": "硕士",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "wetlab",
+    "major_requirements": "化学、材料、高分子材料等相关专业",
+    "hiring_batch": "2027届",
+    "graduation_window": "",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      4,
+      5
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第4,5页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。",
+    "compensation_reference": "d9483ddf7418efc4"
+  },
+  {
+    "id": "6884feb8516ac1db",
+    "title": "抗原偶联研发技术员",
+    "url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "博拓生物 · 2027届校招简章（杭州电子科技大学就业网）",
+    "source_id": "biotest-2027",
+    "source_refs": [
+      "biotest-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届校招简章列示岗位。整批校招另有综合年薪范围，但未细分到此岗位；不能把该范围当作本岗位承诺。",
+    "market": "CN",
+    "company": "杭州博拓生物科技股份有限公司",
+    "employer_id": "biotest",
+    "employer_type": "enterprise",
+    "location": "杭州",
+    "cities": [
+      "杭州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "master",
+    "education_allowed": [
+      "master"
+    ],
+    "education_text": "硕士",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "wetlab",
+    "major_requirements": "化学、材料、高分子材料等相关专业",
+    "hiring_batch": "2027届",
+    "graduation_window": "",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      4,
+      5
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第4,5页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。",
+    "compensation_reference": "d9483ddf7418efc4"
+  },
+  {
+    "id": "716c586633a127ad",
+    "title": "质量检验员",
+    "url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "博拓生物 · 2027届校招简章（杭州电子科技大学就业网）",
+    "source_id": "biotest-2027",
+    "source_refs": [
+      "biotest-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届校招简章列示岗位。整批校招另有综合年薪范围，但未细分到此岗位；不能把该范围当作本岗位承诺。",
+    "market": "CN",
+    "company": "杭州博拓生物科技股份有限公司",
+    "employer_id": "biotest",
+    "employer_type": "enterprise",
+    "location": "杭州",
+    "cities": [
+      "杭州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "college",
+    "education_allowed": [
+      "college",
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "education_text": "大专及以上",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "quality",
+    "major_requirements": "生物、检验、临床、兽医、食品等相关专业",
+    "hiring_batch": "2027届",
+    "graduation_window": "",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      4,
+      5
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第4,5页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。",
+    "compensation_reference": "d9483ddf7418efc4"
+  },
+  {
+    "id": "fc8a7e8d50e4369c",
+    "title": "现场QA专员",
+    "url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "博拓生物 · 2027届校招简章（杭州电子科技大学就业网）",
+    "source_id": "biotest-2027",
+    "source_refs": [
+      "biotest-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届校招简章列示岗位。整批校招另有综合年薪范围，但未细分到此岗位；不能把该范围当作本岗位承诺。",
+    "market": "CN",
+    "company": "杭州博拓生物科技股份有限公司",
+    "employer_id": "biotest",
+    "employer_type": "enterprise",
+    "location": "杭州",
+    "cities": [
+      "杭州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "college",
+    "education_allowed": [
+      "college",
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "education_text": "大专及以上",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "quality",
+    "major_requirements": "生物、检验、临床、兽医、食品等相关专业",
+    "hiring_batch": "2027届",
+    "graduation_window": "",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      4,
+      5
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第4,5页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。",
+    "compensation_reference": "d9483ddf7418efc4"
+  },
+  {
+    "id": "4f42dd0e88be842a",
+    "title": "临床专员、国内注册专员",
+    "url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "博拓生物 · 2027届校招简章（杭州电子科技大学就业网）",
+    "source_id": "biotest-2027",
+    "source_refs": [
+      "biotest-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届校招简章列示岗位。整批校招另有综合年薪范围，但未细分到此岗位；不能把该范围当作本岗位承诺。",
+    "market": "CN",
+    "company": "杭州博拓生物科技股份有限公司",
+    "employer_id": "biotest",
+    "employer_type": "enterprise",
+    "location": "杭州",
+    "cities": [
+      "杭州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "bachelor",
+    "education_allowed": [
+      "bachelor",
+      "master",
+      "phd"
+    ],
+    "education_text": "本科及以上",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "regulatory",
+    "major_requirements": "生物、检验、临床、兽医、食品等相关专业",
+    "hiring_batch": "2027届",
+    "graduation_window": "",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      4,
+      5
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第4,5页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。",
+    "compensation_reference": "d9483ddf7418efc4"
+  },
+  {
+    "id": "288bff1b0d8847a8",
+    "title": "国际注册专员",
+    "url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "博拓生物 · 2027届校招简章（杭州电子科技大学就业网）",
+    "source_id": "biotest-2027",
+    "source_refs": [
+      "biotest-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "2027届校招简章列示岗位。整批校招另有综合年薪范围，但未细分到此岗位；不能把该范围当作本岗位承诺。",
+    "market": "CN",
+    "company": "杭州博拓生物科技股份有限公司",
+    "employer_id": "biotest",
+    "employer_type": "enterprise",
+    "location": "杭州",
+    "cities": [
+      "杭州"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "master",
+    "education_allowed": [
+      "master"
+    ],
+    "education_text": "硕士",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "regulatory",
+    "major_requirements": "生物、检验、临床、兽医、食品等相关专业",
+    "hiring_batch": "2027届",
+    "graduation_window": "",
+    "job_level": "应届校招",
+    "skills": [],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      4,
+      5
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第4,5页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。",
+    "compensation_reference": "d9483ddf7418efc4"
+  },
+  {
+    "id": "ab86bddf7ab5e1f9",
+    "title": "生产技术员",
+    "url": "https://www.cqcivc.edu.cn/SITE_ATTACHE/jyb_cqcivc_edu_cn/2026-04-02/upload/file/20260402/GzxH_1775095183197089795.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "康龙化成（绍兴）· 生产招聘简章（重庆化工职业学院就业网）",
+    "source_id": "pharmaron-production",
+    "source_refs": [
+      "pharmaron-production"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "简章面向2026或2027届大专、本科毕业生。岗位涉及生产操作与记录，未公开数字薪资；需确认是否倒班、实习与转正待遇。",
+    "market": "CN",
+    "company": "康龙化成（绍兴）药业有限公司",
+    "employer_id": "pharmaron",
+    "employer_type": "enterprise",
+    "location": "绍兴",
+    "cities": [
+      "绍兴"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "campus",
+    "audience_basis": "企业原版简章明确面向应届 / 校园招聘，不按岗位名称猜测",
+    "education_min": "college",
+    "education_allowed": [
+      "college",
+      "bachelor"
+    ],
+    "education_text": "大专 / 本科",
+    "experience_text": "应届校招；原文未另设全职工作年限",
+    "role_family": "bioprocess",
+    "major_requirements": "化学化工、制药类专业",
+    "hiring_batch": "2026 / 2027届",
+    "graduation_window": "",
+    "job_level": "应届校招",
+    "skills": [
+      "化工单元操作",
+      "生产记录",
+      "安全规范"
+    ],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://www.cqcivc.edu.cn/SITE_ATTACHE/jyb_cqcivc_edu_cn/2026-04-02/upload/file/20260402/GzxH_1775095183197089795.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      1,
+      2,
+      4
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第1,2,4页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。"
+  },
+  {
+    "id": "7d54c853d146bb3f",
+    "title": "生产管培生",
+    "url": "https://www.cqcivc.edu.cn/SITE_ATTACHE/jyb_cqcivc_edu_cn/2026-04-02/upload/file/20260402/GzxH_1775095183197089795.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "job",
+    "source": "康龙化成（绍兴）· 生产招聘简章（重庆化工职业学院就业网）",
+    "source_id": "pharmaron-production",
+    "source_refs": [
+      "pharmaron-production"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "硕士生产培养岗位，涉及GMP、批记录与跨部门轮岗。相关实习或实验室经历优先，具体毕业批次、实习与转正薪酬需确认。",
+    "market": "CN",
+    "company": "康龙化成（绍兴）药业有限公司",
+    "employer_id": "pharmaron",
+    "employer_type": "enterprise",
+    "location": "绍兴",
+    "cities": [
+      "绍兴"
+    ],
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "unknown",
+    "audience_basis": "培养岗位只列硕士与实习优先，未明确校招批次或全职经验要求；待确认",
+    "education_min": "master",
+    "education_allowed": [
+      "master"
+    ],
+    "education_text": "硕士",
+    "experience_text": "原文要求硕士，相关实习 / 实验室操作经验优先；未明确全职工作年限",
+    "role_family": "bioprocess",
+    "major_requirements": "应用化学、化学工程、制药工程等",
+    "hiring_batch": "校招 / 初级培养（批次须确认）",
+    "graduation_window": "",
+    "job_level": "应届校招",
+    "skills": [
+      "GMP",
+      "批记录",
+      "CAPA",
+      "工艺安全"
+    ],
+    "salary": "",
+    "salary_currency": "unknown",
+    "salary_period": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确",
+    "salary_component": "unknown",
+    "salary_scope": "job",
+    "salary_basis": "未披露单岗位数字报价，不以校招总范围或其他岗位代填。",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://www.cqcivc.edu.cn/SITE_ATTACHE/jyb_cqcivc_edu_cn/2026-04-02/upload/file/20260402/GzxH_1775095183197089795.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      2,
+      4
+    ],
+    "verification_scope": "完整读取公开PDF并核对相关表格（第2,4页）；未登录网申、未向招聘方确认当前空缺，简章可读不等于仍在招聘。"
+  },
+  {
+    "id": "d9483ddf7418efc4",
+    "title": "博拓生物2027届校招 · 综合年薪参考（非单岗位报价）",
+    "url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "date": null,
+    "date_basis": "observed_document",
+    "category": "career",
+    "kind": "report",
+    "source": "博拓生物 · 2027届校招简章（杭州电子科技大学就业网）",
+    "source_id": "biotest-2027",
+    "source_refs": [
+      "biotest-2027"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "企业原版校招简章给出的整体综合年薪范围，已包含工资、补贴及年终奖。没有按岗位或学历分档，也未写明税口径；只作为沟通薪酬的参考，不纳入单岗位统计。",
+    "market": "CN",
+    "company": "杭州博拓生物科技股份有限公司",
+    "employer_id": "biotest",
+    "employer_type": "enterprise",
+    "audience": "campus",
+    "hiring_batch": "2027届",
+    "salary": "综合年薪7–15万元（整批校招范围，非具体岗位承诺）",
+    "salary_min": 70000,
+    "salary_max": 150000,
+    "salary_currency": "CNY",
+    "salary_period": "year",
+    "salary_component": "total",
+    "salary_tax_code": "unknown",
+    "salary_tax": "简章未明确税前 / 税后",
+    "salary_scope": "campaign",
+    "salary_inclusions": "月度工资、综合补贴和年终奖；具体占比及保证发放条件未提供，不能重复叠加",
+    "salary_basis": "企业校招简章整体参考，不是逐岗位报价、实际offer或行业均值",
+    "verified_at": "2026-11-15T13:16:36+08:00",
+    "verified_url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "verification_level": "document_review",
+    "evidence_pages": [
+      5
+    ],
+    "verification_scope": "已读原版PDF第5页；整批招聘范围，不按学历或职位拆分，不推算固定月薪。"
   }
 ]

@@ -14,6 +14,12 @@
 
 ## 检索与证据
 
+**国内职业部分的首要对象已改为本科 / 硕士应届与初级岗位。** 先阅读 `docs/CAREER_METHOD.md`、`data/career.json` 与 `config/career_sources.json`；优先补不同企业、城市、方向的单岗位数字报价与可读完整JD，而非高管、博士后或海外职位。校招简章、官方接口、完整JD、列表与搜索线索分级；同一企业同一职位或同一批次总包不得复制成独立工资样本。每次至少检查未披露薪资和待核验字段，不为做出统计强行猜测。
+
+中国岗位补充 `audience/audience_basis/education_min/education_allowed/education_text/experience_text/cities/role_family/employer_type/hiring_batch/graduation_window/verification_level/evidence_pages`，按原文填写；无法确定应届适用性时为unknown，不凭“助理”“管培”推定。只有实际重新阅读时才更新verified_at；文件哈希未变或重新导入不能续期。
+
+`salary_scope=campaign` 的整批年薪与 `kind=report` 报告不可填入各岗位；数值报价同时保留 `salary_tax_code`（pre_tax/post_tax/unknown）、`salary_component`（base/total/unknown）、`salary_months`（仅原文明示），缺失未知不换算。静态PDF读过仍是VACANCY_UNCONFIRMED，不称已确认在招。变更薪酬参考时必须核对其关联岗位，保持独立记录。
+
 先读 `config/cn_watchlist.json` 和 `docs/CN_SOURCE_ACCESS.md`，按实际入口核验并更新 `data/access.json` 的本次核验时间与覆盖说明。中国公开岗位与报告分组补充；源状态 `reviewed` 表示本次读过公开样本，`attention` 表示验证墙等需人工处理，不计为云端自动采集成功。
 
 优先原始来源，按五个方向选少量高信号内容：基因编辑、AI 蛋白设计、CGT、脑机接口、合成生物学。结合产业 / 融资 / 临床，以及中国 CDE、药监局、卫健委、科技部、发改委、工信部、医保局及园区政策。职业线索优先公司官方招聘或正式薪酬报告。

@@ -45,10 +45,17 @@ jobs:
           node --check assets/app.js
           node --check assets/views.js
           node --check assets/cn.js
+          node --check assets/search.js
+          node --check assets/career.js
           node tests/client.test.cjs
       - name: Refresh public metadata
+        id: collect
+        continue-on-error: true
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
         run: python scripts/collect.py
+      - name: Check reviewed domestic recruitment brochures
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
+        run: python scripts/check_documents.py
       - name: Build database, graph, Markdown and website
         run: python scripts/build.py
       - name: Commit auditable data and knowledge changes
@@ -72,3 +79,8 @@ jobs:
       - name: Deploy GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Report collector failure after publishing source health
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo 'Collector failed. Previous records and actual failure status were published; no fresh-data claim.'
+          exit 1

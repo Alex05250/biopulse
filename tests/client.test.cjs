@@ -7,7 +7,7 @@ const nodes=new Map();
 function el(){return {innerHTML:'',textContent:'',open:false,classList:{add(){},remove(){},toggle(){}},showModal(){this.open=true},setAttribute(){},querySelectorAll(){return []}}}
 const storage=new Map();
 const ctx=vm.createContext({console,URL,URLSearchParams,Blob,Set,Date,Intl,Number,String,JSON,Math,Promise,setTimeout:()=>0,clearTimeout(){},location:{hash:'#library',href:'https://example.org/#library'},localStorage:{getItem:k=>storage.get(k)||null,setItem:(k,v)=>storage.set(k,v)},window:{},document:{addEventListener(){},querySelector(s){if(!nodes.has(s))nodes.set(s,el());return nodes.get(s)},querySelectorAll(){return []}}});
-for(const f of ['app.js','views.js','cn.js'])vm.runInContext(readFileSync(join(__dirname,'../assets',f),'utf8'),ctx,{filename:f});
+for(const f of ['search.js','app.js','views.js','cn.js','career.js'])vm.runInContext(readFileSync(join(__dirname,'../assets',f),'utf8'),ctx,{filename:f});
 vm.runInContext(`
 state.topics=[{id:'editing',name:'基因编辑',english:'Editing',kind:'技术',note:'Test note'},{id:'protein',name:'AI 蛋白质设计',english:'Protein design',kind:'技术',note:'Test note'}];
 state.sources=[{id:'example',name:'Example',mode:'auto',category:'research',url:'https://example.org/'}];
@@ -38,4 +38,25 @@ run("showDetail('1')");assert(nodes.get('#detail-body').innerHTML.includes('中�
 assert(nodes.get('#detail').open);
 run("toggleSaved('1')");assert.equal(run('state.saved.size'),1);assert(storage.get('biopulse-saved').includes('1'));
 run("toggleSaved('1')");assert.equal(run('state.saved.size'),0);
+assert.equal(run("matchesSearch('Uncovering signals in colorectal cancer','结直肠癌')"),true);
+assert.equal(run("matchesSearch('QA specialist','质量保证')"),true);
+assert.equal(run("matchesSearch('A QATAR office','QA')"),false,'Short aliases need word boundaries');
+run(`state.career={profiles:{'2':{audience:'campus',education_min:'bachelor',education_allowed:['bachelor'],education_text:'本科',cities:['杭州'],role_family:'quality',freshness:'reviewed',vacancy_status:'unconfirmed',verification_level:'document_review',verified_at:new Date().toISOString(),quote:{exclusion:['税口径未明确']}}},groups:[]};
+state.items[1].company='Example employer';state.items[1].salary='';state.items[1].salary_currency='unknown';state.items[1].verified_at=new Date().toISOString();
+`);
+assert.equal(run('filteredCareer().length'),1);
+assert.equal(run("careerFilter.degree='master';filteredCareer().length"),0,'Do not infer higher-degree eligibility');
+run("careerFilter.degree='all';careerFilter.salary=true");assert.equal(run('filteredCareer().length'),0,'Unknown salary cannot pass disclosed filter');
+run('careerFilter.salary=false;renderCareer()');assert(nodes.get('#view').innerHTML.includes('国内'));
+assert(nodes.get('#career-results').innerHTML.includes('空缺待确认'));
+run('renderCareer(true)');assert(nodes.get('#career-results').innerHTML.includes('暂不输出'));
+assert(!nodes.get('#career-results').innerHTML.includes('undefined'));
+run("captureJobWatch(state.items[1]);state.items[1].salary='¥7,000/月'");assert.equal(run('watchChanged(state.items[1])'),true);
+run("exportCareer()");assert(run('captured.content').includes('税口径'));
+assert(run('captured.content').includes('未确认 / 需复核'));
+run("location.hash='';renderCareer();toggleSaved('2')");
+assert(nodes.get('#career-results').innerHTML.includes('已收藏'),'Saving on the hashless default route must refresh the career card');
+run("state.items[0].topics=['editing','protein'];state.filter.topic='editing';state.filter.withTopic='protein';state.filter.q='';state.filter.salary=false;state.filter.kind='all'");
+assert.equal(run('filtered().length'),1,'Co-mention links must filter both topics');
+assert.equal(run("topicConnections('editing')[0].records.length"),1);
 console.log('Client unit checks passed: search, filters, escaping, CSV safety, graph, digest, sources, detail, saved state.');

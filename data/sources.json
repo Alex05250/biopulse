@@ -7,7 +7,8 @@
     "mode": "auto",
     "adapter": "epmc",
     "query": "JOURNAL:\"Nature biotechnology\"",
-    "limit": 30
+    "limit": 30,
+    "max_records": 1000
   },
   {
     "id": "nmeth",
@@ -27,7 +28,8 @@
     "mode": "auto",
     "adapter": "epmc",
     "query": "(JOURNAL:\"Cell\" OR JOURNAL:\"Science\" OR JOURNAL:\"Nature\") AND (TITLE_ABS:CRISPR OR TITLE_ABS:\"protein design\" OR TITLE_ABS:\"synthetic biology\" OR TITLE_ABS:\"gene therapy\" OR TITLE_ABS:\"brain-computer\")",
-    "limit": 30
+    "limit": 30,
+    "max_records": 1000
   },
   {
     "id": "epmc-editing",
@@ -38,7 +40,8 @@
     "adapter": "epmc",
     "query": "(TITLE_ABS:CRISPR OR TITLE_ABS:\"prime editing\" OR TITLE_ABS:\"base editing\")",
     "limit": 18,
-    "topic": "editing"
+    "topic": "editing",
+    "max_records": 1000
   },
   {
     "id": "epmc-protein",
@@ -49,7 +52,8 @@
     "adapter": "epmc",
     "query": "(TITLE_ABS:\"protein design\" OR TITLE_ABS:\"de novo protein\")",
     "limit": 18,
-    "topic": "protein"
+    "topic": "protein",
+    "max_records": 1000
   },
   {
     "id": "epmc-synbio",
@@ -60,7 +64,8 @@
     "adapter": "epmc",
     "query": "(TITLE_ABS:\"synthetic biology\" OR TITLE_ABS:\"biomanufacturing\")",
     "limit": 18,
-    "topic": "synbio"
+    "topic": "synbio",
+    "max_records": 1000
   },
   {
     "id": "epmc-bci",
@@ -71,7 +76,8 @@
     "adapter": "epmc",
     "query": "(TITLE_ABS:\"brain-computer interface\" OR TITLE_ABS:\"neural interface\")",
     "limit": 18,
-    "topic": "bci"
+    "topic": "bci",
+    "max_records": 1000
   },
   {
     "id": "biorxiv-synthetic_biology",
@@ -100,7 +106,8 @@
     "url": "https://clinicaltrials.gov/",
     "mode": "auto",
     "adapter": "trials",
-    "limit": 60
+    "limit": 60,
+    "max_records": 1000
   },
   {
     "id": "gen",
@@ -691,5 +698,29 @@
     "adapter": null,
     "url": "https://mp.weixin.qq.com/",
     "note": "按关键词定时发现公开文章链接。当前测试文章遇微信滑块，未读正文、未核验账号与发布时间，只收录 lead；不绕过验证码，不代表全量订阅。"
+  },
+  {
+    "id": "wondfo-2027",
+    "name": "万孚生物 · 2027届校招简章（暨南大学就业网）",
+    "category": "career",
+    "mode": "review",
+    "url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+    "note": "已阅读高校就业网站公开的企业原版招聘PDF；逐岗位索引，不含私人联系人。云端只检查已知PDF是否改变，不等于自动发现新岗位或确认仍有空缺。"
+  },
+  {
+    "id": "biotest-2027",
+    "name": "博拓生物 · 2027届校招简章（杭州电子科技大学就业网）",
+    "category": "career",
+    "mode": "review",
+    "url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+    "note": "已阅读高校就业网站公开的企业原版招聘PDF；逐岗位索引，不含私人联系人。云端只检查已知PDF是否改变，不等于自动发现新岗位或确认仍有空缺。"
+  },
+  {
+    "id": "pharmaron-production",
+    "name": "康龙化成（绍兴）· 生产招聘简章（重庆化工职业学院就业网）",
+    "category": "career",
+    "mode": "review",
+    "url": "https://www.cqcivc.edu.cn/SITE_ATTACHE/jyb_cqcivc_edu_cn/2026-04-02/upload/file/20260402/GzxH_1775095183197089795.pdf",
+    "note": "已阅读高校就业网站公开的企业原版招聘PDF；逐岗位索引，不含私人联系人。云端只检查已知PDF是否改变，不等于自动发现新岗位或确认仍有空缺。"
   }
 ]

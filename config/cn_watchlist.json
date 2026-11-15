@@ -54,20 +54,22 @@
     },
     {
       "id": "cn-jobs",
-      "name": "国内公开岗位",
+      "name": "国内本科 / 硕士应届与初级岗位（优先）",
       "queries": [
-        "site:michaelpage.com.cn/jobs 生命科学 医疗 制药",
-        "site:liepin.com/job 生物信息 蛋白 研发",
-        "site:jobmd.cn 生物 研发 薪资",
-        "site:sustech.edu.cn 生物 药物 博士后 年薪",
-        "site:westlake.edu.cn/careers 蛋白 设计 博士后"
+        "生物 医药 2027 校园招聘 研发 质量 技术支持 官方",
+        "site:edu.cn 生物 2027 招聘 薪酬 本科 硕士",
+        "site:ac.cn 科研助理 本科 硕士 薪酬 招聘",
+        "site:gov.cn 生物医药 招聘 岗位表 薪酬",
+        "生物 质量 QC QA 工艺 注册 应届 校招 招聘 官网"
       ],
       "entry_urls": [
-        "https://www.michaelpage.com.cn/jobs/%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/healthcare-pharmaceutical",
-        "https://faculty.sustech.edu.cn/?cat=11&go=2&iscss=1&snapid=1&tagid=zhangxm"
+        "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+        "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+        "https://www.cqcivc.edu.cn/SITE_ATTACHE/jyb_cqcivc_edu_cn/2026-04-02/upload/file/20260402/GzxH_1775095183197089795.pdf",
+        "https://job.wuxibiologics.com.cn/campus-recruitment/wuxibiologics/99961/"
       ],
-      "limit": 10,
-      "coverage": "公开招聘样本；不外推到应届薪资、行业均值或实际到手收入",
+      "limit": 20,
+      "coverage": "优先本科/硕士应届、0–3年初级岗位；至少覆盖实验研发、生信、生产工艺、质量、注册与技术支持。完整JD、官方PDF与列表观察分级，薪酬未知不填；高管/博士后/海外不混入默认入口。",
       "enabled": true
     },
     {
@@ -98,5 +100,6 @@
     }
   ],
   "access_mode": "public_only",
-  "scope_note": "用户选择本阶段先补公开信息，不购买、不申请试用或付费接口，不反复追问订阅。"
+  "scope_note": "用户选择本阶段先补公开信息，不购买、不申请试用或付费接口，不反复追问订阅。",
+  "target_audience": "本科/硕士应届与初级岗位"
 }

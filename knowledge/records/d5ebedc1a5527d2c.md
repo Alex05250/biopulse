@@ -1,0 +1,13 @@
+# A role for eIF5A in translational control of stress-inducible proteins in multiple myeloma cell lines.
+
+- 原站日期：2026-10-21（published）
+- 类型：journal
+- 首次收录：2026-11-15T13:26:01+08:00
+- 来源：[PubMed · 基因编辑](https://doi.org/10.1002/1878-0261.70328)
+- 记录 ID：d5ebedc1a5527d2c
+
+题录索引 · Molecular oncology。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。
+
+## 关联节点（仅提及，不代表因果）
+
+[[基因编辑]] [[RNA 药物]]

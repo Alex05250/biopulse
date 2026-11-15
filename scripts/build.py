@@ -7,7 +7,10 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/'data'
 def read(n): return json.loads((DATA/(n+'.json')).read_text(encoding='utf-8'))
-def write(p,content):p.parent.mkdir(parents=True,exist_ok=True);p.write_text(content,encoding='utf-8')
+def write(p,content):
+    p.parent.mkdir(parents=True,exist_ok=True)
+    if p.suffix=='.md':content=content.rstrip()+'\n'
+    p.write_text(content,encoding='utf-8')
 def validate_public_sources(items,sources):
     paid={s['id'] for s in sources if s.get('mode')=='paid'}
     known={s['id'] for s in sources}
@@ -18,6 +21,12 @@ def validate_public_sources(items,sources):
         assert r.get('visibility','public')=='public','Private record in public build'
 def build():
     items=read('items');sources=read('sources');topics=read('topics');history=read('history');editorial=read('editorial');meta=read('meta')
+    import career
+    documents=read('document_status') if (DATA/'document_status.json').exists() else []
+    changed={s['source_id'] for s in documents if s['state']=='changed'}
+    unavailable={s['source_id'] for s in documents if s['state']=='error'}
+    career_items=[{**r,'source_document_changed':r['source_id'] in changed,'source_document_unavailable':r['source_id'] in unavailable} for r in items]
+    write(DATA/'career.json',json.dumps(career.build(career_items,meta,documents),ensure_ascii=False,indent=2)+'\n')
     validate_public_sources(items,sources)
     valid={t['id'] for t in topics}; ids={r['id'] for r in items}
     assert len(ids)==len(items),'Duplicate record ID'

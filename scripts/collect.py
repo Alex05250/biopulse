@@ -93,8 +93,15 @@ def record(s,title,url,date,kind,**extra):
 def epmc(s):
     since=(NOW.date()-timedelta(days=35)).isoformat()
     q=f'({s["query"]}) AND FIRST_PDATE:[{since} TO {TODAY}] sort_date:y'
-    d=api('https://www.ebi.ac.uk/europepmc/webservices/rest/search',dict(query=q,format='json',resultType='core',pageSize=s['limit']))
-    if 'resultList' not in d: raise ValueError('Not a Europe PMC result')
+    cap=s.get('max_records',s['limit']); rows=[]; cursor='*'; pages=0; total=0
+    while len(rows)<cap:
+        batch=api('https://www.ebi.ac.uk/europepmc/webservices/rest/search',dict(query=q,format='json',resultType='core',pageSize=min(100,cap-len(rows)),cursorMark=cursor))
+        if 'resultList' not in batch: raise ValueError('Not a Europe PMC result')
+        page=batch['resultList'].get('result',[]);total=batch.get('hitCount',0);pages+=1
+        rows.extend(page); following=batch.get('nextCursorMark')
+        if not page or len(rows)>=total or not following or following==cursor:break
+        cursor=following
+    d={'resultList':{'result':rows},'hitCount':total}
     out=[]
     for a in d['resultList'].get('result',[]):
         doi=a.get('doi','').lower().rstrip('.')
@@ -108,7 +115,7 @@ def epmc(s):
         # Abstracts are used for topic matching but not republished.
         r['summary']='题录索引 · '+(journal or '学术文献')+'。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。'
         out.append(r)
-    return out,dict(available=d.get('hitCount',0),sampled=True,note='滚动 35 天，每个检索最多 '+str(s['limit'])+' 条；非全量监测。')
+    return out,dict(available=total,fetched=len(rows),retained=len(out),pages=pages,sampled=len(rows)<total,window_start=since,window_end=TODAY,note='滚动35天分页，预算上限'+str(cap)+'条；本次取到'+str(len(rows))+'/'+str(total)+'条，日期有效记录'+str(len(out))+'条。仅覆盖该检索，不等于全领域或无遗漏。')
 
 def biorxiv(s):
     since=(NOW.date()-timedelta(days=7)).isoformat()
@@ -136,9 +143,29 @@ def biorxiv(s):
 
 def trials(s):
     since=(NOW.date()-timedelta(days=35)).isoformat()
-    params={'query.term':f'(CRISPR OR "CAR-T" OR "gene therapy" OR "brain-computer interface") AND AREA[LastUpdatePostDate]RANGE[{since},{TODAY}]','pageSize':s['limit'],'sort':'LastUpdatePostDate:desc','format':'json','countTotal':'true'}
-    d=api('https://clinicaltrials.gov/api/v2/studies',params)
-    if 'studies' not in d: raise ValueError('Not a ClinicalTrials result')
+    cap=s.get('max_records',s['limit']); studies=[]; pages=0; total=0;tokens=set()
+    params={'query.term':f'(CRISPR OR "CAR-T" OR "gene therapy" OR "brain-computer interface") AND AREA[LastUpdatePostDate]RANGE[{since},{TODAY}]','pageSize':min(100,cap),'sort':'LastUpdatePostDate:desc','format':'json','countTotal':'true'}
+    while len(studies)<cap:
+        batch=api('https://clinicaltrials.gov/api/v2/studies',params)
+        if 'studies' not in batch: raise ValueError('Not a ClinicalTrials result')
+        studies.extend(batch['studies'][:cap-len(studies)]);pages+=1;total=batch.get('totalCount',total)
+        if not batch.get('studies') or not batch.get('nextPageToken'):break
+        if batch['nextPageToken'] in tokens:raise ValueError('ClinicalTrials pagination token repeated')
+        tokens.add(batch['nextPageToken'])
+        params['pageToken']=batch['nextPageToken'];params['pageSize']=min(100,cap-len(studies))
+        if not params['pageSize']:break
+    fetched=len(studies)
+    # Recheck known NCT IDs independently of the discovery window/ranking cap.
+    known={r['nct_id'] for r in read('items.json',[]) if r.get('nct_id')}
+    seen={a['protocolSection']['identificationModule']['nctId'] for a in studies}
+    missing=sorted(known-seen);tracked_checked=0;tracked_errors=[]
+    for i in range(0,len(missing),100):
+        try:
+            batch=api('https://clinicaltrials.gov/api/v2/studies',{'filter.ids':','.join(missing[i:i+100]),'pageSize':100,'format':'json'})
+            if 'studies' not in batch:raise ValueError('Invalid tracked-NCT response')
+            studies.extend(batch['studies']);tracked_checked+=len(batch['studies'])
+        except Exception as exc:tracked_errors.append(str(exc)[:160])
+    d={'studies':studies}
     out=[]
     for a in d['studies']:
         p=a['protocolSection']; i=p['identificationModule']; st=p['statusModule']; de=p.get('designModule',{})
@@ -149,7 +176,7 @@ def trials(s):
         r['topics']=topic_ids(r['title']+' '+p.get('descriptionModule',{}).get('briefSummary','')+' '+sponsor)
         r['summary']=f'登记更新 · {sponsor} · {phase} · {status}。登记状态不代表疗效已证实；是否有结果请查原始登记。'
         out.append(r)
-    return out,dict(available=d.get('totalCount',0),sampled=True,note='近 35 天指定关键词，按登记更新时间取前 '+str(s['limit'])+' 条；仅比较两次采集间可见字段。')
+    return out,dict(available=total,fetched=fetched,pages=pages,sampled=fetched<total,tracked_ids=len(missing),tracked_checked=tracked_checked,tracked_errors=tracked_errors,partial=bool(tracked_errors),note='近35天关键词分页，取到'+str(fetched)+'/'+str(total)+'条；额外按NCT逐批复查旧记录'+str(tracked_checked)+'条。登记变化不是审批或疗效结论。'+('旧记录复查部分失败，保留旧字段。' if tracked_errors else ''))
 
 def rss(s):
     raw=request(s['feed'])
@@ -199,11 +226,11 @@ ADAPTERS={'epmc':epmc,'biorxiv':biorxiv,'trials':trials,'rss':rss,'greenhouse':g
 def fetch_source(s):
     try:
         records,coverage=ADAPTERS[s['adapter']](s)
-        return s,records,dict(source_id=s['id'],state='ok',checked_at=STAMP,count=len(records),coverage=coverage,error='')
+        return s,records,dict(source_id=s['id'],state='partial' if coverage.get('partial') else 'ok',checked_at=STAMP,count=len(records),coverage=coverage,error='; '.join(coverage.get('tracked_errors',[])))
     except Exception as e:
         return s,[],dict(source_id=s['id'],state='error',checked_at=STAMP,count=0,error=str(e)[:220],coverage={'note':'本次失败，保留已有数据。'})
 
-FIELDS=('title','date','kind','summary','is_verified','phase','status','version','salary','salary_context','salary_currency','salary_period','salary_tax','salary_inclusions','salary_basis','reference_ranges','job_level','market','location','skills','has_results','enrollment','published_doi')
+FIELDS=('title','date','kind','summary','is_verified','phase','status','version','salary','salary_min','salary_max','salary_scope','salary_component','salary_months','salary_context','salary_currency','salary_period','salary_tax','salary_tax_code','salary_inclusions','salary_basis','reference_ranges','job_level','market','location','cities','skills','audience','education_min','education_allowed','education_text','experience_text','role_family','hiring_batch','application_deadline','has_results','enrollment','published_doi')
 def fingerprint(r):
     return hashlib.sha256(json.dumps({k:r.get(k) for k in FIELDS},sort_keys=True,ensure_ascii=False).encode()).hexdigest()
 
@@ -221,7 +248,8 @@ def merge(old,incoming,stamp=STAMP):
         before=existing.get(id)
         r['source_refs']=sorted(set(r['source_refs']+(before or {}).get('source_refs',[])))
         r['topics']=sorted(set(r['topics']+(before or {}).get('topics',[])))
-        r['first_seen']=(before or {}).get('first_seen',stamp);r['last_seen']=stamp
+        r['first_seen']=(before or {}).get('first_seen',stamp)
+        r['last_seen']=r.get('verified_at') or r.get('source_observed_at') or stamp
         r['updated_at']=(before or {}).get('updated_at',stamp)
         if before is None:
             changes.append(dict(item_id=id,type='new',at=stamp,fields={}))
@@ -239,6 +267,7 @@ def run(offline=False):
         with futures.ThreadPoolExecutor(max_workers=3) as pool:
             results=list(pool.map(fetch_source,[s for s in SOURCES if s['mode']=='auto']))
         for s,rows,state in results:
+            for row in rows:row['source_observed_at']=STAMP
             incoming.extend(rows);statuses.append(state)
             print(s['id'],state['state'],len(rows),state.get('error',''),flush=True)
         # Job boards are complete only when not truncated. No inference for sampled feeds/trials.
@@ -265,7 +294,9 @@ def run(offline=False):
     if prior and prior.get('baseline'):entry['baseline']=True;entry['note']=prior['note']
     save('digests.json',[entry]+[d for d in digests if d['date']!=TODAY])
     current=read('status.json',[])
-    save('meta.json',dict(schema_version=1,generated_at=STAMP,record_count=len(items),source_count=len(SOURCES),auto_sources=len([s for s in SOURCES if s['mode']=='auto']),healthy_sources=len([s for s in current if s['state']=='ok']),error_sources=len([s for s in current if s['state']=='error']),today_new=entry['new'],today_updated=entry['updated'],timezone='Asia/Shanghai',schedule='每天 08:17（北京时间，GitHub 调度可能延迟）',repository='https://github.com/Alex05250/biopulse',baseline=entry['baseline']))
+    prior_meta=read('meta.json',{})
+    collected=STAMP if any(s['state'] in ('ok','partial') for s in statuses) else prior_meta.get('last_collection_at') or max((s.get('last_success') or '' for s in current if s['source_id'] in {x['id'] for x in SOURCES if x['mode']=='auto'}),default='')
+    save('meta.json',dict(schema_version=2,generated_at=STAMP,last_collection_at=collected,record_count=len(items),source_count=len(SOURCES),auto_sources=len([s for s in SOURCES if s['mode']=='auto']),healthy_sources=len([s for s in current if s['state']=='ok']),error_sources=len([s for s in current if s['state'] in ('error','partial')]),today_new=entry['new'],today_updated=entry['updated'],timezone='Asia/Shanghai',schedule='每天 08:17（北京时间，GitHub 调度可能延迟）',repository='https://github.com/Alex05250/biopulse',baseline=entry['baseline']))
     print('TOTAL',len(items),'NEW',len(changes),'ERRORS',len([s for s in current if s['state']=='error']))
     if statuses and not any(s['state']=='ok' for s in statuses):raise SystemExit('All sources failed; previous records retained.')
 

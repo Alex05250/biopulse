@@ -6,9 +6,9 @@ Protein design · 技术
 
 ## 提及关联（不是因果）
 
-[[基因编辑]] [[细胞与基因治疗]] [[合成生物学]] [[RNA 药物]] [[ADC 与多抗]] [[Generate Biomedicines]] [[监管与政策]] [[岗位与技能]]
+[[基因编辑]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[RNA 药物]] [[ADC 与多抗]] [[Generate Biomedicines]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 37 条
+## 相关情报 / 81 条
 
 - [[68d80a9bdc77b500|Learning the limits of protein structure models with NMR chemical shifts]] · 2026-11-13 · preprint
 - [[e0e66a5870ccbf44|Photoswitchable optoGPCRs for reversible control of Gs signalling and arrestin recruitment]] · 2026-11-12 · preprint
@@ -20,6 +20,7 @@ Protein design · 技术
 - [[dd40024382bd1ceb|pLM-bVAE: protein language model-enhanced binary representation improves quantum annealing-based protein sequence design]] · 2026-11-10 · preprint
 - [[63928ad61a54ff34|CPDD: Adapting an autoregressive DNA language model for bidirectional phage genome modeling]] · 2026-11-10 · preprint
 - [[3ca0a6e74dc72d3d|Membrane Geometry Reveals Strengths and Limitations of AlphaFold-Predicted Transmembrane Protein Complexes]] · 2026-11-10 · preprint
+- [[34d210ce12780cac|Decoupling cellular complexity: Comparative mass transport analysis of wild-type and mutant PhoE in nanoreactors.]] · 2026-11-10 · journal
 - [[247c016d9d219bf9|Senior Scientist I, Molecular Virology]] · 2026-11-10 · job
 - [[0aa9eff544d185e0|Joint protein-DNA language modeling enables prediction and engineering of DNA recognition specificity]] · 2026-11-10 · preprint
 - [[e177a306a253620c|All-Atom Structure Tokenizer: AtomLM-9b for Biomolecular Structure Prediction]] · 2026-11-09 · preprint
@@ -31,6 +32,7 @@ Protein design · 技术
 - [[7cd5cc90ff8aac3c|Comprehensive mapping of essential-gene interactions in M. tuberculosis.]] · 2026-11-04 · journal
 - [[63509a223fce5546|Lead impairs long-term memory by disrupting mitochondrial redox homeostasis in Drosophila .]] · 2026-11-04 · journal
 - [[5e11d4eccbfd9c9e|Protein nanocages: Programmable biomaterial platforms for therapeutics, bioimaging, and diagnostics.]] · 2026-11-04 · journal
+- [[8d2ced57b00ac24e|Decoding the landscape in biomanufacturing of xylose: metabolic bottlenecks and computation-assisted strategies.]] · 2026-11-03 · journal
 - [[294563f3e071cd1b|Senior Scientist I, Biotherapeutic Production Technologies]] · 2026-11-03 · job
 - [[cc1e58a4ee808e08|Global analysis of thermal and chemical denaturation using CheMelt: Thermodynamic dissection of highly thermostable de novo designed proteins.]] · 2026-11-01 · journal
 - [[8d09967958e3858d|Naturally Arising de Novo Open Reading Frames as Potential Zinc Chelators in Drosophila melanogaster.]] · 2026-11-01 · journal
@@ -38,12 +40,54 @@ Protein design · 技术
 - [[1d669dd14c2a63a5|MONDE·T: A database and interactive webserver for non-standard amino acids and peptide components in the PDB.]] · 2026-11-01 · journal
 - [[f414604eac43e69d|LPT: Orchestrating bounded agentic loops for automated protein binder design]] · 2026-10-30 · preprint
 - [[79285961bf946c17|Principal Scientist, Target Binding]] · 2026-10-29 · job
+- [[b933804b58ca7110|Iterative Refinement for Structural Optimization of De Novo Protein Sequences]] · 2026-10-28 · preprint
 - [[a84816c72e5adb87|De novo Protein Generating Model via Structure-Aware Graph Neural Networks]] · 2026-10-28 · preprint
+- [[a08d1d55fa1284db|Structural mechanism of programmable gene integration by the R2 retrotransposon coupled with CRISPR-Cas9.]] · 2026-10-28 · journal
 - [[34cec14ed6d2f352|An Interactive Bidirectional De Novo Protein Design System]] · 2026-10-28 · preprint
+- [[b925a5813f906d77|Function-preserving CD8⁺ T Cell Immunogenicity minimization through protein design]] · 2026-10-27 · preprint
+- [[9387a434030daa8f|Computational Design and Evaluation of De Novo Protein Minibinders Targeting Specific Sites of STAT3]] · 2026-10-27 · preprint
+- [[325444fc007147ae|GLOM–TGITO: multiscale protein modelling and multiview landscape-guided sequence discovery]] · 2026-10-27 · preprint
+- [[0984d183e6eb56fa|Probing the sequence variability tolerance in a de novo α-helical barrel biocatalyst]] · 2026-10-27 · preprint
+- [[edca8c285c600cfe|Design of full-length agonist and antagonist antibodies for hard targets]] · 2026-10-26 · preprint
+- [[bc6b2d48e272f427|Programmable Engineered Living Vehicles as Autonomous Biofactories for Synergistic Osteomyelitis Management and Bone Regeneration.]] · 2026-10-26 · journal
+- [[7035cbff473ab045|Decoding & manipulating human intercellular signaling via scalable cell-free protein synthesis]] · 2026-10-26 · preprint
+- [[6d15aecf61bc3ec0|Shared α-helix chimeraffibodies enable linker-free bispecific protein design.]] · 2026-10-26 · journal
+- [[df636c51ba1004e1|WasteFams: a database of protein families from global wastewater microbiomes.]] · 2026-10-22 · journal
+- [[d8a25c24f9b53ddd|HydroGuard: a controlled release hydrogel-phage delivery system to combat catheter-associated urinary tract infections.]] · 2026-10-22 · journal
+- [[413a7b7e6c76f356|Design and validation of nucleosome binding peptides using BindCraft.]] · 2026-10-22 · journal
 - [[dedb3853b10e6ef9|De novo design of enantioselective artificial metalloenzyme photocatalysts.]] · 2026-10-21 · journal
+- [[a0e935942cccd791|Design of readers for pathological PTM proteoforms in Alzheimer’s disease]] · 2026-10-21 · preprint
+- [[684fafaf98e6bb58|Structure-Function Relationships of Cid1 Poly(U) Polymerase: Catalysis, Substrate Recognition, Engineering, and Applications.]] · 2026-10-21 · journal
 - [[5fd64e56dec2bb19|用自然语言描述功能，再设计蛋白质：Pinal 的实验检验]] · 2026-10-21 · journal
 - [[22adc3f299a8da11|Senior Scientist I, Computational Protein Design]] · 2026-10-21 · job
 - [[2285f93dc979ed65|Scientist I, Computational Protein Design]] · 2026-10-21 · job
+- [[02ed323bb30f2777|Structure of a sparsely populated chimeric intermediate that facilitates fold-switching of a metamorphic protein.]] · 2026-10-21 · journal
+- [[e429a230a0ddc24a|Engineering serum stable protein nanosheets with reduced macrophage uptake.]] · 2026-10-20 · journal
+- [[d94252f88260ff02|LM2KM: feature extraction from pretrained protein and molecular language models combined with quantum mechanics (QM) features for K M predictions.]] · 2026-10-20 · journal
 - [[a5222ec9eb70cdf6|Scientist II, Functional Bioassays & High Throughput Screening]] · 2026-10-20 · job
+- [[77231bba6dadac0e|Reliable and Efficient Agentic Protein Design with Toolset Harnessing]] · 2026-10-20 · preprint
+- [[4e14da5474ec39bb|A rapid, automation-friendly, cell-free and purification-free pipeline for binding and kinetic characterisation of de novo designed binders with high quality standardised per-design data]] · 2026-10-20 · preprint
+- [[45e713f20bae43ef|Reliable and Efficient Agentic Protein Design with Toolset Harnessing]] · 2026-10-20 · journal
+- [[3e35c6ee7c98fc29|Bone morphogenetic protein 4 meets artificial intelligence: a comprehensive review of AI-driven advances in drug discovery, structural modeling, and clinical translation.]] · 2026-10-20 · journal
+- [[64fc90b2a315e920|APR-Score: Identification and Scoring of Aggregation-prone Regions in Protein Sequences.]] · 2026-10-19 · journal
+- [[03770b3031a1493e|Production of recombinant human proteins in Komagataella phaffii using a sucrose-utilization-based selection marker without antibiotic resistance.]] · 2026-10-18 · journal
+- [[4b50dbad7294a543|Leveraging high temperature for enhanced and faster detection of SARS-CoV-2 and its Omicron variant with CRISPR-AsCas12a.]] · 2026-10-17 · journal
+- [[e8d584be3401bd8c|Selective granzyme B replenishment dominates the molecular switch for sustained cytotoxicity in effector CD8 + T lymphocytes]] · 2026-10-16 · preprint
+- [[79ac9559d7d52aee|MYC targeted de novo binders impair tumor growth]] · 2026-10-16 · preprint
+- [[7ae1f7fda6f0002f|Cleavage Activity Adjustment of the CRISPR/Cas System for Enhanced Diagnostics.]] · 2026-10-15 · journal
+- [[93e1cb575ebfd44b|Enzymatic detoxification mechanisms of histamine in fish and fermented aquatic products: research progress and future development strategies.]] · 2026-10-14 · journal
+- [[8a5f73262b3b506b|Programming Targeted Immune Cell Migration Using Orthogonal Chemokine-Receptor Pairs]] · 2026-10-14 · preprint
+- [[7cede78d461b2c8f|Generative design of functional disordered regions in a developmental transcription factor]] · 2026-10-14 · preprint
+- [[2a177fa9073c37f6|Why 627 BindCraft2 trajectories produced zero binders]] · 2026-10-14 · preprint
+- [[25e0ed552cbfbcf2|Virus-like particle vaccines: from antigen architecture to antigen presentation and adaptive immune responses.]] · 2026-10-14 · journal
+- [[992b90b509bef24a|Computational design of protein conformational landscapes for metamorphic behavior]] · 2026-10-13 · preprint
+- [[82963bd1c3d0008f|Evolution, structural diversity and functional plasticity of plant derived multifunctional proteases and α-amylases inhibitors.]] · 2026-10-13 · journal
+- [[9c5b37ec2e0c8de6|Modular Cell-Free Extract Mixing Enables Soluble, Active Biomanufacturing of Difficult-to-Express and Aggregation-Prone Proteins]] · 2026-10-12 · preprint
+- [[908e6ec0cd30b3c7|Oxygen-sensitive mechanisms and protective strategies of metalloenzymes.]] · 2026-10-12 · journal
+- [[89037759d6dbfd6b|Coordinating structure-guided design and cis-regulatory optimization to engineer elite herbicide-tolerance alleles in crops.]] · 2026-10-12 · journal
+- [[4e43cd630fe01753|From Sequence to Structure: AlphaFold and the AI Revolution in Aquaculture Drug Discovery and Vaccine Design.]] · 2026-10-12 · journal
+- [[dda65b058dd28f7e|Chain of Structures: Connecting Reasoning and Generation for Protein Design]] · 2026-10-11 · preprint
+- [[aa705bca84d2ae64|Filling the Missing Puzzle: Integrating Interaction and Evolutionary Information to Enhance Protein Fitness Prediction in Inverse Folding]] · 2026-10-11 · preprint
+- [[3bcd22a5e00c26a9|Simulating Directed Evolution In Silico with an Iterative, Physics-Based Workflow.]] · 2026-10-11 · journal
 - [[fe83bbc2294b5d5d|Senior Director, Protein Analytics & Biophysics]] · 2026-09-09 · job
 - [[027191a6e38e2970|Senior Machine Learning Scientist I/II, Model-Driven Optimization]] · 2026-08-06 · job

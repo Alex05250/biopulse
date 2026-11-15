@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "target": "本科/硕士应届与初级岗位",
+  "documents": [
+    {
+      "id": "wondfo-2027",
+      "source_id": "wondfo-2027",
+      "url": "https://scdc.jnu.edu.cn/attachment/jnu/ueditor/file/20261015/9075_万孚生物2027届校招招聘简章-终版.pdf",
+      "reviewed_sha256": "ddef28a12e6893d208577fcea26818a8f185fde35f95c316c5d7b8b6366fd0d7",
+      "reviewed_at": "2026-11-15T13:16:36+08:00",
+      "employer": "广州万孚生物技术股份有限公司"
+    },
+    {
+      "id": "biotest-2027",
+      "source_id": "biotest-2027",
+      "url": "https://job.hdu.edu.cn/attachment/hdu/ueditor/file/20261014/8559_杭州博拓生物2027届招聘简章（筑梦博拓 成就未来）.pdf",
+      "reviewed_sha256": "65edf86564c686ab5c12e0757e90318f415c51e34110bc6df0877c96eded9881",
+      "reviewed_at": "2026-11-15T13:16:36+08:00",
+      "employer": "杭州博拓生物科技股份有限公司"
+    },
+    {
+      "id": "pharmaron-production",
+      "source_id": "pharmaron-production",
+      "url": "https://www.cqcivc.edu.cn/SITE_ATTACHE/jyb_cqcivc_edu_cn/2026-04-02/upload/file/20260402/GzxH_1775095183197089795.pdf",
+      "reviewed_sha256": "a1a5fa7722a68f8ac0f2b71c49d45eaf8dc29f983e573583e74e714f11259f5d",
+      "reviewed_at": "2026-11-15T13:16:36+08:00",
+      "employer": "康龙化成（绍兴）药业有限公司"
+    }
+  ],
+  "discovery": "新岗位发现仍由公开检索与人工/AI原文核验补充；不把文件存续检查称为招聘全网自动采集。"
+}
