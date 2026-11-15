@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T13:26:01+08:00",
+  "generated_at": "2026-11-15T13:44:51+08:00",
   "semantics": "mention-only; not causal, partnership or maturity evidence",
   "nodes": [
     {
@@ -250,8 +250,18 @@
   ],
   "edges": [
     {
+      "source": "regulation",
+      "target": "865689c2630209c1",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "synbio",
       "target": "daea665362674110",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "97009043e7e9cf7a",
       "relation": "mentioned_in"
     },
     {
@@ -890,11 +900,6 @@
       "relation": "mentioned_in"
     },
     {
-      "source": "regulation",
-      "target": "97009043e7e9cf7a",
-      "relation": "mentioned_in"
-    },
-    {
       "source": "editing",
       "target": "9563c6e2648a22cb",
       "relation": "mentioned_in"
@@ -1522,11 +1527,6 @@
     {
       "source": "editing",
       "target": "88815c6d6d4354ed",
-      "relation": "mentioned_in"
-    },
-    {
-      "source": "regulation",
-      "target": "865689c2630209c1",
       "relation": "mentioned_in"
     },
     {
