@@ -8,8 +8,9 @@ Protein design · 技术
 
 [[基因编辑]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[RNA 药物]] [[ADC 与多抗]] [[Generate Biomedicines]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 81 条
+## 相关情报 / 82 条
 
+- [[1bada610a187898b|Tuned Fitness Landscapes for Benchmarking Model-Guided Protein Design.]] · 2026-11-14 · journal
 - [[68d80a9bdc77b500|Learning the limits of protein structure models with NMR chemical shifts]] · 2026-11-13 · preprint
 - [[e0e66a5870ccbf44|Photoswitchable optoGPCRs for reversible control of Gs signalling and arrestin recruitment]] · 2026-11-12 · preprint
 - [[867b6061c4521319|Pallatom2: Navigating the De Novo Protein Universe with Atom-to-Atom Modeling]] · 2026-11-12 · preprint

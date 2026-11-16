@@ -8,8 +8,11 @@ RNA therapeutics · 技术
 
 [[基因编辑]] [[AI 蛋白质设计]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[ADC 与多抗]] [[CD19]] [[监管与政策]]
 
-## 相关情报 / 80 条
+## 相关情报 / 84 条
 
+- [[55401be6c3048ecf|Multilayered genetic engineering strategies for tunable gene expression in Yarrowia lipolytica: advancing high-performance cell factories for sustainable biomanufacturing.]] · 2026-11-14 · journal
+- [[3701be29ef2aa53b|Construction of a stable T7 expression system inSaccharomyces cerevisiae based on extranuclear replication system.]] · 2026-11-14 · journal
+- [[0cb499d5d02a03d4|Advanced drug delivery strategies for overcoming tumor-mediated molecular hijacking: Emerging nanotherapeutics, advanced biotherapeutics, and artificial intelligence.]] · 2026-11-14 · journal
 - [[1e829e7d1cdf7a9f|Aryl hydrocarbon receptor (AhR) restrains the maintenance and acquisition of the anti-inflammatory identity of monocyte-derived macrophages.]] · 2026-11-13 · preprint
 - [[dc69d44cbf4ff6eb|紧凑型X-Editor：关注低剂量体内编辑，也保留预印本边界]] · 2026-11-12 · preprint
 - [[79272f4f53928650|Engineering a High-Fidelity CRISPR-Cas13d System for Targeted RNA Depletion in Plasmodium falciparum]] · 2026-11-12 · preprint
@@ -33,6 +36,7 @@ RNA therapeutics · 技术
 - [[5b0349523e337b4e|CRISPR mutagenesis of the MYC locus reveals a druggable ultraconserved RNA element.]] · 2026-11-04 · journal
 - [[4c7dbd5487c7aade|Inhaled Nanomedicines for Lung Diseases and Injuries: Pharmacological Advances and Clinical Translation.]] · 2026-11-04 · journal
 - [[83d5d96328f80153|ExPert infers causal perturbations from cell states across biological and clinical contexts]] · 2026-11-03 · preprint
+- [[7d59ee1c5cd77e9f|Gene-activated matrices as nanomedicine platforms for bone regeneration: Delivery, translation and patent landscape.]] · 2026-11-03 · journal
 - [[604802e6faaa0581|An SMN2 splicing-correcting antisense oligonucleotide promotes gene looping and transcription activation.]] · 2026-11-03 · journal
 - [[4768ed4a065d497c|Rational design of lipid nanoparticles for brain delivery of RNA therapeutics.]] · 2026-11-03 · journal
 - [[b15a31f545b986b3|A minimal two-residue C-terminal truncation of AID in adult-onset hyper-IgM syndrome type 2 (HIGM2)]] · 2026-11-02 · preprint

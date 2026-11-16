@@ -8,8 +8,9 @@ ADCs & multispecifics · 技术
 
 [[基因编辑]] [[AI 蛋白质设计]] [[细胞与基因治疗]] [[脑机接口]] [[合成生物学]] [[递送系统]] [[RNA 药物]] [[CD19]] [[体内 CAR-T]] [[Generate Biomedicines]] [[Neuralink]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 23 条
+## 相关情报 / 24 条
 
+- [[0cb499d5d02a03d4|Advanced drug delivery strategies for overcoming tumor-mediated molecular hijacking: Emerging nanotherapeutics, advanced biotherapeutics, and artificial intelligence.]] · 2026-11-14 · journal
 - [[e7679f5c467b7863|Downstream Processing: Purifying Complex Antibody Therapeutics When Target Molecules Misbehave]] · 2026-11-13 · news
 - [[7745a7d201384467|Neoadjuvant Intravesical Nadofaragene Firadenovec With Enfortumab Vedotin and Pembrolizumab for the Treatment of Muscle Invasive Bladder Cancer, TRIFECTA Trial]] · 2026-11-13 · trial
 - [[f5be3f2b0e9a311a|Testing the Anti-cancer Drug, Glofitamab, in Patients With Mantle Cell Lymphoma (A Type of Blood Cancer) Whose Disease Returned After CAR-T Cell Therapy]] · 2026-11-12 · trial
