@@ -46,7 +46,8 @@ def profile(record, today=None):
     expired = bool(deadline and str(deadline)[:10] < str(today or datetime.now(TZ).date()))
     status = 'expired' if expired else 'closed' if r.get('status') == 'NO_LONGER_LISTED' else 'needs_review' if r.get('source_document_changed') or r.get('source_document_unavailable') else 'stale' if age is None or age > 30 else 'reviewed'
     level = r.get('verification_level', 'list_only' if reviewed else 'api_list' if r.get('source_observed_at') else 'unknown')
-    vacancy = 'closed' if status in ('expired', 'closed') else 'listed' if level in ('full_jd', 'api_list') and status == 'reviewed' else 'unconfirmed'
+    # Reading a complete JD must not override an explicit uncertainty about vacancies.
+    vacancy = 'closed' if status in ('expired', 'closed') else 'unconfirmed' if r.get('status') == 'VACANCY_UNCONFIRMED' else 'listed' if level in ('full_jd', 'api_list') and status == 'reviewed' else 'unconfirmed'
     return dict(
         audience=audience, audience_basis=basis,
         education_min=r.get('education_min', 'unknown'),

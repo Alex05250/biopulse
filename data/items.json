@@ -27,6 +27,63 @@
     "updated_at": "2026-11-16T14:36:29+08:00"
   },
   {
+    "id": "83d017dbeed3cd79",
+    "title": "对十四届全国人大四次会议第7703号建议的答复",
+    "url": "https://www.nhc.gov.cn/wjw/jiany/202611/c9d5c90d4ea24b088cb3bb91edbcb7b3.shtml",
+    "date": "2026-11-16",
+    "date_basis": "published",
+    "category": "policy",
+    "kind": "official",
+    "source": "国家卫生健康委",
+    "source_id": "nhc",
+    "source_refs": [
+      "nhc"
+    ],
+    "topics": [
+      "cgt",
+      "regulation"
+    ],
+    "summary": "卫健委页面11月16日公开的建议答复，落款为7月6日。原文区分干细胞医疗技术临床转化与以药品注册为目的的产品管理，提出在转化应用审批等前提下支持医保支付的方向；不是某项技术已经获批或纳入医保的公告。",
+    "market": "CN",
+    "document_date": "2026-07-06",
+    "is_verified": true,
+    "verified_at": "2026-11-16T20:48:34+08:00",
+    "verified_url": "https://www.nhc.gov.cn/wjw/jiany/202611/c9d5c90d4ea24b088cb3bb91edbcb7b3.shtml",
+    "verification_scope": "已读取政府公开正文，核对页面2026-11-16发布日期及2026-07-06答复落款；未据此确认任何具体技术、产品或医保支付项目获批。",
+    "first_seen": "2026-11-16T20:48:34+08:00",
+    "last_seen": "2026-11-16T20:48:34+08:00",
+    "updated_at": "2026-11-16T20:48:34+08:00"
+  },
+  {
+    "id": "ce7577f8b5244193",
+    "title": "Summit Therapeutics Provides Update Regarding Ivonescimab Biologics License Application",
+    "url": "https://smmttx.com/news/press-releases/news-details/2026/Summit-Therapeutics-Provides-Update-Regarding-Ivonescimab-Biologics-License-Application/default.aspx",
+    "date": "2026-11-15",
+    "date_basis": "published",
+    "category": "industry",
+    "kind": "official",
+    "source": "Summit Therapeutics · 公司原始公告",
+    "source_id": "summit-public",
+    "source_refs": [
+      "summit-public"
+    ],
+    "topics": [
+      "adc",
+      "regulation"
+    ],
+    "summary": "Summit于11月15日公告披露，ivonescimab联合含铂化疗用于既往EGFR-TKI治疗后的局部晚期或转移性NSCLC的美国BLA收到CRL。公司转述FDA意见称，缺少统计学显著OS获益时，PFS改善不足以支持本次批准。",
+    "company": "Summit Therapeutics",
+    "trial_id": "NCT06396065",
+    "is_verified": true,
+    "verified_at": "2026-11-16T20:48:34+08:00",
+    "verified_url": "https://smmttx.com/news/press-releases/news-details/2026/Summit-Therapeutics-Provides-Update-Regarding-Ivonescimab-Biologics-License-Application/default.aspx",
+    "regulatory_outcome": "CRL_REPORTED_BY_COMPANY",
+    "verification_scope": "已读公司原始公开公告及发布日期；未核验FDA的CRL原函，不把PDUFA目标日当作实际签发日，不把本次美国适应症申请结论外推到其他地区或全部项目。",
+    "first_seen": "2026-11-16T20:48:34+08:00",
+    "last_seen": "2026-11-16T20:48:34+08:00",
+    "updated_at": "2026-11-16T20:48:34+08:00"
+  },
+  {
     "id": "a3e2b82a7914704e",
     "title": "CBER 2026 Orphan Approvals (new BLAs)",
     "url": "http://www.fda.gov/vaccines-blood-biologics/cber-2026-orphan-approvals-new-blas",
@@ -48707,6 +48764,80 @@
     "first_seen": "2026-11-15T13:26:01+08:00",
     "last_seen": "2026-11-16T14:36:29+08:00",
     "updated_at": "2026-11-15T13:26:01+08:00"
+  },
+  {
+    "id": "291d37a6614f7634",
+    "title": "实验室科研助理（新建课题组）",
+    "url": "https://ircbc.ac.cn/job/zg/202610/t20261021_8296486.html",
+    "date": "2026-10-21",
+    "date_basis": "published",
+    "category": "career",
+    "kind": "job",
+    "source": "中科院生物与化学交叉研究中心 · 官方公开招聘",
+    "source_id": "ircbc-public-jobs",
+    "source_refs": [
+      "ircbc-public-jobs"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "官网完整JD：参与细胞与分子生物学、高通量及测序相关实验，维护仪器、记录实验和整理基础数据。通常要求相关专业硕士及以上；有相关工作经验者可放宽至本科。是否接受应届及当前空缺未确认。",
+    "market": "CN",
+    "company": "中国科学院上海有机化学研究所生物与化学交叉研究中心",
+    "employer_id": "cas-sioc-ircbc",
+    "employer_type": "research_institute",
+    "location": "上海浦东",
+    "cities": [
+      "上海"
+    ],
+    "role_family": "wetlab",
+    "status": "VACANCY_UNCONFIRMED",
+    "audience": "unknown",
+    "audience_basis": "原文未限定毕业批次或既往经验年限，不仅凭“科研助理”名称推断应届 / 初级适用性；本科放宽另需相关工作经验。",
+    "education_min": "master",
+    "education_allowed": [
+      "master",
+      "phd",
+      "bachelor"
+    ],
+    "education_text": "生物学或相关专业硕士及以上；有相关工作经验者可放宽至本科",
+    "education_conditions": "本科仅在有相关工作经验时可放宽，不等于无经验本科均符合条件。",
+    "experience_text": "需基本生物学实验训练，相关实验与仪器经验优先；未明确既往全职年限。“至少工作一年”是拟任工作时长要求，不填为已有一年工作经验。",
+    "major_requirements": "生物学或相关专业",
+    "hiring_batch": "未明确毕业批次",
+    "graduation_window": "",
+    "job_level": "科研助理（经验适用性待核验）",
+    "skills": [
+      "细胞与分子生物学",
+      "高通量实验",
+      "二代 / 三代测序",
+      "仪器维护与实验记录",
+      "英文文献阅读"
+    ],
+    "salary": "基础月薪8000–12000元；另有固定补贴、绩效及奖励，具体金额未披露",
+    "salary_min": 8000,
+    "salary_max": 12000,
+    "salary_currency": "CNY",
+    "salary_period": "month",
+    "salary_scope": "job",
+    "salary_component": "base",
+    "salary_tax_code": "unknown",
+    "salary_tax": "官网未明确税前 / 税后",
+    "salary_inclusions": "报价为基础月薪；另列固定补贴、绩效奖励及有条件奖金，金额未披露；五险一金按规定执行，不推断个人缴费或到手金额。",
+    "salary_basis": "单岗位官网公开报价，不是录用offer、实际收入、应届起薪或行业基准；发薪月数未提供，不年化。",
+    "verified_at": "2026-11-16T20:48:34+08:00",
+    "verified_url": "https://ircbc.ac.cn/job/zg/202610/t20261021_8296486.html",
+    "verification_level": "full_jd",
+    "evidence_pages": [],
+    "evidence_sections": [
+      "二、招聘岗位及要求",
+      "三、薪酬及福利",
+      "五、工作地点"
+    ],
+    "verification_scope": "已完整阅读官网公开招聘正文及岗位职责、要求、薪资、地点；未提交简历、未联系招聘方，未确认当前空缺或应届适用性，不保存应聘联系方式。",
+    "first_seen": "2026-11-16T20:48:34+08:00",
+    "last_seen": "2026-11-16T20:48:34+08:00",
+    "updated_at": "2026-11-16T20:48:34+08:00"
   },
   {
     "id": "2762cfae19ce3168",

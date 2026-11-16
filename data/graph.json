@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:36:29+08:00",
+  "generated_at": "2026-11-16T20:48:34+08:00",
   "semantics": "mention-only; not causal, partnership or maturity evidence",
   "nodes": [
     {
@@ -52,7 +52,7 @@
         "CGT"
       ],
       "note": "同时追踪产品、适应症、临床分期、生产工艺和监管；试验登记不是获批。",
-      "count": 403
+      "count": 404
     },
     {
       "id": "bci",
@@ -133,7 +133,7 @@
         "多抗"
       ],
       "note": "区分靶点、连接子、载荷、适应症和临床终点，避免只比较标题里的疗效数字。",
-      "count": 24
+      "count": 25
     },
     {
       "id": "glp1",
@@ -228,7 +228,7 @@
         "审评"
       ],
       "note": "区分征求意见稿、正式文件与实施日期；指导原则发布不意味着任何具体产品已获批。",
-      "count": 322
+      "count": 324
     },
     {
       "id": "career",
@@ -245,7 +245,7 @@
         "薪酬"
       ],
       "note": "薪资保留原币种、周期与适用地区；招聘报价不是实际收入，匿名爆料不作薪资事实。",
-      "count": 138
+      "count": 139
     }
   ],
   "edges": [
@@ -257,6 +257,26 @@
     {
       "source": "regulation",
       "target": "88df55acc93fad5b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "83d017dbeed3cd79",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "83d017dbeed3cd79",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "adc",
+      "target": "ce7577f8b5244193",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "ce7577f8b5244193",
       "relation": "mentioned_in"
     },
     {
@@ -10077,6 +10097,11 @@
     {
       "source": "editing",
       "target": "2fcb888306dcef2f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "291d37a6614f7634",
       "relation": "mentioned_in"
     },
     {

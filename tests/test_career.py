@@ -58,6 +58,15 @@ class CareerTests(unittest.TestCase):
         p=c.profile(self.job(verification_level='document_review'),date(2026,11,15))
         self.assertEqual(p['freshness'],'reviewed');self.assertEqual(p['vacancy_status'],'unconfirmed')
 
+    def test_explicit_unconfirmed_vacancy_overrides_full_jd_review(self):
+        row=self.job(status='VACANCY_UNCONFIRMED')
+        p=c.profile(row,date(2026,11,15))
+        self.assertEqual(p['verification_level'],'full_jd')
+        self.assertEqual(p['freshness'],'reviewed')
+        self.assertEqual(p['vacancy_status'],'unconfirmed')
+        groups,_=c.comparison_groups([row],{row['id']:p})
+        self.assertEqual(groups,[])
+
     def test_deadline_and_document_change_override_recent_review(self):
         self.assertEqual(c.profile(self.job(application_deadline='2026-10-31'),date(2026,11,15))['freshness'],'expired')
         self.assertEqual(c.profile(self.job(source_document_changed=True),date(2026,11,15))['freshness'],'needs_review')

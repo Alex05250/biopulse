@@ -1,6 +1,45 @@
 {
   "briefs": [
     {
+      "date": "2026-11-16",
+      "created_at": "2026-11-16T20:48:34+08:00",
+      "intro": "本日机器变更的4项均为文献日期修订，并非4次临床进展。精选另核公司CRL公告、卫健委答复与研究及招聘原文；首次收录和实际发生日期分开看。",
+      "points": [
+        {
+          "title": "ivonescimab美国申报收到CRL：PFS阳性不等于可获批",
+          "summary": "Summit 11月15日公告披露，本次EGFR-TKI经治非小细胞肺癌适应症BLA收到CRL。公司称FDA认为，缺少统计学显著的总生存期（OS）获益时，无进展生存期（PFS）改善不足以支持批准。",
+          "caution": "依据公司公告，非FDA原函。结论限于本次美国申请，不能外推为中国批件撤销或全部开发失败。",
+          "next_check": "后续监管沟通、补充证据及是否重新申报。",
+          "item_id": "ce7577f8b5244193",
+          "evidence_level": "公司原始公告"
+        },
+        {
+          "title": "干细胞支持方向：临床转化与医保支付仍有前提",
+          "summary": "卫健委11月16日公开的建议答复指出，符合安全、有效、成熟与伦理要求的技术可申请临床转化，并提出审批后支持医保支付的方向；同时另述药品注册产品的管理。",
+          "caution": "答复落款7月6日，不是今日新法规，也未宣布具体技术已获批、已进医保。",
+          "next_check": "正式审批、配套标准与具体医保支付文件。",
+          "item_id": "83d017dbeed3cd79",
+          "evidence_level": "政府公开答复正文"
+        },
+        {
+          "title": "AI蛋白设计：用可调难度景观检验模型，而非只报命中率",
+          "summary": "11月14日Genetics论文提出SLIP，构建难度可调的合成适应度景观，用于比较机器学习引导的蛋白设计流程。它提供的是评测工具，不是新治疗蛋白。",
+          "caution": "基于作者摘要及Crossref题录核验；未读全文、未运行代码，合成基准不等于真实实验验证。",
+          "next_check": "与真实实验景观及跨蛋白家族表现的对应。",
+          "item_id": "1bada610a187898b",
+          "evidence_level": "作者摘要 / DOI元数据"
+        },
+        {
+          "title": "科研助理8千–1.2万元是基础月报价，不是应届行业起薪",
+          "summary": "中科院生物与化学交叉研究中心10月21日官网JD列出基础月薪及另行补贴。通常要求硕士，具有相关经验可放宽本科；既往年限和应届适用性未明确，故放在待核验区。",
+          "caution": "税口径、发薪月数及当前空缺未知；不乘12推年包，不与三家企业的校招参考混算。",
+          "next_check": "应届是否可投、空缺、税口径及发薪月数。",
+          "item_id": "291d37a6614f7634",
+          "evidence_level": "官网完整JD；空缺待确认"
+        }
+      ]
+    },
+    {
       "date": "2026-11-15",
       "created_at": "2026-11-15T13:34:23+08:00",
       "intro": "今日补充国内求职证据、合成生物制造官方案例及基因编辑预印本导读。首次收录不等于今日发生：招聘简章、11月13日案例与11月12日预印本均分别标注原站日期和核验边界。",
@@ -198,6 +237,50 @@
       "reviewed_at": "2026-11-15T20:41:30+08:00",
       "evidence_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.64898%2F2026.11.10.765514%22&format=json&resultType=core",
       "evidence_level": "abstract_only"
+    },
+    "ce7577f8b5244193": {
+      "title_zh": "ivonescimab美国申报收到CRL：PFS阳性不等于可获批",
+      "summary": "Summit 11月15日公告披露，本次EGFR-TKI经治非小细胞肺癌适应症BLA收到CRL。公司称FDA认为，缺少统计学显著的总生存期（OS）获益时，无进展生存期（PFS）改善不足以支持批准。",
+      "caution": "依据公司公告，非FDA原函。结论限于本次美国申请，不能外推为中国批件撤销或全部开发失败。",
+      "featured": true,
+      "reviewed_at": "2026-11-16T20:48:34+08:00",
+      "evidence_level": "公司原始公告"
+    },
+    "83d017dbeed3cd79": {
+      "title_zh": "干细胞支持方向：临床转化与医保支付仍有前提",
+      "summary": "卫健委11月16日公开的建议答复指出，符合安全、有效、成熟与伦理要求的技术可申请临床转化，并提出审批后支持医保支付的方向；同时另述药品注册产品的管理。",
+      "caution": "答复落款7月6日，不是今日新法规，也未宣布具体技术已获批、已进医保。",
+      "featured": true,
+      "reviewed_at": "2026-11-16T20:48:34+08:00",
+      "evidence_level": "政府公开答复正文"
+    },
+    "1bada610a187898b": {
+      "title_zh": "AI蛋白设计：用可调难度景观检验模型，而非只报命中率",
+      "summary": "11月14日Genetics论文提出SLIP，构建难度可调的合成适应度景观，用于比较机器学习引导的蛋白设计流程。它提供的是评测工具，不是新治疗蛋白。",
+      "caution": "基于作者摘要及Crossref题录核验；未读全文、未运行代码，合成基准不等于真实实验验证。",
+      "featured": true,
+      "reviewed_at": "2026-11-16T20:48:34+08:00",
+      "evidence_level": "abstract_only",
+      "evidence_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1093%2Fgenetics%2Fiyag313%22&format=json&resultType=core",
+      "bibliographic_url": "https://api.crossref.org/works/10.1093/genetics/iyag313"
+    },
+    "291d37a6614f7634": {
+      "title_zh": "科研助理8千–1.2万元是基础月报价，不是应届行业起薪",
+      "summary": "中科院生物与化学交叉研究中心10月21日官网JD列出基础月薪及另行补贴。通常要求硕士，具有相关经验可放宽本科；既往年限和应届适用性未明确，故放在待核验区。",
+      "caution": "税口径、发薪月数及当前空缺未知；不乘12推年包，不与三家企业的校招参考混算。",
+      "featured": true,
+      "reviewed_at": "2026-11-16T20:48:34+08:00",
+      "evidence_level": "官网完整JD；空缺待确认"
+    },
+    "9b76bca3e29237d0": {
+      "title_zh": "脑机接口复现：刺激时序验证不能代替端到端脑电延迟验证",
+      "summary": "11月8日期刊论文把实验协议、运行事件、采集来源与物理显示验证连成审计链。研究区分刺激频率一致性与局部时序规则性；作者未量化传输链路上的端到端事件至EEG延迟。",
+      "caution": "本日首次发现的既有方法论文；基于作者摘要及Crossref题录，未读全文。不代表解码准确率、植入性能或临床疗效突破。",
+      "featured": false,
+      "reviewed_at": "2026-11-16T20:48:34+08:00",
+      "evidence_level": "abstract_only",
+      "evidence_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.3390%2Fs26217065%22&format=json&resultType=core",
+      "bibliographic_url": "https://api.crossref.org/works/10.3390/s26217065"
     }
   }
 }

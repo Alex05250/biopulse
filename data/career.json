@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T14:36:29+08:00",
+  "generated_at": "2026-11-16T20:48:34+08:00",
   "target": "本科 / 硕士应届与初级岗位",
   "profiles": {
     "449ef51decc77294": {
@@ -3734,6 +3734,49 @@
         "numeric": false
       }
     },
+    "291d37a6614f7634": {
+      "audience": "unknown",
+      "audience_basis": "原文未限定毕业批次或既往经验年限，不仅凭“科研助理”名称推断应届 / 初级适用性；本科放宽另需相关工作经验。",
+      "education_min": "master",
+      "education_allowed": [
+        "master",
+        "phd",
+        "bachelor"
+      ],
+      "education_text": "生物学或相关专业硕士及以上；有相关工作经验者可放宽至本科",
+      "experience_text": "需基本生物学实验训练，相关实验与仪器经验优先；未明确既往全职年限。“至少工作一年”是拟任工作时长要求，不填为已有一年工作经验。",
+      "cities": [
+        "上海"
+      ],
+      "role_family": "wetlab",
+      "employer_type": "research_institute",
+      "hiring_batch": "未明确毕业批次",
+      "graduation_window": "",
+      "verification_level": "full_jd",
+      "verified_at": "2026-11-16T20:48:34+08:00",
+      "verification_age_days": 0,
+      "freshness": "reviewed",
+      "vacancy_status": "unconfirmed",
+      "application_deadline": null,
+      "quote": {
+        "raw": "基础月薪8000–12000元；另有固定补贴、绩效及奖励，具体金额未披露",
+        "currency": "CNY",
+        "period": "month",
+        "tax": "unknown",
+        "component": "base",
+        "scope": "job",
+        "min": 8000,
+        "max": 12000,
+        "months": null,
+        "annual_min": null,
+        "annual_max": null,
+        "conversion": "只比较原文月报价；未明确发薪月数，不推算年包",
+        "exclusion": [
+          "税前 / 税后口径未明确"
+        ],
+        "numeric": true
+      }
+    },
     "22adc3f299a8da11": {
       "audience": "unknown",
       "audience_basis": "尚无可支持经验要求的原文，不能仅凭助理 / 工程师名称认定适合应届",
@@ -5720,7 +5763,7 @@
     "unknown": "学历未明确"
   },
   "counts": {
-    "cn_jobs": 34,
+    "cn_jobs": 35,
     "target_jobs": 25,
     "target_employers": 3,
     "disclosed_job_quotes": 0,
@@ -5729,17 +5772,17 @@
   },
   "groups": [],
   "exclusions": {
-    "税前 / 税后口径未明确": 34,
-    "薪酬周期未明确": 27,
-    "基本工资 / 总包口径未明确": 34,
-    "不是近30天可确认的在列岗位": 34,
-    "未披露完整、有限的数字上下限": 28,
+    "不是近30天可确认的在列岗位": 35,
+    "税前 / 税后口径未明确": 35,
+    "不是已核验应届 / 初级岗位": 10,
     "不是明确人民币报价": 27,
-    "学历要求不完整": 8,
+    "未披露完整、有限的数字上下限": 28,
+    "基本工资 / 总包口径未明确": 34,
+    "薪酬周期未明确": 27,
+    "岗位方向待分类": 8,
     "招聘企业未具名": 5,
     "工作城市不唯一 / 未披露": 11,
-    "不是已核验应届 / 初级岗位": 9,
-    "岗位方向待分类": 8
+    "学历要求不完整": 8
   },
   "document_status": [
     {

@@ -434,9 +434,9 @@
     "name": "国家卫生健康委",
     "category": "policy",
     "url": "https://www.nhc.gov.cn/",
-    "mode": "manual",
+    "mode": "review",
     "adapter": null,
-    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+    "note": "2026-11-16逐篇核验1篇建议答复；页面发布日期与答复落款日期分别保存。不是全站自动采集，政策支持方向不等于具体产品或医保支付已获批。"
   },
   {
     "id": "most",
@@ -731,5 +731,23 @@
     "adapter": null,
     "url": "https://kw.beijing.gov.cn/",
     "note": "逐篇阅读政府公开原文后索引；案例总结与可申报政策分开，不把基金规模当成企业可直接领取的补贴。不是云端全量抓取。"
+  },
+  {
+    "id": "summit-public",
+    "name": "Summit Therapeutics · 公司原始公告",
+    "category": "industry",
+    "mode": "review",
+    "adapter": null,
+    "url": "https://smmttx.com/news/press-releases/default.aspx",
+    "note": "逐篇核验公司公开公告；公司转述的FDA意见不是FDA原函，前瞻性陈述不当作已发生事实。非自动全量采集。"
+  },
+  {
+    "id": "ircbc-public-jobs",
+    "name": "中科院生物与化学交叉研究中心 · 官方公开招聘",
+    "category": "career",
+    "mode": "review",
+    "adapter": null,
+    "url": "https://ircbc.ac.cn/job/zg/",
+    "note": "逐岗位读取官网公开招聘公告；完整JD不保证当前仍有空缺。经验适用性、学历条件与基础月薪分开记录，不发布应聘联系人。非自动职位接口。"
   }
 ]

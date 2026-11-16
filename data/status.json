@@ -335,5 +335,38 @@
       "sampled": true,
       "note": "本次阅读1篇政府公开案例；不代表全站政策监控或申报资格核验。"
     }
+  },
+  {
+    "source_id": "nhc",
+    "state": "reviewed",
+    "checked_at": "2026-11-16T20:48:34+08:00",
+    "count": 1,
+    "error": "",
+    "coverage": {
+      "sampled": true,
+      "note": "本次逐篇原文核验1项；不是全站自动采集，核验范围见记录。"
+    }
+  },
+  {
+    "source_id": "summit-public",
+    "state": "reviewed",
+    "checked_at": "2026-11-16T20:48:34+08:00",
+    "count": 1,
+    "error": "",
+    "coverage": {
+      "sampled": true,
+      "note": "本次逐篇原文核验1项；不是全站自动采集，核验范围见记录。"
+    }
+  },
+  {
+    "source_id": "ircbc-public-jobs",
+    "state": "reviewed",
+    "checked_at": "2026-11-16T20:48:34+08:00",
+    "count": 1,
+    "error": "",
+    "coverage": {
+      "sampled": true,
+      "note": "本次逐篇原文核验1项；不是全站自动采集，核验范围见记录。"
+    }
   }
 ]
