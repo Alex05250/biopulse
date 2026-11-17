@@ -11,7 +11,7 @@ Protein design · 技术
 ## 相关情报 / 89 条
 
 - [[59e1a291d07c70a1|Chemical Biology in the Age of Artificial Intelligence: From Ligand Discovery to Virtual Cells.]] · 2026-11-16 · journal
-- [[d73e15e15e92d368|Biomolecular design through latent reasoning with RFD4-Proteina]] · 2026-11-15 · preprint
+- [[d73e15e15e92d368|RFD4-Proteina：跨分子设计值得跟，但先分清预测和实验]] · 2026-11-15 · preprint
 - [[1bada610a187898b|AI蛋白设计：用可调难度景观检验模型，而非只报命中率]] · 2026-11-14 · journal
 - [[68d80a9bdc77b500|Learning the limits of protein structure models with NMR chemical shifts]] · 2026-11-13 · preprint
 - [[e0e66a5870ccbf44|Photoswitchable optoGPCRs for reversible control of Gs signalling and arrestin recruitment]] · 2026-11-12 · preprint

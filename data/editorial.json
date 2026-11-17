@@ -1,6 +1,37 @@
 {
   "briefs": [
     {
+      "date": "2026-11-17",
+      "created_at": "2026-11-17T20:36:51+08:00",
+      "intro": "云端首次收录107条，并不等于今天发生107个突破。21项变更中，1项涉及试验状态、5项是海外岗位移出公开列表，其余主要为日期、标题或来源元数据变化；不能把列表移出解读为裁员或国内就业趋势。本期区分期刊作者摘要、未评议预印本和临床登记，不重复昨日的公司审批新闻。",
+      "points": [
+        {
+          "title": "Superb-seq：把编辑位置与单细胞功能后果放在一起看",
+          "summary": "11月16日Nature Methods论文提出Superb-seq，把单细胞中检测到的Cas9编辑结果与转录组变化关联。作者摘要报告了多种细胞系和既有检测方法的比较，并观察到部分脱靶的表达影响依细胞类型而异。值得跟踪的是编辑带来的功能后果，而不只是编辑率或位点数。",
+          "caution": "已核对作者摘要与Crossref题录，未读全文、未复现。细胞系中的观察不能外推为人体安全性已获证明，也不能据此宣称编辑没有风险。",
+          "next_check": "关注更多细胞背景、独立复现，以及与其他检测结果的一致性。",
+          "item_id": "b861d2aff4e09831",
+          "evidence_level": "期刊论文作者摘要；未全文评估"
+        },
+        {
+          "title": "RFD4-Proteina：跨分子设计值得跟，但先分清预测和实验",
+          "summary": "11月15日预印本提出RFD4-Proteina，用统一表示处理更广的生物分子设计问题，作者同时报告计算评测及若干功能实验。这是扩展建模范围的研究线索；阅读重点应是哪些任务已有实验支持、哪些仍只在计算评测中成立，而非笼统地判断模型已能设计任意药物。",
+          "caution": "尚未同行评议。本次只核作者摘要、DOI类型与日期，未评估完整方法、训练数据或实验可重复性；不独立确认作者所述的性能领先。",
+          "next_check": "跟进同行评议、独立验证与真实应用任务，区分概念验证和普遍适用能力。",
+          "item_id": "d73e15e15e92d368",
+          "evidence_level": "预印本作者摘要；未全文评估"
+        },
+        {
+          "title": "一项CD19 CAR-T登记暂停：原因为等待IRB审查",
+          "summary": "NCT05052528从ACTIVE_NOT_RECRUITING变为SUSPENDED。已直接复核ClinicalTrials.gov公开API：登记所列原因是“Pending IRB review.”，最近公布更新为11月16日，且未标记有已发布结果。这是该项复发或难治性大B细胞淋巴瘤研究的状态变化，不是全部CAR-T项目的结论。",
+          "caution": "暂停不等于终止；等待伦理审查不能据此解释为发生安全事故或疗效失败。登记公布日期也不是暂停决定的实际签发日期，信息由登记方维护。",
+          "next_check": "后续伦理审查与登记状态、正式结果，以及预计完成日期是否调整。",
+          "item_id": "c178b13183b0e84c",
+          "evidence_level": "官方登记结构化API"
+        }
+      ]
+    },
+    {
       "date": "2026-11-16",
       "created_at": "2026-11-16T20:48:34+08:00",
       "intro": "本日机器变更的4项均为文献日期修订，并非4次临床进展。精选另核公司CRL公告、卫健委答复与研究及招聘原文；首次收录和实际发生日期分开看。",
@@ -281,6 +312,38 @@
       "evidence_level": "abstract_only",
       "evidence_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.3390%2Fs26217065%22&format=json&resultType=core",
       "bibliographic_url": "https://api.crossref.org/works/10.3390/s26217065"
+    },
+    "b861d2aff4e09831": {
+      "title_zh": "Superb-seq：把编辑位置与单细胞功能后果放在一起看",
+      "summary": "11月16日Nature Methods论文提出Superb-seq，把单细胞中检测到的Cas9编辑结果与转录组变化关联。作者摘要报告了多种细胞系和既有检测方法的比较，并观察到部分脱靶的表达影响依细胞类型而异。值得跟踪的是编辑带来的功能后果，而不只是编辑率或位点数。",
+      "caution": "已核对作者摘要与Crossref题录，未读全文、未复现。细胞系中的观察不能外推为人体安全性已获证明，也不能据此宣称编辑没有风险。",
+      "featured": true,
+      "reviewed_at": "2026-11-17T20:36:51+08:00",
+      "evidence_level": "abstract_only",
+      "evidence_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1038%2Fs41592-026-03319-z%22&format=json&resultType=core",
+      "bibliographic_url": "https://api.crossref.org/works/10.1038/s41592-026-03319-z"
+    },
+    "d73e15e15e92d368": {
+      "title_zh": "RFD4-Proteina：跨分子设计值得跟，但先分清预测和实验",
+      "summary": "11月15日预印本提出RFD4-Proteina，用统一表示处理更广的生物分子设计问题，作者同时报告计算评测及若干功能实验。这是扩展建模范围的研究线索；阅读重点应是哪些任务已有实验支持、哪些仍只在计算评测中成立，而非笼统地判断模型已能设计任意药物。",
+      "caution": "尚未同行评议。本次只核作者摘要、DOI类型与日期，未评估完整方法、训练数据或实验可重复性；不独立确认作者所述的性能领先。",
+      "featured": true,
+      "reviewed_at": "2026-11-17T20:36:51+08:00",
+      "evidence_level": "abstract_only",
+      "evidence_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.64898%2F2026.11.12.766037%22&format=json&resultType=core",
+      "bibliographic_url": "https://api.crossref.org/works/10.64898/2026.11.12.766037"
+    },
+    "c178b13183b0e84c": {
+      "title_zh": "一项CD19 CAR-T登记暂停：原因为等待IRB审查",
+      "summary": "NCT05052528从ACTIVE_NOT_RECRUITING变为SUSPENDED。已直接复核ClinicalTrials.gov公开API：登记所列原因是“Pending IRB review.”，最近公布更新为11月16日，且未标记有已发布结果。这是该项复发或难治性大B细胞淋巴瘤研究的状态变化，不是全部CAR-T项目的结论。",
+      "caution": "暂停不等于终止；等待伦理审查不能据此解释为发生安全事故或疗效失败。登记公布日期也不是暂停决定的实际签发日期，信息由登记方维护。",
+      "featured": true,
+      "reviewed_at": "2026-11-17T20:36:51+08:00",
+      "evidence_level": "官方登记结构化API",
+      "evidence_url": "https://clinicaltrials.gov/api/v2/studies/NCT05052528",
+      "registry_reason": "Pending IRB review.",
+      "registry_checked_at": "2026-11-17T20:36:51+08:00",
+      "registry_last_update_posted": "2026-11-16"
     }
   }
 }
