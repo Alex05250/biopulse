@@ -1,0 +1,11 @@
+# CBKMR: A Copula-based Bayesian Kernel Machine Regression Framework for Optimal Marker Detection in Omics Data
+
+- 原站日期：2026-11-11（published）
+- 类型：preprint
+- 首次收录：2026-11-17T15:58:50+08:00
+- 来源：[bioRxiv · 生物信息学](https://doi.org/10.1101/2025.11.18.689140)
+- 记录 ID：ffa6fe9e2efcf2d8
+
+未经同行评议 · bioRxiv bioinformatics，版本 2。仅作研究线索，不能据此认定疗效或安全性。
+
+## 关联节点（仅提及，不代表因果）

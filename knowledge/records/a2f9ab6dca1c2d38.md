@@ -1,6 +1,6 @@
-# A Phase 1/2, Single-Dose, Multicenter, Dose Escalation, Clinical Trial to Evaluate the Safety and Efficacy of MR-146: An Open-Label Part 1 in Participants With Stage 1 or 2 Neurotrophic Keratopathy and a Double-Masked Part 2 in Participants With Stage 2 Neurotrophic Keratopathy
+# A Phase 1/2 Clinical Trial to Evaluate the Safety and Efficacy of MR-146 in Subjects With Stage I and Stage II Neurotrophic Keratopathy
 
-- 原站日期：2026-11-06（registry_updated）
+- 原站日期：2026-11-16（registry_updated）
 - 类型：trial
 - 首次收录：2026-11-15T13:26:01+08:00
 - 来源：[ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT07923045)

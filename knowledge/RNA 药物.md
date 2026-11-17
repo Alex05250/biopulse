@@ -8,8 +8,10 @@ RNA therapeutics · 技术
 
 [[基因编辑]] [[AI 蛋白质设计]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[ADC 与多抗]] [[CD19]] [[监管与政策]]
 
-## 相关情报 / 84 条
+## 相关情报 / 86 条
 
+- [[c36befe94f1825d0|Engineered post-transcriptional regulation of Scn10a by Pumilio ameliorates neuropathic pain in mice]] · 2026-11-16 · preprint
+- [[2d91dc2ccacb7fd6|Public-data re-examination of SOX6 as a general pre-mRNA splicing factor]] · 2026-11-16 · preprint
 - [[55401be6c3048ecf|Multilayered genetic engineering strategies for tunable gene expression in Yarrowia lipolytica: advancing high-performance cell factories for sustainable biomanufacturing.]] · 2026-11-14 · journal
 - [[3701be29ef2aa53b|Construction of a stable T7 expression system inSaccharomyces cerevisiae based on extranuclear replication system.]] · 2026-11-14 · journal
 - [[0cb499d5d02a03d4|Advanced drug delivery strategies for overcoming tumor-mediated molecular hijacking: Emerging nanotherapeutics, advanced biotherapeutics, and artificial intelligence.]] · 2026-11-14 · journal

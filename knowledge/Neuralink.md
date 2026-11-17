@@ -8,8 +8,10 @@ Neuralink · 公司与实验室
 
 [[脑机接口]] [[ADC 与多抗]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 79 条
+## 相关情报 / 81 条
 
+- [[ca00ef3a2c18ce79|MRI Technologist]] · 2026-11-16 · job
+- [[7b0e54ccefca80b8|Process Engineer]] · 2026-11-16 · job
 - [[4d63a2c78f6ab5b0|Control of Assistive Devices Via Brain-Computer Interface Technology]] · 2026-11-13 · trial
 - [[6a7e77a8b2b9c4af|An Early Feasibility Study of a Robotically Implanted Brain-Computer Interface for Neural Control of External Devices in Spinal Cord Injury, Amyotrophic Lateral Sclerosis, and Chronic Ischemic Stroke]] · 2026-11-12 · trial
 - [[50dcc46a48f25c79|Environmental Health and Safety Specialist]] · 2026-11-12 · job

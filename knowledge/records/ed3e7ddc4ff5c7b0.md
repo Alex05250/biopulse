@@ -1,6 +1,6 @@
 # Efficacy and Safety of Chidamide Combined With PD-1 Inhibitor as Maintenance Therapy Following CAR-T Cell Treatment With TP53-Mutated Large B-Cell Lymphoma (LBCL)
 
-- 原站日期：2026-11-13（registry_updated）
+- 原站日期：2026-11-16（registry_updated）
 - 类型：trial
 - 首次收录：2026-11-14T21:53:05+08:00
 - 来源：[ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT07934537)

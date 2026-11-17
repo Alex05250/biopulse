@@ -12458,5 +12458,954 @@
     "type": "new",
     "at": "2026-11-16T20:48:34+08:00",
     "fields": {}
+  },
+  {
+    "item_id": "19608d03383e8c1c",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "57d4a4b6d1a519ba",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b861d2aff4e09831",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "dec3656d25f023e6",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a73fbb047ce3ca26",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "3cb41333976dc0c1",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d83465ad3ca077c8",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "3394a014c43e620c",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8ada0d88c1643644",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "2d91dc2ccacb7fd6",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7afa771a9da08e30",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d318ae7eaf99e3eb",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "846a417b58ea0da2",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c267d91d389740cc",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5ed4d93f729beabb",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "23fc422490c3e560",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1cb0dbc3a774fb11",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "2b015ae8c4311f1a",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "summary": {
+        "before": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+        "after": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。"
+      },
+      "version": {
+        "before": null,
+        "after": "1"
+      },
+      "published_doi": {
+        "before": null,
+        "after": ""
+      }
+    }
+  },
+  {
+    "item_id": "5596d6401b6f4208",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "title": {
+        "before": "A Charcot-Marie-Tooth-associated dynamin mutation causes peripheral neuropathy-like phenotypes via Patronin/CAMSAP-dependent microtubule stabilization",
+        "after": "A Charcot–Marie–Tooth–associated dynamin mutation causes peripheral neuropathy-like phenotypes via Patronin/CAMSAP-dependent microtubule stabilization"
+      }
+    }
+  },
+  {
+    "item_id": "417a43813d26baa1",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ee8433cb7e09bb0e",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "summary": {
+        "before": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。"
+      },
+      "version": {
+        "before": "1",
+        "after": null
+      },
+      "published_doi": {
+        "before": "",
+        "after": null
+      }
+    }
+  },
+  {
+    "item_id": "c80ee84e40b7dc32",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "title": {
+        "before": "Targeted Deletions Uncover Previously Uncharacterised C1-fixing Cluster Genes as Essential for Autotrophy in Clostridium autoethanogenum",
+        "after": "Targeted Deletions Uncover Previously Uncharacterised C 1 -fixing Cluster Genes as Essential for Autotrophy in Clostridium autoethanogenum"
+      },
+      "summary": {
+        "before": "未经同行评议 · bioRxiv synthetic biology，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。"
+      },
+      "version": {
+        "before": "1",
+        "after": null
+      },
+      "published_doi": {
+        "before": "",
+        "after": null
+      }
+    }
+  },
+  {
+    "item_id": "138d32aa26fe42f9",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "summary": {
+        "before": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。"
+      },
+      "version": {
+        "before": "1",
+        "after": null
+      },
+      "published_doi": {
+        "before": "",
+        "after": null
+      }
+    }
+  },
+  {
+    "item_id": "969bb16034c8e5a5",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "98352d6cf1c7b20e",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f4c65143ce5fc1d6",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "738604f0f385387f",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ec2ff6e897a253fb",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f1c18a17c850d2fc",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-16",
+        "after": "2026-11-12"
+      },
+      "summary": {
+        "before": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+        "after": "未经同行评议 · bioRxiv bioinformatics，版本 2。仅作研究线索，不能据此认定疗效或安全性。"
+      },
+      "version": {
+        "before": null,
+        "after": "2"
+      },
+      "published_doi": {
+        "before": null,
+        "after": ""
+      }
+    }
+  },
+  {
+    "item_id": "59e1a291d07c70a1",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d73e15e15e92d368",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d100d47487b67d69",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c36befe94f1825d0",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "32a901ebca53557d",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c81f0f98bbf06964",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "13c31df4aa594b30",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f563fa3f881773c0",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a89d83b8e0eb2eed",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7f1cc691ecaa9957",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-13",
+        "after": "2026-11-16"
+      },
+      "summary": {
+        "before": "未经同行评议 · bioRxiv synthetic biology，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "未经同行评议 · bioRxiv synthetic biology，版本 2。仅作研究线索，不能据此认定疗效或安全性。"
+      },
+      "version": {
+        "before": "1",
+        "after": "2"
+      }
+    }
+  },
+  {
+    "item_id": "ca3377bae1501b80",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8b0e80199da8997c",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4774d84fb5fe7a38",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "78168f9e358a1424",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0647d84a38171569",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "fa6bd98a60ad48fe",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ef7fc19756b3bd03",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "66a5e47432ce37c2",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c22fb3eae66718c4",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "17376996fdee05c4",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8df20b365b35946b",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f7c006dd1cd92344",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f2e4bf3c4a53ce37",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "12b98a2e8d5a3ac2",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "aa6e595f207ef0c2",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "9ba1617ab7f4ece5",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8c921c15fa849720",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e3ac6f613d2f56a2",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d70967b8f0895025",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "673b6b6f86eeb251",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8a79a1350db2523c",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c5162affe9ad0ae5",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5856e8b1bce3d6d4",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "2058c3b132468fb0",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "summary": {
+        "before": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+        "after": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。"
+      },
+      "version": {
+        "before": null,
+        "after": "1"
+      },
+      "published_doi": {
+        "before": null,
+        "after": ""
+      }
+    }
+  },
+  {
+    "item_id": "661343d3c32d31f2",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ffa6fe9e2efcf2d8",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b849b0cdec32c9c7",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "730e5e37e6765a96",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "78401f56247872b7",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "74e6466b268abe7f",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ee469e2478dd9326",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f99500950843e71d",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "49c69647addb7905",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "81e3775095a5b630",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "64d7f18e979bf465",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "93213f36a3f920da",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4b9b749f47be56e4",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a88cbaf3ff5c9ab7",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "52585392146a6e57",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f95e58bacd4c84cf",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-29",
+        "after": "2026-11-16"
+      }
+    }
+  },
+  {
+    "item_id": "4c3c7bd02fade2aa",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c6ee83657775d5d1",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-13",
+        "after": "2026-11-16"
+      }
+    }
+  },
+  {
+    "item_id": "56e61c58836e45c0",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "bb0efe0acd14b07c",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-10",
+        "after": "2026-11-16"
+      }
+    }
+  },
+  {
+    "item_id": "0f097e8db53d3349",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f281bad11f3160fe",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1b638a308e3ad4ec",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "06ba1d26b0250e42",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "943485db5f8dda1c",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8380240d02db8e12",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "3211044bd38be64d",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "9335694fa6b29837",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "af6994e2860e922d",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "cb522eaf3a113ba5",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ed3e7ddc4ff5c7b0",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-13",
+        "after": "2026-11-16"
+      }
+    }
+  },
+  {
+    "item_id": "a2f9ab6dca1c2d38",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "title": {
+        "before": "A Phase 1/2, Single-Dose, Multicenter, Dose Escalation, Clinical Trial to Evaluate the Safety and Efficacy of MR-146: An Open-Label Part 1 in Participants With Stage 1 or 2 Neurotrophic Keratopathy and a Double-Masked Part 2 in Participants With Stage 2 Neurotrophic Keratopathy",
+        "after": "A Phase 1/2 Clinical Trial to Evaluate the Safety and Efficacy of MR-146 in Subjects With Stage I and Stage II Neurotrophic Keratopathy"
+      },
+      "date": {
+        "before": "2026-11-06",
+        "after": "2026-11-16"
+      }
+    }
+  },
+  {
+    "item_id": "d81c3aea15a77486",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b4024084dda65b3a",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c178b13183b0e84c",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-26",
+        "after": "2026-11-16"
+      },
+      "summary": {
+        "before": "登记更新 · University of California, Davis · PHASE1 · ACTIVE_NOT_RECRUITING。登记状态不代表疗效已证实；是否有结果请查原始登记。",
+        "after": "登记更新 · University of California, Davis · PHASE1 · SUSPENDED。登记状态不代表疗效已证实；是否有结果请查原始登记。"
+      },
+      "status": {
+        "before": "ACTIVE_NOT_RECRUITING",
+        "after": "SUSPENDED"
+      }
+    }
+  },
+  {
+    "item_id": "a37ef7a8f8b6158f",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "aa1ca0f857bf8d33",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "12689f5d3882bc59",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b9bee26941dbbb03",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "cf53c1aa1c7f0e9c",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "53bfcabdb273f9d2",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e0e2d8c2b96375d1",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a5b123bdb7cd285f",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a449371c746b23c6",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8918e557b9d2b832",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "206e9d0c12d3bd8e",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "02f8fea7c72ef332",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-14",
+        "after": "2026-11-17"
+      }
+    }
+  },
+  {
+    "item_id": "aba3c5160c4dbd04",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "96b1fa03c6f47555",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "cbc2fb451d7fa568",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b71c682c4d719e27",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0c85d777e647a5a3",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-13",
+        "after": "2026-11-16"
+      }
+    }
+  },
+  {
+    "item_id": "279fd7a39bee0c5b",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "575da38d64ce29b0",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ed0075209024f4e3",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "269fcd2116f22b24",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c6ed4845626d90f3",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ef03730f8626857f",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ca00ef3a2c18ce79",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7b0e54ccefca80b8",
+    "type": "new",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "dcec1658864976bc",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "status": {
+        "before": "LISTED",
+        "after": "NO_LONGER_LISTED"
+      }
+    }
+  },
+  {
+    "item_id": "027191a6e38e2970",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "status": {
+        "before": "LISTED",
+        "after": "NO_LONGER_LISTED"
+      }
+    }
+  },
+  {
+    "item_id": "c324c026c731fe52",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "status": {
+        "before": "LISTED",
+        "after": "NO_LONGER_LISTED"
+      }
+    }
+  },
+  {
+    "item_id": "4e0fb69ae56c10e6",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "status": {
+        "before": "LISTED",
+        "after": "NO_LONGER_LISTED"
+      }
+    }
+  },
+  {
+    "item_id": "3c30464a7265f38d",
+    "type": "updated",
+    "at": "2026-11-17T15:58:50+08:00",
+    "fields": {
+      "status": {
+        "before": "LISTED",
+        "after": "NO_LONGER_LISTED"
+      }
+    }
   }
 ]

@@ -6,10 +6,11 @@ GLP-1 · 靶点与管线
 
 ## 提及关联（不是因果）
 
-[[基因编辑]] [[监管与政策]]
+[[基因编辑]] [[合成生物学]] [[监管与政策]]
 
-## 相关情报 / 6 条
+## 相关情报 / 7 条
 
+- [[f563fa3f881773c0|Escherichia coli Nissle 1917 as a Programmable Bridge Chassis for Biomanufacturing and Host-Responsive Living Systems.]] · 2026-11-15 · journal
 - [[4b75836fec20c0df|STAT+: HHS plans funding for research into ibogaine for PTSD]] · 2026-11-13 · news
 - [[066083d16630feaa|STAT+: Oura’s acquisition of health tech startup raises conflict-of-interest questions for Eli Lilly, experts say]] · 2026-11-13 · news
 - [[52cd7988ea2f0527|STAT+: Most-favored nations policy makes drugmakers rethink launches abroad]] · 2026-11-12 · news

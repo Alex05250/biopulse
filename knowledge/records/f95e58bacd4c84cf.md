@@ -1,6 +1,6 @@
 # To Evaluate Safety and Efficacy of Anitocabtagene Autoleucel Versus Autologous Stem Cell Transplant in Newly Diagnosed Multiple Myeloma
 
-- 原站日期：2026-10-29（registry_updated）
+- 原站日期：2026-11-16（registry_updated）
 - 类型：trial
 - 首次收录：2026-11-15T13:26:01+08:00
 - 来源：[ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT07903506)

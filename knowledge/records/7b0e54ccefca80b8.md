@@ -1,0 +1,17 @@
+# Process Engineer
+
+- 原站日期：2026-11-16（job_updated）
+- 类型：job
+- 首次收录：2026-11-17T15:58:50+08:00
+- 来源：[Neuralink · 官方招聘](https://boards.greenhouse.io/neuralink/jobs/8205723003?gh_jid=8205723003)
+- 记录 ID：7b0e54ccefca80b8
+
+Neuralink · Fremont, California, United States。技能关键词：GMP / clinical。公开报价 $74,000 — $123,000，周期请看原文。
+
+## 关联节点（仅提及，不代表因果）
+
+[[脑机接口]] [[岗位与技能]] [[Neuralink]] [[监管与政策]]
+
+## 来源与口径
+
+- 公开报价：$74,000 — $123,000

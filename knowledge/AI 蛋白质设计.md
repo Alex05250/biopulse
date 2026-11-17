@@ -8,14 +8,20 @@ Protein design · 技术
 
 [[基因编辑]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[RNA 药物]] [[ADC 与多抗]] [[Generate Biomedicines]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 82 条
+## 相关情报 / 89 条
 
+- [[59e1a291d07c70a1|Chemical Biology in the Age of Artificial Intelligence: From Ligand Discovery to Virtual Cells.]] · 2026-11-16 · journal
+- [[d73e15e15e92d368|Biomolecular design through latent reasoning with RFD4-Proteina]] · 2026-11-15 · preprint
 - [[1bada610a187898b|AI蛋白设计：用可调难度景观检验模型，而非只报命中率]] · 2026-11-14 · journal
 - [[68d80a9bdc77b500|Learning the limits of protein structure models with NMR chemical shifts]] · 2026-11-13 · preprint
 - [[e0e66a5870ccbf44|Photoswitchable optoGPCRs for reversible control of Gs signalling and arrestin recruitment]] · 2026-11-12 · preprint
 - [[867b6061c4521319|Pallatom2: Navigating the De Novo Protein Universe with Atom-to-Atom Modeling]] · 2026-11-12 · preprint
+- [[49c69647addb7905|DeePEn - A Depth sensitive benchmark for Protein Engineering]] · 2026-11-12 · preprint
 - [[1d01498e1e8da97c|Associate Director, Biotherapeutic Production and Characterization]] · 2026-11-12 · job
+- [[ef7fc19756b3bd03|Leveraging state-of-the-art AI structure predictors to generate atomic resolution ensembles of intrinsically disordered proteins]] · 2026-11-11 · preprint
 - [[ab940603f6e6cfcf|zsasa: a Zig-based engine for high-throughput solvent accessible surface area at proteome scale]] · 2026-11-11 · preprint
+- [[9ba1617ab7f4ece5|DiffTernary: a Diffusion Model for Molecular Glue Ternary Complex Docking]] · 2026-11-11 · preprint
+- [[661343d3c32d31f2|Comparative functional genomics reveals distributed SERPINE1 like characteristics among Drosophila serpins]] · 2026-11-11 · preprint
 - [[21ddbcaf895ddfbb|Uncovering Features of ProteinMPNN with Sparse Autoencoders]] · 2026-11-11 · preprint
 - [[2058c3b132468fb0|Paired-unit activation steering for context-aware protein design]] · 2026-11-11 · preprint
 - [[dd40024382bd1ceb|pLM-bVAE: protein language model-enhanced binary representation improves quantum annealing-based protein sequence design]] · 2026-11-10 · preprint
@@ -36,6 +42,7 @@ Protein design · 技术
 - [[8d2ced57b00ac24e|Decoding the landscape in biomanufacturing of xylose: metabolic bottlenecks and computation-assisted strategies.]] · 2026-11-03 · journal
 - [[294563f3e071cd1b|Senior Scientist I, Biotherapeutic Production Technologies]] · 2026-11-03 · job
 - [[cc1e58a4ee808e08|Global analysis of thermal and chemical denaturation using CheMelt: Thermodynamic dissection of highly thermostable de novo designed proteins.]] · 2026-11-01 · journal
+- [[969bb16034c8e5a5|Redesigning photoprotection: nature-inspired and synthetic biology strategies to enhance crop productivity.]] · 2026-11-01 · journal
 - [[8d09967958e3858d|Naturally Arising de Novo Open Reading Frames as Potential Zinc Chelators in Drosophila melanogaster.]] · 2026-11-01 · journal
 - [[24ccc864e41ad032|Design Trade-Offs between Target Binding and Self-Association Revealed by De Novo SARS-CoV-2 Binders.]] · 2026-11-01 · journal
 - [[1d669dd14c2a63a5|MONDE·T: A database and interactive webserver for non-standard amino acids and peptide components in the PDB.]] · 2026-11-01 · journal
