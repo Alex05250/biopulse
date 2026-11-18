@@ -8,14 +8,20 @@ RNA therapeutics · 技术
 
 [[基因编辑]] [[AI 蛋白质设计]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[ADC 与多抗]] [[CD19]] [[监管与政策]]
 
-## 相关情报 / 86 条
+## 相关情报 / 92 条
 
+- [[89113ec84d63f541|Mobile group II intron reverse transcriptases: evolution, biochemical activities, and applications.]] · 2026-11-17 · journal
+- [[4424385c7c942383|Securing Cell-Free Expression: Safeguards for Distributed Biomanufacturing.]] · 2026-11-17 · journal
+- [[ee00646802aee696|Exercise-induced lactylation in WDR41 initiates autophagy and improves fatty liver diseases.]] · 2026-11-16 · journal
 - [[c36befe94f1825d0|Engineered post-transcriptional regulation of Scn10a by Pumilio ameliorates neuropathic pain in mice]] · 2026-11-16 · preprint
+- [[5b649e1db439917f|RNA Therapeutics in Cardiovascular Medicine: From Molecular Mechanisms to Clinical Practice.]] · 2026-11-16 · journal
 - [[2d91dc2ccacb7fd6|Public-data re-examination of SOX6 as a general pre-mRNA splicing factor]] · 2026-11-16 · preprint
 - [[55401be6c3048ecf|Multilayered genetic engineering strategies for tunable gene expression in Yarrowia lipolytica: advancing high-performance cell factories for sustainable biomanufacturing.]] · 2026-11-14 · journal
 - [[3701be29ef2aa53b|Construction of a stable T7 expression system inSaccharomyces cerevisiae based on extranuclear replication system.]] · 2026-11-14 · journal
 - [[0cb499d5d02a03d4|Advanced drug delivery strategies for overcoming tumor-mediated molecular hijacking: Emerging nanotherapeutics, advanced biotherapeutics, and artificial intelligence.]] · 2026-11-14 · journal
+- [[e84d40b32ca488b7|Algorithms for Designing Therapeutic Oligonucleotides on Pangenome Graphs]] · 2026-11-13 · preprint
 - [[1e829e7d1cdf7a9f|Aryl hydrocarbon receptor (AhR) restrains the maintenance and acquisition of the anti-inflammatory identity of monocyte-derived macrophages.]] · 2026-11-13 · preprint
+- [[090321d6eedef591|Regional Signals Matter: Rethinking Global Pooling for mRNA Foundation Models]] · 2026-11-13 · preprint
 - [[dc69d44cbf4ff6eb|紧凑型X-Editor：关注低剂量体内编辑，也保留预印本边界]] · 2026-11-12 · preprint
 - [[79272f4f53928650|Engineering a High-Fidelity CRISPR-Cas13d System for Targeted RNA Depletion in Plasmodium falciparum]] · 2026-11-12 · preprint
 - [[492f4fec72d26f26|Self-organized criticality in a mammalian RNA-interference circuit]] · 2026-11-12 · preprint

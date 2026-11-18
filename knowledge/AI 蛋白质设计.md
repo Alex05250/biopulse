@@ -8,23 +8,26 @@ Protein design · 技术
 
 [[基因编辑]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[RNA 药物]] [[ADC 与多抗]] [[Generate Biomedicines]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 89 条
+## 相关情报 / 94 条
 
+- [[b5065a2b810aa2b1|IMPRESS: AI-coupled HPC workflows for protein design]] · 2026-11-17 · preprint
 - [[59e1a291d07c70a1|Chemical Biology in the Age of Artificial Intelligence: From Ligand Discovery to Virtual Cells.]] · 2026-11-16 · journal
+- [[2f36a4fb2aa31a4b|Genetically encoded chemically controlled proximity switches: Molecular design, pharmacology, and therapeutic considerations.]] · 2026-11-16 · journal
 - [[d73e15e15e92d368|RFD4-Proteina：跨分子设计值得跟，但先分清预测和实验]] · 2026-11-15 · preprint
 - [[1bada610a187898b|AI蛋白设计：用可调难度景观检验模型，而非只报命中率]] · 2026-11-14 · journal
 - [[68d80a9bdc77b500|Learning the limits of protein structure models with NMR chemical shifts]] · 2026-11-13 · preprint
+- [[661343d3c32d31f2|Comparative functional genomics reveals distributed SERPINE1 like characteristics among Drosophila serpins]] · 2026-11-13 · preprint
+- [[3e24ca739d1cf5f6|Binary Patterning as a Probe of Protein Language Model Representations]] · 2026-11-13 · preprint
 - [[e0e66a5870ccbf44|Photoswitchable optoGPCRs for reversible control of Gs signalling and arrestin recruitment]] · 2026-11-12 · preprint
 - [[867b6061c4521319|Pallatom2: Navigating the De Novo Protein Universe with Atom-to-Atom Modeling]] · 2026-11-12 · preprint
 - [[49c69647addb7905|DeePEn - A Depth sensitive benchmark for Protein Engineering]] · 2026-11-12 · preprint
+- [[2707f1bcd5910e2b|Image-Conditioned Diffusion Preserves Latent PhysiologicalSignals and Enables Cross-Site Transfer of Synthetic MedicalImages]] · 2026-11-12 · preprint
 - [[1d01498e1e8da97c|Associate Director, Biotherapeutic Production and Characterization]] · 2026-11-12 · job
 - [[ef7fc19756b3bd03|Leveraging state-of-the-art AI structure predictors to generate atomic resolution ensembles of intrinsically disordered proteins]] · 2026-11-11 · preprint
 - [[ab940603f6e6cfcf|zsasa: a Zig-based engine for high-throughput solvent accessible surface area at proteome scale]] · 2026-11-11 · preprint
 - [[9ba1617ab7f4ece5|DiffTernary: a Diffusion Model for Molecular Glue Ternary Complex Docking]] · 2026-11-11 · preprint
-- [[661343d3c32d31f2|Comparative functional genomics reveals distributed SERPINE1 like characteristics among Drosophila serpins]] · 2026-11-11 · preprint
 - [[21ddbcaf895ddfbb|Uncovering Features of ProteinMPNN with Sparse Autoencoders]] · 2026-11-11 · preprint
 - [[2058c3b132468fb0|Paired-unit activation steering for context-aware protein design]] · 2026-11-11 · preprint
-- [[dd40024382bd1ceb|pLM-bVAE: protein language model-enhanced binary representation improves quantum annealing-based protein sequence design]] · 2026-11-10 · preprint
 - [[63928ad61a54ff34|CPDD: Adapting an autoregressive DNA language model for bidirectional phage genome modeling]] · 2026-11-10 · preprint
 - [[3ca0a6e74dc72d3d|Membrane Geometry Reveals Strengths and Limitations of AlphaFold-Predicted Transmembrane Protein Complexes]] · 2026-11-10 · preprint
 - [[34d210ce12780cac|Decoupling cellular complexity: Comparative mass transport analysis of wild-type and mutant PhoE in nanoreactors.]] · 2026-11-10 · journal
@@ -33,6 +36,7 @@ Protein design · 技术
 - [[e177a306a253620c|All-Atom Structure Tokenizer: AtomLM-9b for Biomolecular Structure Prediction]] · 2026-11-09 · preprint
 - [[860f112ab7b0deea|Generative design of de novo AAV vectors with unique serological profiles]] · 2026-11-09 · preprint
 - [[31814f5f965b031d|How AlphaFold 3 helps with multiscale drug discovery]] · 2026-11-09 · preprint
+- [[dd40024382bd1ceb|pLM-bVAE: protein language model-enhanced binary representation improves quantum annealing-based protein sequence design]] · 2026-11-06 · preprint
 - [[e68d28a4a10f6e82|An educational activity tailored for undergraduate students on AI-driven nanobody design for targeted antiviral therapeutics.]] · 2026-11-05 · journal
 - [[c136e051fbb00b69|Massively parallel quantification and prediction of monomeric protein yield in Escherichia coli]] · 2026-11-04 · preprint
 - [[839d51be26867bb9|Functional analysis of small-molecule and protein binding domains using monomeric streptavidin-based two-component biosensors]] · 2026-11-04 · preprint
@@ -77,6 +81,7 @@ Protein design · 技术
 - [[4e14da5474ec39bb|A rapid, automation-friendly, cell-free and purification-free pipeline for binding and kinetic characterisation of de novo designed binders with high quality standardised per-design data]] · 2026-10-20 · preprint
 - [[45e713f20bae43ef|Reliable and Efficient Agentic Protein Design with Toolset Harnessing]] · 2026-10-20 · journal
 - [[3e35c6ee7c98fc29|Bone morphogenetic protein 4 meets artificial intelligence: a comprehensive review of AI-driven advances in drug discovery, structural modeling, and clinical translation.]] · 2026-10-20 · journal
+- [[ab6b1e178adff93b|Rapid assessment of chemical complementarity of ligands for protein design.]] · 2026-10-19 · journal
 - [[64fc90b2a315e920|APR-Score: Identification and Scoring of Aggregation-prone Regions in Protein Sequences.]] · 2026-10-19 · journal
 - [[03770b3031a1493e|Production of recombinant human proteins in Komagataella phaffii using a sucrose-utilization-based selection marker without antibiotic resistance.]] · 2026-10-18 · journal
 - [[4b50dbad7294a543|Leveraging high temperature for enhanced and faster detection of SARS-CoV-2 and its Omicron variant with CRISPR-AsCas12a.]] · 2026-10-17 · journal

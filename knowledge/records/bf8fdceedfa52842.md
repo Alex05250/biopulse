@@ -1,6 +1,6 @@
 # Optical Engineer
 
-- 原站日期：2026-11-10（job_updated）
+- 原站日期：2026-11-17（job_updated）
 - 类型：job
 - 首次收录：2026-11-14T21:53:05+08:00
 - 来源：[Neuralink · 官方招聘](https://boards.greenhouse.io/neuralink/jobs/6510680003?gh_jid=6510680003)

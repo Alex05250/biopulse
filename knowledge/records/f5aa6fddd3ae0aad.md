@@ -1,0 +1,13 @@
+# The NADHX epimerase NAXE governs PARP1-DNA retention to maintain poly(ADP-ribosyl)ation homeostasis.
+
+- 原站日期：2026-11-16（published）
+- 类型：journal
+- 首次收录：2026-11-18T15:34:51+08:00
+- 来源：[PubMed · 基因编辑](https://doi.org/10.1016/j.molcel.2026.10.033)
+- 记录 ID：f5aa6fddd3ae0aad
+
+题录索引 · Molecular cell。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。
+
+## 关联节点（仅提及，不代表因果）
+
+[[基因编辑]]

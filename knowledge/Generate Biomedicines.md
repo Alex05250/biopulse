@@ -10,9 +10,9 @@ Generate Biomedicines · 公司与实验室
 
 ## 相关情报 / 29 条
 
+- [[269fcd2116f22b24|Principal Software Engineer, Applied AI]] · 2026-11-17 · job
 - [[ef03730f8626857f|Senior Manager, Clinical Trial Liaison]] · 2026-11-16 · job
 - [[c6ed4845626d90f3|Scientist I, Synthetic Biology]] · 2026-11-16 · job
-- [[269fcd2116f22b24|Principal Software Engineer, Applied AI]] · 2026-11-16 · job
 - [[449ef51decc77294|Associate Director, Clinical Data Management]] · 2026-11-13 · job
 - [[1d01498e1e8da97c|Associate Director, Biotherapeutic Production and Characterization]] · 2026-11-12 · job
 - [[247c016d9d219bf9|Senior Scientist I, Molecular Virology]] · 2026-11-10 · job

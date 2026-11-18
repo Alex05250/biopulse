@@ -10,6 +10,7 @@ ADCs & multispecifics · 技术
 
 ## 相关情报 / 26 条
 
+- [[05f0292abf1777a0|Analog IC Design and Verification Engineer]] · 2026-11-17 · job
 - [[06ba1d26b0250e42|Genomic Predictors of Response to CAR-T and BiTE Therapies in B-cell Non-Hodgkin Lymphomas]] · 2026-11-16 · trial
 - [[ce7577f8b5244193|ivonescimab美国申报收到CRL：PFS阳性不等于可获批]] · 2026-11-15 · official
 - [[0cb499d5d02a03d4|Advanced drug delivery strategies for overcoming tumor-mediated molecular hijacking: Emerging nanotherapeutics, advanced biotherapeutics, and artificial intelligence.]] · 2026-11-14 · journal
@@ -21,7 +22,6 @@ ADCs & multispecifics · 技术
 - [[a63ef243d8fda41d|The synthetic biology frontier: engineered oncolytic viruses and viral vectors for next-generation cancer therapy and gene delivery.]] · 2026-11-09 · journal
 - [[a4669ba32eeecdaf|Bispecific CD19/CD20-Targeted Chimeric Antigen Receptor (CAR) Modified T Cells With 4-1BB and Mutated CD28 Costimulatory Domains in Patients With Relapsed or Refractory CD19+ Hematologic Malignancies]] · 2026-11-05 · trial
 - [[8ad53ae8f9c632d7|Analog and Mixed-Signal IC Design Engineer Intern]] · 2026-11-05 · job
-- [[05f0292abf1777a0|Analog IC Design and Verification Engineer]] · 2026-11-05 · job
 - [[0a4f50e5e064dad3|BCMA Bispecific Antibody Therapy for Post-BCMA CAR T-Cell Therapy Relapse (RECLAIM)]] · 2026-11-04 · trial
 - [[7b80eeabf489ec8f|Study to Evaluate the Feasibility and Safety of Autologous Cytokine-Induced Killer Cells (CIK_D332) in Combination With Tafasitamab and Lenalidomide in Patients With Relapsed or Refractory Diffuse Large B-Cell Lymphoma]] · 2026-11-03 · trial
 - [[294563f3e071cd1b|Senior Scientist I, Biotherapeutic Production Technologies]] · 2026-11-03 · job

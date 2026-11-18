@@ -1,6 +1,6 @@
 # Process Engineer
 
-- 原站日期：2026-11-16（job_updated）
+- 原站日期：2026-11-17（job_updated）
 - 类型：job
 - 首次收录：2026-11-17T15:58:50+08:00
 - 来源：[Neuralink · 官方招聘](https://boards.greenhouse.io/neuralink/jobs/8205723003?gh_jid=8205723003)
