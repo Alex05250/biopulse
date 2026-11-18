@@ -138,7 +138,8 @@
     "mode": "auto",
     "adapter": "rss",
     "feed": "https://www.fiercebiotech.com/rss/xml",
-    "limit": 25
+    "limit": 25,
+    "note": "2026-11-18本机单次公开RSS复核返回HTTP 403，未重试或绕过。云端本次仍未取得可解析的非未来日期记录，保留失败状态和既有数据；本机探测不冒充云端采集结果。"
   },
   {
     "id": "fda",

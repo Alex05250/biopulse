@@ -200,7 +200,13 @@
     "coverage": {
       "note": "本次失败，保留已有数据。"
     },
-    "last_success": null
+    "last_success": null,
+    "local_review": {
+      "at": "2026-11-18T22:40:27+08:00",
+      "scope": "single_public_rss_request",
+      "http_status": 403,
+      "note": "未读取HTML错误页、未切换代理或缓存、未绕过限制；云端checked_at和错误状态保留。"
+    }
   },
   {
     "source_id": "fda",

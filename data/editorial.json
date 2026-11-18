@@ -1,6 +1,45 @@
 {
   "briefs": [
     {
+      "date": "2026-11-18",
+      "created_at": "2026-11-18T22:40:27+08:00",
+      "intro": "本日首次收录129条，可见字段变更31项，多数涉及日期、来源元数据或版本字段。状态变化包括1项研究招募调整和3项海外岗位移出公开列表，不等于31次临床进展或国内裁员。以下只解读公开API可复核的作者摘要和登记字段，较早发表的内容不包装为今日突破。",
+      "points": [
+        {
+          "title": "IMPRESS：工作流评测的改进，不等于新蛋白功能已获验证",
+          "summary": "11月17日预印本IMPRESS把AI模型调用和高性能计算组织成可根据已有结果调整的蛋白设计工作流。作者比较的是不同任务中的计算表现，重点在于资源分配与流程评估。对研发团队而言，这是计算基础设施线索，不是已经验证了新药或新酶的报道。",
+          "caution": "作者摘要明确指出所报告比较均为计算指标。本次未读全文、未运行代码；不能把计算上的可行候选或效率变化解释为生化功能、临床有效性或成本已经得到验证。",
+          "next_check": "独立复现、真实实验验证，以及不同模型和任务下的适用范围。",
+          "item_id": "b5065a2b810aa2b1",
+          "evidence_level": "预印本作者摘要 / Crossref"
+        },
+        {
+          "title": "CRISPRi模型迁移：新细胞背景不能默认零样本可靠",
+          "summary": "11月17日预印本研究四个人类细胞系中的干预响应迁移，评估时考虑测量噪声，并比较复杂模型和简单基线。结果提示，跨细胞背景的共享信号有边界，模型表现会受到目标背景数据的影响，不能只看一个总分就推断具有通用预测能力。",
+          "caution": "依据作者摘要，尚未同行评议。本次未评估完整数据划分和方法；结论不能外推到所有细胞类型、所有基因干预或患者疗效。",
+          "next_check": "不同细胞类型、独立数据和更严格外部验证中的表现。",
+          "item_id": "f2bb4e304c7e9806",
+          "evidence_level": "预印本作者摘要"
+        },
+        {
+          "title": "长期假肢控制新结果：植入肌电接口不等于脑内BCI",
+          "summary": "11月16日期刊论文报告，在一名人类参与者和一只猴的特定任务中，用植入肌电信号控制两组虚拟手指，并随访数月的免重校准表现。值得关注的是长期稳定性和使用者适应，而不是把信号来源误写成大脑直接解码。",
+          "caution": "已核作者摘要与DOI题录，未读全文。样本很小，任务为虚拟手指控制，不代表大样本人群、真实整手日常功能或所有植入式接口均已验证。",
+          "next_check": "更大样本、真实使用场景、长期安全性及校准负担。",
+          "item_id": "742817f068212c22",
+          "evidence_level": "期刊论文作者摘要 / Crossref"
+        },
+        {
+          "title": "一项CAR-T相关观察性研究不再招募，不能写成治疗终止",
+          "summary": "NCT04981119从RECRUITING改为ACTIVE_NOT_RECRUITING。公开API复核显示，这是一项HLA分析及单采相关的观察性研究，登记最近公布更新为11月17日，尚未标记有已发布结果。状态表示研究仍在进行但不再招募。",
+          "caution": "这是招募状态变化，不是暂停或终止，也不能据此推断CAR-T产品失败、获批或已有疗效结论。公布更新日不等于实际作出决定的日期。",
+          "next_check": "后续研究状态和结果；不从登记状态猜测停止招募的原因。",
+          "item_id": "5818bf420110de02",
+          "evidence_level": "官方登记结构化API"
+        }
+      ]
+    },
+    {
       "date": "2026-11-17",
       "created_at": "2026-11-17T20:36:51+08:00",
       "intro": "云端首次收录107条，并不等于今天发生107个突破。21项变更中，1项涉及试验状态、5项是海外岗位移出公开列表，其余主要为日期、标题或来源元数据变化；不能把列表移出解读为裁员或国内就业趋势。本期区分期刊作者摘要、未评议预印本和临床登记，不重复昨日的公司审批新闻。",
@@ -344,6 +383,56 @@
       "registry_reason": "Pending IRB review.",
       "registry_checked_at": "2026-11-17T20:36:51+08:00",
       "registry_last_update_posted": "2026-11-16"
+    },
+    "b5065a2b810aa2b1": {
+      "title_zh": "IMPRESS：工作流评测的改进，不等于新蛋白功能已获验证",
+      "summary": "11月17日预印本IMPRESS把AI模型调用和高性能计算组织成可根据已有结果调整的蛋白设计工作流。作者比较的是不同任务中的计算表现，重点在于资源分配与流程评估。对研发团队而言，这是计算基础设施线索，不是已经验证了新药或新酶的报道。",
+      "caution": "作者摘要明确指出所报告比较均为计算指标。本次未读全文、未运行代码；不能把计算上的可行候选或效率变化解释为生化功能、临床有效性或成本已经得到验证。",
+      "featured": true,
+      "reviewed_at": "2026-11-18T22:40:27+08:00",
+      "evidence_level": "abstract_only",
+      "evidence_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.64898%2F2026.11.13.766417%22&format=json&resultType=core",
+      "bibliographic_url": "https://api.crossref.org/works/10.64898/2026.11.13.766417"
+    },
+    "f2bb4e304c7e9806": {
+      "title_zh": "CRISPRi模型迁移：新细胞背景不能默认零样本可靠",
+      "summary": "11月17日预印本研究四个人类细胞系中的干预响应迁移，评估时考虑测量噪声，并比较复杂模型和简单基线。结果提示，跨细胞背景的共享信号有边界，模型表现会受到目标背景数据的影响，不能只看一个总分就推断具有通用预测能力。",
+      "caution": "依据作者摘要，尚未同行评议。本次未评估完整数据划分和方法；结论不能外推到所有细胞类型、所有基因干预或患者疗效。",
+      "featured": true,
+      "reviewed_at": "2026-11-18T22:40:27+08:00",
+      "evidence_level": "abstract_only",
+      "evidence_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.64898%2F2026.11.15.766815%22&format=json&resultType=core"
+    },
+    "742817f068212c22": {
+      "title_zh": "长期假肢控制新结果：植入肌电接口不等于脑内BCI",
+      "summary": "11月16日期刊论文报告，在一名人类参与者和一只猴的特定任务中，用植入肌电信号控制两组虚拟手指，并随访数月的免重校准表现。值得关注的是长期稳定性和使用者适应，而不是把信号来源误写成大脑直接解码。",
+      "caution": "已核作者摘要与DOI题录，未读全文。样本很小，任务为虚拟手指控制，不代表大样本人群、真实整手日常功能或所有植入式接口均已验证。",
+      "featured": true,
+      "reviewed_at": "2026-11-18T22:40:27+08:00",
+      "evidence_level": "abstract_only",
+      "evidence_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A%2210.1186%2Fs42234-026-00217-9%22&format=json&resultType=core",
+      "bibliographic_url": "https://api.crossref.org/works/10.1186/s42234-026-00217-9"
+    },
+    "5818bf420110de02": {
+      "title_zh": "一项CAR-T相关观察性研究不再招募，不能写成治疗终止",
+      "summary": "NCT04981119从RECRUITING改为ACTIVE_NOT_RECRUITING。公开API复核显示，这是一项HLA分析及单采相关的观察性研究，登记最近公布更新为11月17日，尚未标记有已发布结果。状态表示研究仍在进行但不再招募。",
+      "caution": "这是招募状态变化，不是暂停或终止，也不能据此推断CAR-T产品失败、获批或已有疗效结论。公布更新日不等于实际作出决定的日期。",
+      "featured": true,
+      "reviewed_at": "2026-11-18T22:40:27+08:00",
+      "evidence_level": "官方登记结构化API",
+      "evidence_url": "https://clinicaltrials.gov/api/v2/studies/NCT04981119",
+      "registry_checked_at": "2026-11-18T22:40:27+08:00",
+      "registry_last_update_posted": "2026-11-17",
+      "registry_study_type": "OBSERVATIONAL"
+    },
+    "2436d948557071fc": {
+      "title_zh": "质量核验提示：标题为撤稿通知，不是营养强化新成果",
+      "summary": "DOI登记标题明确为Retraction notice，而索引及Crossref更新标签使用勘误类名称。保留原始题录及其不一致，不把这条通知当成正面的技术或营养效果证据。",
+      "caution": "只核元数据，未读取出版社通知全文，不能判断具体撤稿原因或推断研究者存在不端。",
+      "featured": false,
+      "reviewed_at": "2026-11-18T22:40:27+08:00",
+      "evidence_level": "bibliographic_only",
+      "evidence_url": "https://api.crossref.org/works/10.1016/j.ijbiomac.2026.155173"
     }
   }
 }

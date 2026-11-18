@@ -10,7 +10,7 @@ Protein design · 技术
 
 ## 相关情报 / 94 条
 
-- [[b5065a2b810aa2b1|IMPRESS: AI-coupled HPC workflows for protein design]] · 2026-11-17 · preprint
+- [[b5065a2b810aa2b1|IMPRESS：工作流评测的改进，不等于新蛋白功能已获验证]] · 2026-11-17 · preprint
 - [[59e1a291d07c70a1|Chemical Biology in the Age of Artificial Intelligence: From Ligand Discovery to Virtual Cells.]] · 2026-11-16 · journal
 - [[2f36a4fb2aa31a4b|Genetically encoded chemically controlled proximity switches: Molecular design, pharmacology, and therapeutic considerations.]] · 2026-11-16 · journal
 - [[d73e15e15e92d368|RFD4-Proteina：跨分子设计值得跟，但先分清预测和实验]] · 2026-11-15 · preprint
