@@ -426,9 +426,9 @@
     "name": "国家药监局",
     "category": "policy",
     "url": "https://www.nmpa.gov.cn/",
-    "mode": "manual",
+    "mode": "review",
     "adapter": null,
-    "note": "目录入口，尚未自动接入；每次整理须核验原始来源。地址未全部逐一验证。"
+    "note": "2026-11-19逐篇核验1篇脑机接口提案答复；页面发布日期与函件落款分开。优先审评不等于产品获批，不是全站自动采集。"
   },
   {
     "id": "nhc",
@@ -750,5 +750,14 @@
     "adapter": null,
     "url": "https://ircbc.ac.cn/job/zg/",
     "note": "逐岗位读取官网公开招聘公告；完整JD不保证当前仍有空缺。经验适用性、学历条件与基础月薪分开记录，不发布应聘联系人。非自动职位接口。"
+  },
+  {
+    "id": "hrbmu-ptm-campus",
+    "name": "哈尔滨医科大学就业网 · 景杰生物校招JD",
+    "category": "career",
+    "mode": "review",
+    "adapter": null,
+    "url": "https://jy.hrbmu.edu.cn/detail/job?id=3289674",
+    "note": "已读高校就业网公开完整JD；不是雇主官网确认的实时空缺。原文K/月保留，不推定币种、税口径、薪酬构成或发薪月数；不发布招聘联系方式。"
   }
 ]

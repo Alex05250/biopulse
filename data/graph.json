@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:30:38+08:00",
+  "generated_at": "2026-11-19T20:34:07+08:00",
   "semantics": "mention-only; not causal, partnership or maturity evidence",
   "nodes": [
     {
@@ -68,7 +68,7 @@
         "脑机接口"
       ],
       "note": "区分侵入式与非侵入式，留意受试者数量、长期稳定性与真实功能终点。",
-      "count": 176
+      "count": 177
     },
     {
       "id": "synbio",
@@ -228,7 +228,7 @@
         "审评"
       ],
       "note": "区分征求意见稿、正式文件与实施日期；指导原则发布不意味着任何具体产品已获批。",
-      "count": 381
+      "count": 382
     },
     {
       "id": "career",
@@ -245,10 +245,20 @@
         "薪酬"
       ],
       "note": "薪资保留原币种、周期与适用地区；招聘报价不是实际收入，匿名爆料不作薪资事实。",
-      "count": 145
+      "count": 146
     }
   ],
   "edges": [
+    {
+      "source": "bci",
+      "target": "bf011fbb25c109e2",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "bf011fbb25c109e2",
+      "relation": "mentioned_in"
+    },
     {
       "source": "regulation",
       "target": "ada3ffef2da28fa0",
@@ -3957,6 +3967,11 @@
     {
       "source": "cgt",
       "target": "2899f6a69b1e4f77",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "career",
+      "target": "2652a289342e1a50",
       "relation": "mentioned_in"
     },
     {

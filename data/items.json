@@ -1,5 +1,35 @@
 [
   {
+    "id": "bf011fbb25c109e2",
+    "title": "关于全国政协十四届四次会议第05088号（医疗卫生类539号）提案答复的函",
+    "url": "https://www.nmpa.gov.cn/directory/web/nmpa/zwgk/jyta/zhxta/20261119105012176.html",
+    "date": "2026-11-19",
+    "date_basis": "published",
+    "category": "policy",
+    "kind": "official",
+    "source": "国家药监局",
+    "source_id": "nmpa",
+    "source_refs": [
+      "nmpa"
+    ],
+    "topics": [
+      "bci",
+      "regulation"
+    ],
+    "summary": "11月19日公开的7月10日答复，回顾植入式脑机接口医疗器械优先审批目录、专项审评指导及既有注册进展，并介绍后续审评要点与临床试验指导工作。不是今日新产品批准或新生效法规。",
+    "market": "CN",
+    "document_date": "2026-07-10",
+    "document_type": "proposal_reply",
+    "document_index": "ZHGL-2026-10007",
+    "is_verified": true,
+    "verified_at": "2026-11-19T20:34:07+08:00",
+    "verified_url": "https://www.nmpa.gov.cn/directory/web/nmpa/zwgk/jyta/zhxta/20261119105012176.html",
+    "verification_scope": "已读取药监局公开正文、2026-11-19页面发布日期和2026-07-10落款；未把优先审评解释为自动批准，未将回顾的2026年3月注册进展包装成今日新批件。",
+    "first_seen": "2026-11-19T20:34:07+08:00",
+    "last_seen": "2026-11-19T20:34:07+08:00",
+    "updated_at": "2026-11-19T20:34:07+08:00"
+  },
+  {
     "id": "ada3ffef2da28fa0",
     "title": "Patient Listening Session Summaries",
     "url": "http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries",
@@ -23305,6 +23335,81 @@
     "first_seen": "2026-11-15T13:26:01+08:00",
     "last_seen": "2026-11-19T15:30:38+08:00",
     "updated_at": "2026-11-15T13:26:01+08:00"
+  },
+  {
+    "id": "2652a289342e1a50",
+    "title": "【2027届校招】生物技术支持工程师",
+    "url": "https://jy.hrbmu.edu.cn/detail/job?id=3289674",
+    "date": "2026-11-09",
+    "date_basis": "published",
+    "category": "career",
+    "kind": "job",
+    "source": "哈尔滨医科大学就业网 · 景杰生物校招JD",
+    "source_id": "hrbmu-ptm-campus",
+    "source_refs": [
+      "hrbmu-ptm-campus"
+    ],
+    "topics": [
+      "career"
+    ],
+    "summary": "明确2027届校招，硕士及以上。职责含售前转化、学术问题解答、方案沟通、学术会议与销售培训，要求蛋白质组学理解、文献阅读及出差适应性；不是单纯实验研发岗位。",
+    "market": "CN",
+    "company": "杭州景杰生物科技股份有限公司",
+    "employer_id": "ptm-biolab",
+    "employer_type": "enterprise",
+    "location": "杭州",
+    "cities": [
+      "杭州"
+    ],
+    "role_family": "applications",
+    "status": "VACANCY_UNCONFIRMED",
+    "is_verified": true,
+    "audience": "campus",
+    "audience_basis": "标题【2027届校招】及投递说明“校园招聘”均明确，不按工程师名称推断。",
+    "education_min": "master",
+    "education_allowed": [
+      "master",
+      "phd"
+    ],
+    "education_text": "硕士及以上；岗位要求为生物学专业",
+    "experience_text": "2027届校园招聘；蛋白质组学方向相关经验优先，未另设既往全职工作年限。",
+    "major_requirements": "岗位要求生物学专业；需求专业栏还列化学类、生物科学、生物信息学、生物技术等，应向招聘方确认具体专业适用性。",
+    "hiring_batch": "2027届",
+    "graduation_window": "2027届；未明确毕业起止月份",
+    "job_level": "应届校招",
+    "skills": [
+      "蛋白质组学应用",
+      "中英文文献阅读",
+      "学术方案沟通",
+      "售前技术支持",
+      "学术讲解与培训",
+      "出差适应性"
+    ],
+    "salary": "10K-13K /月（页面原文）",
+    "salary_raw": "10K-13K /月",
+    "salary_currency": "unknown",
+    "salary_period": "month",
+    "salary_scope": "job",
+    "salary_component": "unknown",
+    "salary_tax_code": "unknown",
+    "salary_tax": "未明确税前 / 税后",
+    "salary_inclusions": "页面列五险一金，未说明是否计入报价、奖金或补贴构成。",
+    "salary_basis": "原文使用K/月且未显式给出币种；不将其自动标准化为人民币数字，不推定基本工资或总包，不推算年薪，也不代表实际offer或行业起薪。",
+    "verified_at": "2026-11-19T20:34:07+08:00",
+    "verified_url": "https://jy.hrbmu.edu.cn/detail/job?id=3289674",
+    "verification_level": "full_jd",
+    "evidence_pages": [],
+    "evidence_sections": [
+      "职位标题与薪资栏",
+      "需求专业",
+      "岗位职责",
+      "岗位要求",
+      "投递说明"
+    ],
+    "verification_scope": "通过浏览器完整读取高校就业网页JD及2026-11-09发布日期；未投递、未登录、未联系企业，未确认当前空缺、币种、税口径或发薪月数。不保存招聘联系人。",
+    "first_seen": "2026-11-19T20:34:07+08:00",
+    "last_seen": "2026-11-19T20:34:07+08:00",
+    "updated_at": "2026-11-19T20:34:07+08:00"
   },
   {
     "id": "225be15c97b18f86",

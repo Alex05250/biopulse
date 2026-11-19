@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T15:30:38+08:00",
+  "generated_at": "2026-11-19T20:34:07+08:00",
   "target": "本科 / 硕士应届与初级岗位",
   "profiles": {
     "6b23438861ee0ca2": {
@@ -819,6 +819,51 @@
           "税前 / 税后口径未明确",
           "基本工资 / 总包口径未明确",
           "薪酬周期未明确"
+        ],
+        "numeric": false
+      }
+    },
+    "2652a289342e1a50": {
+      "audience": "campus",
+      "audience_basis": "标题【2027届校招】及投递说明“校园招聘”均明确，不按工程师名称推断。",
+      "education_min": "master",
+      "education_allowed": [
+        "master",
+        "phd"
+      ],
+      "education_text": "硕士及以上；岗位要求为生物学专业",
+      "experience_text": "2027届校园招聘；蛋白质组学方向相关经验优先，未另设既往全职工作年限。",
+      "cities": [
+        "杭州"
+      ],
+      "role_family": "applications",
+      "employer_type": "enterprise",
+      "hiring_batch": "2027届",
+      "graduation_window": "2027届；未明确毕业起止月份",
+      "verification_level": "full_jd",
+      "verified_at": "2026-11-19T20:34:07+08:00",
+      "verification_age_days": 0,
+      "freshness": "reviewed",
+      "vacancy_status": "unconfirmed",
+      "application_deadline": null,
+      "quote": {
+        "raw": "10K-13K /月（页面原文）",
+        "currency": "unknown",
+        "period": "month",
+        "tax": "unknown",
+        "component": "unknown",
+        "scope": "job",
+        "min": null,
+        "max": null,
+        "months": null,
+        "annual_min": null,
+        "annual_max": null,
+        "conversion": "",
+        "exclusion": [
+          "未披露完整、有限的数字上下限",
+          "不是明确人民币报价",
+          "税前 / 税后口径未明确",
+          "基本工资 / 总包口径未明确"
         ],
         "numeric": false
       }
@@ -6009,26 +6054,26 @@
     "unknown": "学历未明确"
   },
   "counts": {
-    "cn_jobs": 35,
-    "target_jobs": 25,
-    "target_employers": 3,
+    "cn_jobs": 36,
+    "target_jobs": 26,
+    "target_employers": 4,
     "disclosed_job_quotes": 0,
     "campaign_references": 1,
     "verified_open": 0
   },
   "groups": [],
   "exclusions": {
-    "税前 / 税后口径未明确": 35,
+    "未披露完整、有限的数字上下限": 29,
+    "不是明确人民币报价": 28,
+    "税前 / 税后口径未明确": 36,
+    "不是近30天可确认的在列岗位": 36,
+    "基本工资 / 总包口径未明确": 35,
     "不是已核验应届 / 初级岗位": 10,
-    "不是近30天可确认的在列岗位": 35,
-    "不是明确人民币报价": 27,
-    "基本工资 / 总包口径未明确": 34,
-    "未披露完整、有限的数字上下限": 28,
     "薪酬周期未明确": 27,
+    "工作城市不唯一 / 未披露": 11,
     "学历要求不完整": 8,
-    "岗位方向待分类": 8,
     "招聘企业未具名": 5,
-    "工作城市不唯一 / 未披露": 11
+    "岗位方向待分类": 8
   },
   "document_status": [
     {
