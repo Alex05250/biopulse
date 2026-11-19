@@ -6,11 +6,12 @@ Generate Biomedicines · 公司与实验室
 
 ## 提及关联（不是因果）
 
-[[基因编辑]] [[AI 蛋白质设计]] [[合成生物学]] [[ADC 与多抗]] [[监管与政策]] [[岗位与技能]]
+[[基因编辑]] [[AI 蛋白质设计]] [[合成生物学]] [[RNA 药物]] [[ADC 与多抗]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 29 条
+## 相关情报 / 30 条
 
-- [[269fcd2116f22b24|Principal Software Engineer, Applied AI]] · 2026-11-17 · job
+- [[8f4d2dcc405a9a18|London Calling: Flagship Expands in U.K. to Build AI-Native Platform Companies]] · 2026-11-19 · news
+- [[269fcd2116f22b24|Principal Software Engineer, Applied AI]] · 2026-11-18 · job
 - [[ef03730f8626857f|Senior Manager, Clinical Trial Liaison]] · 2026-11-16 · job
 - [[c6ed4845626d90f3|Scientist I, Synthetic Biology]] · 2026-11-16 · job
 - [[449ef51decc77294|Associate Director, Clinical Data Management]] · 2026-11-13 · job

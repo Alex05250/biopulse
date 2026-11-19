@@ -8,18 +8,24 @@ Protein design · 技术
 
 [[基因编辑]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[RNA 药物]] [[ADC 与多抗]] [[Generate Biomedicines]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 94 条
+## 相关情报 / 100 条
 
+- [[8cd26f52bdf9dbed|Sidetrak: a de novo-designed miniprotein targets the kinesin-1 coiled-coil stalk to inhibit MAP7 binding and disrupt mitochondrial transport]] · 2026-11-18 · preprint
+- [[2a2d52247f567901|Massively parallel quantification and prediction of monomeric protein yield in Escherichia coli]] · 2026-11-18 · preprint
+- [[e560b08bb6f6dcf0|Large scale CRISPR genome engineering reveal principles of single nucleotide microhomology in precision editing]] · 2026-11-17 · preprint
+- [[cb4d73f6b2a64a97|Enzymatic strategies for PET valorization: Advances in discovery, engineering, and cyanobacterial chassis development.]] · 2026-11-17 · journal
 - [[b5065a2b810aa2b1|IMPRESS：工作流评测的改进，不等于新蛋白功能已获验证]] · 2026-11-17 · preprint
+- [[107889569d586744|Reprogramming Protein Function by Expanding Chemical and Combinatorial Space: Integrating Chemical and Computational Strategies.]] · 2026-11-17 · journal
 - [[59e1a291d07c70a1|Chemical Biology in the Age of Artificial Intelligence: From Ligand Discovery to Virtual Cells.]] · 2026-11-16 · journal
 - [[2f36a4fb2aa31a4b|Genetically encoded chemically controlled proximity switches: Molecular design, pharmacology, and therapeutic considerations.]] · 2026-11-16 · journal
 - [[d73e15e15e92d368|RFD4-Proteina：跨分子设计值得跟，但先分清预测和实验]] · 2026-11-15 · preprint
+- [[867b6061c4521319|Pallatom2: Navigating the De Novo Protein Universe with Atom-to-Atom Modeling]] · 2026-11-15 · preprint
+- [[e230414effb240c3|Can Folding Models Tell Binders from Bluffers? Evidence from POISK: The Patent-Derived Antibody Dataset]] · 2026-11-14 · preprint
 - [[1bada610a187898b|AI蛋白设计：用可调难度景观检验模型，而非只报命中率]] · 2026-11-14 · journal
 - [[68d80a9bdc77b500|Learning the limits of protein structure models with NMR chemical shifts]] · 2026-11-13 · preprint
 - [[661343d3c32d31f2|Comparative functional genomics reveals distributed SERPINE1 like characteristics among Drosophila serpins]] · 2026-11-13 · preprint
 - [[3e24ca739d1cf5f6|Binary Patterning as a Probe of Protein Language Model Representations]] · 2026-11-13 · preprint
 - [[e0e66a5870ccbf44|Photoswitchable optoGPCRs for reversible control of Gs signalling and arrestin recruitment]] · 2026-11-12 · preprint
-- [[867b6061c4521319|Pallatom2: Navigating the De Novo Protein Universe with Atom-to-Atom Modeling]] · 2026-11-12 · preprint
 - [[49c69647addb7905|DeePEn - A Depth sensitive benchmark for Protein Engineering]] · 2026-11-12 · preprint
 - [[2707f1bcd5910e2b|Image-Conditioned Diffusion Preserves Latent PhysiologicalSignals and Enables Cross-Site Transfer of Synthetic MedicalImages]] · 2026-11-12 · preprint
 - [[1d01498e1e8da97c|Associate Director, Biotherapeutic Production and Characterization]] · 2026-11-12 · job

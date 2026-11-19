@@ -2,7 +2,7 @@
   {
     "source_id": "epmc-nbt",
     "state": "ok",
-    "checked_at": "2026-11-18T15:34:51+08:00",
+    "checked_at": "2026-11-19T15:30:38+08:00",
     "count": 40,
     "coverage": {
       "available": 40,
@@ -10,17 +10,17 @@
       "retained": 40,
       "pages": 1,
       "sampled": false,
-      "window_start": "2026-10-14",
-      "window_end": "2026-11-18",
+      "window_start": "2026-10-15",
+      "window_end": "2026-11-19",
       "note": "滚动35天分页，预算上限1000条；本次取到40/40条，日期有效记录40条。仅覆盖该检索，不等于全领域或无遗漏。"
     },
     "error": "",
-    "last_success": "2026-11-18T15:34:51+08:00"
+    "last_success": "2026-11-19T15:30:38+08:00"
   },
   {
     "source_id": "nmeth",
     "state": "ok",
-    "checked_at": "2026-11-18T15:34:51+08:00",
+    "checked_at": "2026-11-19T15:30:38+08:00",
     "count": 8,
     "coverage": {
       "available": 8,
@@ -28,102 +28,102 @@
       "note": "只索引 RSS 提供的近期条目，不抓取付费正文。"
     },
     "error": "",
-    "last_success": "2026-11-18T15:34:51+08:00"
+    "last_success": "2026-11-19T15:30:38+08:00"
   },
   {
     "source_id": "epmc-core",
     "state": "ok",
-    "checked_at": "2026-11-18T15:34:51+08:00",
-    "count": 19,
+    "checked_at": "2026-11-19T15:30:38+08:00",
+    "count": 17,
     "coverage": {
-      "available": 19,
-      "fetched": 19,
-      "retained": 19,
+      "available": 17,
+      "fetched": 17,
+      "retained": 17,
       "pages": 1,
       "sampled": false,
-      "window_start": "2026-10-14",
-      "window_end": "2026-11-18",
-      "note": "滚动35天分页，预算上限1000条；本次取到19/19条，日期有效记录19条。仅覆盖该检索，不等于全领域或无遗漏。"
+      "window_start": "2026-10-15",
+      "window_end": "2026-11-19",
+      "note": "滚动35天分页，预算上限1000条；本次取到17/17条，日期有效记录17条。仅覆盖该检索，不等于全领域或无遗漏。"
     },
     "error": "",
-    "last_success": "2026-11-18T15:34:51+08:00"
+    "last_success": "2026-11-19T15:30:38+08:00"
   },
   {
     "source_id": "epmc-editing",
     "state": "ok",
-    "checked_at": "2026-11-18T15:34:51+08:00",
-    "count": 895,
+    "checked_at": "2026-11-19T15:30:38+08:00",
+    "count": 900,
     "coverage": {
-      "available": 895,
-      "fetched": 895,
-      "retained": 895,
+      "available": 900,
+      "fetched": 900,
+      "retained": 900,
       "pages": 9,
       "sampled": false,
-      "window_start": "2026-10-14",
-      "window_end": "2026-11-18",
-      "note": "滚动35天分页，预算上限1000条；本次取到895/895条，日期有效记录895条。仅覆盖该检索，不等于全领域或无遗漏。"
+      "window_start": "2026-10-15",
+      "window_end": "2026-11-19",
+      "note": "滚动35天分页，预算上限1000条；本次取到900/900条，日期有效记录900条。仅覆盖该检索，不等于全领域或无遗漏。"
     },
     "error": "",
-    "last_success": "2026-11-18T15:34:51+08:00"
+    "last_success": "2026-11-19T15:30:38+08:00"
   },
   {
     "source_id": "epmc-protein",
     "state": "ok",
-    "checked_at": "2026-11-18T15:34:51+08:00",
-    "count": 55,
+    "checked_at": "2026-11-19T15:30:38+08:00",
+    "count": 52,
     "coverage": {
-      "available": 55,
-      "fetched": 55,
-      "retained": 55,
+      "available": 52,
+      "fetched": 52,
+      "retained": 52,
       "pages": 1,
       "sampled": false,
-      "window_start": "2026-10-14",
-      "window_end": "2026-11-18",
-      "note": "滚动35天分页，预算上限1000条；本次取到55/55条，日期有效记录55条。仅覆盖该检索，不等于全领域或无遗漏。"
+      "window_start": "2026-10-15",
+      "window_end": "2026-11-19",
+      "note": "滚动35天分页，预算上限1000条；本次取到52/52条，日期有效记录52条。仅覆盖该检索，不等于全领域或无遗漏。"
     },
     "error": "",
-    "last_success": "2026-11-18T15:34:51+08:00"
+    "last_success": "2026-11-19T15:30:38+08:00"
   },
   {
     "source_id": "epmc-synbio",
     "state": "ok",
-    "checked_at": "2026-11-18T15:34:51+08:00",
-    "count": 232,
+    "checked_at": "2026-11-19T15:30:38+08:00",
+    "count": 231,
     "coverage": {
-      "available": 232,
-      "fetched": 232,
-      "retained": 232,
+      "available": 231,
+      "fetched": 231,
+      "retained": 231,
       "pages": 3,
       "sampled": false,
-      "window_start": "2026-10-14",
-      "window_end": "2026-11-18",
-      "note": "滚动35天分页，预算上限1000条；本次取到232/232条，日期有效记录232条。仅覆盖该检索，不等于全领域或无遗漏。"
+      "window_start": "2026-10-15",
+      "window_end": "2026-11-19",
+      "note": "滚动35天分页，预算上限1000条；本次取到231/231条，日期有效记录231条。仅覆盖该检索，不等于全领域或无遗漏。"
     },
     "error": "",
-    "last_success": "2026-11-18T15:34:51+08:00"
+    "last_success": "2026-11-19T15:30:38+08:00"
   },
   {
     "source_id": "epmc-bci",
     "state": "ok",
-    "checked_at": "2026-11-18T15:34:51+08:00",
-    "count": 69,
+    "checked_at": "2026-11-19T15:30:38+08:00",
+    "count": 70,
     "coverage": {
-      "available": 69,
-      "fetched": 69,
-      "retained": 69,
+      "available": 70,
+      "fetched": 70,
+      "retained": 70,
       "pages": 1,
       "sampled": false,
-      "window_start": "2026-10-14",
-      "window_end": "2026-11-18",
-      "note": "滚动35天分页，预算上限1000条；本次取到69/69条，日期有效记录69条。仅覆盖该检索，不等于全领域或无遗漏。"
+      "window_start": "2026-10-15",
+      "window_end": "2026-11-19",
+      "note": "滚动35天分页，预算上限1000条；本次取到70/70条，日期有效记录70条。仅覆盖该检索，不等于全领域或无遗漏。"
     },
     "error": "",
-    "last_success": "2026-11-18T15:34:51+08:00"
+    "last_success": "2026-11-19T15:30:38+08:00"
   },
   {
     "source_id": "biorxiv-synthetic_biology",
     "state": "ok",
-    "checked_at": "2026-11-18T15:34:51+08:00",
+    "checked_at": "2026-11-19T15:30:38+08:00",
     "count": 17,
     "coverage": {
       "available": 19,
@@ -131,44 +131,44 @@
       "note": "近 7 天指定分类，最多 90 个版本；同 DOI 保留最新版本。"
     },
     "error": "",
-    "last_success": "2026-11-18T15:34:51+08:00"
+    "last_success": "2026-11-19T15:30:38+08:00"
   },
   {
     "source_id": "biorxiv-bioinformatics",
     "state": "ok",
-    "checked_at": "2026-11-18T15:34:51+08:00",
-    "count": 89,
+    "checked_at": "2026-11-19T15:30:38+08:00",
+    "count": 88,
     "coverage": {
-      "available": 191,
+      "available": 195,
       "sampled": true,
       "note": "近 7 天指定分类，最多 90 个版本；同 DOI 保留最新版本。"
     },
     "error": "",
-    "last_success": "2026-11-18T15:34:51+08:00"
+    "last_success": "2026-11-19T15:30:38+08:00"
   },
   {
     "source_id": "trials",
     "state": "ok",
-    "checked_at": "2026-11-18T15:34:51+08:00",
-    "count": 525,
+    "checked_at": "2026-11-19T15:30:38+08:00",
+    "count": 537,
     "coverage": {
-      "available": 505,
-      "fetched": 505,
+      "available": 500,
+      "fetched": 500,
       "pages": 6,
       "sampled": false,
-      "tracked_ids": 20,
-      "tracked_checked": 20,
+      "tracked_ids": 37,
+      "tracked_checked": 37,
       "tracked_errors": [],
       "partial": false,
-      "note": "近35天关键词分页，取到505/505条；额外按NCT逐批复查旧记录20条。登记变化不是审批或疗效结论。"
+      "note": "近35天关键词分页，取到500/500条；额外按NCT逐批复查旧记录37条。登记变化不是审批或疗效结论。"
     },
     "error": "",
-    "last_success": "2026-11-18T15:34:51+08:00"
+    "last_success": "2026-11-19T15:30:38+08:00"
   },
   {
     "source_id": "gen",
     "state": "ok",
-    "checked_at": "2026-11-18T15:34:51+08:00",
+    "checked_at": "2026-11-19T15:30:38+08:00",
     "count": 10,
     "coverage": {
       "available": 10,
@@ -176,12 +176,12 @@
       "note": "只索引 RSS 提供的近期条目，不抓取付费正文。"
     },
     "error": "",
-    "last_success": "2026-11-18T15:34:51+08:00"
+    "last_success": "2026-11-19T15:30:38+08:00"
   },
   {
     "source_id": "stat",
     "state": "ok",
-    "checked_at": "2026-11-18T15:34:51+08:00",
+    "checked_at": "2026-11-19T15:30:38+08:00",
     "count": 20,
     "coverage": {
       "available": 20,
@@ -189,29 +189,23 @@
       "note": "只索引 RSS 提供的近期条目，不抓取付费正文。"
     },
     "error": "",
-    "last_success": "2026-11-18T15:34:51+08:00"
+    "last_success": "2026-11-19T15:30:38+08:00"
   },
   {
     "source_id": "fierce",
     "state": "error",
-    "checked_at": "2026-11-18T15:34:51+08:00",
+    "checked_at": "2026-11-19T15:30:38+08:00",
     "count": 0,
     "error": "RSS returned items but no record with a parseable, non-future date; source needs review.",
     "coverage": {
       "note": "本次失败，保留已有数据。"
     },
-    "last_success": null,
-    "local_review": {
-      "at": "2026-11-18T22:40:27+08:00",
-      "scope": "single_public_rss_request",
-      "http_status": 403,
-      "note": "未读取HTML错误页、未切换代理或缓存、未绕过限制；云端checked_at和错误状态保留。"
-    }
+    "last_success": null
   },
   {
     "source_id": "fda",
     "state": "ok",
-    "checked_at": "2026-11-18T15:34:51+08:00",
+    "checked_at": "2026-11-19T15:30:38+08:00",
     "count": 20,
     "coverage": {
       "available": 20,
@@ -219,12 +213,12 @@
       "note": "只索引 RSS 提供的近期条目，不抓取付费正文。"
     },
     "error": "",
-    "last_success": "2026-11-18T15:34:51+08:00"
+    "last_success": "2026-11-19T15:30:38+08:00"
   },
   {
     "source_id": "jobs-generatebiomedicines",
     "state": "ok",
-    "checked_at": "2026-11-18T15:34:51+08:00",
+    "checked_at": "2026-11-19T15:30:38+08:00",
     "count": 25,
     "coverage": {
       "available": 25,
@@ -232,20 +226,20 @@
       "note": "官方职位列表样本；失去 listing 仅标记不再列出，不断言取消招聘。"
     },
     "error": "",
-    "last_success": "2026-11-18T15:34:51+08:00"
+    "last_success": "2026-11-19T15:30:38+08:00"
   },
   {
     "source_id": "jobs-neuralink",
     "state": "ok",
-    "checked_at": "2026-11-18T15:34:51+08:00",
-    "count": 74,
+    "checked_at": "2026-11-19T15:30:38+08:00",
+    "count": 75,
     "coverage": {
-      "available": 74,
+      "available": 75,
       "sampled": false,
       "note": "官方职位列表样本；失去 listing 仅标记不再列出，不断言取消招聘。"
     },
     "error": "",
-    "last_success": "2026-11-18T15:34:51+08:00"
+    "last_success": "2026-11-19T15:30:38+08:00"
   },
   {
     "source_id": "sustech-zhangxm",

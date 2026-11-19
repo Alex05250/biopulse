@@ -1,0 +1,11 @@
+# Evolutionary Design of Membrane-Lytic Antimicrobial Peptides with Mixture of Experts
+
+- 原站日期：2026-11-14（published）
+- 类型：preprint
+- 首次收录：2026-11-19T15:30:38+08:00
+- 来源：[bioRxiv · 生物信息学](https://doi.org/10.64898/2026.07.29.741660)
+- 记录 ID：babaae9f1a30282f
+
+未经同行评议 · bioRxiv bioinformatics，版本 2。仅作研究线索，不能据此认定疗效或安全性。
+
+## 关联节点（仅提及，不代表因果）

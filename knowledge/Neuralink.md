@@ -8,8 +8,10 @@ Neuralink · 公司与实验室
 
 [[脑机接口]] [[ADC 与多抗]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 81 条
+## 相关情报 / 82 条
 
+- [[6b23438861ee0ca2|Rapid Prototyping Technician]] · 2026-11-18 · job
+- [[150d8df9e32334e2|Equipment Engineer]] · 2026-11-18 · job
 - [[c4e022e066d76178|Software Engineer, Implant]] · 2026-11-17 · job
 - [[bf8fdceedfa52842|Optical Engineer]] · 2026-11-17 · job
 - [[aea132dec336f224|Microfabrication Technician]] · 2026-11-17 · job
@@ -65,7 +67,6 @@ Neuralink · 公司与实验室
 - [[7ba6460161c004ee|Dimensional Quality Engineer, Metrology]] · 2026-11-05 · job
 - [[7932789cb023335b|Software Engineer Intern, BCI Applications]] · 2026-11-05 · job
 - [[6d892e5ed9d5a447|Manufacturing Material Coordinator]] · 2026-11-05 · job
-- [[6b23438861ee0ca2|Rapid Prototyping Technician]] · 2026-11-05 · job
 - [[697ddacb8da4f4eb|IT Systems Administrator]] · 2026-11-05 · job
 - [[65cf2cef13a5662a|Firmware Engineer Intern, Robotics and Surgery Engineering]] · 2026-11-05 · job
 - [[65bace99a1b58eaf|Neuroengineer Intern]] · 2026-11-05 · job

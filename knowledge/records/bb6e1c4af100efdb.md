@@ -1,6 +1,6 @@
 # pCCLCHIM-p47 (Lentiviral Vector Transduced CD34 Plus Cells) in Patients With p47 Autosomal Recessive Chronic Granulomatous Disease (AR-CGD)
 
-- 原站日期：2026-11-03（registry_updated）
+- 原站日期：2026-11-18（registry_updated）
 - 类型：trial
 - 首次收录：2026-11-15T13:26:01+08:00
 - 来源：[ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT06253507)

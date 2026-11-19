@@ -1,6 +1,6 @@
 # Patient Listening Session Summaries
 
-- 原站日期：2026-11-10（published）
+- 原站日期：2026-11-19（published）
 - 类型：official
 - 首次收录：2026-11-14T22:14:12+08:00
 - 来源：[FDA · Biologics](http://www.fda.gov/patients/fda-patient-listening-sessions/patient-listening-session-summaries)

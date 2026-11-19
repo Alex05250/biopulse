@@ -6,10 +6,13 @@ RNA therapeutics · 技术
 
 ## 提及关联（不是因果）
 
-[[基因编辑]] [[AI 蛋白质设计]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[ADC 与多抗]] [[CD19]] [[监管与政策]]
+[[基因编辑]] [[AI 蛋白质设计]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[ADC 与多抗]] [[CD19]] [[Generate Biomedicines]] [[监管与政策]]
 
-## 相关情报 / 92 条
+## 相关情报 / 95 条
 
+- [[8f4d2dcc405a9a18|London Calling: Flagship Expands in U.K. to Build AI-Native Platform Companies]] · 2026-11-19 · news
+- [[ab5ed17157f67821|A targeting delivery platform for the mapping of responses to p53-independent intervention in heterogeneous patient cancer cells.]] · 2026-11-18 · journal
+- [[576861d9d5f2fa80|Engineered Extracellular Vesicles (EVs) as Carriers for CRISPR/Cas9 Therapeutics: Recent Advances in Cargo Loading and Targeted Delivery.]] · 2026-11-18 · journal
 - [[89113ec84d63f541|Mobile group II intron reverse transcriptases: evolution, biochemical activities, and applications.]] · 2026-11-17 · journal
 - [[4424385c7c942383|Securing Cell-Free Expression: Safeguards for Distributed Biomanufacturing.]] · 2026-11-17 · journal
 - [[ee00646802aee696|Exercise-induced lactylation in WDR41 initiates autophagy and improves fatty liver diseases.]] · 2026-11-16 · journal
@@ -20,7 +23,7 @@ RNA therapeutics · 技术
 - [[3701be29ef2aa53b|Construction of a stable T7 expression system inSaccharomyces cerevisiae based on extranuclear replication system.]] · 2026-11-14 · journal
 - [[0cb499d5d02a03d4|Advanced drug delivery strategies for overcoming tumor-mediated molecular hijacking: Emerging nanotherapeutics, advanced biotherapeutics, and artificial intelligence.]] · 2026-11-14 · journal
 - [[e84d40b32ca488b7|Algorithms for Designing Therapeutic Oligonucleotides on Pangenome Graphs]] · 2026-11-13 · preprint
-- [[1e829e7d1cdf7a9f|Aryl hydrocarbon receptor (AhR) restrains the maintenance and acquisition of the anti-inflammatory identity of monocyte-derived macrophages.]] · 2026-11-13 · preprint
+- [[1e829e7d1cdf7a9f|Aryl hydrocarbon receptor (AhR) restrains the maintenance and acquisition of the anti-inflammatory identity of monocyte-derived macrophages (M-MØ)]] · 2026-11-13 · preprint
 - [[090321d6eedef591|Regional Signals Matter: Rethinking Global Pooling for mRNA Foundation Models]] · 2026-11-13 · preprint
 - [[dc69d44cbf4ff6eb|紧凑型X-Editor：关注低剂量体内编辑，也保留预印本边界]] · 2026-11-12 · preprint
 - [[79272f4f53928650|Engineering a High-Fidelity CRISPR-Cas13d System for Targeted RNA Depletion in Plasmodium falciparum]] · 2026-11-12 · preprint
@@ -47,6 +50,7 @@ RNA therapeutics · 技术
 - [[7d59ee1c5cd77e9f|Gene-activated matrices as nanomedicine platforms for bone regeneration: Delivery, translation and patent landscape.]] · 2026-11-03 · journal
 - [[604802e6faaa0581|An SMN2 splicing-correcting antisense oligonucleotide promotes gene looping and transcription activation.]] · 2026-11-03 · journal
 - [[4768ed4a065d497c|Rational design of lipid nanoparticles for brain delivery of RNA therapeutics.]] · 2026-11-03 · journal
+- [[1db123688706d78d|A postulation of the acetate metabolic pathway in recombinant CHO cells with high-yield bispecific antibody expression.]] · 2026-11-03 · journal
 - [[b15a31f545b986b3|A minimal two-residue C-terminal truncation of AID in adult-onset hyper-IgM syndrome type 2 (HIGM2)]] · 2026-11-02 · preprint
 - [[cca84c7f7f1a0436|Decoding proteomic complexity of transcript variants and homologous isoforms for precision therapeutics.]] · 2026-11-01 · journal
 - [[b7429cf276d80013|MANF promotes cell fitness and attenuates bortezomib sensitivity in multiple myeloma.]] · 2026-11-01 · journal
@@ -63,7 +67,6 @@ RNA therapeutics · 技术
 - [[a4949794f8794fbe|A novel FRET-force biosensor for nucleoporin gp210 reveals that the nuclear pore complex experiences mechanical tension.]] · 2026-10-30 · journal
 - [[f130b852b733b23e|S100A4 facilitates influenza A virus replication by interacting with M2 in human alveolar epithelial cells.]] · 2026-10-29 · journal
 - [[dd30bf8b111719c3|An mRNA-lipid nanoparticle vaccine against H5N1 influenza virus protects lactating dairy cows from infection.]] · 2026-10-28 · journal
-- [[ab5ed17157f67821|A targeting delivery platform for the mapping of responses to p53-independent intervention in heterogeneous patient cancer cells.]] · 2026-10-28 · journal
 - [[e3993e0f5229d96f|U6 promoters in Ulva prolifera enable dual small-RNA/mRNA transcription and vector-based CRISPR-Cas9 genome editing]] · 2026-10-27 · preprint
 - [[c37c176963b6d6c3|Comparative Analysis of Poly(Ethylene Glycol) (PEG) and Poly(2-Ethyl-2-Oxazoline) (PEtOx) for Organic Solvent-Free Lipid Nanoparticle Formulations.]] · 2026-10-27 · journal
 - [[b925a5813f906d77|Function-preserving CD8⁺ T Cell Immunogenicity minimization through protein design]] · 2026-10-27 · preprint
