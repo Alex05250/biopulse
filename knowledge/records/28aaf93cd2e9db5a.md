@@ -1,6 +1,6 @@
 # Careers@GenerateBiomedicines
 
-- 原站日期：2026-03-30（job_updated）
+- 原站日期：2026-11-20（job_updated）
 - 类型：job
 - 首次收录：2026-11-14T21:53:05+08:00
 - 来源：[Generate Biomedicines · 官方招聘](https://generatebiomedicines.com/open-positions?gh_jid=4364980006)

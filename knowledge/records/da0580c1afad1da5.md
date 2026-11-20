@@ -1,6 +1,6 @@
 # B7-H3 Chimeric Antigen Receptor T Cells (B7-H3CART) in Recurrent Glioblastoma Multiforme
 
-- 原站日期：2026-11-13（registry_updated）
+- 原站日期：2026-11-19（registry_updated）
 - 类型：trial
 - 首次收录：2026-11-14T21:53:05+08:00
 - 来源：[ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT05474378)

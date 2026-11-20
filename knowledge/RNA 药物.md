@@ -8,11 +8,14 @@ RNA therapeutics · 技术
 
 [[基因编辑]] [[AI 蛋白质设计]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[ADC 与多抗]] [[CD19]] [[Generate Biomedicines]] [[监管与政策]]
 
-## 相关情报 / 95 条
+## 相关情报 / 98 条
 
 - [[8f4d2dcc405a9a18|London Calling: Flagship Expands in U.K. to Build AI-Native Platform Companies]] · 2026-11-19 · news
+- [[d7b78c1f3dd6a56e|Optogenetic RNA relocalization reveals causal neural function in vivo]] · 2026-11-18 · preprint
+- [[c75230d0a8940d79|Lipid nanoparticles and their successors: Design principles for dense tissue penetration and clinical translation.]] · 2026-11-18 · journal
 - [[ab5ed17157f67821|A targeting delivery platform for the mapping of responses to p53-independent intervention in heterogeneous patient cancer cells.]] · 2026-11-18 · journal
 - [[576861d9d5f2fa80|Engineered Extracellular Vesicles (EVs) as Carriers for CRISPR/Cas9 Therapeutics: Recent Advances in Cargo Loading and Targeted Delivery.]] · 2026-11-18 · journal
+- [[282faf05406529c9|Mechanistic insights into benzoxaborole activity against Cryptosporidium parvum: CPSF3 targeting genetically validated for AN3661, with implications for resistance.]] · 2026-11-18 · journal
 - [[89113ec84d63f541|Mobile group II intron reverse transcriptases: evolution, biochemical activities, and applications.]] · 2026-11-17 · journal
 - [[4424385c7c942383|Securing Cell-Free Expression: Safeguards for Distributed Biomanufacturing.]] · 2026-11-17 · journal
 - [[ee00646802aee696|Exercise-induced lactylation in WDR41 initiates autophagy and improves fatty liver diseases.]] · 2026-11-16 · journal

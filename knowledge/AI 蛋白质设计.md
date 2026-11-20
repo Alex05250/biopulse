@@ -8,10 +8,12 @@ Protein design · 技术
 
 [[基因编辑]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[RNA 药物]] [[ADC 与多抗]] [[Generate Biomedicines]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 100 条
+## 相关情报 / 102 条
 
 - [[8cd26f52bdf9dbed|Sidetrak: a de novo-designed miniprotein targets the kinesin-1 coiled-coil stalk to inhibit MAP7 binding and disrupt mitochondrial transport]] · 2026-11-18 · preprint
+- [[7883cd5b341135e2|A Novel Nitric Oxide-Dependent "Molecular Switch" Mediates LTP in the Octopus vulgaris Brain through Persistent Activation of Nitric Oxide Synthase.]] · 2026-11-18 · journal
 - [[2a2d52247f567901|Massively parallel quantification and prediction of monomeric protein yield in Escherichia coli]] · 2026-11-18 · preprint
+- [[06fd19d11ba05c5a|Parametric and AI-Assisted Design of Right-Handed Four-Helix Coiled Coils]] · 2026-11-18 · preprint
 - [[e560b08bb6f6dcf0|Large scale CRISPR genome engineering reveal principles of single nucleotide microhomology in precision editing]] · 2026-11-17 · preprint
 - [[cb4d73f6b2a64a97|Enzymatic strategies for PET valorization: Advances in discovery, engineering, and cyanobacterial chassis development.]] · 2026-11-17 · journal
 - [[b5065a2b810aa2b1|IMPRESS：工作流评测的改进，不等于新蛋白功能已获验证]] · 2026-11-17 · preprint

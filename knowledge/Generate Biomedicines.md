@@ -10,8 +10,9 @@ Generate Biomedicines · 公司与实验室
 
 ## 相关情报 / 30 条
 
+- [[28aaf93cd2e9db5a|Careers@GenerateBiomedicines]] · 2026-11-20 · job
 - [[8f4d2dcc405a9a18|London Calling: Flagship Expands in U.K. to Build AI-Native Platform Companies]] · 2026-11-19 · news
-- [[269fcd2116f22b24|Principal Software Engineer, Applied AI]] · 2026-11-18 · job
+- [[269fcd2116f22b24|Principal Software Engineer, Applied AI]] · 2026-11-19 · job
 - [[ef03730f8626857f|Senior Manager, Clinical Trial Liaison]] · 2026-11-16 · job
 - [[c6ed4845626d90f3|Scientist I, Synthetic Biology]] · 2026-11-16 · job
 - [[449ef51decc77294|Associate Director, Clinical Data Management]] · 2026-11-13 · job
@@ -39,4 +40,3 @@ Generate Biomedicines · 公司与实验室
 - [[dcec1658864976bc|Principal Workday Engineer (HRIS)]] · 2026-09-30 · job
 - [[fe83bbc2294b5d5d|Senior Director, Protein Analytics & Biophysics]] · 2026-09-09 · job
 - [[027191a6e38e2970|Senior Machine Learning Scientist I/II, Model-Driven Optimization]] · 2026-08-06 · job
-- [[28aaf93cd2e9db5a|Careers@GenerateBiomedicines]] · 2026-03-30 · job
