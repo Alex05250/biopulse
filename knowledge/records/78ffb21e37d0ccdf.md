@@ -1,12 +1,12 @@
-# Integrated QTL mapping and CRISPR screening in pooled iPSC-derived microglia reveals genetic drivers of neurodegenerative risk.
+# CRISPR Screening Reveals How Genetic Variants Drive Neurodegenerative Risk
 
-- 原站日期：2026-11-17（published）
-- 类型：journal
+- 原站日期：2026-11-19（published）
+- 类型：news
 - 首次收录：2026-11-19T15:30:38+08:00
-- 来源：[PubMed · 基因编辑](https://doi.org/10.1038/s41588-026-02843-0)
+- 来源：[GEN](https://www.genengnews.com/topics/translational-medicine/crispr-screening-reveals-how-genetic-variants-drive-neurodegenerative-risk/)
 - 记录 ID：78ffb21e37d0ccdf
 
-题录索引 · Nature genetics。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。
+媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。
 
 ## 关联节点（仅提及，不代表因果）
 

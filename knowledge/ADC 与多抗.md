@@ -8,11 +8,11 @@ ADCs & multispecifics · 技术
 
 [[基因编辑]] [[AI 蛋白质设计]] [[细胞与基因治疗]] [[脑机接口]] [[合成生物学]] [[递送系统]] [[RNA 药物]] [[CD19]] [[体内 CAR-T]] [[Generate Biomedicines]] [[Neuralink]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 31 条
+## 相关情报 / 32 条
 
 - [[b1c00033ef0f8526|First in Human Study of a Dual Targeting CD20 and CD19 CAR T Cell Treatment for Patients With B Cell Blood Cancers That Have Returned or Not Responded to Treatment]] · 2026-11-19 · trial
+- [[169a1c156559744e|Targeting Folate Receptor Reverses Colorectal Cancer’s Resistance to Immunotherapy in Mice]] · 2026-11-19 · news
 - [[cd659abe27f08803|Odronextamab for Relapsed and Refractory Large B-cell Lymphomas Before CAR-T]] · 2026-11-18 · trial
-- [[169a1c156559744e|Targeting cancer immune evasion with anti-FOLR1 antibody-drug conjugate potentiates anti-PD-1 efficacy in colorectal cancer.]] · 2026-11-18 · journal
 - [[3036fa940651a634|Author Correction: The global patent landscape of bispecific antibodies: technological innovations and therapeutic applications.]] · 2026-11-17 · journal
 - [[05f0292abf1777a0|Analog IC Design and Verification Engineer]] · 2026-11-17 · job
 - [[06ba1d26b0250e42|Genomic Predictors of Response to CAR-T and BiTE Therapies in B-cell Non-Hodgkin Lymphomas]] · 2026-11-16 · trial
@@ -31,6 +31,7 @@ ADCs & multispecifics · 技术
 - [[294563f3e071cd1b|Senior Scientist I, Biotherapeutic Production Technologies]] · 2026-11-03 · job
 - [[1db123688706d78d|A postulation of the acetate metabolic pathway in recombinant CHO cells with high-yield bispecific antibody expression.]] · 2026-11-03 · journal
 - [[9d8ae0f7cb9db0a9|End-to-End Biomanufacturing of Extracellular Vesicles.]] · 2026-11-01 · journal
+- [[375ae8dbca115e3c|Bispecific Coiled-Coil Reporters Enable Rapid, Multiplexed Detection of Mycoplasma via Toehold Switch Sensors.]] · 2026-11-01 · journal
 - [[79285961bf946c17|Principal Scientist, Target Binding]] · 2026-10-29 · job
 - [[58f8b51797b46eb5|ASCT Combined With BCMA CAR-T and GPRC5D/CD3 BiTEs Maintenance for Transplant-Eligible Ultra-High-Risk Multiple Myeloma]] · 2026-10-27 · trial
 - [[4cf6035edf46a791|A Prospective Clinical Study of CD3-CD20 Bisspecific Antibody Based Therapy Combined With CD19-CAR T Cells in the Treatment of Relapsed Refractory B-cell Non-Hodgkin Lymphoma]] · 2026-10-27 · trial

@@ -8,8 +8,9 @@ RNA therapeutics · 技术
 
 [[基因编辑]] [[AI 蛋白质设计]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[ADC 与多抗]] [[CD19]] [[Generate Biomedicines]] [[监管与政策]]
 
-## 相关情报 / 98 条
+## 相关情报 / 99 条
 
+- [[577604cca72ad7c1|Gene identity, not recoding strategy, determines the fitness cost of synonymous recoding in bacteriophage ΦX174]] · 2026-11-20 · preprint
 - [[8f4d2dcc405a9a18|London Calling: Flagship Expands in U.K. to Build AI-Native Platform Companies]] · 2026-11-19 · news
 - [[d7b78c1f3dd6a56e|Optogenetic RNA relocalization reveals causal neural function in vivo]] · 2026-11-18 · preprint
 - [[c75230d0a8940d79|Lipid nanoparticles and their successors: Design principles for dense tissue penetration and clinical translation.]] · 2026-11-18 · journal

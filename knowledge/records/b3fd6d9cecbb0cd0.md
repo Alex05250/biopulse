@@ -1,6 +1,6 @@
 # Gene Therapy Follow-up Protocol for People Previously Enrolled in CAR-T Cell Studies
 
-- 原站日期：2026-11-03（registry_updated）
+- 原站日期：2026-11-20（registry_updated）
 - 类型：trial
 - 首次收录：2026-11-15T13:26:01+08:00
 - 来源：[ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT02473757)

@@ -8,15 +8,20 @@ Protein design · 技术
 
 [[基因编辑]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[RNA 药物]] [[ADC 与多抗]] [[Generate Biomedicines]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 102 条
+## 相关情报 / 108 条
 
+- [[349dc653d29b759f|Zero-shot de novo design of a metalloenzyme.]] · 2026-11-19 · journal
+- [[2e1495fd368b8c20|AlphaInterp: Revealing how AlphaFold 3 processes structure, confidence, and evolutionary information.]] · 2026-11-19 · journal
 - [[8cd26f52bdf9dbed|Sidetrak: a de novo-designed miniprotein targets the kinesin-1 coiled-coil stalk to inhibit MAP7 binding and disrupt mitochondrial transport]] · 2026-11-18 · preprint
 - [[7883cd5b341135e2|A Novel Nitric Oxide-Dependent "Molecular Switch" Mediates LTP in the Octopus vulgaris Brain through Persistent Activation of Nitric Oxide Synthase.]] · 2026-11-18 · journal
 - [[2a2d52247f567901|Massively parallel quantification and prediction of monomeric protein yield in Escherichia coli]] · 2026-11-18 · preprint
 - [[06fd19d11ba05c5a|Parametric and AI-Assisted Design of Right-Handed Four-Helix Coiled Coils]] · 2026-11-18 · preprint
 - [[e560b08bb6f6dcf0|Large scale CRISPR genome engineering reveal principles of single nucleotide microhomology in precision editing]] · 2026-11-17 · preprint
 - [[cb4d73f6b2a64a97|Enzymatic strategies for PET valorization: Advances in discovery, engineering, and cyanobacterial chassis development.]] · 2026-11-17 · journal
+- [[b9530c146747f4b7|Mathematical genomics of hidden signatures in NCF1: implications for chronic granulomatous disease]] · 2026-11-17 · preprint
 - [[b5065a2b810aa2b1|IMPRESS：工作流评测的改进，不等于新蛋白功能已获验证]] · 2026-11-17 · preprint
+- [[5de53146fc69f212|Reprogramming a thiosulfate bacterial two-component system into a perchlorate biosensor]] · 2026-11-17 · preprint
+- [[4e78a6917324b977|FoldMapper: Protein Inverse Folding Model with Structure-Derived Evolutionary Profiles and a Multiscale Graph Encoder]] · 2026-11-17 · preprint
 - [[107889569d586744|Reprogramming Protein Function by Expanding Chemical and Combinatorial Space: Integrating Chemical and Computational Strategies.]] · 2026-11-17 · journal
 - [[59e1a291d07c70a1|Chemical Biology in the Age of Artificial Intelligence: From Ligand Discovery to Virtual Cells.]] · 2026-11-16 · journal
 - [[2f36a4fb2aa31a4b|Genetically encoded chemically controlled proximity switches: Molecular design, pharmacology, and therapeutic considerations.]] · 2026-11-16 · journal
@@ -54,6 +59,7 @@ Protein design · 技术
 - [[8d2ced57b00ac24e|Decoding the landscape in biomanufacturing of xylose: metabolic bottlenecks and computation-assisted strategies.]] · 2026-11-03 · journal
 - [[294563f3e071cd1b|Senior Scientist I, Biotherapeutic Production Technologies]] · 2026-11-03 · job
 - [[cc1e58a4ee808e08|Global analysis of thermal and chemical denaturation using CheMelt: Thermodynamic dissection of highly thermostable de novo designed proteins.]] · 2026-11-01 · journal
+- [[b95c67b986633d0b|Yeast Metabolic Engineering for Carotenoid Biosynthesis: Hosts, Pathways, Strategies, and Perspectives.]] · 2026-11-01 · journal
 - [[969bb16034c8e5a5|Redesigning photoprotection: nature-inspired and synthetic biology strategies to enhance crop productivity.]] · 2026-11-01 · journal
 - [[8d09967958e3858d|Naturally Arising de Novo Open Reading Frames as Potential Zinc Chelators in Drosophila melanogaster.]] · 2026-11-01 · journal
 - [[24ccc864e41ad032|Design Trade-Offs between Target Binding and Self-Association Revealed by De Novo SARS-CoV-2 Binders.]] · 2026-11-01 · journal
