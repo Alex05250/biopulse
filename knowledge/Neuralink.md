@@ -10,9 +10,10 @@ Neuralink · 公司与实验室
 
 ## 相关情报 / 85 条
 
+- [[6a5ba7cd1d2305ad|Facilities Technician]] · 2026-11-22 · job
+- [[50dcc46a48f25c79|Environmental Health and Safety Specialist]] · 2026-11-21 · job
 - [[e2f8e7861b6803f3|Study Director]] · 2026-11-20 · job
 - [[902057c97d31f974|Associate General Counsel, Product]] · 2026-11-20 · job
-- [[6a5ba7cd1d2305ad|Facilities Technician]] · 2026-11-20 · job
 - [[ca00ef3a2c18ce79|MRI Technologist]] · 2026-11-19 · job
 - [[7b0e54ccefca80b8|Process Engineer]] · 2026-11-19 · job
 - [[6b23438861ee0ca2|Rapid Prototyping Technician]] · 2026-11-18 · job
@@ -27,7 +28,6 @@ Neuralink · 公司与实验室
 - [[05f0292abf1777a0|Analog IC Design and Verification Engineer]] · 2026-11-17 · job
 - [[4d63a2c78f6ab5b0|Control of Assistive Devices Via Brain-Computer Interface Technology]] · 2026-11-13 · trial
 - [[6a7e77a8b2b9c4af|An Early Feasibility Study of a Robotically Implanted Brain-Computer Interface for Neural Control of External Devices in Spinal Cord Injury, Amyotrophic Lateral Sclerosis, and Chronic Ischemic Stroke]] · 2026-11-12 · trial
-- [[50dcc46a48f25c79|Environmental Health and Safety Specialist]] · 2026-11-12 · job
 - [[d715c2aacef36a1f|Analog IC Layout Engineer]] · 2026-11-11 · job
 - [[462b9a6721ed207c|VOICE: An Early Feasibility Study of a Precise Robotically Implanted Brain-Computer Interface for Communication Restoration]] · 2026-11-10 · trial
 - [[a1dabac00b71f5fd|Infrastructure Engineer, Mechanical Tooling]] · 2026-11-06 · job

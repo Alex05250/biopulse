@@ -17048,5 +17048,688 @@
     "type": "new",
     "at": "2026-11-21T15:15:21+08:00",
     "fields": {}
+  },
+  {
+    "item_id": "885d344470c80915",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5e8f52dfbe1e7bbf",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1c2ea9b55420eff1",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "2442cec2c6c339cc",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "05f8c0977429ed82",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b7d9001ac9f8169d",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "cc1c3dcab12a8a15",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "2e890e52209fe383",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a3531198c977713b",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c498f1050eccba63",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a6c6da591ce5a33c",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "22a98307b5154486",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "54d73b7a24d56f01",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7227c0d01f7655b5",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "685b8a0e215e54da",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f851db0526f6e790",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a7a0941f2197f86b",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "57352aa2abd24ced",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "915de8b43b9cea53",
+    "type": "updated",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {
+      "title": {
+        "before": "VERVE‑102: Next‑generation PCSK9 base‑editing for durable LDL‑cholesterol reduction.",
+        "after": "VERVE-102: next-generation PCSK9 base-editing for durable LDL-cholesterol reduction."
+      },
+      "date": {
+        "before": "2026-11-17",
+        "after": "2026-11-20"
+      }
+    }
+  },
+  {
+    "item_id": "2b80ffdd0061bb7c",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d35e622523e618f7",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4338a174e719b0c5",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c6d48e610d435166",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "52a7ebf00015298c",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "018b13ca8d90fcfd",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "184b02240c972097",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e986abe8fe8d1220",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "3d142306038ba815",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d5ad125946331618",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "cda16bba53a030a3",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "3981a56e2525ec04",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ed9e19aa256147ec",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "eab37190598788fd",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d543db596f48f9ea",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b3444106f65f3902",
+    "type": "updated",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-15",
+        "after": "2026-11-19"
+      }
+    }
+  },
+  {
+    "item_id": "8c01676755501bbe",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5dc4b8ae82342b0f",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "80945a96be9a1003",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "169a1c156559744e",
+    "type": "updated",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {
+      "title": {
+        "before": "Targeting Folate Receptor Reverses Colorectal Cancer’s Resistance to Immunotherapy in Mice",
+        "after": "Targeting cancer immune evasion with anti-FOLR1 antibody-drug conjugate potentiates anti-PD-1 efficacy in colorectal cancer."
+      },
+      "date": {
+        "before": "2026-11-19",
+        "after": "2026-11-18"
+      },
+      "kind": {
+        "before": "news",
+        "after": "journal"
+      },
+      "summary": {
+        "before": "媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。",
+        "after": "题录索引 · Science translational medicine。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。"
+      }
+    }
+  },
+  {
+    "item_id": "423fba8fa0731be0",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0f4a07a4a03b0842",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4a963d54a43ef608",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "78ffb21e37d0ccdf",
+    "type": "updated",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {
+      "title": {
+        "before": "CRISPR Screening Reveals How Genetic Variants Drive Neurodegenerative Risk",
+        "after": "Integrated QTL mapping and CRISPR screening in pooled iPSC-derived microglia reveals genetic drivers of neurodegenerative risk."
+      },
+      "date": {
+        "before": "2026-11-19",
+        "after": "2026-11-17"
+      },
+      "kind": {
+        "before": "news",
+        "after": "journal"
+      },
+      "summary": {
+        "before": "媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。",
+        "after": "题录索引 · Nature genetics。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。"
+      }
+    }
+  },
+  {
+    "item_id": "8a98c2333177d6d5",
+    "type": "updated",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {
+      "title": {
+        "before": "Metabolic Engineering of Escherichia coli BL21(DE3) for Plasmid-Free High-Level Production of Ergothioneine via Hybrid Pathway and Multicopy Chromosomal Integration.",
+        "after": "Metabolic engineering of Escherichia coli BL21(DE3) for plasmid-free high-level production of ergothioneine via hybrid pathway and multicopy chromosomal integration."
+      }
+    }
+  },
+  {
+    "item_id": "49540cd576e7ec4e",
+    "type": "updated",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {
+      "title": {
+        "before": "CRISPR-Cas Systems in Protozoan Parasites: Genome Editing, Functional Genomics, Gene Regulation and Emerging Applications.",
+        "after": "CRISPR-cas systems in protozoan parasites: Genome editing, functional genomics, gene regulation and emerging applications."
+      }
+    }
+  },
+  {
+    "item_id": "23fc422490c3e560",
+    "type": "updated",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {
+      "title": {
+        "before": "Stress Memory and Adaptive Intelligence in Plants from Signaling Networks to Crop Improvement under Climate Change.",
+        "after": "Stress memory and adaptive intelligence in plants from signaling networks to crop improvement under climate change."
+      }
+    }
+  },
+  {
+    "item_id": "42dc0fec51f65bd1",
+    "type": "updated",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {
+      "title": {
+        "before": "Functional analysis of the U-box ubiquitin E3 ligase gene Gracilariopsis lemaneiformis GlPRP19 in heat stress responses.",
+        "after": "Functional analysis of the U-box ubiquitin E3 ligase gene Gracilariopsis lemaneiformis GlPRP19 in heat stress response."
+      }
+    }
+  },
+  {
+    "item_id": "7702e35358df379a",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1e171e87b3bf1a1a",
+    "type": "updated",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {
+      "summary": {
+        "before": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。"
+      },
+      "version": {
+        "before": "1",
+        "after": null
+      },
+      "published_doi": {
+        "before": "",
+        "after": null
+      }
+    }
+  },
+  {
+    "item_id": "50050d6ccb6fd289",
+    "type": "updated",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {
+      "summary": {
+        "before": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。"
+      },
+      "version": {
+        "before": "1",
+        "after": null
+      },
+      "published_doi": {
+        "before": "",
+        "after": null
+      }
+    }
+  },
+  {
+    "item_id": "af884cb74591746c",
+    "type": "updated",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {
+      "summary": {
+        "before": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。"
+      },
+      "version": {
+        "before": "1",
+        "after": null
+      },
+      "published_doi": {
+        "before": "",
+        "after": null
+      }
+    }
+  },
+  {
+    "item_id": "d94e357b7fae33a4",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ccc29c43a09520d1",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "69a291edfe2eb24e",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "43db95734d3e4566",
+    "type": "updated",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {
+      "title": {
+        "before": "Title: Topoisomerase I Inhibition Serves as a Tumor Vaccine by Inducing the ERVs-dsRNA-Interferon Pathway.",
+        "after": "Topoisomerase I inhibition serves as a tumor vaccine by inducing the ERVs-dsRNA-interferon pathway."
+      }
+    }
+  },
+  {
+    "item_id": "8fe05e8ea0336262",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "597fe01f85329548",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "bfca87453c0cfbc9",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "76cc063f89ec6a18",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c7e5789c5bea88b8",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "bd1521bd5f440da9",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d161e1c65de4b9f7",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "19487d56075bad3f",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a7255c38d5f2ea9f",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d5c929dc1c66b8bc",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "2a109791eaedbb69",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "53021e5787bd99ae",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d63f2c422d9a6507",
+    "type": "updated",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-15",
+        "after": "2026-11-01"
+      }
+    }
+  },
+  {
+    "item_id": "2bc4842c5f74eb06",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f8e409f4f2b2186b",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "879a98c1acf1bf46",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b241786abade5e21",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "583f4291dec21283",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "eff6b6cc307a32d6",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4d9c05304556a2bf",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "9eac36781b52f2bd",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "68c72dc4338d45c9",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "679e99ac8f3239d6",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d284a964be194ee8",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4da0f5c027c54aa2",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "77ba3f7cc6943202",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "80894bd599869b75",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "398e2e169410f407",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5fb8a180556cf7f2",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "96b1fa03c6f47555",
+    "type": "updated",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-20",
+        "after": "2026-11-21"
+      }
+    }
+  },
+  {
+    "item_id": "3b10bdd928002634",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0b5d98553a13d98b",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "790faa8a4f845036",
+    "type": "new",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0c85d777e647a5a3",
+    "type": "updated",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-19",
+        "after": "2026-11-20"
+      }
+    }
+  },
+  {
+    "item_id": "50dcc46a48f25c79",
+    "type": "updated",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-12",
+        "after": "2026-11-21"
+      }
+    }
+  },
+  {
+    "item_id": "6a5ba7cd1d2305ad",
+    "type": "updated",
+    "at": "2026-11-22T14:55:39+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-20",
+        "after": "2026-11-22"
+      }
+    }
   }
 ]

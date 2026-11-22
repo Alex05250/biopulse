@@ -8,9 +8,13 @@ RNA therapeutics · 技术
 
 [[基因编辑]] [[AI 蛋白质设计]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[ADC 与多抗]] [[CD19]] [[Generate Biomedicines]] [[监管与政策]]
 
-## 相关情报 / 99 条
+## 相关情报 / 106 条
 
+- [[f851db0526f6e790|TERRA engages MDA5 to shape the immune landscape in ALT brain tumors]] · 2026-11-20 · preprint
 - [[577604cca72ad7c1|Gene identity, not recoding strategy, determines the fitness cost of synonymous recoding in bacteriophage ΦX174]] · 2026-11-20 · preprint
+- [[2b80ffdd0061bb7c|Dependency map correlation analysis reveals WDR89 as a genome maintenance factor.]] · 2026-11-20 · journal
+- [[ed9e19aa256147ec|Precision gene targeting: comparative roles of siRNA, miRNA, and CRISPR technologies in gene silencing and genome editing: a review.]] · 2026-11-19 · journal
+- [[e986abe8fe8d1220|Inhaled biologics: A paradigm shift in drug delivery for proteins, vaccines, and gene-based therapeutics.]] · 2026-11-19 · journal
 - [[8f4d2dcc405a9a18|London Calling: Flagship Expands in U.K. to Build AI-Native Platform Companies]] · 2026-11-19 · news
 - [[d7b78c1f3dd6a56e|Optogenetic RNA relocalization reveals causal neural function in vivo]] · 2026-11-18 · preprint
 - [[c75230d0a8940d79|Lipid nanoparticles and their successors: Design principles for dense tissue penetration and clinical translation.]] · 2026-11-18 · journal
@@ -35,6 +39,7 @@ RNA therapeutics · 技术
 - [[466280c3cbf88ea7|A Three-Axis Framework for Therapy Prioritization in MBD4-Deficient Tumors: De-confounded Synthetic Lethality Modeling, Replication-Stress Pharmacology, and PARP1 Trapping Decoupling]] · 2026-11-12 · preprint
 - [[2ae5f99ff5d454a5|TRIB2 supports a high glycolytic phenotype in melanoma cells.]] · 2026-11-12 · journal
 - [[8ddb72d74fe8aaf2|CasPER reduces mutagenic repair during targeted transgene integration in human immune cells]] · 2026-11-11 · preprint
+- [[69a291edfe2eb24e|Lipid nanoparticle-mediated RNA delivery enables protein expression in chicken testes.]] · 2026-11-10 · journal
 - [[689ea4a41e89e94f|CRISPR, mRNA, and Beyond: Nucleic Acid Therapeutics in Allergy and Immunology.]] · 2026-11-10 · journal
 - [[4315a08826d7122f|Cytokine networks in the tumor microenvironment: nanotherapeutic modulation of immune-cell communication and signaling networks.]] · 2026-11-10 · journal
 - [[8da393ab1bb1a4db|PEEK: integrated primer design for silent-mutation and restriction-site engineering, validated in silico and by whole-plasmid sequencing]] · 2026-11-09 · preprint
@@ -45,8 +50,10 @@ RNA therapeutics · 技术
 - [[766a2f201bffa29d|RIG-I is essential for radiation-induced IFN-β production and PD-L1/PD-L2 upregulation in HPV-negative head and neck squamous cell carcinoma cells.]] · 2026-11-06 · journal
 - [[1e4a4997cd0b7620|Gene therapy for epilepsy: From SCN1A to broadened therapeutic horizons (Review).]] · 2026-11-06 · journal
 - [[e68d28a4a10f6e82|An educational activity tailored for undergraduate students on AI-driven nanobody design for targeted antiviral therapeutics.]] · 2026-11-05 · journal
+- [[bfca87453c0cfbc9|Translational nanotechnology for precision gene therapy delivery systems.]] · 2026-11-05 · journal
 - [[5103014e3ddf6ab3|PIP5K isoforms and phosphoinositide molecular species in EGF-stimulated PIP3 synthesis: A multi-method approach using enzyme genetic suppression and chemical inhibition in MCF10A cells.]] · 2026-11-05 · journal
 - [[d9cb74e64c12df56|Targeting SYK overcomes acquired resistance to inavolisib in PIK3CA- mutant HER2+ breast cancer]] · 2026-11-04 · preprint
+- [[c7e5789c5bea88b8|Molecular mechanisms of AcrVA-mediated Cas12a inhibition and their potential applications.]] · 2026-11-04 · journal
 - [[7f4a751f8c444bb0|Systematic screen of RNA binding proteins that enhance circular RNA translation.]] · 2026-11-04 · journal
 - [[5b0349523e337b4e|CRISPR mutagenesis of the MYC locus reveals a druggable ultraconserved RNA element.]] · 2026-11-04 · journal
 - [[4c7dbd5487c7aade|Inhaled Nanomedicines for Lung Diseases and Injuries: Pharmacological Advances and Clinical Translation.]] · 2026-11-04 · journal
@@ -56,6 +63,7 @@ RNA therapeutics · 技术
 - [[4768ed4a065d497c|Rational design of lipid nanoparticles for brain delivery of RNA therapeutics.]] · 2026-11-03 · journal
 - [[1db123688706d78d|A postulation of the acetate metabolic pathway in recombinant CHO cells with high-yield bispecific antibody expression.]] · 2026-11-03 · journal
 - [[b15a31f545b986b3|A minimal two-residue C-terminal truncation of AID in adult-onset hyper-IgM syndrome type 2 (HIGM2)]] · 2026-11-02 · preprint
+- [[d63f2c422d9a6507|Pooled Screening of Cancer Cell Lines Identifies Vulnerability to Polyunsaturated Fatty-Acid-Induced Ferroptosis.]] · 2026-11-01 · journal
 - [[cca84c7f7f1a0436|Decoding proteomic complexity of transcript variants and homologous isoforms for precision therapeutics.]] · 2026-11-01 · journal
 - [[b7429cf276d80013|MANF promotes cell fitness and attenuates bortezomib sensitivity in multiple myeloma.]] · 2026-11-01 · journal
 - [[8c22d011f65bf742|Redirecting full-length FLT1 expression towards its soluble isoform by targeting alternative polyadenylation promotes postischaemic angiogenesis.]] · 2026-11-01 · journal
@@ -95,7 +103,6 @@ RNA therapeutics · 技术
 - [[3447a19f39d63f6d|Inhibition of heat shock protein 90 in the mouse spinal cord enhances opioid antinociception via the upregulation of dual specificity protein phosphatase 15 (DUSP15) in CGRP neurons.]] · 2026-10-19 · journal
 - [[bede7f678ed2c01d|scRIPT: a rapid, high-coverage single-cell lineage-tracing method applied to the hematoendothelial differentiation of embryonic stem cells]] · 2026-10-16 · preprint
 - [[3516366e9e56f90c|Cellular signal-responsive m 5 C editing by an inducible split CRISPR platform.]] · 2026-10-16 · journal
-- [[d63f2c422d9a6507|Pooled Screening of Cancer Cell Lines Identifies Vulnerability to Polyunsaturated Fatty-Acid-Induced Ferroptosis.]] · 2026-10-15 · journal
 - [[7224f861cc5acea1|Dysregulated retinal DPP10 expression with single cell-based next genomic sequencing profiling in X-linked juvenile retinoschisis.]] · 2026-10-15 · journal
 - [[6af1eddf423bba7a|Nanoimaging, Spectroscopy, and Biosensor Assays for Alternatively Spliced RNA Isoforms in Disease Diagnostics.]] · 2026-10-15 · journal
 - [[35e7dc7e243f69b7|SUGP1 Deficiency Leads to Splicing Dysregulation and Reduced piRNA Abundance in Insects.]] · 2026-10-15 · journal

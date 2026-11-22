@@ -8,8 +8,9 @@ Protein design · 技术
 
 [[基因编辑]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[RNA 药物]] [[ADC 与多抗]] [[Generate Biomedicines]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 108 条
+## 相关情报 / 110 条
 
+- [[b241786abade5e21|Augmenting the CATH database: a synthetic protein database for training biophysical-aware inverse folding models.]] · 2026-11-20 · journal
 - [[349dc653d29b759f|Zero-shot de novo design of a metalloenzyme.]] · 2026-11-19 · journal
 - [[2e1495fd368b8c20|AlphaInterp: Revealing how AlphaFold 3 processes structure, confidence, and evolutionary information.]] · 2026-11-19 · journal
 - [[8cd26f52bdf9dbed|Sidetrak: a de novo-designed miniprotein targets the kinesin-1 coiled-coil stalk to inhibit MAP7 binding and disrupt mitochondrial transport]] · 2026-11-18 · preprint
@@ -20,6 +21,7 @@ Protein design · 技术
 - [[cb4d73f6b2a64a97|Enzymatic strategies for PET valorization: Advances in discovery, engineering, and cyanobacterial chassis development.]] · 2026-11-17 · journal
 - [[b9530c146747f4b7|Mathematical genomics of hidden signatures in NCF1: implications for chronic granulomatous disease]] · 2026-11-17 · preprint
 - [[b5065a2b810aa2b1|IMPRESS：工作流评测的改进，不等于新蛋白功能已获验证]] · 2026-11-17 · preprint
+- [[80894bd599869b75|High-throughput prediction of peptide structural conformations]] · 2026-11-17 · preprint
 - [[5de53146fc69f212|Reprogramming a thiosulfate bacterial two-component system into a perchlorate biosensor]] · 2026-11-17 · preprint
 - [[4e78a6917324b977|FoldMapper: Protein Inverse Folding Model with Structure-Derived Evolutionary Profiles and a Multiscale Graph Encoder]] · 2026-11-17 · preprint
 - [[107889569d586744|Reprogramming Protein Function by Expanding Chemical and Combinatorial Space: Integrating Chemical and Computational Strategies.]] · 2026-11-17 · journal
