@@ -17731,5 +17731,224 @@
         "after": "2026-11-22"
       }
     }
+  },
+  {
+    "item_id": "867b6061c4521319",
+    "type": "updated",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-15",
+        "after": "2026-11-12"
+      },
+      "summary": {
+        "before": "未经同行评议 · bioRxiv bioinformatics，版本 2。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。"
+      },
+      "version": {
+        "before": "2",
+        "after": null
+      },
+      "published_doi": {
+        "before": "",
+        "after": null
+      }
+    }
+  },
+  {
+    "item_id": "cb4d73f6b2a64a97",
+    "type": "updated",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-17",
+        "after": "2026-11-18"
+      }
+    }
+  },
+  {
+    "item_id": "2883d72bec675f23",
+    "type": "new",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "39f805b30a7074f4",
+    "type": "updated",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-17",
+        "after": "2026-11-18"
+      },
+      "summary": {
+        "before": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "未经同行评议 · bioRxiv bioinformatics，版本 2。仅作研究线索，不能据此认定疗效或安全性。"
+      },
+      "version": {
+        "before": "1",
+        "after": "2"
+      }
+    }
+  },
+  {
+    "item_id": "c56cd09b9a3e3f2a",
+    "type": "new",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f823a77a7f54a7ef",
+    "type": "new",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "13c21045856b1502",
+    "type": "new",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7a1ab4f9c4fcbd45",
+    "type": "new",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4e11bcbf9c8513c5",
+    "type": "new",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "24c85c07205626aa",
+    "type": "new",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d73c91bc25d173ea",
+    "type": "new",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "6c3bc8b52556a145",
+    "type": "new",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b04710efb3dcfedb",
+    "type": "new",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8726ea9d8caa3876",
+    "type": "new",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b6a112be5620fcc2",
+    "type": "new",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "78ffb21e37d0ccdf",
+    "type": "updated",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {
+      "title": {
+        "before": "Integrated QTL mapping and CRISPR screening in pooled iPSC-derived microglia reveals genetic drivers of neurodegenerative risk.",
+        "after": "CRISPR Screening Reveals How Genetic Variants Drive Neurodegenerative Risk"
+      },
+      "date": {
+        "before": "2026-11-17",
+        "after": "2026-11-19"
+      },
+      "kind": {
+        "before": "journal",
+        "after": "news"
+      },
+      "summary": {
+        "before": "题录索引 · Nature genetics。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+        "after": "媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。"
+      }
+    }
+  },
+  {
+    "item_id": "169a1c156559744e",
+    "type": "updated",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {
+      "title": {
+        "before": "Targeting cancer immune evasion with anti-FOLR1 antibody-drug conjugate potentiates anti-PD-1 efficacy in colorectal cancer.",
+        "after": "Targeting Folate Receptor Reverses Colorectal Cancer’s Resistance to Immunotherapy in Mice"
+      },
+      "date": {
+        "before": "2026-11-18",
+        "after": "2026-11-19"
+      },
+      "kind": {
+        "before": "journal",
+        "after": "news"
+      },
+      "summary": {
+        "before": "题录索引 · Science translational medicine。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+        "after": "媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。"
+      }
+    }
+  },
+  {
+    "item_id": "3508cdae614d2c29",
+    "type": "updated",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {
+      "title": {
+        "before": "Early-Phase IND Protocol Recommendations for Solid Tumors; Draft Guidance for Industry",
+        "after": "Early-Phase IND Protocol Recommendations for Solid Tumors | Draft Guidance for Industry"
+      },
+      "date": {
+        "before": "2026-11-19",
+        "after": "2026-11-23"
+      }
+    }
+  },
+  {
+    "item_id": "b85b6a4a38f0a03a",
+    "type": "updated",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-19",
+        "after": "2026-11-23"
+      }
+    }
+  },
+  {
+    "item_id": "03fbda38b758b40a",
+    "type": "updated",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-20",
+        "after": "2026-11-23"
+      }
+    }
+  },
+  {
+    "item_id": "666f5641cf9b25b3",
+    "type": "updated",
+    "at": "2026-11-23T15:44:42+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-06",
+        "after": "2026-11-22"
+      }
+    }
   }
 ]

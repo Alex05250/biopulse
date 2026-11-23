@@ -12,8 +12,8 @@ ADCs & multispecifics · 技术
 
 - [[cc1c3dcab12a8a15|AKT as a central node integrating multidrug resistance mechanisms in ovarian Cancer.]] · 2026-11-20 · journal
 - [[b1c00033ef0f8526|First in Human Study of a Dual Targeting CD20 and CD19 CAR T Cell Treatment for Patients With B Cell Blood Cancers That Have Returned or Not Responded to Treatment]] · 2026-11-19 · trial
+- [[169a1c156559744e|Targeting Folate Receptor Reverses Colorectal Cancer’s Resistance to Immunotherapy in Mice]] · 2026-11-19 · news
 - [[cd659abe27f08803|Odronextamab for Relapsed and Refractory Large B-cell Lymphomas Before CAR-T]] · 2026-11-18 · trial
-- [[169a1c156559744e|Targeting cancer immune evasion with anti-FOLR1 antibody-drug conjugate potentiates anti-PD-1 efficacy in colorectal cancer.]] · 2026-11-18 · journal
 - [[3036fa940651a634|Author Correction: The global patent landscape of bispecific antibodies: technological innovations and therapeutic applications.]] · 2026-11-17 · journal
 - [[05f0292abf1777a0|Analog IC Design and Verification Engineer]] · 2026-11-17 · job
 - [[06ba1d26b0250e42|Genomic Predictors of Response to CAR-T and BiTE Therapies in B-cell Non-Hodgkin Lymphomas]] · 2026-11-16 · trial

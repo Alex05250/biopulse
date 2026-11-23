@@ -11,6 +11,7 @@ Neuralink · 公司与实验室
 ## 相关情报 / 85 条
 
 - [[6a5ba7cd1d2305ad|Facilities Technician]] · 2026-11-22 · job
+- [[666f5641cf9b25b3|Recruiting Coordinator (Part-Time)]] · 2026-11-22 · job
 - [[50dcc46a48f25c79|Environmental Health and Safety Specialist]] · 2026-11-21 · job
 - [[e2f8e7861b6803f3|Study Director]] · 2026-11-20 · job
 - [[902057c97d31f974|Associate General Counsel, Product]] · 2026-11-20 · job
@@ -32,7 +33,6 @@ Neuralink · 公司与实验室
 - [[462b9a6721ed207c|VOICE: An Early Feasibility Study of a Precise Robotically Implanted Brain-Computer Interface for Communication Restoration]] · 2026-11-10 · trial
 - [[a1dabac00b71f5fd|Infrastructure Engineer, Mechanical Tooling]] · 2026-11-06 · job
 - [[8baad08b6805e63d|Systems Engineer - Compute]] · 2026-11-06 · job
-- [[666f5641cf9b25b3|Recruiting Coordinator (Part-Time)]] · 2026-11-06 · job
 - [[0f66d785a968f22b|Designer]] · 2026-11-06 · job
 - [[02483a9962d6c535|Network Engineer]] · 2026-11-06 · job
 - [[fe2a6946658e18be|Quality Engineer, Software Design Controls]] · 2026-11-05 · job
