@@ -8,10 +8,11 @@ Neuralink · 公司与实验室
 
 [[脑机接口]] [[ADC 与多抗]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 85 条
+## 相关情报 / 86 条
 
+- [[bd8934cdd34a7fe9|Manufacturing Technician, Surgery Consumables]] · 2026-11-23 · job
+- [[666f5641cf9b25b3|Recruiting Coordinator (Part-Time)]] · 2026-11-23 · job
 - [[6a5ba7cd1d2305ad|Facilities Technician]] · 2026-11-22 · job
-- [[666f5641cf9b25b3|Recruiting Coordinator (Part-Time)]] · 2026-11-22 · job
 - [[50dcc46a48f25c79|Environmental Health and Safety Specialist]] · 2026-11-21 · job
 - [[e2f8e7861b6803f3|Study Director]] · 2026-11-20 · job
 - [[902057c97d31f974|Associate General Counsel, Product]] · 2026-11-20 · job

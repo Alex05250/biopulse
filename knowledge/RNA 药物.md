@@ -8,8 +8,9 @@ RNA therapeutics · 技术
 
 [[基因编辑]] [[AI 蛋白质设计]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[ADC 与多抗]] [[CD19]] [[Generate Biomedicines]] [[监管与政策]]
 
-## 相关情报 / 106 条
+## 相关情报 / 107 条
 
+- [[b657e9531db17e32|Poxvirus Machinery Mapped with Electron Microscopy Shows “Paired Engines”]] · 2026-11-24 · news
 - [[f851db0526f6e790|TERRA engages MDA5 to shape the immune landscape in ALT brain tumors]] · 2026-11-20 · preprint
 - [[577604cca72ad7c1|Gene identity, not recoding strategy, determines the fitness cost of synonymous recoding in bacteriophage ΦX174]] · 2026-11-20 · preprint
 - [[2b80ffdd0061bb7c|Dependency map correlation analysis reveals WDR89 as a genome maintenance factor.]] · 2026-11-20 · journal

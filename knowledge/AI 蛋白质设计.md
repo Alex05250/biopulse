@@ -8,8 +8,9 @@ Protein design · 技术
 
 [[基因编辑]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[RNA 药物]] [[ADC 与多抗]] [[Generate Biomedicines]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 110 条
+## 相关情报 / 113 条
 
+- [[315ddf949f2521f8|Concurrent neuronal activity gates persistent dendritic spine shrinkage during mGluR-induced long-term depression]] · 2026-11-23 · preprint
 - [[b241786abade5e21|Augmenting the CATH database: a synthetic protein database for training biophysical-aware inverse folding models.]] · 2026-11-20 · journal
 - [[349dc653d29b759f|Zero-shot de novo design of a metalloenzyme.]] · 2026-11-19 · journal
 - [[2e1495fd368b8c20|AlphaInterp: Revealing how AlphaFold 3 processes structure, confidence, and evolutionary information.]] · 2026-11-19 · journal
@@ -17,6 +18,7 @@ Protein design · 技术
 - [[8cd26f52bdf9dbed|Sidetrak: a de novo-designed miniprotein targets the kinesin-1 coiled-coil stalk to inhibit MAP7 binding and disrupt mitochondrial transport]] · 2026-11-18 · preprint
 - [[7883cd5b341135e2|A Novel Nitric Oxide-Dependent "Molecular Switch" Mediates LTP in the Octopus vulgaris Brain through Persistent Activation of Nitric Oxide Synthase.]] · 2026-11-18 · journal
 - [[2a2d52247f567901|Massively parallel quantification and prediction of monomeric protein yield in Escherichia coli]] · 2026-11-18 · preprint
+- [[145da11e3519aa66|Accurate and interpretable protein complex stoichiometry prediction through agentic AI with StoiAgent]] · 2026-11-18 · preprint
 - [[06fd19d11ba05c5a|Parametric and AI-Assisted Design of Right-Handed Four-Helix Coiled Coils]] · 2026-11-18 · preprint
 - [[e560b08bb6f6dcf0|Large scale CRISPR genome engineering reveal principles of single nucleotide microhomology in precision editing]] · 2026-11-17 · preprint
 - [[b9530c146747f4b7|Mathematical genomics of hidden signatures in NCF1: implications for chronic granulomatous disease]] · 2026-11-17 · preprint
@@ -80,6 +82,7 @@ Protein design · 技术
 - [[bc6b2d48e272f427|Programmable Engineered Living Vehicles as Autonomous Biofactories for Synergistic Osteomyelitis Management and Bone Regeneration.]] · 2026-10-26 · journal
 - [[7035cbff473ab045|Decoding & manipulating human intercellular signaling via scalable cell-free protein synthesis]] · 2026-10-26 · preprint
 - [[6d15aecf61bc3ec0|Shared α-helix chimeraffibodies enable linker-free bispecific protein design.]] · 2026-10-26 · journal
+- [[81d714ab58f3e5b9|Designing rigid protein fiducials to visualize GPCR conformational states.]] · 2026-10-24 · journal
 - [[df636c51ba1004e1|WasteFams: a database of protein families from global wastewater microbiomes.]] · 2026-10-22 · journal
 - [[d8a25c24f9b53ddd|HydroGuard: a controlled release hydrogel-phage delivery system to combat catheter-associated urinary tract infections.]] · 2026-10-22 · journal
 - [[413a7b7e6c76f356|Design and validation of nucleosome binding peptides using BindCraft.]] · 2026-10-22 · journal

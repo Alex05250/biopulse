@@ -8,8 +8,10 @@ ADCs & multispecifics · 技术
 
 [[基因编辑]] [[AI 蛋白质设计]] [[细胞与基因治疗]] [[脑机接口]] [[合成生物学]] [[递送系统]] [[RNA 药物]] [[CD19]] [[体内 CAR-T]] [[Generate Biomedicines]] [[Neuralink]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 33 条
+## 相关情报 / 34 条
 
+- [[f5be3f2b0e9a311a|Testing the Anti-cancer Drug, Glofitamab, in Patients With Mantle Cell Lymphoma (A Type of Blood Cancer) Whose Disease Returned After CAR-T Cell Therapy]] · 2026-11-23 · trial
+- [[78b81c1ac262ee61|STAT+: New biotech aims to develop next generation CAR-T for multiple myeloma]] · 2026-11-23 · news
 - [[cc1c3dcab12a8a15|AKT as a central node integrating multidrug resistance mechanisms in ovarian Cancer.]] · 2026-11-20 · journal
 - [[b1c00033ef0f8526|First in Human Study of a Dual Targeting CD20 and CD19 CAR T Cell Treatment for Patients With B Cell Blood Cancers That Have Returned or Not Responded to Treatment]] · 2026-11-19 · trial
 - [[169a1c156559744e|Targeting Folate Receptor Reverses Colorectal Cancer’s Resistance to Immunotherapy in Mice]] · 2026-11-19 · news
@@ -21,7 +23,6 @@ ADCs & multispecifics · 技术
 - [[0cb499d5d02a03d4|Advanced drug delivery strategies for overcoming tumor-mediated molecular hijacking: Emerging nanotherapeutics, advanced biotherapeutics, and artificial intelligence.]] · 2026-11-14 · journal
 - [[e7679f5c467b7863|Downstream Processing: Purifying Complex Antibody Therapeutics When Target Molecules Misbehave]] · 2026-11-13 · news
 - [[7745a7d201384467|Neoadjuvant Intravesical Nadofaragene Firadenovec With Enfortumab Vedotin and Pembrolizumab for the Treatment of Muscle Invasive Bladder Cancer, TRIFECTA Trial]] · 2026-11-13 · trial
-- [[f5be3f2b0e9a311a|Testing the Anti-cancer Drug, Glofitamab, in Patients With Mantle Cell Lymphoma (A Type of Blood Cancer) Whose Disease Returned After CAR-T Cell Therapy]] · 2026-11-12 · trial
 - [[cc213a708c1d2872|Modern Strategies in Cancer Therapy: From Chemotherapy to Precision Oncology]] · 2026-11-12 · preprint
 - [[1d01498e1e8da97c|Associate Director, Biotherapeutic Production and Characterization]] · 2026-11-12 · job
 - [[a63ef243d8fda41d|The synthetic biology frontier: engineered oncolytic viruses and viral vectors for next-generation cancer therapy and gene delivery.]] · 2026-11-09 · journal
