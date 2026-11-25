@@ -8,10 +8,11 @@ Protein design · 技术
 
 [[基因编辑]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[RNA 药物]] [[ADC 与多抗]] [[Generate Biomedicines]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 113 条
+## 相关情报 / 114 条
 
 - [[315ddf949f2521f8|Concurrent neuronal activity gates persistent dendritic spine shrinkage during mGluR-induced long-term depression]] · 2026-11-23 · preprint
 - [[b241786abade5e21|Augmenting the CATH database: a synthetic protein database for training biophysical-aware inverse folding models.]] · 2026-11-20 · journal
+- [[3fb12e39e77cbb49|Proteome-scale inference of transcription factor binding motifs from predicted protein-DNA structures]] · 2026-11-19 · preprint
 - [[349dc653d29b759f|Zero-shot de novo design of a metalloenzyme.]] · 2026-11-19 · journal
 - [[2e1495fd368b8c20|AlphaInterp: Revealing how AlphaFold 3 processes structure, confidence, and evolutionary information.]] · 2026-11-19 · journal
 - [[cb4d73f6b2a64a97|Enzymatic strategies for PET valorization: Advances in discovery, engineering, and cyanobacterial chassis development.]] · 2026-11-18 · journal

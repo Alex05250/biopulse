@@ -1,6 +1,6 @@
 # Intrathecal Administration of scAAV9/JeT-GAN for the Treatment of Giant Axonal Neuropathy
 
-- 原站日期：2026-11-20（registry_updated）
+- 原站日期：2026-11-24（registry_updated）
 - 类型：trial
 - 首次收录：2026-11-15T13:26:01+08:00
 - 来源：[ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT02362438)
