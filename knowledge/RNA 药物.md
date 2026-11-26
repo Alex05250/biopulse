@@ -6,11 +6,14 @@ RNA therapeutics · 技术
 
 ## 提及关联（不是因果）
 
-[[基因编辑]] [[AI 蛋白质设计]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[ADC 与多抗]] [[CD19]] [[Generate Biomedicines]] [[监管与政策]]
+[[基因编辑]] [[AI 蛋白质设计]] [[细胞与基因治疗]] [[脑机接口]] [[合成生物学]] [[递送系统]] [[ADC 与多抗]] [[CD19]] [[Generate Biomedicines]] [[监管与政策]]
 
-## 相关情报 / 107 条
+## 相关情报 / 112 条
 
+- [[5993c3646a248c99|Genetically encoded RNA strand exchange circuits for programmable protein expression and information processing in cells]] · 2026-11-25 · preprint
 - [[b657e9531db17e32|Poxvirus Machinery Mapped with Electron Microscopy Shows “Paired Engines”]] · 2026-11-24 · news
+- [[8cd1443eb66dc8c5|Modular mRNA-encoded helper proteins enhance DNA delivery.]] · 2026-11-24 · journal
+- [[48660ebd2a96d034|siGMA: Modeling Label Noise and Heterogeneity in siRNA Efficacy Prediction]] · 2026-11-23 · preprint
 - [[f851db0526f6e790|TERRA engages MDA5 to shape the immune landscape in ALT brain tumors]] · 2026-11-20 · preprint
 - [[577604cca72ad7c1|Gene identity, not recoding strategy, determines the fitness cost of synonymous recoding in bacteriophage ΦX174]] · 2026-11-20 · preprint
 - [[2b80ffdd0061bb7c|Dependency map correlation analysis reveals WDR89 as a genome maintenance factor.]] · 2026-11-20 · journal
@@ -40,6 +43,7 @@ RNA therapeutics · 技术
 - [[466280c3cbf88ea7|A Three-Axis Framework for Therapy Prioritization in MBD4-Deficient Tumors: De-confounded Synthetic Lethality Modeling, Replication-Stress Pharmacology, and PARP1 Trapping Decoupling]] · 2026-11-12 · preprint
 - [[2ae5f99ff5d454a5|TRIB2 supports a high glycolytic phenotype in melanoma cells.]] · 2026-11-12 · journal
 - [[8ddb72d74fe8aaf2|CasPER reduces mutagenic repair during targeted transgene integration in human immune cells]] · 2026-11-11 · preprint
+- [[bd266c560419def2|Engineered Saccharomyces cerevisiae -fermented soybean meal biofortified with astaxanthin enhances nutritional value and functionality in largemouth bass feed.]] · 2026-11-10 · journal
 - [[69a291edfe2eb24e|Lipid nanoparticle-mediated RNA delivery enables protein expression in chicken testes.]] · 2026-11-10 · journal
 - [[689ea4a41e89e94f|CRISPR, mRNA, and Beyond: Nucleic Acid Therapeutics in Allergy and Immunology.]] · 2026-11-10 · journal
 - [[4315a08826d7122f|Cytokine networks in the tumor microenvironment: nanotherapeutic modulation of immune-cell communication and signaling networks.]] · 2026-11-10 · journal
@@ -68,6 +72,7 @@ RNA therapeutics · 技术
 - [[cca84c7f7f1a0436|Decoding proteomic complexity of transcript variants and homologous isoforms for precision therapeutics.]] · 2026-11-01 · journal
 - [[b7429cf276d80013|MANF promotes cell fitness and attenuates bortezomib sensitivity in multiple myeloma.]] · 2026-11-01 · journal
 - [[8c22d011f65bf742|Redirecting full-length FLT1 expression towards its soluble isoform by targeting alternative polyadenylation promotes postischaemic angiogenesis.]] · 2026-11-01 · journal
+- [[7e32a149918002f1|Silencing MSR1 in Macrophages Attenuates the Cochlear Foreign Body Response and Preserves Electrode-Neural Interface.]] · 2026-11-01 · journal
 - [[750aa1125f30a511|The Arms Race Between Bacteria and Their Viruses: Update on Phage Countermeasures Against Bacterial Defence Systems.]] · 2026-11-01 · journal
 - [[58f9ad4313d95118|RNA-Adjusted TUFM Protein State Captures Mitochondrial Proteome Organization in Lung Adenocarcinoma.]] · 2026-11-01 · journal
 - [[4ad732be2e4f1970|The small protein PhrS-P, encoded by the dual-function small RNA PhrS, augments fitness of Pseudomonas aeruginosa in the presence of aminoglycosides.]] · 2026-11-01 · journal

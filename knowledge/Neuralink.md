@@ -10,6 +10,7 @@ Neuralink · 公司与实验室
 
 ## 相关情报 / 88 条
 
+- [[37f23650d0dde107|Machine Learning Engineer Intern]] · 2026-11-25 · job
 - [[e7bfc10074d44592|Precise Robotically IMplanted Brain-Computer InterfacE]] · 2026-11-24 · trial
 - [[bd8934cdd34a7fe9|Manufacturing Technician, Surgery Consumables]] · 2026-11-24 · job
 - [[01a9b1a652ff20d9|Electrical Test Engineer Intern]] · 2026-11-24 · job
@@ -86,7 +87,6 @@ Neuralink · 公司与实验室
 - [[3c30464a7265f38d|Hardware/ Software Co-Design Engineer]] · 2026-11-05 · job
 - [[3bad541d3696434b|Manufacturing Intern, Surgery & Robot Hardware]] · 2026-11-05 · job
 - [[383551c234ca73b5|Mechanical Engineer, Implant]] · 2026-11-05 · job
-- [[37f23650d0dde107|Machine Learning Engineer Intern]] · 2026-11-05 · job
 - [[334c6a3688a75462|Software Engineer Intern, Internal Apps]] · 2026-11-05 · job
 - [[22e81dc5b82850f3|CNC Machinist]] · 2026-11-05 · job
 - [[1ac84888ca6d6f6d|IT Security & Identity Engineer]] · 2026-11-05 · job

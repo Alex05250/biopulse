@@ -19425,5 +19425,823 @@
         "after": "NO_LONGER_LISTED"
       }
     }
+  },
+  {
+    "item_id": "8cd1443eb66dc8c5",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "6237dab66d403a3b",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "708022b83c81df31",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8fb5bf4af3e6cb0d",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ea0b59f63b780faf",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "da545e1a254146e8",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "fab32abe968d106b",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4d36839546bf823e",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "3dad0a3ccff75b40",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0d7e59b84cbe4d51",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c7ce4e4d93f94d2d",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8b7d19e88bf7ef36",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ac02274053d5a354",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a5db2798d0df45a4",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "3a753abfce510c71",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f46de67d0d7ff0ab",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7dbce258b4f03a81",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d483a2c491b76929",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "31bd4b773c186656",
+    "type": "updated",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {
+      "summary": {
+        "before": "未经同行评议 · bioRxiv synthetic biology，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。"
+      },
+      "version": {
+        "before": "1",
+        "after": null
+      },
+      "published_doi": {
+        "before": "",
+        "after": null
+      }
+    }
+  },
+  {
+    "item_id": "e2ebc1db1f5be446",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "467d0793b06d74e0",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "9a16b5981f191560",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "245e3b42804176fe",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "bd266c560419def2",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "80180e647dc7fb3e",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8570f9406cf95d00",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "59785775b20e506e",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c22f2ff8b79a7b96",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "90b165c6bd71dadf",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d9b11a088922ff6e",
+    "type": "updated",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {
+      "title": {
+        "before": "High-throughput protein interactome identifies LSD1 as a regulator of SARS-CoV-2 production through lysine demethylation of viral nucleocapsid protein.",
+        "after": "High-Throughput Protein Interactome Identifies LSD1 as a Regulator of SARS-CoV-2 Production Through Lysine Demethylation of Viral Nucleocapsid Protein."
+      }
+    }
+  },
+  {
+    "item_id": "799fdbe284e38a7e",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "2483c9109d9602b6",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "3938a9160d75c197",
+    "type": "updated",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {
+      "title": {
+        "before": "The potential of transcranial direct current stimulation to enhance P300-based brain-computer interface speller performance: A feasibility study.",
+        "after": "The potential of transcranial direct current stimulation to enhance P300-based brain-computer interface speller performance: a feasibility study."
+      },
+      "date": {
+        "before": "2026-11-12",
+        "after": "2026-11-24"
+      }
+    }
+  },
+  {
+    "item_id": "de31a760b8a00a29",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c78e66184f9ba121",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f7707b246c0b8dba",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e0e285882183e7c7",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "19a78a1171317ccf",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7e32a149918002f1",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c55909032f97a118",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b3737593d7eb9e4d",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5993c3646a248c99",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e6bf5d5c34975762",
+    "type": "updated",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {
+      "summary": {
+        "before": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "未经同行评议 · bioRxiv bioinformatics，版本 2。仅作研究线索，不能据此认定疗效或安全性。"
+      },
+      "version": {
+        "before": "1",
+        "after": "2"
+      }
+    }
+  },
+  {
+    "item_id": "ae1d316d45d66060",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f44ba182ccd55b91",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "184ef1aa10598861",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ce2153ff996adb99",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "af392a7c4eb549e0",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a0148d7f281efc3e",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "cd248b730c172c84",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "cedabf97e8d460fb",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "bec9fa1cf2604de5",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5e8f52dfbe1e7bbf",
+    "type": "updated",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {
+      "summary": {
+        "before": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+        "after": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。"
+      },
+      "version": {
+        "before": null,
+        "after": "1"
+      },
+      "published_doi": {
+        "before": null,
+        "after": ""
+      }
+    }
+  },
+  {
+    "item_id": "b8a0e52dcc525779",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e57c63f18e529d55",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "36024cd50f4c93c6",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ce922205d00bd10e",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "33c91d0aba673810",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "36f84313472b4ad2",
+    "type": "updated",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-18",
+        "after": "2026-11-22"
+      },
+      "summary": {
+        "before": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "未经同行评议 · bioRxiv bioinformatics，版本 2。仅作研究线索，不能据此认定疗效或安全性。"
+      },
+      "version": {
+        "before": "1",
+        "after": "2"
+      }
+    }
+  },
+  {
+    "item_id": "d25b7ab4280cbd5a",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "65dfaa7c0807affd",
+    "type": "updated",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-16",
+        "after": "2026-11-22"
+      },
+      "summary": {
+        "before": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "未经同行评议 · bioRxiv bioinformatics，版本 2。仅作研究线索，不能据此认定疗效或安全性。"
+      },
+      "version": {
+        "before": "1",
+        "after": "2"
+      }
+    }
+  },
+  {
+    "item_id": "51545fcd7c5756a4",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7c56b1f134c02681",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0cb2d61de52ae6e4",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c1788c102abb3046",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "61eb78ae12cca96b",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1d0819745429b46f",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "076cbf21b851663f",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0f1ce92dec34a011",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f62aabf87d43dcba",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1e8022bc1f99fe4d",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5836c48d5a331f63",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "48660ebd2a96d034",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a6291b196484091f",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ab2c59a4f3ea0f15",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b270cbcb96e888d0",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7b37fb572c54462e",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b1aec57221dae039",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4dca698a8a1ad8cd",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a8335d43d35f070c",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "05484d7bff1dec16",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4604bf3c891eca0a",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "53bd5acb90accae0",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "af4b0b5daecb3cfc",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c6ee83657775d5d1",
+    "type": "updated",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-24",
+        "after": "2026-11-25"
+      }
+    }
+  },
+  {
+    "item_id": "87035178cc0279c9",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "108ee89aa3aaae72",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "2bfb39167bc4d4bb",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7d91f9eb99b28318",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "9920ee10a268e805",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ca2fbe9cd78a7f0d",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b6e283973e29176e",
+    "type": "updated",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-17",
+        "after": "2026-11-25"
+      }
+    }
+  },
+  {
+    "item_id": "bc964e450bea6f9c",
+    "type": "updated",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-30",
+        "after": "2026-11-25"
+      }
+    }
+  },
+  {
+    "item_id": "a2b1dc3c102407ac",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5194ab6e2b219b6e",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "177afc155f111696",
+    "type": "updated",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-23",
+        "after": "2026-11-25"
+      }
+    }
+  },
+  {
+    "item_id": "b5ab53b0fd29c1d6",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e46f184c5cd7b480",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "2eb7e631d282ec28",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5ba0ee6104819f7c",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "9f2ce66ed33cdbec",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "9c45361bef25ffd8",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ec177d5ddf2e30b9",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "6d5d9332943a87a2",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "9cc3b84afcb9f16f",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "98f1ab7c89cff278",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b0cc7b53fde5445e",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "18174291e0dc630e",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "223977e4279324eb",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c4050edfdfd23258",
+    "type": "new",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0c85d777e647a5a3",
+    "type": "updated",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-24",
+        "after": "2026-11-25"
+      }
+    }
+  },
+  {
+    "item_id": "37f23650d0dde107",
+    "type": "updated",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-05",
+        "after": "2026-11-25"
+      },
+      "summary": {
+        "before": "Neuralink · South San Francisco, California, United States。技能关键词：machine learning。未抽取到可确认的公开薪资区间。",
+        "after": "Neuralink · Austin, Texas, United States; South San Francisco, California, United States。技能关键词：machine learning。未抽取到可确认的公开薪资区间。"
+      },
+      "location": {
+        "before": "South San Francisco, California, United States",
+        "after": "Austin, Texas, United States; South San Francisco, California, United States"
+      }
+    }
+  },
+  {
+    "item_id": "b9cd4c1205ec0949",
+    "type": "updated",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {
+      "status": {
+        "before": "LISTED",
+        "after": "NO_LONGER_LISTED"
+      }
+    }
+  },
+  {
+    "item_id": "b3702bcb7b90c309",
+    "type": "updated",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {
+      "status": {
+        "before": "LISTED",
+        "after": "NO_LONGER_LISTED"
+      }
+    }
+  },
+  {
+    "item_id": "01d972d946e4ba94",
+    "type": "updated",
+    "at": "2026-11-26T16:26:33+08:00",
+    "fields": {
+      "status": {
+        "before": "LISTED",
+        "after": "NO_LONGER_LISTED"
+      }
+    }
   }
 ]

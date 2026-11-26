@@ -8,9 +8,14 @@ Protein design · 技术
 
 [[基因编辑]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[RNA 药物]] [[ADC 与多抗]] [[Generate Biomedicines]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 114 条
+## 相关情报 / 121 条
 
+- [[708022b83c81df31|Cell-free identification of de novo designed minibinders as building blocks for targeted protein degraders]] · 2026-11-25 · preprint
+- [[8fb5bf4af3e6cb0d|Selective suppression and biasing of chemokine receptors CCR9 and ACKR4 through targeting CCL25 with de novo miniproteins.]] · 2026-11-24 · journal
+- [[ea0b59f63b780faf|Artificial intelligence-guided open-source CRISPR tools for designer crops.]] · 2026-11-23 · journal
 - [[315ddf949f2521f8|Concurrent neuronal activity gates persistent dendritic spine shrinkage during mGluR-induced long-term depression]] · 2026-11-23 · preprint
+- [[0f1ce92dec34a011|Predicted templates improve the prediction of antibody-antigen structures by AlphaFold 3 and Boltz-2]] · 2026-11-23 · preprint
+- [[d25b7ab4280cbd5a|A structural grammar of truncation across the human homodimer landscape]] · 2026-11-22 · preprint
 - [[b241786abade5e21|Augmenting the CATH database: a synthetic protein database for training biophysical-aware inverse folding models.]] · 2026-11-20 · journal
 - [[3fb12e39e77cbb49|Proteome-scale inference of transcription factor binding motifs from predicted protein-DNA structures]] · 2026-11-19 · preprint
 - [[349dc653d29b759f|Zero-shot de novo design of a metalloenzyme.]] · 2026-11-19 · journal
@@ -52,6 +57,7 @@ Protein design · 技术
 - [[247c016d9d219bf9|Senior Scientist I, Molecular Virology]] · 2026-11-10 · job
 - [[0aa9eff544d185e0|Joint protein-DNA language modeling enables prediction and engineering of DNA recognition specificity]] · 2026-11-10 · preprint
 - [[e177a306a253620c|All-Atom Structure Tokenizer: AtomLM-9b for Biomolecular Structure Prediction]] · 2026-11-09 · preprint
+- [[da545e1a254146e8|AI-driven strategies for Cas12 protein design and genome editing optimization.]] · 2026-11-09 · journal
 - [[860f112ab7b0deea|Generative design of de novo AAV vectors with unique serological profiles]] · 2026-11-09 · preprint
 - [[31814f5f965b031d|How AlphaFold 3 helps with multiscale drug discovery]] · 2026-11-09 · preprint
 - [[dd40024382bd1ceb|pLM-bVAE: protein language model-enhanced binary representation improves quantum annealing-based protein sequence design]] · 2026-11-06 · preprint
@@ -63,6 +69,7 @@ Protein design · 技术
 - [[5e11d4eccbfd9c9e|Protein nanocages: Programmable biomaterial platforms for therapeutics, bioimaging, and diagnostics.]] · 2026-11-04 · journal
 - [[8d2ced57b00ac24e|Decoding the landscape in biomanufacturing of xylose: metabolic bottlenecks and computation-assisted strategies.]] · 2026-11-03 · journal
 - [[294563f3e071cd1b|Senior Scientist I, Biotherapeutic Production Technologies]] · 2026-11-03 · job
+- [[fab32abe968d106b|Artificial Intelligence-Aided Design of Peptides with Custom Secondary Structure Motifs and Reduced Amino Acid Alphabets.]] · 2026-11-01 · journal
 - [[cc1e58a4ee808e08|Global analysis of thermal and chemical denaturation using CheMelt: Thermodynamic dissection of highly thermostable de novo designed proteins.]] · 2026-11-01 · journal
 - [[b95c67b986633d0b|Yeast Metabolic Engineering for Carotenoid Biosynthesis: Hosts, Pathways, Strategies, and Perspectives.]] · 2026-11-01 · journal
 - [[969bb16034c8e5a5|Redesigning photoprotection: nature-inspired and synthetic biology strategies to enhance crop productivity.]] · 2026-11-01 · journal
