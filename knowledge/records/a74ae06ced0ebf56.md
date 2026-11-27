@@ -1,0 +1,13 @@
+# Lead-screw-driven nucleic acid extraction enables a low-instrumentation Dual-CRISPR sensor for point-of-care subtyping of HSV-1 and HSV-2.
+
+- 原站日期：2026-11-23（published）
+- 类型：journal
+- 首次收录：2026-11-27T16:41:08+08:00
+- 来源：[PubMed · 基因编辑](https://doi.org/10.1016/j.bios.2026.119456)
+- 记录 ID：a74ae06ced0ebf56
+
+题录索引 · Biosensors & bioelectronics。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。
+
+## 关联节点（仅提及，不代表因果）
+
+[[基因编辑]]

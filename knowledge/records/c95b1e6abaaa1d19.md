@@ -1,0 +1,13 @@
+# Trade-off between CRISPR-based autoimmunity and CRISPR-Cas immunity against phages in bacteria
+
+- 原站日期：2026-11-26（published）
+- 类型：preprint
+- 首次收录：2026-11-27T16:41:08+08:00
+- 来源：[PubMed · 基因编辑](https://doi.org/10.21203/rs.3.rs-11693236/v1)
+- 记录 ID：c95b1e6abaaa1d19
+
+题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。
+
+## 关联节点（仅提及，不代表因果）
+
+[[基因编辑]]

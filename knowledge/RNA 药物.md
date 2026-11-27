@@ -8,27 +8,41 @@ RNA therapeutics · 技术
 
 [[基因编辑]] [[AI 蛋白质设计]] [[细胞与基因治疗]] [[脑机接口]] [[合成生物学]] [[递送系统]] [[ADC 与多抗]] [[CD19]] [[Generate Biomedicines]] [[监管与政策]]
 
-## 相关情报 / 112 条
+## 相关情报 / 129 条
 
+- [[576861d9d5f2fa80|Engineered extracellular vesicles (EVs) as carriers for CRISPR/Cas9 therapeutics: recent advances in cargo loading and targeted delivery.]] · 2026-11-26 · journal
+- [[ee38a3b4a4ef9c3a|DNA methylation-dependent CDX1 enrichment at PVT1 exon 9 associated promoter drives overexpression of PVT1 exon 9 in aggressive prostate cancer.]] · 2026-11-25 · journal
+- [[ed648fede1a59ec2|Programmable nanomedicine for precision metabolic reprogramming: Integrating multi-omics, artificial intelligence, and RNA therapeutics in diabetes.]] · 2026-11-25 · journal
 - [[5993c3646a248c99|Genetically encoded RNA strand exchange circuits for programmable protein expression and information processing in cells]] · 2026-11-25 · preprint
+- [[df25e59e976017f5|Continuous-flow synthesis and functionalization of gold nanoparticles for diagnostics and therapy]] · 2026-11-24 · preprint
 - [[b657e9531db17e32|Poxvirus Machinery Mapped with Electron Microscopy Shows “Paired Engines”]] · 2026-11-24 · news
+- [[af986f436b3f4e77|Circular RNAs in Cancer Treatment Resistance: Evidence-Stratified Mechanisms, Candidate Biomarkers, and Resistance-Reversal Strategies.]] · 2026-11-24 · journal
 - [[8cd1443eb66dc8c5|Modular mRNA-encoded helper proteins enhance DNA delivery.]] · 2026-11-24 · journal
+- [[ecc2dcc20e6cc2c3|Problem-Driven Innovation in Genome Editing: From Programmable Nucleases to DSB-Free Precision Editors and the Path to Clinical Translation.]] · 2026-11-23 · journal
+- [[6d8ea8c6cafe7ca3|Gene therapy for developmental and epileptic encephalopathies: a mechanism-driven framework for therapeutic design.]] · 2026-11-23 · journal
+- [[4a6808d8a78389a5|The lncRNA hTAPAS within the epigenetic landscape of hTERT transcription and splicing.]] · 2026-11-23 · journal
 - [[48660ebd2a96d034|siGMA: Modeling Label Noise and Heterogeneity in siRNA Efficacy Prediction]] · 2026-11-23 · preprint
+- [[472410b52de3fb77|Targeting MondoA Sensitizes B-ALL Cells to Asparaginase and Reveals Glutathione-Associated Protection]] · 2026-11-23 · preprint
 - [[f851db0526f6e790|TERRA engages MDA5 to shape the immune landscape in ALT brain tumors]] · 2026-11-20 · preprint
+- [[c5aa3b81e5d370d9|CRISPR/Cas9-Mediated Knockout of RICTOR in HEK-293T Cells Alters mTOR- and MAPK-Pathway Gene Expression, Reduces Proliferation and Migration, and Enhances Cell-to-Cell Adhesion.]] · 2026-11-20 · journal
 - [[577604cca72ad7c1|Gene identity, not recoding strategy, determines the fitness cost of synonymous recoding in bacteriophage ΦX174]] · 2026-11-20 · preprint
 - [[2b80ffdd0061bb7c|Dependency map correlation analysis reveals WDR89 as a genome maintenance factor.]] · 2026-11-20 · journal
 - [[ed9e19aa256147ec|Precision gene targeting: comparative roles of siRNA, miRNA, and CRISPR technologies in gene silencing and genome editing: a review.]] · 2026-11-19 · journal
 - [[e986abe8fe8d1220|Inhaled biologics: A paradigm shift in drug delivery for proteins, vaccines, and gene-based therapeutics.]] · 2026-11-19 · journal
+- [[b02d3c93a92b3e1d|Targeting ANGPTL3 for Lipid Lowering in Atherosclerotic Cardiovascular Disease: A Narrative Review of Genetic, Preclinical and Clinical Evidence.]] · 2026-11-19 · journal
 - [[8f4d2dcc405a9a18|London Calling: Flagship Expands in U.K. to Build AI-Native Platform Companies]] · 2026-11-19 · news
+- [[f8e997a8db838f51|PCSK9 Inhibition in Transition: From Established Treatments to Emerging Therapeutic Approaches.]] · 2026-11-18 · journal
 - [[d7b78c1f3dd6a56e|Optogenetic RNA relocalization reveals causal neural function in vivo]] · 2026-11-18 · preprint
 - [[c75230d0a8940d79|Lipid nanoparticles and their successors: Design principles for dense tissue penetration and clinical translation.]] · 2026-11-18 · journal
 - [[ab5ed17157f67821|A targeting delivery platform for the mapping of responses to p53-independent intervention in heterogeneous patient cancer cells.]] · 2026-11-18 · journal
-- [[576861d9d5f2fa80|Engineered Extracellular Vesicles (EVs) as Carriers for CRISPR/Cas9 Therapeutics: Recent Advances in Cargo Loading and Targeted Delivery.]] · 2026-11-18 · journal
 - [[282faf05406529c9|Mechanistic insights into benzoxaborole activity against Cryptosporidium parvum: CPSF3 targeting genetically validated for AN3661, with implications for resistance.]] · 2026-11-18 · journal
+- [[b6893c3eb747a4c3|Brain disorder mechanisms and therapeutic targets identified from developmental, cell-specific gene regulation]] · 2026-11-17 · preprint
 - [[89113ec84d63f541|Mobile group II intron reverse transcriptases: evolution, biochemical activities, and applications.]] · 2026-11-17 · journal
 - [[4424385c7c942383|Securing Cell-Free Expression: Safeguards for Distributed Biomanufacturing.]] · 2026-11-17 · journal
+- [[01697c08c6fe51a5|Machine Learning-Guided Design of Peptide-Targeted CRISPR Vectors for Tissue-Specific Non-Coding RNA Knockdown.]] · 2026-11-17 · journal
 - [[ee00646802aee696|Exercise-induced lactylation in WDR41 initiates autophagy and improves fatty liver diseases.]] · 2026-11-16 · journal
 - [[c36befe94f1825d0|Engineered post-transcriptional regulation of Scn10a by Pumilio ameliorates neuropathic pain in mice]] · 2026-11-16 · preprint
+- [[68166b4f4e880110|Transient RNA-Based AID-Cas9 Editing Enables Efficient Gene and Splice-Site Modification.]] · 2026-11-16 · journal
 - [[5b649e1db439917f|RNA Therapeutics in Cardiovascular Medicine: From Molecular Mechanisms to Clinical Practice.]] · 2026-11-16 · journal
 - [[2d91dc2ccacb7fd6|Public-data re-examination of SOX6 as a general pre-mRNA splicing factor]] · 2026-11-16 · preprint
 - [[55401be6c3048ecf|Multilayered genetic engineering strategies for tunable gene expression in Yarrowia lipolytica: advancing high-performance cell factories for sustainable biomanufacturing.]] · 2026-11-14 · journal
@@ -74,11 +88,15 @@ RNA therapeutics · 技术
 - [[8c22d011f65bf742|Redirecting full-length FLT1 expression towards its soluble isoform by targeting alternative polyadenylation promotes postischaemic angiogenesis.]] · 2026-11-01 · journal
 - [[7e32a149918002f1|Silencing MSR1 in Macrophages Attenuates the Cochlear Foreign Body Response and Preserves Electrode-Neural Interface.]] · 2026-11-01 · journal
 - [[750aa1125f30a511|The Arms Race Between Bacteria and Their Viruses: Update on Phage Countermeasures Against Bacterial Defence Systems.]] · 2026-11-01 · journal
+- [[5fc7e09ae082592a|Reprogramming mRNA localization by targeted RNA-protein interference reveals roles in oncogenesis.]] · 2026-11-01 · journal
 - [[58f9ad4313d95118|RNA-Adjusted TUFM Protein State Captures Mitochondrial Proteome Organization in Lung Adenocarcinoma.]] · 2026-11-01 · journal
+- [[56cdf6601382c2f3|Revealing HOXC6 Overexpression and Its Downstream Targets in Small Cell Lung Cancer Through Single-Cell Sequencing-Based Virtual Knockout and CRISPR-Cas9 Analysis.]] · 2026-11-01 · journal
 - [[4ad732be2e4f1970|The small protein PhrS-P, encoded by the dual-function small RNA PhrS, augments fitness of Pseudomonas aeruginosa in the presence of aminoglycosides.]] · 2026-11-01 · journal
 - [[3d78c7ad1226b528|SecAntiGami: A Secondary-Antibody-Inspired RNA Origami for Qualitative Aptamer Validation.]] · 2026-11-01 · journal
 - [[3a7fdb4b55ccfcfd|Tumor-Specific Gene Editing Enhances Cancer Immunogenicity through Succinate Metabolism-Mediated MHC-I Reprogramming.]] · 2026-11-01 · journal
 - [[38c127d68da4bbd6|Therapy-Persistent Leukemia Is Selectively Vulnerable to SLC23A1 Restoration via Targeting KHSRP.]] · 2026-11-01 · journal
+- [[30239c853a3c413d|Dysregulation of macrophage colony stimulating factor in Paget's disease of bone.]] · 2026-11-01 · journal
+- [[1881f1b4e3ac8776|Single-Vesicle Analysis, Spatial Deconvolution and Functional Circuit Mapping in Extracellular Vesicle Biology.]] · 2026-11-01 · journal
 - [[98ebc4369bdecd1f|Dual-vector nanoengineered mRNA-CRISPR delivery systems for precision gene therapy in choroidal melanoma.]] · 2026-10-31 · journal
 - [[e138bd6ebda9b7c5|Functional dissection of conserved RNAi pathways in antiviral immunity of several hemipteran insects.]] · 2026-10-30 · journal
 - [[d5425b564c9c721f|EP300 promotes macrophage M2 polarization in diffuse large B-cell lymphoma through the NF-κB/CXCR4 axis]] · 2026-10-30 · preprint
@@ -101,7 +119,6 @@ RNA therapeutics · 技术
 - [[857e44211a3805a1|Overcoming the cutaneous barrier: Topical delivery platforms for targeted gene-based therapeutics in psoriasis.]] · 2026-10-22 · journal
 - [[e53e44933488ef1e|METTL1 gene dosage and catalytic activity define a targetable vulnerability in pediatric cancers]] · 2026-10-21 · preprint
 - [[d5ebedc1a5527d2c|A role for eIF5A in translational control of stress-inducible proteins in multiple myeloma cell lines.]] · 2026-10-21 · journal
-- [[30239c853a3c413d|Dysregulation of macrophage colony stimulating factor in Paget's disease of bone.]] · 2026-10-21 · journal
 - [[19b10defbce3452b|Cucurbitacins as multitarget pharmacological modulators: chemistry, biosynthesis, molecular targets, regulated cell death, and translational challenges, with emphasis on cucurbitacin B and I.]] · 2026-10-21 · journal
 - [[72a4a103c79a9883|Engineered human Argonaute 2 for targeted C-to-U RNA base editing.]] · 2026-10-20 · journal
 - [[24963a599a446f68|Intranasal nano-immunotherapy for glioma: bypassing the blood-brain barrier, reprogramming the immune microenvironment, and bridging preclinical validation.]] · 2026-10-20 · journal

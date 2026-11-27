@@ -6,13 +6,19 @@ Protein design · 技术
 
 ## 提及关联（不是因果）
 
-[[基因编辑]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[RNA 药物]] [[ADC 与多抗]] [[Generate Biomedicines]] [[监管与政策]] [[岗位与技能]]
+[[基因编辑]] [[细胞与基因治疗]] [[脑机接口]] [[合成生物学]] [[递送系统]] [[RNA 药物]] [[ADC 与多抗]] [[Generate Biomedicines]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 121 条
+## 相关情报 / 130 条
 
+- [[89a64426e3466e92|From molecular dynamics to generative design: Engineering enzymes for predictive, programmable, and sustainable biocatalysis.]] · 2026-11-26 · journal
+- [[de9799cde28b1c12|Task-aware conditional diffusion model for EMG artifact removal in single-channel EEG.]] · 2026-11-25 · journal
+- [[70e1b3d74b1279f5|D-Allulose Biomanufacturing: Enzyme Engineering, Whole-Cell Biocatalysis and Process Intensification.]] · 2026-11-25 · journal
 - [[708022b83c81df31|Cell-free identification of de novo designed minibinders as building blocks for targeted protein degraders]] · 2026-11-25 · preprint
+- [[37c8825f0ba4e1b5|Spatial Metabolic Engineering of Microbial Cell Factories: Compartmentalization Strategies and Design Principles for Enhanced Bioproduction.]] · 2026-11-25 · journal
+- [[2cddbb7d1baf58c0|Licensing mechanisms during RNA-guided DNA integration by type I-F3 CAST.]] · 2026-11-25 · journal
 - [[8fb5bf4af3e6cb0d|Selective suppression and biasing of chemokine receptors CCR9 and ACKR4 through targeting CCL25 with de novo miniproteins.]] · 2026-11-24 · journal
 - [[ea0b59f63b780faf|Artificial intelligence-guided open-source CRISPR tools for designer crops.]] · 2026-11-23 · journal
+- [[91c7fcd8180ece47|FlyPredictome: A structural atlas of predicted protein-protein interactions in Drosophila]] · 2026-11-23 · preprint
 - [[315ddf949f2521f8|Concurrent neuronal activity gates persistent dendritic spine shrinkage during mGluR-induced long-term depression]] · 2026-11-23 · preprint
 - [[0f1ce92dec34a011|Predicted templates improve the prediction of antibody-antigen structures by AlphaFold 3 and Boltz-2]] · 2026-11-23 · preprint
 - [[d25b7ab4280cbd5a|A structural grammar of truncation across the human homodimer landscape]] · 2026-11-22 · preprint
@@ -20,6 +26,7 @@ Protein design · 技术
 - [[3fb12e39e77cbb49|Proteome-scale inference of transcription factor binding motifs from predicted protein-DNA structures]] · 2026-11-19 · preprint
 - [[349dc653d29b759f|Zero-shot de novo design of a metalloenzyme.]] · 2026-11-19 · journal
 - [[2e1495fd368b8c20|AlphaInterp: Revealing how AlphaFold 3 processes structure, confidence, and evolutionary information.]] · 2026-11-19 · journal
+- [[1cab1a168aa18e08|Analysis of Protein Kinase Interactions in Leishmania mexicana Using CRISPR-Cas9 and Two-Component miniTurbo Proximity Labelling.]] · 2026-11-19 · journal
 - [[cb4d73f6b2a64a97|Enzymatic strategies for PET valorization: Advances in discovery, engineering, and cyanobacterial chassis development.]] · 2026-11-18 · journal
 - [[8cd26f52bdf9dbed|Sidetrak: a de novo-designed miniprotein targets the kinesin-1 coiled-coil stalk to inhibit MAP7 binding and disrupt mitochondrial transport]] · 2026-11-18 · preprint
 - [[7883cd5b341135e2|A Novel Nitric Oxide-Dependent "Molecular Switch" Mediates LTP in the Octopus vulgaris Brain through Persistent Activation of Nitric Oxide Synthase.]] · 2026-11-18 · journal
@@ -62,6 +69,7 @@ Protein design · 技术
 - [[31814f5f965b031d|How AlphaFold 3 helps with multiscale drug discovery]] · 2026-11-09 · preprint
 - [[dd40024382bd1ceb|pLM-bVAE: protein language model-enhanced binary representation improves quantum annealing-based protein sequence design]] · 2026-11-06 · preprint
 - [[e68d28a4a10f6e82|An educational activity tailored for undergraduate students on AI-driven nanobody design for targeted antiviral therapeutics.]] · 2026-11-05 · journal
+- [[4850a4d0f967a197|Engineering Prolyl 4-Hydroxylation for High-Performance Recombinant Collagen Production: From Molecular Design and Microbial Cell Factories to Industrial Translation.]] · 2026-11-05 · journal
 - [[c136e051fbb00b69|Massively parallel quantification and prediction of monomeric protein yield in Escherichia coli]] · 2026-11-04 · preprint
 - [[839d51be26867bb9|Functional analysis of small-molecule and protein binding domains using monomeric streptavidin-based two-component biosensors]] · 2026-11-04 · preprint
 - [[7cd5cc90ff8aac3c|Comprehensive mapping of essential-gene interactions in M. tuberculosis.]] · 2026-11-04 · journal
@@ -76,6 +84,7 @@ Protein design · 技术
 - [[8d09967958e3858d|Naturally Arising de Novo Open Reading Frames as Potential Zinc Chelators in Drosophila melanogaster.]] · 2026-11-01 · journal
 - [[24ccc864e41ad032|Design Trade-Offs between Target Binding and Self-Association Revealed by De Novo SARS-CoV-2 Binders.]] · 2026-11-01 · journal
 - [[1d669dd14c2a63a5|MONDE·T: A database and interactive webserver for non-standard amino acids and peptide components in the PDB.]] · 2026-11-01 · journal
+- [[1602a0c596904ad9|Porphyrin-Driven Redox Tuning in Structurally Defined De Novo Heme Proteins.]] · 2026-11-01 · journal
 - [[f414604eac43e69d|LPT: Orchestrating bounded agentic loops for automated protein binder design]] · 2026-10-30 · preprint
 - [[79285961bf946c17|Principal Scientist, Target Binding]] · 2026-10-29 · job
 - [[b933804b58ca7110|Iterative Refinement for Structural Optimization of De Novo Protein Sequences]] · 2026-10-28 · preprint

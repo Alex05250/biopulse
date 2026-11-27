@@ -1,0 +1,13 @@
+# COQ4 and COQ8A Primary Deficiencies: A Review of Proposed Therapeutic Strategies.
+
+- 原站日期：2026-11-11（published）
+- 类型：journal
+- 首次收录：2026-11-27T16:41:08+08:00
+- 来源：[PubMed · 基因编辑](https://doi.org/10.3390/ijms272210106)
+- 记录 ID：4beed894f71ecbc3
+
+题录索引 · International journal of molecular sciences。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。
+
+## 关联节点（仅提及，不代表因果）
+
+[[细胞与基因治疗]] [[基因编辑]]

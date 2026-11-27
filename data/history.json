@@ -20243,5 +20243,1812 @@
         "after": "NO_LONGER_LISTED"
       }
     }
+  },
+  {
+    "item_id": "cc5765519049f6c9",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "71811c5a1f372baf",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c46dfc0403e228d5",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "2cddbb7d1baf58c0",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c6f1f6cd3d7c39e1",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d173a995c67f4232",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "31de43639709238a",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0c9c3c1432b22c15",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c95b1e6abaaa1d19",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e6b383e17d2267f4",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "576861d9d5f2fa80",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "title": {
+        "before": "Engineered Extracellular Vesicles (EVs) as Carriers for CRISPR/Cas9 Therapeutics: Recent Advances in Cargo Loading and Targeted Delivery.",
+        "after": "Engineered extracellular vesicles (EVs) as carriers for CRISPR/Cas9 therapeutics: recent advances in cargo loading and targeted delivery."
+      },
+      "date": {
+        "before": "2026-11-18",
+        "after": "2026-11-26"
+      }
+    }
+  },
+  {
+    "item_id": "1771c7ab6ba7531b",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-17",
+        "after": "2026-11-26"
+      }
+    }
+  },
+  {
+    "item_id": "e9cffd8f644d7846",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-05",
+        "after": "2026-11-26"
+      }
+    }
+  },
+  {
+    "item_id": "8f670c05dfea2d16",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-04",
+        "after": "2026-11-26"
+      }
+    }
+  },
+  {
+    "item_id": "5f2eff36cfc1586e",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-30",
+        "after": "2026-11-26"
+      }
+    }
+  },
+  {
+    "item_id": "82e4423855731c9f",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "494e4f1698e05276",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "521539ead34e7044",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "87d4e3476825fad8",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "eba05ff00685f5f8",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b25efc7064f77ca2",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "50caecb1c0627cd2",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b68a362e9b3dcec6",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1a3e22419a524934",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "6a723c0077b5f997",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4654218335b00eb3",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "58af9433a17ff227",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4cfaacc0f589d9bf",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "126f5a6aaac8a24a",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "18e9c8069acc036f",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7018eba6a716bd8c",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "66071bae02f90af5",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "000b6c3f3c22fd11",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "fc4f9c9c65d8c215",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "11e023d536aac149",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f816b034d55b1a7d",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f24005db98c5f3db",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e6b3a5d5fa5da7f6",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "288e19dc5f9ca2e4",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "09e1cdaaefa5a9e7",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "bbf1c63e9391b754",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "01da6a388f74d9f3",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "474024742c583e9c",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e2e2240dc41b4648",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ee38a3b4a4ef9c3a",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "883efabf8d30e8e0",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "774684622d5a1dbd",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b045d3cece4b7c42",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b567dfd9f8b72f98",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1e43da1220406f41",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4031670e0a72e19f",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f57be24d549d8186",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c3573ba804627ea0",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4d5988bbafe1097f",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e52ee5f77d2436bc",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8ad0585b943344e5",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "af986f436b3f4e77",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c2e5292c05c263d7",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e0f23020a7caf5f0",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1f117ef34209c890",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f80ae284f8e56825",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "df25e59e976017f5",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ef2853bff2a5cf27",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8938713503cc7add",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "db7703334750e922",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "2e165f22fde19be3",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d114a7e3a9f780e4",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "27fbfa612f686fdd",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "32826985a14f165a",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "bbb83bf744b687ae",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a74ae06ced0ebf56",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "01a9db0aa8b7c0a0",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4a6808d8a78389a5",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "6d8ea8c6cafe7ca3",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5306130ac966cc96",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "733778217b5d18b7",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d0610643fc3a3ef4",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "6a76675da3b52c86",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e9135b710ec9c858",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "473c7c5184002fb4",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "33525ea44523d569",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8056c4559580a086",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "bfcad65d7d8b0a58",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ecc2dcc20e6cc2c3",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "53758fff790c1dcc",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "367190ef97c1f21e",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e66ba44b4eef8f8a",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "472410b52de3fb77",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "dd9c50cf7aac7d17",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "294f92ea2774f193",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f1da2782f93d83ba",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "3fc9720531d6bcfe",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-03",
+        "after": "2026-11-23"
+      }
+    }
+  },
+  {
+    "item_id": "ca5ff81840f37094",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ae6622212891dcb7",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "dea1e61e5f7c0f70",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "aac85511bccc9b44",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d0c1370a9bff32de",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "149756d5d6bbf964",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "db0be2ded12a8a9f",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8ea4a1d72f7dbc8a",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b7d9001ac9f8169d",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-20",
+        "after": "2026-11-21"
+      }
+    }
+  },
+  {
+    "item_id": "89de4cdb7c6d01b4",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c5aa3b81e5d370d9",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5a7dc4b89d5b7acc",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "bc830c591fcf54ea",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "79f9eb2bd5e95162",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a25e42fb2c744240",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e65877c8f994dc52",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "685b8a0e215e54da",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "title": {
+        "before": "Antibody-Fcγ receptor-driven NOX2 activation during phagocytosis of tumor cells is suppressed by CD47, preventing CD8 T cell engagement and immunotherapeutic responses.",
+        "after": "Antibody-Fcγ receptor-driven NOX2 activation during phagocytosis of tumor cells is suppressed by CD47, preventing CD8 T cell engagement and immunotherapeutic responses"
+      }
+    }
+  },
+  {
+    "item_id": "1cab1a168aa18e08",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "46e3b3d6082eeb72",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b02d3c93a92b3e1d",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "fd60beec066c4cc0",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "37033748cd5e85dd",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "997c866786075107",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "6987f35ce16147dd",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "9797a3a48289de29",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8fe064fbcdf20b46",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "184b02240c972097",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "title": {
+        "before": "A Transgenic Pig Model for human Metabolic Disorders Defines the relationship between the colon pathological phenotype of metabolic disease, the microbiota and the intestinal barrier.",
+        "after": "A transgenic pig model for human metabolic disorders defines the relationship between the colon pathological phenotype of metabolic disease, the microbiota and the intestinal barrier."
+      }
+    }
+  },
+  {
+    "item_id": "bca8dd6f4515a0a6",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "summary": {
+        "before": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。"
+      },
+      "version": {
+        "before": "1",
+        "after": null
+      },
+      "published_doi": {
+        "before": "",
+        "after": null
+      }
+    }
+  },
+  {
+    "item_id": "882c314e34b8a30d",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "summary": {
+        "before": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。"
+      },
+      "version": {
+        "before": "1",
+        "after": null
+      },
+      "published_doi": {
+        "before": "",
+        "after": null
+      }
+    }
+  },
+  {
+    "item_id": "f8e997a8db838f51",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "3f418fb5bd02403a",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "248ceb0ad12f3ef5",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1fbe07ffb9302b46",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "title": {
+        "before": "Functional Loss of Invasion Quantified in a CRISPR Knockout Hydrogel Model.",
+        "after": "Functional loss of invasion quantified in a CRISPR knockout hydrogel model."
+      }
+    }
+  },
+  {
+    "item_id": "169a1c156559744e",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "title": {
+        "before": "Targeting Folate Receptor Reverses Colorectal Cancer’s Resistance to Immunotherapy in Mice",
+        "after": "Targeting cancer immune evasion with anti-FOLR1 antibody-drug conjugate potentiates anti-PD-1 efficacy in colorectal cancer."
+      },
+      "date": {
+        "before": "2026-11-19",
+        "after": "2026-11-18"
+      },
+      "kind": {
+        "before": "news",
+        "after": "journal"
+      },
+      "summary": {
+        "before": "媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。",
+        "after": "题录索引 · Science translational medicine。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。"
+      }
+    }
+  },
+  {
+    "item_id": "01697c08c6fe51a5",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "94eb67313aa1fb7a",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "78ffb21e37d0ccdf",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "title": {
+        "before": "CRISPR Screening Reveals How Genetic Variants Drive Neurodegenerative Risk",
+        "after": "Integrated QTL mapping and CRISPR screening in pooled iPSC-derived microglia reveals genetic drivers of neurodegenerative risk."
+      },
+      "date": {
+        "before": "2026-11-19",
+        "after": "2026-11-17"
+      },
+      "kind": {
+        "before": "news",
+        "after": "journal"
+      },
+      "summary": {
+        "before": "媒体报道索引 · 只保留公开标题与来源；重大数据应进一步核验企业、监管或论文原文。",
+        "after": "题录索引 · Nature genetics。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。"
+      }
+    }
+  },
+  {
+    "item_id": "f2bb4e304c7e9806",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "summary": {
+        "before": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。"
+      },
+      "version": {
+        "before": "1",
+        "after": null
+      },
+      "published_doi": {
+        "before": "",
+        "after": null
+      }
+    }
+  },
+  {
+    "item_id": "2436d948557071fc",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-16",
+        "after": "2026-11-17"
+      }
+    }
+  },
+  {
+    "item_id": "7561c32c4e2b0819",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "9a6b01d40c7d03a1",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "68166b4f4e880110",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "93c7409839f5e264",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "50e773cd72246d5d",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1a500509c76d54ad",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "663915d8c51932cf",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "6c735e76f9efc7f6",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5194e6ada13c5d15",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "64b8382b777a9808",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "65d863e2faa14037",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b8b365e6471d2df7",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ef95db68009aca80",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "2e88169da56827a6",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7d17a4039f969268",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "72e3de6417e5c3cc",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "08b944d0ff5ec726",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a5522db56127619b",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a5d7038ea4426aea",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4beed894f71ecbc3",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "fb3a68b281e37a15",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f49e366275b8d63a",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "16251c7488be8731",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a4ba81fe160de7bf",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "214e36fb92a5472e",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1340ac80d80ee013",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5750b1b04060e090",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1b50b3dc52fa5ce0",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "42fca83d910502ae",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7f708228b82188b4",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c65458b37a234a04",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "9fc6379f5de7bd1c",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "title": {
+        "before": "Chromatin and transcriptional dynamics associated with seasonal growth across a latitudinal Cline in birch.",
+        "after": "Chromatin and transcriptional dynamics associated with seasonal growth across a latitudinal cline in birch."
+      }
+    }
+  },
+  {
+    "item_id": "6f603150130142c5",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c8b8435e6aa632bf",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5d0f24ac08f75616",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "46ad2cbcb37124f7",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0c305675a8906809",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7e38421e7549bd90",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "3024fc96c2886dc1",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "39091e98b7c271a2",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5338545a9be8c1a0",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8bfaccefab1ab85d",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "62ce30385de5e003",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "aa27a6c27ef8f9a4",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "675315a3500a8b0d",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b4c4c24c8289d476",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f67eae53997ccf03",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "9e0a44d943a72f14",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7344b1683e10c278",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "68b20121e69d2162",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "03932bd02125fb44",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0a535817e58e63c6",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f2598241e3187ff5",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0941063e27c9ce0b",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c909d8f6c8b0b885",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ea079dc957ff8a52",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "88b754c0a6698ac8",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "56cdf6601382c2f3",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4cac829ad0e22f45",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "eb5f592af6e11355",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "26c1bb4a5eea98fd",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "136da0f7d86ba5b0",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "18610a25c1db7aab",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "822909d232cfdbf5",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4c80f2b9250dff6c",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "73e104bbac706a3b",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7c3836a7c9d6fedd",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a4aa762a20844697",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1881f1b4e3ac8776",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5268591f484f038c",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a409edb258e6386c",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "92dc9f0b49337c07",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "222c90c89b572530",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "3222c0f0226fd0c8",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5fc7e09ae082592a",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "30239c853a3c413d",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-21",
+        "after": "2026-11-01"
+      }
+    }
+  },
+  {
+    "item_id": "1c196549b0ded15e",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "37a17c0140bd59ad",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0df7b41f21bd544f",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "bd7ebccb2a1ba756",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "71fa6ab11c23c1e0",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "89a64426e3466e92",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4850a4d0f967a197",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1602a0c596904ad9",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "cce975a5c32a979d",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "fea08e9b1cb31fa1",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1d18db5642886d57",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-10",
+        "after": "2026-11-26"
+      }
+    }
+  },
+  {
+    "item_id": "1599570d9e12566f",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ed648fede1a59ec2",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "70e1b3d74b1279f5",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "37c8825f0ba4e1b5",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "232dfe81cafd3c5f",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f0af55da017b1bd5",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ee8df1aeca6f3cb3",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "65ba114eae56a6bc",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "19a3964576c998de",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "cbf5e8d8968b9a04",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "19aebe9cc51644b9",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0b05c763092eedc6",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "fed5eca5eac8223a",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "6b28d05d04ed1231",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "25e9526f164efc4c",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "de9799cde28b1c12",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d2e4201f5c200a8c",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "9335c4b1321c890f",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "52b3734473394520",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "87f700e3fd36cad2",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "9efb9bdfd2d84083",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "bd6e1507b68fd107",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a35fe94018b9f962",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "10d42b9f3d68f8ec",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "331175efef4cc1a2",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d3ded5df581bdcb0",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "9874c536591f57fe",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "2f4bf2f4c04514df",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "756f4c1791a03ef8",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "2150db68fa27f564",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "79c21a2dfa688631",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e3828caa7fb71a75",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1a236bbc55f0a0b8",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7b950e6b08da1706",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "2ea0cb6267a4b977",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7c8e13500d19136c",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c9e5f041e2181658",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "bfa8556f970de0aa",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "556137bd49398bbc",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b40efc6a80bda5b0",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "91c7fcd8180ece47",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1d6b84d62959df0f",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "37bdc82ecb817f6e",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "28acfd44fc7e7e02",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "2bcb3bf3690d3098",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "cf223b9c9dc37652",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a6cc256ae693aa31",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c805d587f04922d7",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e3a7d85135e75dae",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "eb138e4c7431e731",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7a4a5744e20c8eb0",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ddaa35d39e16e458",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1350ebe50abc0f2e",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "275fb3a2da795954",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8992bb2f93de9dcb",
+    "type": "new",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "799434930c95b57f",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "status": {
+        "before": "LISTED",
+        "after": "NO_LONGER_LISTED"
+      }
+    }
+  },
+  {
+    "item_id": "25cba8b15076cdfb",
+    "type": "updated",
+    "at": "2026-11-27T16:41:08+08:00",
+    "fields": {
+      "status": {
+        "before": "LISTED",
+        "after": "NO_LONGER_LISTED"
+      }
+    }
   }
 ]
