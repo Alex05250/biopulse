@@ -8,9 +8,11 @@ RNA therapeutics · 技术
 
 [[基因编辑]] [[AI 蛋白质设计]] [[细胞与基因治疗]] [[脑机接口]] [[合成生物学]] [[递送系统]] [[ADC 与多抗]] [[CD19]] [[Generate Biomedicines]] [[监管与政策]]
 
-## 相关情报 / 129 条
+## 相关情报 / 131 条
 
+- [[aee15ec5ec66d041|Molecular mechanisms of non‑coding RNAs in atherosclerosis and prospects for therapeutic applications (Review).]] · 2026-11-27 · journal
 - [[576861d9d5f2fa80|Engineered extracellular vesicles (EVs) as carriers for CRISPR/Cas9 therapeutics: recent advances in cargo loading and targeted delivery.]] · 2026-11-26 · journal
+- [[0855c723dbbe0824|EvoSeq: A Eukaryotic Sequence-Function Profiling Platform for AI-Guided Engineering of Genome-Editing Enzymes.]] · 2026-11-26 · journal
 - [[ee38a3b4a4ef9c3a|DNA methylation-dependent CDX1 enrichment at PVT1 exon 9 associated promoter drives overexpression of PVT1 exon 9 in aggressive prostate cancer.]] · 2026-11-25 · journal
 - [[ed648fede1a59ec2|Programmable nanomedicine for precision metabolic reprogramming: Integrating multi-omics, artificial intelligence, and RNA therapeutics in diabetes.]] · 2026-11-25 · journal
 - [[5993c3646a248c99|Genetically encoded RNA strand exchange circuits for programmable protein expression and information processing in cells]] · 2026-11-25 · preprint
@@ -59,7 +61,7 @@ RNA therapeutics · 技术
 - [[8ddb72d74fe8aaf2|CasPER reduces mutagenic repair during targeted transgene integration in human immune cells]] · 2026-11-11 · preprint
 - [[bd266c560419def2|Engineered Saccharomyces cerevisiae -fermented soybean meal biofortified with astaxanthin enhances nutritional value and functionality in largemouth bass feed.]] · 2026-11-10 · journal
 - [[69a291edfe2eb24e|Lipid nanoparticle-mediated RNA delivery enables protein expression in chicken testes.]] · 2026-11-10 · journal
-- [[689ea4a41e89e94f|CRISPR, mRNA, and Beyond: Nucleic Acid Therapeutics in Allergy and Immunology.]] · 2026-11-10 · journal
+- [[689ea4a41e89e94f|Clustered regularly interspaced short palindromic repeats (CRISPR), messenger RNA (mRNA), and beyond.]] · 2026-11-10 · journal
 - [[4315a08826d7122f|Cytokine networks in the tumor microenvironment: nanotherapeutic modulation of immune-cell communication and signaling networks.]] · 2026-11-10 · journal
 - [[8da393ab1bb1a4db|PEEK: integrated primer design for silent-mutation and restriction-site engineering, validated in silico and by whole-plasmid sequencing]] · 2026-11-09 · preprint
 - [[4fe454917271573d|Accelerating discovery and integration from RNA to Protein with R2T2P]] · 2026-11-09 · preprint

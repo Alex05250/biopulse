@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:41:08+08:00",
+  "generated_at": "2026-11-28T15:54:34+08:00",
   "semantics": "mention-only; not causal, partnership or maturity evidence",
   "nodes": [
     {
@@ -16,7 +16,7 @@
         "先导编辑"
       ],
       "note": "关注编辑精度、递送方式、脱靶及长期随访。体外结果不能直接外推到临床。",
-      "count": 1331
+      "count": 1363
     },
     {
       "id": "protein",
@@ -33,7 +33,7 @@
         "蛋白质设计"
       ],
       "note": "区分计算预测、湿实验验证与实际药物开发，优先跟踪可重复的功能测定。",
-      "count": 130
+      "count": 135
     },
     {
       "id": "cgt",
@@ -52,7 +52,7 @@
         "CGT"
       ],
       "note": "同时追踪产品、适应症、临床分期、生产工艺和监管；试验登记不是获批。",
-      "count": 521
+      "count": 529
     },
     {
       "id": "bci",
@@ -68,7 +68,7 @@
         "脑机接口"
       ],
       "note": "区分侵入式与非侵入式，留意受试者数量、长期稳定性与真实功能终点。",
-      "count": 203
+      "count": 204
     },
     {
       "id": "synbio",
@@ -85,7 +85,7 @@
         "生物制造"
       ],
       "note": "从实验室产率追到中试、规模化成本和供需，不把产能规划等同于实际产量。",
-      "count": 395
+      "count": 416
     },
     {
       "id": "delivery",
@@ -101,7 +101,7 @@
         "脂质纳米"
       ],
       "note": "关注组织靶向、免疫原性、剂量与可制造性；递送成功并不等于临床获益。",
-      "count": 65
+      "count": 67
     },
     {
       "id": "rna",
@@ -117,7 +117,7 @@
         "小核酸"
       ],
       "note": "追踪序列设计、递送与安全性，并区分疫苗和治疗性应用。",
-      "count": 129
+      "count": 131
     },
     {
       "id": "adc",
@@ -172,7 +172,7 @@
         "CD-19"
       ],
       "note": "按细胞产品与适应症连接研究和临床登记，不自动推断同靶点产品可比。",
-      "count": 89
+      "count": 92
     },
     {
       "id": "in-vivo",
@@ -186,7 +186,7 @@
         "体内 CAR"
       ],
       "note": "关注体内生成的证据、细胞选择性、可控性与随访数据。",
-      "count": 9
+      "count": 11
     },
     {
       "id": "generate",
@@ -228,7 +228,7 @@
         "审评"
       ],
       "note": "区分征求意见稿、正式文件与实施日期；指导原则发布不意味着任何具体产品已获批。",
-      "count": 490
+      "count": 508
     },
     {
       "id": "career",
@@ -250,8 +250,193 @@
   ],
   "edges": [
     {
+      "source": "regulation",
+      "target": "663ccf46033e3dc7",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "ee85061b27c5a99e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "dbdfe74b595504b1",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "cdc2036bb9f658bf",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "c6ee83657775d5d1",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "aee15ec5ec66d041",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "aee15ec5ec66d041",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "rna",
+      "target": "aee15ec5ec66d041",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "bci",
+      "target": "ae1a66ed12951d88",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cd19",
+      "target": "aa492cf8e0ed37e6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "aa492cf8e0ed37e6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "in-vivo",
+      "target": "aa492cf8e0ed37e6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "a775bf3eff8a9d3b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cd19",
+      "target": "97388b7c3a31de98",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "97388b7c3a31de98",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cd19",
+      "target": "8fd2082761a8f12c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "8fd2082761a8f12c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "850398ce2ebd1a0c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "850398ce2ebd1a0c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "7ddd60782c4c9003",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "7c58e27a558d6365",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "7c58e27a558d6365",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "7a0b52e7c5a9f557",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cd19",
+      "target": "7765fbf52b242329",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "7765fbf52b242329",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "in-vivo",
+      "target": "7765fbf52b242329",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "6a53a4cec591f7cb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "6a53a4cec591f7cb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "4dc2259f1d1d24b0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "4dba4b6505a9856f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "433496ab3f267733",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "2f218617146fa52d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "1df7ab2355cdfec5",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "183d15491c08b4fc",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "0c85d777e647a5a3",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "synbio",
       "target": "fea08e9b1cb31fa1",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "f7275b788a1272ba",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "f064aad23996642b",
       "relation": "mentioned_in"
     },
     {
@@ -260,8 +445,23 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "regulation",
+      "target": "e992506728e0dadf",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "e992506728e0dadf",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "editing",
       "target": "e6b383e17d2267f4",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "e4e7a0c3a55bf692",
       "relation": "mentioned_in"
     },
     {
@@ -281,12 +481,22 @@
     },
     {
       "source": "editing",
+      "target": "c9a183d3af6276c4",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
       "target": "c95b1e6abaaa1d19",
       "relation": "mentioned_in"
     },
     {
       "source": "editing",
       "target": "c6f1f6cd3d7c39e1",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "b6031507019f8cf3",
       "relation": "mentioned_in"
     },
     {
@@ -346,6 +556,11 @@
     },
     {
       "source": "editing",
+      "target": "67be5f6359094934",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
       "target": "5f2eff36cfc1586e",
       "relation": "mentioned_in"
     },
@@ -365,8 +580,33 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "protein",
+      "target": "3bd19da57b57791b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "33fb5387783a9ed6",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "33fb5387783a9ed6",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "synbio",
       "target": "331175efef4cc1a2",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "delivery",
+      "target": "3216511702a09eed",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "3216511702a09eed",
       "relation": "mentioned_in"
     },
     {
@@ -375,8 +615,23 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "editing",
+      "target": "23015938e0027a8d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "23015938e0027a8d",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "synbio",
       "target": "1d18db5642886d57",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "1b802b8ecbabdcfd",
       "relation": "mentioned_in"
     },
     {
@@ -392,6 +647,16 @@
     {
       "source": "regulation",
       "target": "1771c7ab6ba7531b",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "13a9bfb3f64040e4",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "13005d030805a3ff",
       "relation": "mentioned_in"
     },
     {
@@ -412,6 +677,26 @@
     {
       "source": "synbio",
       "target": "0c9c3c1432b22c15",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "delivery",
+      "target": "0855c723dbbe0824",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "0855c723dbbe0824",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "rna",
+      "target": "0855c723dbbe0824",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "0308bc6c57e5ad4f",
       "relation": "mentioned_in"
     },
     {
@@ -520,11 +805,6 @@
       "relation": "mentioned_in"
     },
     {
-      "source": "cgt",
-      "target": "c6ee83657775d5d1",
-      "relation": "mentioned_in"
-    },
-    {
       "source": "editing",
       "target": "c46dfc0403e228d5",
       "relation": "mentioned_in"
@@ -582,6 +862,11 @@
     {
       "source": "editing",
       "target": "b25efc7064f77ca2",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "b0cd7573aa1a9ca8",
       "relation": "mentioned_in"
     },
     {
@@ -865,11 +1150,6 @@
       "relation": "mentioned_in"
     },
     {
-      "source": "regulation",
-      "target": "0c85d777e647a5a3",
-      "relation": "mentioned_in"
-    },
-    {
       "source": "editing",
       "target": "09e1cdaaefa5a9e7",
       "relation": "mentioned_in"
@@ -1120,6 +1400,11 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "regulation",
+      "target": "8f9dd62acf0a9ea5",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "delivery",
       "target": "8cd1443eb66dc8c5",
       "relation": "mentioned_in"
@@ -1255,6 +1540,11 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "regulation",
+      "target": "24705231efa6da8e",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "cgt",
       "target": "23b77945968ff85e",
       "relation": "mentioned_in"
@@ -1290,6 +1580,11 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "regulation",
+      "target": "1df0e53abb6bf9b8",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "cgt",
       "target": "1b3f4133843228c3",
       "relation": "mentioned_in"
@@ -1297,6 +1592,16 @@
     {
       "source": "regulation",
       "target": "13ff1b3754f0ca28",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "0ff4a4e665dfb1fd",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "08bc4eaadf42ee21",
       "relation": "mentioned_in"
     },
     {
@@ -1427,11 +1732,6 @@
     {
       "source": "editing",
       "target": "d0610643fc3a3ef4",
-      "relation": "mentioned_in"
-    },
-    {
-      "source": "cgt",
-      "target": "cdc2036bb9f658bf",
       "relation": "mentioned_in"
     },
     {
@@ -1917,6 +2217,16 @@
     {
       "source": "cgt",
       "target": "eeab5afa66c14f64",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "cgt",
+      "target": "e73b9851d6fc6a91",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "e73b9851d6fc6a91",
       "relation": "mentioned_in"
     },
     {
@@ -3432,11 +3742,6 @@
     {
       "source": "regulation",
       "target": "aea132dec336f224",
-      "relation": "mentioned_in"
-    },
-    {
-      "source": "bci",
-      "target": "ae1a66ed12951d88",
       "relation": "mentioned_in"
     },
     {
@@ -5425,6 +5730,11 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "editing",
+      "target": "b658100163cd7e29",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "cgt",
       "target": "b455256dc77e2591",
       "relation": "mentioned_in"
@@ -5522,6 +5832,11 @@
     {
       "source": "cgt",
       "target": "76913751ecc35483",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "754528a7267ff84f",
       "relation": "mentioned_in"
     },
     {
@@ -5666,6 +5981,16 @@
     },
     {
       "source": "editing",
+      "target": "373bcc62a5cbcadb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "373bcc62a5cbcadb",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
       "target": "36cf7adb9be4046c",
       "relation": "mentioned_in"
     },
@@ -5752,6 +6077,11 @@
     {
       "source": "cgt",
       "target": "12b8db757b3c68a3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "0b97f256d1a42722",
       "relation": "mentioned_in"
     },
     {
@@ -9081,11 +9411,6 @@
     },
     {
       "source": "editing",
-      "target": "bd7f3c85168f28f4",
-      "relation": "mentioned_in"
-    },
-    {
-      "source": "editing",
       "target": "bd1521bd5f440da9",
       "relation": "mentioned_in"
     },
@@ -10500,6 +10825,11 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "synbio",
+      "target": "f54f23cabae2695b",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "editing",
       "target": "f4c65143ce5fc1d6",
       "relation": "mentioned_in"
@@ -10585,6 +10915,11 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "synbio",
+      "target": "e7be7f8016553813",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "editing",
       "target": "e75deaff963d810d",
       "relation": "mentioned_in"
@@ -10665,6 +11000,16 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "regulation",
+      "target": "d27eb17c810c2557",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "d27eb17c810c2557",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "editing",
       "target": "d26a17a298f3ea9d",
       "relation": "mentioned_in"
@@ -10672,6 +11017,11 @@
     {
       "source": "synbio",
       "target": "cfb9adf1787e8097",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "ccb9d3b70f02be45",
       "relation": "mentioned_in"
     },
     {
@@ -10745,8 +11095,23 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "synbio",
+      "target": "c0f4d614608fa41c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "bfa2c0182a985390",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "editing",
       "target": "bee2ac6863c19d1e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "bd7f3c85168f28f4",
       "relation": "mentioned_in"
     },
     {
@@ -10757,6 +11122,16 @@
     {
       "source": "regulation",
       "target": "bd6e1507b68fd107",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "bc532ac868584ee5",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "bc532ac868584ee5",
       "relation": "mentioned_in"
     },
     {
@@ -10772,6 +11147,26 @@
     {
       "source": "synbio",
       "target": "bac32ef1119d3d41",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "ba32bcf58967e288",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "b9e25e4839f67587",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "regulation",
+      "target": "b9e25e4839f67587",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "b9e25e4839f67587",
       "relation": "mentioned_in"
     },
     {
@@ -10835,8 +11230,23 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "regulation",
+      "target": "af3d97ad91621221",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "af3d97ad91621221",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "editing",
       "target": "af3a6cc1499862bc",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "adea4f051bee2bb5",
       "relation": "mentioned_in"
     },
     {
@@ -10870,6 +11280,16 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "regulation",
+      "target": "a69b32b1579f24b4",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "a69b32b1579f24b4",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "synbio",
       "target": "a5f071fb1210e971",
       "relation": "mentioned_in"
@@ -10897,6 +11317,11 @@
     {
       "source": "regulation",
       "target": "a0fc8b62b19c0b7f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "9f3cbc956a32549d",
       "relation": "mentioned_in"
     },
     {
@@ -11080,8 +11505,33 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "regulation",
+      "target": "84a4c3c719fc344d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "84a4c3c719fc344d",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "82d6fa2a7475293c",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "82d6fa2a7475293c",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "editing",
       "target": "822909d232cfdbf5",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "7e733bc2892a3d4b",
       "relation": "mentioned_in"
     },
     {
@@ -11122,6 +11572,16 @@
     {
       "source": "synbio",
       "target": "7b0e408f90bafcd3",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "7ae1f7fda6f0002f",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "7ae1f7fda6f0002f",
       "relation": "mentioned_in"
     },
     {
@@ -11181,6 +11641,11 @@
     },
     {
       "source": "editing",
+      "target": "72ff2cbd4360bea4",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
       "target": "71b5cc8f1f77dc6e",
       "relation": "mentioned_in"
     },
@@ -11192,6 +11657,11 @@
     {
       "source": "editing",
       "target": "702b656a1ba310f1",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "6ce28e824efe912c",
       "relation": "mentioned_in"
     },
     {
@@ -11222,6 +11692,11 @@
     {
       "source": "synbio",
       "target": "674313218a483390",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "66c14389df418fcc",
       "relation": "mentioned_in"
     },
     {
@@ -11346,6 +11821,11 @@
     },
     {
       "source": "editing",
+      "target": "4e96dd7827d0bad0",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
       "target": "4e39115b540cfaef",
       "relation": "mentioned_in"
     },
@@ -11401,6 +11881,16 @@
     },
     {
       "source": "editing",
+      "target": "4517225dab3f2f76",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "415a6b459d9a3a5e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
       "target": "3e99afbae978fab8",
       "relation": "mentioned_in"
     },
@@ -11450,6 +11940,16 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "regulation",
+      "target": "3593499eef3f6208",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "3593499eef3f6208",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "bci",
       "target": "33b799856d544bf6",
       "relation": "mentioned_in"
@@ -11462,6 +11962,11 @@
     {
       "source": "editing",
       "target": "3222c0f0226fd0c8",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
+      "target": "31acdbb4ecc89361",
       "relation": "mentioned_in"
     },
     {
@@ -11510,8 +12015,28 @@
       "relation": "mentioned_in"
     },
     {
+      "source": "protein",
+      "target": "26fa5b1f5ea0003e",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "26fa5b1f5ea0003e",
+      "relation": "mentioned_in"
+    },
+    {
       "source": "editing",
       "target": "26c1bb4a5eea98fd",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "protein",
+      "target": "26b43c34f237de99",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "26b43c34f237de99",
       "relation": "mentioned_in"
     },
     {
@@ -11596,6 +12121,11 @@
     },
     {
       "source": "editing",
+      "target": "142f1f346c51b844",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "editing",
       "target": "136da0f7d86ba5b0",
       "relation": "mentioned_in"
     },
@@ -11647,6 +12177,11 @@
     {
       "source": "editing",
       "target": "03932bd02125fb44",
+      "relation": "mentioned_in"
+    },
+    {
+      "source": "synbio",
+      "target": "007bbd9838dae1ea",
       "relation": "mentioned_in"
     },
     {
@@ -12062,11 +12597,6 @@
     {
       "source": "cgt",
       "target": "68eed5b884d92079",
-      "relation": "mentioned_in"
-    },
-    {
-      "source": "editing",
-      "target": "66c14389df418fcc",
       "relation": "mentioned_in"
     },
     {
@@ -14001,11 +14531,6 @@
     },
     {
       "source": "editing",
-      "target": "142f1f346c51b844",
-      "relation": "mentioned_in"
-    },
-    {
-      "source": "editing",
       "target": "0240aa38b81a2032",
       "relation": "mentioned_in"
     },
@@ -14926,21 +15451,6 @@
     },
     {
       "source": "editing",
-      "target": "b9e25e4839f67587",
-      "relation": "mentioned_in"
-    },
-    {
-      "source": "regulation",
-      "target": "b9e25e4839f67587",
-      "relation": "mentioned_in"
-    },
-    {
-      "source": "synbio",
-      "target": "b9e25e4839f67587",
-      "relation": "mentioned_in"
-    },
-    {
-      "source": "editing",
       "target": "b322beb4aa9f699b",
       "relation": "mentioned_in"
     },
@@ -15092,11 +15602,6 @@
     {
       "source": "regulation",
       "target": "75a959dd8823cb77",
-      "relation": "mentioned_in"
-    },
-    {
-      "source": "editing",
-      "target": "72ff2cbd4360bea4",
       "relation": "mentioned_in"
     },
     {
@@ -15635,11 +16140,6 @@
       "relation": "mentioned_in"
     },
     {
-      "source": "editing",
-      "target": "bfa2c0182a985390",
-      "relation": "mentioned_in"
-    },
-    {
       "source": "synbio",
       "target": "b70ced5b0f275264",
       "relation": "mentioned_in"
@@ -15767,11 +16267,6 @@
     {
       "source": "editing",
       "target": "4aa099ab0dd6455e",
-      "relation": "mentioned_in"
-    },
-    {
-      "source": "editing",
-      "target": "4517225dab3f2f76",
       "relation": "mentioned_in"
     },
     {
@@ -16242,16 +16737,6 @@
     {
       "source": "cgt",
       "target": "93f933f6b561c28b",
-      "relation": "mentioned_in"
-    },
-    {
-      "source": "cd19",
-      "target": "8fd2082761a8f12c",
-      "relation": "mentioned_in"
-    },
-    {
-      "source": "cgt",
-      "target": "8fd2082761a8f12c",
       "relation": "mentioned_in"
     },
     {
@@ -16852,16 +17337,6 @@
     {
       "source": "cgt",
       "target": "7c3ed51d0f0a2153",
-      "relation": "mentioned_in"
-    },
-    {
-      "source": "editing",
-      "target": "7ae1f7fda6f0002f",
-      "relation": "mentioned_in"
-    },
-    {
-      "source": "protein",
-      "target": "7ae1f7fda6f0002f",
       "relation": "mentioned_in"
     },
     {
@@ -17577,11 +18052,6 @@
     {
       "source": "editing",
       "target": "f3f3cdfdc440c6d2",
-      "relation": "mentioned_in"
-    },
-    {
-      "source": "cgt",
-      "target": "ee85061b27c5a99e",
       "relation": "mentioned_in"
     },
     {

@@ -22050,5 +22050,839 @@
         "after": "NO_LONGER_LISTED"
       }
     }
+  },
+  {
+    "item_id": "d93b94efacc66984",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4dba4b6505a9856f",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1df7ab2355cdfec5",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7a0b52e7c5a9f557",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "2f218617146fa52d",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "433496ab3f267733",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "6a53a4cec591f7cb",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7c58e27a558d6365",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "850398ce2ebd1a0c",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "aee15ec5ec66d041",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "3216511702a09eed",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b6031507019f8cf3",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f064aad23996642b",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "23015938e0027a8d",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "67be5f6359094934",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c9a183d3af6276c4",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0308bc6c57e5ad4f",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "13a9bfb3f64040e4",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f7275b788a1272ba",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b0cd7573aa1a9ca8",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "774684622d5a1dbd",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "title": {
+        "before": "Bulk RNA-seq data of an Adherent-Invasive Escherichia coli Strain ZVL and Its exuR-Knockout Mutant",
+        "after": "Bulk RNA-seq data of an Adherent-Invasive Escherichia coli Strain ZVL and Its exuR -Knockout Mutant"
+      }
+    }
+  },
+  {
+    "item_id": "e0f23020a7caf5f0",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "summary": {
+        "before": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。",
+        "after": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。"
+      },
+      "version": {
+        "before": null,
+        "after": "1"
+      },
+      "published_doi": {
+        "before": null,
+        "after": ""
+      }
+    }
+  },
+  {
+    "item_id": "f80ae284f8e56825",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "title": {
+        "before": "Functional interrogation of osteoarthritis-associated regulatory variants and effector genes.",
+        "after": "Functional interrogation of osteoarthritis-associated regulatory variants and effector genes"
+      }
+    }
+  },
+  {
+    "item_id": "e73b9851d6fc6a91",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "5e8f52dfbe1e7bbf",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "summary": {
+        "before": "未经同行评议 · bioRxiv bioinformatics，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。"
+      },
+      "version": {
+        "before": "1",
+        "after": null
+      },
+      "published_doi": {
+        "before": "",
+        "after": null
+      }
+    }
+  },
+  {
+    "item_id": "1a0c95dda168823a",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "summary": {
+        "before": "未经同行评议 · bioRxiv synthetic biology，版本 1。仅作研究线索，不能据此认定疗效或安全性。",
+        "after": "题录索引 · 学术文献。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。"
+      },
+      "version": {
+        "before": "1",
+        "after": null
+      },
+      "published_doi": {
+        "before": "",
+        "after": null
+      }
+    }
+  },
+  {
+    "item_id": "373bcc62a5cbcadb",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0b97f256d1a42722",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b658100163cd7e29",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "754528a7267ff84f",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "689ea4a41e89e94f",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "title": {
+        "before": "CRISPR, mRNA, and Beyond: Nucleic Acid Therapeutics in Allergy and Immunology.",
+        "after": "Clustered regularly interspaced short palindromic repeats (CRISPR), messenger RNA (mRNA), and beyond."
+      }
+    }
+  },
+  {
+    "item_id": "9f3cbc956a32549d",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "82d6fa2a7475293c",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "bc532ac868584ee5",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "bd7f3c85168f28f4",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-04",
+        "after": "2026-11-01"
+      }
+    }
+  },
+  {
+    "item_id": "66c14389df418fcc",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-30",
+        "after": "2026-11-01"
+      }
+    }
+  },
+  {
+    "item_id": "142f1f346c51b844",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-24",
+        "after": "2026-11-01"
+      }
+    }
+  },
+  {
+    "item_id": "b9e25e4839f67587",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-21",
+        "after": "2026-11-01"
+      }
+    }
+  },
+  {
+    "item_id": "72ff2cbd4360bea4",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-21",
+        "after": "2026-11-01"
+      }
+    }
+  },
+  {
+    "item_id": "4517225dab3f2f76",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-19",
+        "after": "2026-11-01"
+      }
+    }
+  },
+  {
+    "item_id": "bfa2c0182a985390",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-19",
+        "after": "2026-11-01"
+      }
+    }
+  },
+  {
+    "item_id": "7ae1f7fda6f0002f",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-15",
+        "after": "2026-11-01"
+      }
+    }
+  },
+  {
+    "item_id": "7e733bc2892a3d4b",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "4e96dd7827d0bad0",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "31acdbb4ecc89361",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "adea4f051bee2bb5",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ccb9d3b70f02be45",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0855c723dbbe0824",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "3bd19da57b57791b",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e4e7a0c3a55bf692",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "26fa5b1f5ea0003e",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "33fb5387783a9ed6",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e992506728e0dadf",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "13005d030805a3ff",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1b802b8ecbabdcfd",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c0f4d614608fa41c",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "84a4c3c719fc344d",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d27eb17c810c2557",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "af3d97ad91621221",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f54f23cabae2695b",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "007bbd9838dae1ea",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ba32bcf58967e288",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "415a6b459d9a3a5e",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "6ce28e824efe912c",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e7be7f8016553813",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a69b32b1579f24b4",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "26b43c34f237de99",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "3593499eef3f6208",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "dbdfe74b595504b1",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ae1a66ed12951d88",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-17",
+        "after": "2026-11-27"
+      }
+    }
+  },
+  {
+    "item_id": "cd96852ca44a11aa",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "064690709e396683",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "d531b64dc194c405",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0ff4a4e665dfb1fd",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "62f951df3afd758c",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "08bc4eaadf42ee21",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "98ca219acdea1c17",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "24705231efa6da8e",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "3bd7e44efb670ba1",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "32719d1df530ca88",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "490f5b1a7d6d3be9",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "89d3526f79efd06f",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "dd91ce979cf95095",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "59384533c12a36d5",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8f9dd62acf0a9ea5",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "25f911eb00a3bc25",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "fd1228a922b1d998",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "689d550e905cc206",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "1df0e53abb6bf9b8",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "b4eb87ec3e7017ed",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7a31e02f3fcfff18",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ba5c28255dbfffe6",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "47fea70c495b1360",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "52bfd81643c68756",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "532987be9a9d3f40",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "20ada5d4fea4cf37",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ad4442cf53831b4c",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "e1303a833e32044d",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "f52a74094ad84d48",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "183d15491c08b4fc",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "7765fbf52b242329",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "8fd2082761a8f12c",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-16",
+        "after": "2026-11-27"
+      }
+    }
+  },
+  {
+    "item_id": "7a3209218862bd3c",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-28",
+        "after": "2026-11-27"
+      }
+    }
+  },
+  {
+    "item_id": "4dc2259f1d1d24b0",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a61a3a68519faf6e",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-18",
+        "after": "2026-11-27"
+      }
+    }
+  },
+  {
+    "item_id": "aa492cf8e0ed37e6",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "a775bf3eff8a9d3b",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "c6ee83657775d5d1",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-25",
+        "after": "2026-11-27"
+      }
+    }
+  },
+  {
+    "item_id": "7ddd60782c4c9003",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "ee85061b27c5a99e",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-10-13",
+        "after": "2026-11-27"
+      }
+    }
+  },
+  {
+    "item_id": "fae2a90134b4e5b5",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "97388b7c3a31de98",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "cdc2036bb9f658bf",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "title": {
+        "before": "A Phase II Study to Evaluate the Safety and Efficacy of KH658 Gene Therapy in Patients With Diabetic Macular Edema (DME)",
+        "after": "Safety and Efficacy of KH658 Gene Therapy in Patients With Diabetic Macular Edema (DME)"
+      },
+      "date": {
+        "before": "2026-11-23",
+        "after": "2026-11-27"
+      }
+    }
+  },
+  {
+    "item_id": "663ccf46033e3dc7",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
+  },
+  {
+    "item_id": "0c85d777e647a5a3",
+    "type": "updated",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {
+      "date": {
+        "before": "2026-11-25",
+        "after": "2026-11-27"
+      }
+    }
+  },
+  {
+    "item_id": "81d3e831e1651dca",
+    "type": "new",
+    "at": "2026-11-28T15:54:34+08:00",
+    "fields": {}
   }
 ]

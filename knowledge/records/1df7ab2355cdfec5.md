@@ -1,0 +1,13 @@
+# Controlling CRISPR: a review of current anti-CRISPR technologies
+
+- 原站日期：2026-11-27（published）
+- 类型：journal
+- 首次收录：2026-11-28T15:54:34+08:00
+- 来源：[PubMed · 基因编辑](https://europepmc.org/article/PMC/PMC13809892)
+- 记录 ID：1df7ab2355cdfec5
+
+题录索引 · Frontiers in bioengineering and biotechnology。研究结论、实验条件与局限请阅读原文；本条尚未进行全文证据评估。
+
+## 关联节点（仅提及，不代表因果）
+
+[[基因编辑]]

@@ -8,8 +8,10 @@ In vivo CAR-T · 靶点与管线
 
 [[基因编辑]] [[细胞与基因治疗]] [[合成生物学]] [[递送系统]] [[ADC 与多抗]] [[CD19]] [[监管与政策]]
 
-## 相关情报 / 9 条
+## 相关情报 / 11 条
 
+- [[aa492cf8e0ed37e6|The CD19/CD20 Dual-Target in Vivo CAR-T Lentiviral Product in the Treatment of Relapsed/Refractory B-cell Malignancies]] · 2026-11-27 · trial
+- [[7765fbf52b242329|CD19/CD20 Dual-Target in Vivo CAR-T Lentiviral Product in the Treatment of Relapsed/Refractory B-cell Malignancies]] · 2026-11-27 · trial
 - [[157207fec89ac227|CD19 Sequential CD22 In Vivo CAR-T Cell Immunotherapy for Relapsed/Refractory B-Cell Acute Lymphoblastic Leukemia]] · 2026-11-10 · trial
 - [[a63ef243d8fda41d|The synthetic biology frontier: engineered oncolytic viruses and viral vectors for next-generation cancer therapy and gene delivery.]] · 2026-11-09 · journal
 - [[8d20aad00afac556|IASO206 in Patients With Relapsed/Refractory Multiple Myeloma]] · 2026-11-09 · trial

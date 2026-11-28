@@ -8,9 +8,12 @@ Protein design · 技术
 
 [[基因编辑]] [[细胞与基因治疗]] [[脑机接口]] [[合成生物学]] [[递送系统]] [[RNA 药物]] [[ADC 与多抗]] [[Generate Biomedicines]] [[监管与政策]] [[岗位与技能]]
 
-## 相关情报 / 130 条
+## 相关情报 / 135 条
 
+- [[e4e7a0c3a55bf692|Modeling Protein Evolution with Generative Models: From Extant Sequence Data to Evolutionary Dynamics.]] · 2026-11-26 · journal
 - [[89a64426e3466e92|From molecular dynamics to generative design: Engineering enzymes for predictive, programmable, and sustainable biocatalysis.]] · 2026-11-26 · journal
+- [[3bd19da57b57791b|Corrigendum to "Controlling cell architecture with protein design" [Curr Opin Cell Biol, 96 (2025): 102569].]] · 2026-11-26 · journal
+- [[0855c723dbbe0824|EvoSeq: A Eukaryotic Sequence-Function Profiling Platform for AI-Guided Engineering of Genome-Editing Enzymes.]] · 2026-11-26 · journal
 - [[de9799cde28b1c12|Task-aware conditional diffusion model for EMG artifact removal in single-channel EEG.]] · 2026-11-25 · journal
 - [[70e1b3d74b1279f5|D-Allulose Biomanufacturing: Enzyme Engineering, Whole-Cell Biocatalysis and Process Intensification.]] · 2026-11-25 · journal
 - [[708022b83c81df31|Cell-free identification of de novo designed minibinders as building blocks for targeted protein degraders]] · 2026-11-25 · preprint
@@ -82,6 +85,9 @@ Protein design · 技术
 - [[b95c67b986633d0b|Yeast Metabolic Engineering for Carotenoid Biosynthesis: Hosts, Pathways, Strategies, and Perspectives.]] · 2026-11-01 · journal
 - [[969bb16034c8e5a5|Redesigning photoprotection: nature-inspired and synthetic biology strategies to enhance crop productivity.]] · 2026-11-01 · journal
 - [[8d09967958e3858d|Naturally Arising de Novo Open Reading Frames as Potential Zinc Chelators in Drosophila melanogaster.]] · 2026-11-01 · journal
+- [[7ae1f7fda6f0002f|Cleavage Activity Adjustment of the CRISPR/Cas System for Enhanced Diagnostics.]] · 2026-11-01 · journal
+- [[26fa5b1f5ea0003e|[Advances in ProteinMPNN-driven protein engineering].]] · 2026-11-01 · journal
+- [[26b43c34f237de99|[Intelligent enzyme engineering paradigm evolution and future toolkits].]] · 2026-11-01 · journal
 - [[24ccc864e41ad032|Design Trade-Offs between Target Binding and Self-Association Revealed by De Novo SARS-CoV-2 Binders.]] · 2026-11-01 · journal
 - [[1d669dd14c2a63a5|MONDE·T: A database and interactive webserver for non-standard amino acids and peptide components in the PDB.]] · 2026-11-01 · journal
 - [[1602a0c596904ad9|Porphyrin-Driven Redox Tuning in Structurally Defined De Novo Heme Proteins.]] · 2026-11-01 · journal
@@ -123,7 +129,6 @@ Protein design · 技术
 - [[4b50dbad7294a543|Leveraging high temperature for enhanced and faster detection of SARS-CoV-2 and its Omicron variant with CRISPR-AsCas12a.]] · 2026-10-17 · journal
 - [[e8d584be3401bd8c|Selective granzyme B replenishment dominates the molecular switch for sustained cytotoxicity in effector CD8 + T lymphocytes]] · 2026-10-16 · preprint
 - [[79ac9559d7d52aee|MYC targeted de novo binders impair tumor growth]] · 2026-10-16 · preprint
-- [[7ae1f7fda6f0002f|Cleavage Activity Adjustment of the CRISPR/Cas System for Enhanced Diagnostics.]] · 2026-10-15 · journal
 - [[93e1cb575ebfd44b|Enzymatic detoxification mechanisms of histamine in fish and fermented aquatic products: research progress and future development strategies.]] · 2026-10-14 · journal
 - [[8a5f73262b3b506b|Programming Targeted Immune Cell Migration Using Orthogonal Chemokine-Receptor Pairs]] · 2026-10-14 · preprint
 - [[7cede78d461b2c8f|Generative design of functional disordered regions in a developmental transcription factor]] · 2026-10-14 · preprint
